@@ -44,10 +44,21 @@ def notion_headers(token: str) -> dict:
 def create_notion_page(token: str, database_id: str, title: str, url: str,
                         note: str, date: str) -> str | None:
     """Create a Notion page. Returns page ID or None on failure."""
+    # Format date as ISO 8601 for Notion date property (YYYY-MM-DD)
+    notion_date = date if len(date) == 10 else None
+
     payload = {
         "parent": {"database_id": database_id},
         "properties": {
-            "Name": {"title": [{"text": {"content": title[:200]}}]},
+            "Name": {
+                "title": [{"text": {"content": title[:200]}}]
+            },
+            "Date": {
+                "date": {"start": notion_date} if notion_date else None
+            },
+            "Description": {
+                "rich_text": [{"text": {"content": note[:2000]}}]
+            },
         },
         "children": [
             # Green callout with the user's note
@@ -60,16 +71,12 @@ def create_notion_page(token: str, database_id: str, title: str, url: str,
                     "color": "green_background",
                 },
             },
-            # Paper metadata
-            {
-                "object": "block",
-                "type": "paragraph",
-                "paragraph": {
-                    "rich_text": [{"type": "text", "text": {"content": f"Date: {date}"}}]
-                },
-            },
         ],
     }
+
+    # Remove Date if not available (avoids Notion API error)
+    if not notion_date:
+        del payload["properties"]["Date"]
 
     # Add bookmark if URL provided
     if url:
