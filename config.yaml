@@ -1,5 +1,6 @@
-# Science Radar Podcast - Weekly Configuration
-# Covers ALL of science, hunting for surprising/frontier/cross-disciplinary findings
+# Science Radar Podcast — Weekly Configuration
+# Every week: hunt for papers that challenge consensus, open new frontiers,
+# or link distant fields together. Source = ALL of science, not a fixed journal list.
 
 timezone: "UTC"
 lookback_days: 7  # past week
@@ -11,38 +12,16 @@ paths:
 
 limits:
   max_papers_total: 35       # ~1h podcast
-  max_papers_per_journal: 4  # avoid one journal dominating
+  max_papers_per_source: 4   # prevent any single source dominating
 
-# High-impact journals to track via OpenAlex
-# All IF > 17, or undisputed field leaders (PRL, ApJL)
-target_journals:
-  # Multidisciplinary elite (IF > 60)
-  - "Nature"
-  - "Science"
-  - "Cell"
-  # Medical elite (IF > 60)
-  - "New England Journal of Medicine"
-  - "The Lancet"
-  # Nature family (IF > 17)
-  - "Nature Medicine"
-  - "Nature Biotechnology"
-  - "Nature Materials"
-  - "Nature Climate Change"
-  - "Nature Human Behaviour"
-  - "Nature Physics"
-  - "Nature Chemistry"
-  - "Nature Neuroscience"
-  - "Nature Ecology & Evolution"
-  - "Nature Astronomy"
-  # Science family (IF > 17)
-  - "Science Translational Medicine"
-  - "Science Robotics"
-  - "Science Immunology"
-  # Physics & Astronomy field leaders
-  - "Physical Review Letters"
-  - "Astrophysical Journal Letters"
+# Semantic Scholar — replaces the fixed high-impact journal list.
+# Broad queries per scientific domain; no journal restrictions.
+# Papers ranked by intellectual value (LLM lenses) not by journal prestige.
+semantic_scholar:
+  max_per_domain: 12         # papers fetched per domain query
+  delay_sec: 1.2             # polite rate-limiting (S2 is free, ~1 req/sec)
 
-# arXiv categories to scan for preprints
+# arXiv preprint categories — kept alongside Semantic Scholar
 arxiv_categories:
   - "q-bio"           # Quantitative Biology
   - "physics"         # Physics (broad)
@@ -53,60 +32,54 @@ arxiv_categories:
   - "math-ph"         # Mathematical Physics
   - "quant-ph"        # Quantum Physics
   - "nlin"            # Nonlinear Sciences
+  - "econ"            # Economics
+  - "eess"            # Electrical Engineering & Signal Processing
 
-# RSS feeds for direct journal coverage
+# Science journalism RSS — quality articles, not papers
 rss_sources:
-  - name: "Nature - Latest Research"
-    url: "https://www.nature.com/nature.rss"
-    priority: 1
-  - name: "Science Magazine"
-    url: "https://www.science.org/rss/news_current.xml"
-    priority: 1
   - name: "Quanta Magazine"
     url: "https://www.quantamagazine.org/feed/"
+    priority: 1
+  - name: "Nature News"
+    url: "https://www.nature.com/nature.rss"
     priority: 2
-  - name: "Science News"
-    url: "https://www.sciencenews.org/feed"
-    priority: 3
 
 podcast:
   voice: "en-GB-RyanNeural"
   voice_rate: "+20%"
   intro_text: >
     Welcome to Science Radar, your weekly digest of the most surprising,
-    frontier-pushing, and cross-disciplinary discoveries from the world's
-    top scientific journals. I'm your host, and this week we've uncovered
-    findings that challenge what we thought we knew, open entirely new
-    research directions, and connect ideas across fields in unexpected ways.
-    Let's dive in.
+    frontier-pushing, and cross-disciplinary discoveries from across all of science.
+    This week we've found papers that challenge long-held assumptions, open doors
+    to entirely new research directions, and connect ideas across fields in ways
+    nobody expected. Let's dive in.
   outro_text: >
-    That's Science Radar for this week. These papers remind us that science
-    is never settled — every answer opens new questions, and the most
-    exciting discoveries often come from places we least expect.
-    Until next week, keep questioning everything.
+    That's Science Radar for this week. Every one of these papers is a reminder
+    that the most interesting science often lives at the edges — where fields
+    collide, where assumptions break, and where the next big question is just
+    starting to take shape. Until next week, keep questioning everything.
 
 llm:
   provider: "openrouter"
   api_key_env: "OPENROUTER_API_KEY"
-  # Gemini 2.0 Flash via OpenRouter — free, no Google key needed
   script_model: "google/gemini-2.0-flash-exp:free"
   analysis_model: "google/gemini-2.0-flash-exp:free"
   synthesis_model: "google/gemini-2.0-flash-exp:free"
   temperature: 0.3
   analysis_temperature: 0.1
 
-# The 3 special lenses for scoring papers
+# Scoring weights for the 3 intellectual lenses.
+# Journal prestige is NOT a factor — intellectual value is the only criterion.
 scoring:
-  # Minimum score to include in episode
   min_score: 1
   weights:
-    contradicts_consensus: 3.0   # Highest priority — challenges what we know
-    new_frontier: 2.5            # Opens genuinely new direction
-    cross_disciplinary: 2.0      # Bridges two distant fields
-    high_impact_journal: 1.5     # Nature/Science/Cell tier
-    open_access: 0.5             # Full text available = better analysis
+    contradicts_consensus: 3.0    # Challenges what we thought we knew
+    new_frontier: 2.5             # Opens a genuinely new research direction
+    cross_disciplinary: 2.0       # Bridges two distant fields
+    influential_citations: 0.5    # Log-scaled S2 influential citations (quality proxy)
+    open_access: 0.5              # Full text available = better analysis
 
-# Terms that indicate a paper is likely groundbreaking/surprising
+# Terms in titles/abstracts that signal surprising or paradigm-shifting findings
 signal_keywords:
   - "unexpected"
   - "surprising"
@@ -123,3 +96,11 @@ signal_keywords:
   - "counterintuitive"
   - "defies"
   - "contrary to expectation"
+  - "never before"
+  - "first observation"
+  - "first direct"
+  - "unexpectedly"
+  - "novel mechanism"
+  - "unprecedented"
+  - "paradigm shift"
+  - "contradicts"

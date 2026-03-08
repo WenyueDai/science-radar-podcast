@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
 Science Radar Podcast — Weekly Runner
-Fetches high-impact papers from the past week, analyzes them through
-3 special lenses, and generates a ~1h podcast episode.
+Fetches papers from across ALL of science (Semantic Scholar + arXiv + science journalism),
+analyses them through 3 lenses (contradicts consensus / new frontier / cross-disciplinary),
+and generates a ~1h podcast episode + Notion digest page.
 
 Usage:
     python run_weekly.py                    # run for this week
     RUN_DATE=2026-03-01 python run_weekly.py  # run for a specific week
     REGEN_SCRIPT=true python run_weekly.py    # re-generate script from cached analyses
+    FORCE_REGEN=true python run_weekly.py     # redo even if mp3 already exists
 """
 
 import json
@@ -38,8 +40,10 @@ def load_config(path: str = "config.yaml") -> dict:
 def make_llm_client(config: dict) -> OpenAI:
     api_key = os.environ.get(config["llm"]["api_key_env"])
     if not api_key:
-        raise ValueError(f"Missing env var: {config['llm']['api_key_env']}\n"
-                         "Get a free key at https://openrouter.ai")
+        raise ValueError(
+            f"Missing env var: {config['llm']['api_key_env']}\n"
+            "Get a free key at https://openrouter.ai"
+        )
     return OpenAI(
         api_key=api_key,
         base_url="https://openrouter.ai/api/v1",
@@ -51,11 +55,9 @@ def make_llm_client(config: dict) -> OpenAI:
 def main():
     config = load_config()
 
-    # Determine episode date — treat empty string same as missing
     run_date = os.environ.get("RUN_DATE", "").strip() or datetime.now(timezone.utc).strftime("%Y-%m-%d")
     logger.info(f"=== Science Radar — episode {run_date} ===")
 
-    # Paths
     data_dir = config["paths"]["data_dir"]
     output_dir = os.path.join(config["paths"]["output_dir"], run_date)
     state_dir = config["paths"]["state_dir"]
@@ -75,28 +77,30 @@ def main():
 
     # ── Phase 1: Collect ──────────────────────────────────────────────────────
     logger.info("Phase 1: Collecting papers...")
-    from src.collectors import openalex, arxiv, rss
+    from src.collectors import arxiv, rss
+    from src.collectors import semantic_scholar
     from src.utils.dedup import load_seen, deduplicate, save_seen
 
     seen = load_seen(state_dir)
     papers = []
 
-    # OpenAlex (high-impact journals)
-    journals = config.get("target_journals", [])
-    if journals:
-        oa_papers = openalex.fetch_papers(
-            journals, lookback_days=lookback_days,
-            max_per_journal=config["limits"]["max_papers_per_journal"]
-        )
-        papers.extend(oa_papers)
+    # Semantic Scholar — broad sweep across all scientific domains (no journal restriction)
+    s2_cfg = config.get("semantic_scholar", {})
+    s2_papers = semantic_scholar.fetch_papers(
+        lookback_days=lookback_days,
+        max_per_domain=s2_cfg.get("max_per_domain", 12),
+        delay_sec=s2_cfg.get("delay_sec", 1.2),
+    )
+    papers.extend(s2_papers)
+    logger.info(f"Semantic Scholar: {len(s2_papers)} papers")
 
-    # arXiv preprints
+    # arXiv preprints (keep: good preprint coverage, especially physics/ML)
     arxiv_cats = config.get("arxiv_categories", [])
     if arxiv_cats:
         ax_papers = arxiv.fetch_papers(arxiv_cats, lookback_days=lookback_days, max_per_category=6)
         papers.extend(ax_papers)
 
-    # RSS feeds
+    # RSS feeds — science journalism (Quanta, Nature News)
     rss_sources = config.get("rss_sources", [])
     if rss_sources:
         rss_papers = rss.fetch_papers(rss_sources, lookback_days=lookback_days)
@@ -104,15 +108,13 @@ def main():
 
     logger.info(f"Collected {len(papers)} papers total (before dedup)")
 
-    # Deduplicate
     papers = deduplicate(papers, seen)
     logger.info(f"After dedup: {len(papers)} papers")
 
     if not papers:
-        logger.error("No papers found. Check your API connectivity and config.")
+        logger.error("No papers found. Check API connectivity and config.")
         sys.exit(1)
 
-    # Save candidate list
     with open(Path(output_dir) / "candidates.json", "w") as f:
         json.dump([{k: v for k, v in p.items() if k != "fulltext"} for p in papers], f, indent=2)
 
@@ -124,11 +126,9 @@ def main():
     for i, paper in enumerate(papers):
         if not regen_script or not paper.get("fulltext"):
             paper["fulltext"] = extract(paper)
-            if len(paper.get("fulltext", "")) > 1500:
-                logger.debug(f"  [{i+1}] Full text OK: {paper['title'][:60]}")
 
     # ── Phase 3: LLM analysis (3 lenses) ─────────────────────────────────────
-    logger.info("Phase 3: LLM analysis...")
+    logger.info("Phase 3: LLM analysis (contradicts / frontier / cross-disciplinary)...")
     from src.processing.analyzer import analyze_papers
 
     papers = analyze_papers(
@@ -140,7 +140,7 @@ def main():
     )
 
     # ── Phase 4: Rank and select ──────────────────────────────────────────────
-    logger.info("Phase 4: Ranking and selecting...")
+    logger.info("Phase 4: Ranking by intellectual value (not journal prestige)...")
     from src.processing.ranker import select_papers, group_by_lens
 
     selected = select_papers(papers, config, state_dir=state_dir)
@@ -152,13 +152,11 @@ def main():
     logger.info(f"  Cross-disciplinary:    {len(groups['cross_disciplinary'])}")
     logger.info(f"  General highlights:    {len(groups['general'])}")
 
-    # Save selected papers
     with open(Path(output_dir) / "selected.json", "w") as f:
-        selected_export = []
-        for p in selected:
-            exp = {k: v for k, v in p.items() if k != "fulltext"}
-            selected_export.append(exp)
-        json.dump(selected_export, f, indent=2)
+        json.dump(
+            [{k: v for k, v in p.items() if k != "fulltext"} for p in selected],
+            f, indent=2,
+        )
 
     # ── Phase 5: Generate podcast script ─────────────────────────────────────
     logger.info("Phase 5: Generating podcast script...")
@@ -173,12 +171,10 @@ def main():
 
     logger.info(f"Generated {len(segments)} script segments")
 
-    # Save script
     script_path = Path(output_dir) / "script.json"
     with open(script_path, "w") as f:
         json.dump(segments, f, indent=2)
 
-    # Also save human-readable script
     script_txt = Path(output_dir) / "script.txt"
     with open(script_txt, "w") as f:
         for seg in segments:
@@ -194,39 +190,30 @@ def main():
 
     voice = config["podcast"]["voice"]
     rate = config["podcast"]["voice_rate"]
-    segment_files = []
-
     segments_dir = Path(output_dir) / "segments"
     segments_dir.mkdir(exist_ok=True)
+    segment_files = []
 
     for i, seg in enumerate(segments):
         seg_path = segments_dir / f"{i:03d}_{seg['type']}.mp3"
-
-        # Skip if already exists and valid
         if seg_path.exists() and seg_path.stat().st_size > 5000 and not regen_script:
-            logger.debug(f"  [{i+1}] Reusing cached: {seg_path.name}")
             segment_files.append(seg_path)
             continue
-
-        ok = synthesize(seg["text"], seg_path, voice=voice, rate=rate)
-        if ok:
+        if synthesize(seg["text"], seg_path, voice=voice, rate=rate):
             segment_files.append(seg_path)
-            logger.debug(f"  [{i+1}] TTS OK: {seg['type']} — {seg['title'][:50]}")
         else:
-            logger.warning(f"  [{i+1}] TTS FAILED: {seg['title'][:50]}")
+            logger.warning(f"TTS failed: {seg['title'][:50]}")
 
     if not segment_files:
         logger.error("No audio segments generated. Check TTS setup.")
         sys.exit(1)
 
-    # Concatenate with transitions
     timestamps = concat_with_transitions(segment_files, final_mp3)
 
     # ── Phase 7: Save episode index ───────────────────────────────────────────
     episode = {
         "date": run_date,
         "mp3": str(final_mp3),
-        "duration_sec": sum(timestamps[1:][i] - timestamps[i] for i in range(len(timestamps)-1)) if len(timestamps) > 1 else 0,
         "paper_count": len(selected),
         "segments": [
             {
@@ -242,18 +229,32 @@ def main():
             if i < len(segment_files)
         ],
     }
-
     with open(episode_json, "w") as f:
         json.dump(episode, f, indent=2)
 
-    # ── Phase 8: Update seen IDs ──────────────────────────────────────────────
+    # ── Phase 8: Publish to Notion ────────────────────────────────────────────
+    logger.info("Phase 8: Publishing digest to Notion...")
+    try:
+        from src.outputs.notion_publish import publish_episode
+        notion_url = publish_episode(
+            date=run_date,
+            groups=groups,
+            paper_count=len(selected),
+            script_path=script_txt,
+        )
+        if notion_url:
+            logger.info(f"Notion digest: {notion_url}")
+    except Exception as e:
+        logger.warning(f"Notion publish failed (non-fatal): {e}")
+
+    # ── Phase 9: Update seen IDs ──────────────────────────────────────────────
     new_seen = seen | {p["id"] for p in selected}
     save_seen(new_seen, state_dir)
 
     # ── Done ──────────────────────────────────────────────────────────────────
     size_mb = final_mp3.stat().st_size / 1024 / 1024
-    logger.info(f"")
-    logger.info(f"=== Episode complete ===")
+    logger.info("")
+    logger.info("=== Episode complete ===")
     logger.info(f"  Output:   {final_mp3}")
     logger.info(f"  Size:     {size_mb:.1f} MB")
     logger.info(f"  Papers:   {len(selected)}")

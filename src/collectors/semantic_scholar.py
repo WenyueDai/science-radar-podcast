@@ -1,0 +1,175 @@
+"""
+Semantic Scholar collector — fetches recent papers across all scientific fields.
+
+Unlike OpenAlex (journal-restricted), this searches broadly across ALL of science
+and uses Semantic Scholar's influence metrics (influentialCitationCount) as a
+quality signal instead of journal prestige.
+
+Semantic Scholar Graph API is free, no key required (rate-limited at ~1 req/sec).
+Docs: https://api.semanticscholar.org/api-docs/
+"""
+
+import logging
+import time
+from datetime import datetime, timedelta, timezone
+from typing import Optional
+
+import requests
+
+logger = logging.getLogger(__name__)
+
+S2_BASE = "https://api.semanticscholar.org/graph/v1"
+S2_FIELDS = (
+    "paperId,title,abstract,venue,year,publicationDate,"
+    "citationCount,influentialCitationCount,"
+    "externalIds,openAccessPdf,fieldsOfStudy,s2FieldsOfStudy"
+)
+
+# Broad queries per scientific domain — cast a wide net across all of science.
+# Each query is intentionally general to capture diverse recent work.
+DOMAIN_QUERIES: list[tuple[str, str]] = [
+    ("Physics", "novel phenomenon quantum field classical"),
+    ("Astronomy & Cosmology", "astronomical observation universe cosmological"),
+    ("Biology & Evolution", "biological mechanism evolution organism"),
+    ("Neuroscience", "brain neural cognitive behavior circuit"),
+    ("Genetics & Genomics", "genome gene expression mutation sequencing"),
+    ("Chemistry", "chemical synthesis molecular reaction catalysis"),
+    ("Medicine & Health", "clinical treatment therapeutic disease mechanism"),
+    ("Materials Science", "material structure property functional device"),
+    ("Environmental & Climate", "climate ecosystem atmosphere carbon environment"),
+    ("Interdisciplinary", "emergent complex system cross-disciplinary novel"),
+]
+
+
+def fetch_papers(
+    lookback_days: int = 7,
+    max_per_domain: int = 12,
+    delay_sec: float = 1.2,
+) -> list[dict]:
+    """
+    Fetch recent papers across scientific domains from Semantic Scholar.
+    Returns list of paper dicts with standardized fields.
+    Deduplicates within this call by paper ID.
+    """
+    since_date = (datetime.now(timezone.utc) - timedelta(days=lookback_days)).strftime("%Y-%m-%d")
+    all_papers: list[dict] = []
+    seen_ids: set[str] = set()
+
+    for domain, query in DOMAIN_QUERIES:
+        try:
+            papers = _fetch_domain(query, domain, since_date, max_per_domain)
+            new = [p for p in papers if p["id"] not in seen_ids]
+            seen_ids.update(p["id"] for p in new)
+            all_papers.extend(new)
+            logger.info(f"S2: {len(new)} papers from {domain}")
+            time.sleep(delay_sec)
+        except requests.HTTPError as e:
+            logger.warning(f"S2: HTTP error for {domain}: {e}")
+        except Exception as e:
+            logger.warning(f"S2: failed for {domain}: {e}")
+
+    logger.info(f"Semantic Scholar total: {len(all_papers)} papers")
+    return all_papers
+
+
+def _fetch_domain(
+    query: str,
+    domain: str,
+    since_date: str,
+    max_results: int,
+) -> list[dict]:
+    """Fetch papers for one domain query, with one retry on rate-limit."""
+    params = {
+        "query": query,
+        "fields": S2_FIELDS,
+        "publicationDateOrYear": f"{since_date}:",
+        "limit": min(max_results * 3, 100),
+        "offset": 0,
+    }
+    resp = requests.get(f"{S2_BASE}/paper/search", params=params, timeout=20)
+
+    if resp.status_code == 429:
+        logger.warning("S2: rate limited — sleeping 30s")
+        time.sleep(30)
+        resp = requests.get(f"{S2_BASE}/paper/search", params=params, timeout=20)
+
+    resp.raise_for_status()
+    data = resp.json()
+
+    papers: list[dict] = []
+    for item in data.get("data", []):
+        paper = _normalize(item, domain)
+        if paper:
+            papers.append(paper)
+        if len(papers) >= max_results:
+            break
+
+    return papers
+
+
+def _normalize(item: dict, domain: str) -> Optional[dict]:
+    """Convert a Semantic Scholar paper dict → standardized paper dict."""
+    title = (item.get("title") or "").strip()
+    if not title or len(title) < 10:
+        return None
+
+    abstract = (item.get("abstract") or "").strip()
+    if not abstract:
+        return None  # no abstract = can't analyse
+
+    paper_id = item.get("paperId", "")
+    if not paper_id:
+        return None
+
+    # External identifiers
+    ext = item.get("externalIds") or {}
+    doi = ext.get("DOI", "")
+    arxiv_id = ext.get("ArXiv", "")
+
+    # Canonical URL
+    if doi:
+        url = f"https://doi.org/{doi}"
+    elif arxiv_id:
+        url = f"https://arxiv.org/abs/{arxiv_id}"
+    else:
+        url = f"https://www.semanticscholar.org/paper/{paper_id}"
+
+    # PDF
+    pdf_url: Optional[str] = None
+    oa = item.get("openAccessPdf") or {}
+    if oa.get("url"):
+        pdf_url = oa["url"]
+    elif arxiv_id:
+        pdf_url = f"https://arxiv.org/pdf/{arxiv_id}.pdf"
+
+    # Venue / journal name
+    venue = (item.get("venue") or "").strip()
+    if not venue:
+        # Fall back to the first field-of-study label
+        s2_fields = item.get("s2FieldsOfStudy") or []
+        venue = s2_fields[0].get("category", domain) if s2_fields else domain
+
+    # Concept tags
+    s2_fields = item.get("s2FieldsOfStudy") or []
+    concepts = [f.get("category", "") for f in s2_fields if f.get("category")]
+    if not concepts:
+        concepts = item.get("fieldsOfStudy") or [domain]
+
+    pub_date = (item.get("publicationDate") or str(item.get("year", ""))).strip()
+
+    return {
+        "id": f"s2:{paper_id}",
+        "title": title,
+        "abstract": abstract,
+        "journal": venue,
+        "source_name": venue,
+        "pub_date": pub_date,
+        "doi": doi,
+        "url": url,
+        "pdf_url": pdf_url,
+        "concepts": concepts[:8],
+        "cited_by_count": item.get("citationCount", 0) or 0,
+        "influential_citations": item.get("influentialCitationCount", 0) or 0,
+        "collection": "published" if (doi and not arxiv_id) else "preprint",
+        "fulltext": "",
+    }
