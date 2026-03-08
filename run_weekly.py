@@ -133,20 +133,39 @@ def main():
             paper["fulltext"] = extract(paper)
 
     # ── Phase 3: LLM analysis (3 lenses) ─────────────────────────────────────
-    logger.info("Phase 3: LLM analysis (contradicts / frontier / cross-disciplinary)...")
+    # Pre-filter: score without LLM first, take top N to avoid hammering the free API.
+    # 213 papers × 3 retries at 4 workers = instant rate-limit death on free tier.
+    logger.info("Phase 3: Pre-filtering candidates before LLM analysis...")
+    from src.processing.ranker import pre_score, select_papers, group_by_lens
     from src.processing.analyzer import analyze_papers
 
-    papers = analyze_papers(
-        papers,
+    max_to_analyze = config.get("limits", {}).get("max_papers_to_analyze", 60)
+    papers = pre_score(papers)
+    papers_to_analyze = papers[:max_to_analyze]
+    papers_skipped = papers[max_to_analyze:]
+    logger.info(f"Sending top {len(papers_to_analyze)} (of {len(papers)}) to LLM analysis")
+
+    logger.info("Phase 3: LLM analysis (contradicts / frontier / cross-disciplinary)...")
+    analyzed = analyze_papers(
+        papers_to_analyze,
         llm_client=llm,
         model=config["llm"]["analysis_model"],
         cache_dir=cache_dir,
-        max_workers=4,
+        max_workers=1,  # sequential — free tier rate-limits hard under concurrency
     )
+    # Skipped papers get empty analysis (they scored lowest pre-LLM anyway)
+    _empty = {
+        "contradicts_consensus": {"score": 0, "explanation": "Not analyzed."},
+        "new_frontier": {"score": 0, "explanation": "Not analyzed."},
+        "cross_disciplinary": {"score": 0, "explanation": "Not analyzed."},
+        "core_claim": "", "why_surprising": "", "best_for_podcast": False,
+    }
+    for p in papers_skipped:
+        p["analysis"] = _empty
+    papers = analyzed + papers_skipped
 
     # ── Phase 4: Rank and select ──────────────────────────────────────────────
     logger.info("Phase 4: Ranking by intellectual value (not journal prestige)...")
-    from src.processing.ranker import select_papers, group_by_lens
 
     selected = select_papers(papers, config, state_dir=state_dir)
     groups = group_by_lens(selected)

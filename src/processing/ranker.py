@@ -95,6 +95,28 @@ def _extract_keywords(title: str) -> list[str]:
     return [w for w in words if w not in STOP]
 
 
+# ── Pre-scoring (no LLM, used to pick top N candidates before analysis) ──────
+
+def pre_score(papers: list[dict]) -> list[dict]:
+    """
+    Fast pre-scoring pass using only signal keywords + abstract length.
+    Used to rank candidates BEFORE LLM analysis so we only send the most
+    promising papers to the API (avoids rate-limit exhaustion on free tier).
+    Returns papers sorted best-first.
+    """
+    def _pre(paper: dict) -> float:
+        text = (paper.get("title", "") + " " + paper.get("abstract", "")).lower()
+        keyword_hits = sum(1 for kw in SIGNAL_KEYWORDS if kw in text)
+        abstract_len = min(len(paper.get("abstract", "")), 2000) / 2000  # 0-1
+        fulltext_bonus = 0.5 if len(paper.get("fulltext", "")) > 1500 else 0.0
+        return keyword_hits * 0.5 + abstract_len + fulltext_bonus
+
+    for p in papers:
+        p["_pre_score"] = _pre(p)
+    papers.sort(key=lambda p: p["_pre_score"], reverse=True)
+    return papers
+
+
 # ── Scoring ──────────────────────────────────────────────────────────────────
 
 def score_paper(paper: dict, weights: dict, feedback: dict, boosted_topics: list[str]) -> float:

@@ -11,8 +11,9 @@ paths:
   state_dir: "state"
 
 limits:
-  max_papers_total: 35       # ~1h podcast
-  max_papers_per_source: 4   # prevent any single source dominating
+  max_papers_total: 35          # ~1h podcast
+  max_papers_per_source: 4      # prevent any single source dominating
+  max_papers_to_analyze: 60     # pre-filter before LLM to avoid free-tier rate limits
 
 # Semantic Scholar — replaces the fixed high-impact journal list.
 # Broad queries per scientific domain; no journal restrictions.
@@ -99,7 +100,7 @@ llm:
 # Scoring weights for the 3 intellectual lenses.
 # Journal prestige is NOT a factor — intellectual value is the only criterion.
 scoring:
-  min_score: 1
+  min_score: 0.5   # low enough to catch papers with 1+ signal keyword even if analysis is partial
   weights:
     contradicts_consensus: 3.0    # Challenges what we thought we knew
     new_frontier: 2.5             # Opens a genuinely new research direction
