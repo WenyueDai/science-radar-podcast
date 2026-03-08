@@ -53,21 +53,12 @@ jobs:
       - name: Build GitHub Pages site
         run: python tools/build_site.py
 
-      - name: Commit state + site changes
-        run: |
-          git config user.name "Science Radar Bot"
-          git config user.email "bot@science-radar"
-          git add state/ data/analysis_cache/ docs/ output/
-          git diff --staged --quiet || git commit -m "Episode $(date -u +%Y-%m-%d) [automated]"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-
       - name: Upload MP3 as release asset
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           DATE="${RUN_DATE:-$(date -u +%Y-%m-%d)}"
+          DATE="${DATE:-$(date -u +%Y-%m-%d)}"
           MP3="output/${DATE}/podcast_${DATE}.mp3"
           if [ -f "$MP3" ]; then
             gh release create "episode-${DATE}" "$MP3" \
@@ -76,3 +67,19 @@ jobs:
               2>/dev/null || \
             gh release upload "episode-${DATE}" "$MP3" --clobber
           fi
+
+      - name: Clean up segments (temporary build artifacts)
+        run: |
+          DATE="${RUN_DATE:-$(date -u +%Y-%m-%d)}"
+          DATE="${DATE:-$(date -u +%Y-%m-%d)}"
+          rm -rf "output/${DATE}/segments" "output/${DATE}/ffmpeg_concat_list.txt" "output/${DATE}/transition_sfx.mp3"
+
+      - name: Commit state + site changes (no MP3s, no segments)
+        run: |
+          git config user.name "Science Radar Bot"
+          git config user.email "bot@science-radar"
+          git add state/ data/analysis_cache/ docs/ output/
+          git diff --staged --quiet || git commit -m "Episode $(date -u +%Y-%m-%d) [automated]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}

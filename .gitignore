@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Environment
+.env
+
+# MP3 files — stored in GitHub Releases, not the repo
+output/**/*.mp3
+
+# Segment files — temporary build artifacts, never commit
+output/**/segments/
+
+# ffmpeg temp files
+output/**/ffmpeg_concat_list.txt
+output/**/transition_sfx.mp3
+
+# Large data cache (optional — comment out if you want to keep LLM cache in repo)
+# data/analysis_cache/
