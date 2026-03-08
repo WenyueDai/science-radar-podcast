@@ -1,1 +1,1022 @@
-[]
+[
+  {
+    "id": "https://elifesciences.org/articles/106424",
+    "title": "Toward neuroanatomical and cognitive foundations of macaque social tolerance grades",
+    "abstract": "The macaque genus includes 25 species with diverse social systems, ranging from low to high social tolerance grades. Such interspecific behavioral variability provides a unique model to tackle the evolutionary foundation of primate social brain. Yet, the neuroanatomical correlates of these social tolerance grades remain unknown. To address this question, we expressed social tolerance grades within a novel cognitive framework and analyzed <i>post-mortem</i> structural scans from 12 macaque species. Our results show that amygdala volume is a subcortical predictor of macaques\u2019 social tolerance, with high tolerance species exhibiting larger amygdala than low tolerance ones. We further investigated the developmental trajectory of amygdala across social grades and found that intolerant species showed a gradual increase in relative amygdala volume across the lifespan. Unexpectedly, tolerant species exhibited a decrease in relative amygdala volume across the lifespan, contrasting with the age-",
+    "journal": "eLife",
+    "source_name": "eLife",
+    "pub_date": "2026-03-03",
+    "doi": "",
+    "url": "https://elifesciences.org/articles/106424",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 2.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.8
+  },
+  {
+    "id": "https://elifesciences.org/articles/99554",
+    "title": "Intracellular expression of a fluorogenic DNA aptamer using retron Eco2",
+    "abstract": "DNA aptamers are short, single-stranded DNA molecules that bind specifically to a range of targets such as proteins, cells, and small molecules. Typically, they are utilized in the development of therapeutic agents, diagnostics, drug delivery systems, and biosensors. Although aptamers perform well in controlled extracellular environments, their intracellular use has been less explored due to challenges of expressing them in vivo. In this study, we employed the bacterial retron system Eco2 to express a DNA light-up aptamer in <i>Escherichia coli</i>. Our data confirms that structure-guided insertion of the aptamer domain into the non-coding region of the retron enables reverse transcription and biosynthesis of functional aptamer constructs in bacteria. The purified DNA aptamer synthesized under intracellular conditions shows comparable activity to a chemically synthesized control. Our findings demonstrate that retrons can be used to express short DNA aptamers within living cells, potent",
+    "journal": "eLife",
+    "source_name": "eLife",
+    "pub_date": "2026-03-03",
+    "doi": "",
+    "url": "https://elifesciences.org/articles/99554",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 1.5,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.65
+  },
+  {
+    "id": "https://elifesciences.org/articles/105571",
+    "title": "Agent-based modeling reveals how bats navigate dense group emergences",
+    "abstract": "Bats face a complex navigation challenge when emerging from densely populated roosts, where vast numbers take off at once in dark, confined spaces. Each bat must avoid collisions with walls and conspecifics while locating the exit, all amidst overlapping acoustic signals. This crowded environment creates the risk of acoustic jamming, in which the calls of neighboring bats interfere with echo detection, potentially obscuring vital information. Despite these challenges, bats navigate these conditions with remarkable success. Although bats have access to multiple sensory cues, here, we focused on whether echolocation alone could provide sufficient information for orientation under such high-interference conditions. To explore whether and how they manage this challenge, we developed a sensorimotor model that mimics the bats\u2019 echolocation behavior under high-density conditions. Our model suggests that the problem of acoustic jamming may be less severe than previously assumed. Frequent calls",
+    "journal": "eLife",
+    "source_name": "eLife",
+    "pub_date": "2026-03-02",
+    "doi": "",
+    "url": "https://elifesciences.org/articles/105571",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 1.5,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.65
+  },
+  {
+    "id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003474",
+    "title": "Sub-daily virus sampling at the Bermuda Atlantic Time Series reveals diel and depth-structured population dynamics without community-level shifts",
+    "abstract": "<p>by Alfonso Carrillo, Emily Hageman, Lauren Chittick, Anna I. Mackey, Kimberley S. Ndlovu, Funing Tian, Naomi E. Gilbert, Daniel Muratore, Dean Vik, Gary R. LeCleir, Christine Sun, Ho B. Jang, Ricardo R. Pavan, Joshua S. Weitz, Steven W. Wilhelm, Matthew B. Sullivan</p>\n\nOcean microbes contribute to biogeochemical cycles and ecosystem function, but they do so under top-down pressure imposed by viruses. While viruses are increasingly understood spatially and beginning to be incorporated into predictive modeling, high-frequency ocean virus dynamics remain understudied due to methodological challenges. Here we sampled stratified Bermuda Atlantic Time Series (BATS) waters for 112 hours at sub-daily 4- (surface) or 12- (deep chlorophyll maximum) hour intervals, purified viral particles from these samples, sequenced their metagenomes, and used the resulting data to characterize high-frequency virus community dynamics. Aggregated community diversity metrics changed with depth, but were not ",
+    "journal": "PLOS Biology",
+    "source_name": "PLOS Biology",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003474",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 1.5,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.65
+  },
+  {
+    "id": "https://peerj.com/articles/20676",
+    "title": "Integer linear programming for contrasting state interventions in Boolean networks",
+    "abstract": "Drug discovery is a highly complex and time-consuming endeavor, often hindered by issues related to efficacy and safety, resulting in frequent late-stage drug attrition. Conventional strategies that rely on tightly controlling compounds\u2019 physicochemical properties have had limited success. One reason is that pathogenic cells (e.g., in heart arrhythmias or seizures) often utilize the same pathways as healthy ones. Additionally, cellular heterogeneity and circuit hijacking by cancerous cells (e.g., MAP kinase signaling) complicate selective targeting. To address these challenges, network-based approaches are gaining traction as alternatives to traditional reductionist models. In this study, we propose a scalable method rooted in integer linear programming (ILP) principles to identify minimal intervention strategies that selectively modulate common nodes in structurally similar Boolean networks. Unlike previous approaches such as minimal cut sets or elementary modes (EMs), which struggle ",
+    "journal": "PeerJ",
+    "source_name": "PeerJ",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://peerj.com/articles/20676",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 2,
+    "_pre_score": 1.5,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.65
+  },
+  {
+    "id": "https://elifesciences.org/articles/106720",
+    "title": "Progressive mural cell deficiencies across the lifespan in a <i>foxf2</i> model of cerebral small vessel disease",
+    "abstract": "Cerebral small vessel disease (SVD) is a leading cause of stroke and dementia and yet is often an incidental finding in aged patients due to the inaccessibility of brain vasculature to imaging. Animal models are important for modelling the development and progression of SVD across the lifespan. In humans, reduced <i>FOXF2</i> is associated with an increased stroke risk and SVD prevalence in humans. In the zebrafish, <i>foxf2</i> is expressed in pericytes and vascular smooth muscle cells and is involved in vascular stability. We use partial <i>foxf2</i> loss of function (<i>foxf2a</i><sup>-/-</sup>) to model the lifespan effect of reduced Foxf2 on small vessel biology. We find that the initial pool of pericytes in developing <i>foxf2a</i> mutants is strongly reduced. The few brain pericytes present in mutants have strikingly longer processes and enlarged soma. <i>foxf2a</i> mutant pericytes can partially repopulate the brain after ablation, suggesting some recovery is possible. Despite ",
+    "journal": "eLife",
+    "source_name": "eLife",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://elifesciences.org/articles/106720",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003342",
+    "title": "The adaptor protein TASL is required for age-related B cell emergence and lupus-like disease development in mice",
+    "abstract": "<p>by Julia C. Johnstone, Robert Mitchell, Timothy J. Vyse, Alexander J. Clarke</p>\n\nThe autoimmune disease systemic lupus erythematosus (SLE) is associated with genetic variants in the X-linked gene <i>CXORF21</i>, which encodes the protein TASL. TASL acts as an adaptor in the IRF5 pathway and is necessary for the phosphorylation of IRF5 in response to TLR7 or TLR9 stimulation. Here, we investigate the role of TASL in the humoral immune response, and in the development of lupus in the B6.MRL<sup>lpr</sup> murine model of SLE. We find that while TASL is dispensable for their development, it is required for the full activation of B cells via TLR9 stimulation, and consequent interferon signaling and inflammatory cytokine expression. Additionally, TASL is crucial for the emergence of age-associated B cells (ABCs), a B cell population derived from the extrafollicular response that increases with age and is expanded in autoimmune disease, and the production of IgG2c antibodies. We also find",
+    "journal": "PLOS Biology",
+    "source_name": "PLOS Biology",
+    "pub_date": "2026-03-05",
+    "doi": "",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003342",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003700",
+    "title": "Gpc3 selectively suppresses subcutaneous adipogenesis in diet-induced obesity",
+    "abstract": "<p>by Yan Li, Ming Tao, Carlos F. Ib\u00e1\u00f1ez, Meng Xie</p>\n\nSubcutaneous and visceral adipose depots employ distinct expansion strategies in response to dietary cues, yet the molecular regulators underlying these depot-specific adaptations remain poorly understood. Through integrated proteomic profiling of human subcutaneous and visceral adipose tissues from paired obese/non-obese donors and temporal transcriptomic analysis of mouse adipose stem and progenitor cells (ASPCs) during dietary transitions, we identified Glypican 3 (Gpc3) as an obesity-responsive gene exhibiting reciprocal expression patterns between depots. ASPC-specific Gpc3 deletion in mice amplified high-fat diet-induced weight and fat mass gain, with a selective enhancement of expansion in inguinal white adipose tissue (WAT) without affecting epididymal WAT. Mechanistically, Gpc3 loss biased ASPC fate toward adipogenesis over proliferation through depot-specific modulation of canonical Wnt signaling. These findings establis",
+    "journal": "PLOS Biology",
+    "source_name": "PLOS Biology",
+    "pub_date": "2026-03-04",
+    "doi": "",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003700",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003687",
+    "title": "Glutamatergic projections from the substantia nigra pars reticulata to the dorsal raphe nucleus regulate male social hierarchies",
+    "abstract": "<p>by Yanzhu Fan, Shaoxiang Ge, Lidi Lu, Wenjun Niu, Zhiyue Wang, Xiaoguo Jiao, Guangzhan Fang</p>\n\nSocial hierarchy constitutes a fundamental organizational characteristic among various social species, significantly influencing individual survival, health, and reproductive success within these societies. Neurons in the substantia nigra pars reticulata (SNr) exhibit extensive connectivity with the dorsal raphe nucleus (DRN), a critical structure implicated in social interaction, reward processing, and the establishment of social rank. However, the specific neuronal types within the SNr, as well as the associated neural circuits that regulate social dominance, remain inadequately characterized. This study aims to elucidate the crucial role of SNr glutamatergic (SNr<sup>Glu</sup>) neurons in the establishment and maintenance of social hierarchy in male mice. Employing fiber photometry, we observed that the activation of SNr<sup>Glu</sup> neurons increased during the initiation of effortf",
+    "journal": "PLOS Biology",
+    "source_name": "PLOS Biology",
+    "pub_date": "2026-03-03",
+    "doi": "",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003687",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004968",
+    "title": "SGLT2 inhibitors, GLP-1 RAs, and DPP4 inhibitors and the risk of hypomagnesemia in type 2 diabetes: A target trial emulation",
+    "abstract": "<p>by Shih-Chieh Shao, Daniel Hsiang-Te Tsai, Albert Tzu-Ming Chuang, Kuan-Hung Liu, Edward Chia-Cheng Lai</p>\nBackground <p>Recent studies have suggested potential effects on magnesium homeostasis associated with sodium-glucose cotransporter 2 (SGLT2) inhibitors and glucagon-like peptide-1 receptor agonists (GLP-1 RA). We sought to determine whether these effects lead to a reduced risk of hypomagnesemia among adults with type 2 diabetes in clinical practice.</p> Methods and findings <p>We conducted a target trial emulation study using the multi-institutional cohort data from the TriNetX Global Collaborative Network. We compared 1:1 propensity score-matched patients with type 2 diabetes newly initiating SGLT2 inhibitors versus dipeptidyl peptidase-4 (DPP4) inhibitors (<i>n</i>\u2009=\u2009718,798), GLP-1 RAs versus DPP4 inhibitors (<i>n</i>\u2009=\u2009623,390), and SGLT2 inhibitors versus GLP-1 RAs (<i>n</i>\u2009=\u2009702,808) from 2016 to 2024. Propensity scores were estimated using logistic regression models t",
+    "journal": "PLOS Medicine",
+    "source_name": "PLOS Medicine",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004968",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004963",
+    "title": "The genetic architecture of postoperative delirium after major surgery and its relationship with nonpostoperative neurocognitive conditions: A genome-wide association study",
+    "abstract": "<p>by Richard A. Armstrong, Paul Yousefi, Ben Gibbison, Golam M. Khandaker, Tom R. Gaunt</p>\nBackground <p>Postoperative delirium is the most common postoperative complication in older individuals. Genome-wide association studies (GWAS) can provide insights into how genetic factors influence postoperative risk. We examined the genetic architecture of postoperative delirium after major surgery and its relationship with related cognitive conditions (delirium of any type and Alzheimer\u2019s disease, including the <i>APOE</i> \u03b54 allele).</p> Methods and findings <p>A case-control GWAS was performed in the UK Biobank to identify genetic variants associated with postoperative delirium, adjusted for age, sex, genetic chip, and the first 10 principal components. These results were then used in genetic correlation and polygenic risk score analyses to investigate shared genetic risk between postoperative delirium and a) delirium of all causes, and b) Alzheimer\u2019s disease.The GWAS (1,016 cases, 139,14",
+    "journal": "PLOS Medicine",
+    "source_name": "PLOS Medicine",
+    "pub_date": "2026-03-02",
+    "doi": "",
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004963",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344587",
+    "title": "An assessment of sensory sensitivity, including certain anhedonia dimensions, in patients with schizophrenia using transcutaneous electrical nerve stimulation",
+    "abstract": "<p>by Joanna Witko\u015b, Agnieszka Fusi\u0144ska-Korpik, Krzysztof Walczewski</p>\n\nThis study addresses a largely unexplored area in schizophrenia: the relationship between affective functioning and sensory perception assessed through objective, quantifiable methods. To the best of the authors\u2019 knowledge, this is the first study to assess the electrical sensory threshold in individuals with schizophrenia using transcutaneous electrical nerve stimulation (TENS). It was hypothesized that patients with schizophrenia require higher current intensity to reach the sensory threshold and that an association exists between anhedonia and the subjective evaluation of the electrical stimulus. The study was based on an objective assessment of the sensory threshold using electrical stimulation. A gradually increasing electrical pulse was applied until the sensory threshold, defined as the minimum tingling sensation perceived by the participant, was reached. The study included 108 individuals diagnosed with s",
+    "journal": "PLOS ONE",
+    "source_name": "PLOS ONE",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344587",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 2,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344566",
+    "title": "Association of intraindividual differences in estimated glomerular filtration rates based on cystatin C and creatinine with dementia: A cohort study of the UK Biobank",
+    "abstract": "<p>by Zhiyi Mao, Yuwei Peng, Ruilang Lin, Xinyue Guo, Xiaorui Cui, Yongfu Yu, Xueying Zheng</p>\nBackground <p>Dementia is a leading cause of cognitive decline, with Alzheimer\u2019s disease (AD) and vascular dementia (VaD) being the most common subtypes. The intraindividual difference between the estimated glomerular filtration rate based on cystatin C and creatinine (eGFR<sub>diff</sub>) may serve as an indicator of the overall health status of an individual. However, the relationships between the eGFR<sub>diff</sub> and dementia risk, dementia subtypes, dementia-related neuroimaging changes, and cognitive functions remain unclear.</p> Methods <p>This study analysed data from over 450,000 participants in the UK Biobank who were followed for up to 15 years. The estimated glomerular filtration rate based on cystatin C (eGFR<sub>cys</sub>) and creatinine (eGFR<sub>cr</sub>) was calculated using the CKD-EPI equation, and eGFR<sub>diff</sub> was defined as the difference between these values (e",
+    "journal": "PLOS ONE",
+    "source_name": "PLOS ONE",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344566",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 2,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344474",
+    "title": "TLR9/MyD88/NF-\u03baB signaling mediates mental stress-induced exacerbation of psoriasis through immune dysregulation in a mouse model",
+    "abstract": "<p>by Qiuhe Song, Dongyang Li, Zhihao Yuan, Chaowen Zhang, Jianqiao Wang, Fangfang Liao, Pengfei Xu, Qipeng Xiao</p>\nObjective <p>Psoriasis is a chronic inflammatory autoimmune disease that affects physical and mental health. Mental stress has been shown to exacerbate human psoriasis by unknown mechanism.</p> Methods <p>Peripheral blood mononuclear cells (PBMCs) were collected from patients with psoriasis and mental stress-treated psoriatic mice. The expression levels of TLR9/MyD88/NF-\u03baB pathway-related molecules were analyzed by qRT-PCR and western blotting. Histological examination of skin lesions was examined using hematoxylin-eosin staining. The ratios of Treg/CD4<sup>+</sup>T cells and Th17/Treg cells were determined by flow cytometry. The associations among mental stress, the TLR9/MyD88/NF-\u03baB pathway, and psoriasis were explored using pharmacological inhibitors and lentiviral transfection.</p> Results <p>Our findings demonstrated a significant upregulation of TLR9/MyD88/NF-\u03baB pat",
+    "journal": "PLOS ONE",
+    "source_name": "PLOS ONE",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344474",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 2,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344432",
+    "title": "From problematic soil to engineered fill: Transforming granite residual soil with clay improvement",
+    "abstract": "<p>by Fang Dang, Hong Guo, Ya Wang, Wenyang Li, Hong Jiang, Jiangtao Fu</p>\n\nTo investigate the enhancement effect of clay on the mechanical properties of granite residual soil in the Qinba Mountains of China, this study systematically examined the influence of clay content on the liquid and plasticity index, compaction behavior, compressibility, cohesion and internal friction angle of the soil. The analysis used a range of laboratory tests. These include tests to measure liquid and plastic limit determinations. The analysis also used tests for compaction and compression and tests that examine direct shear. Observations of structures at small scale provided additional data. The findings show that particles of clay fill spaces in soil. This filling increases how compact the soil is. The filling also improves capacity to hold water. Hydroxyl groups that the clay introduces allow this improvement. The adsorption of water molecules by the clay also supports this effect. When the clay conte",
+    "journal": "PLOS ONE",
+    "source_name": "PLOS ONE",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344432",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 2,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://peerj.com/articles/20927",
+    "title": "Different application methods of humic acid and zinc differentially regulate osmotic balance and C-repeat binding factor pathways in cold-stressed oat (Avena sativa L.)",
+    "abstract": "The present study investigated the effects of different humic acid (HA) and zinc (Zn) application methods on membrane durability index (MDI), leaf relative water content (RWC), turgor loss (TL), proline content (PC), and C-repeat binding factor (CBF) gene expressions in oat plants exposed to various low temperatures. For this purpose, two oat cultivars\u2014Albatros (cold-sensitive) and Checota (cold tolerant)\u2014were grown under controlled conditions with HA and Zn applied to the seeds or soil, either individually or in combination, until the 3\u20134 leaf stage. The plants were subsequently exposed to temperatures of 4 \u00b0C, 0 \u00b0C, \u22125 \u00b0C, \u221210 \u00b0C, and \u221215 \u00b0C for 24 h each. The results indicated that the application methods of HA and Zn substantially influenced the plants\u2019 responses to low temperature. Among the treatments, soil application of HA+Zn (SA_HA+Zn), seed priming with HA combined with soil-applied Zn (SP_HA+SA_Zn), and seed priming with Zn combined with soil-applied HA (SP_Zn+SA_HA) provide",
+    "journal": "PeerJ",
+    "source_name": "PeerJ",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://peerj.com/articles/20927",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 2,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://peerj.com/articles/20910",
+    "title": "The effect of bilateral knee osteoarthritis on spatiotemporal gait parameters during incline walking: implications for gait rehabilitation",
+    "abstract": "Background\n               Gait alterations in knee osteoarthritis (KOA) patients are well documented; however, there is a paucity of research examining how bilateral KOA patients adapt to incline walking, a common real-world activity. Since KOA patients typically walk slower than healthy adults, it is essential to know if gait differences persist when walking speed is accounted for as a covariate.\n            \n            \n               Purpose\n               The aim of this study was to compare spatiotemporal adaptations and gait variability in bilateral KOA patients versus healthy controls over multiple inclines when controlling for walking speed as a covariate.\n            \n            \n               Methods\n               Fifteen bilateral KOA patients and fifteen healthy controls were recruited. Gait parameters were collected using a three-dimensional motion analysis system while walking at a self-selected speed on a treadmill at five inclines (+6%, +3%, 0%, \u22123%, and \u22126%). A mix",
+    "journal": "PeerJ",
+    "source_name": "PeerJ",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://peerj.com/articles/20910",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 2,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://peerj.com/articles/20897",
+    "title": "Step-by-step guide and checklists for selecting and conducting an evidence synthesis study using a framework for approaches and methods in evidence synthesis (FRAMES)",
+    "abstract": "Findings from multiple studies are used to develop informed decisions for future research and clinical practices. Evidence synthesis methods, in general, are recommended for synthesizing findings from multiple studies. Among all evidence synthesis methods, a high-quality systematic review is required for answering a specific, focused research question from an abundance of literature. Although the choice of a systematic review among all other evidence syntheses depends on the formulated question related to estimation or hypothesis, and the availability of high-quality original studies, evidence syntheses not adhering to systematic review guidelines are also referred to as systematic reviews in the literature. Moreover, planning, designing, analyzing, and reporting a systematic review and meta-analysis requires multiple steps that are not included in the standard checklist documents, such as preferred reporting items for systematic review and meta-analysis (PRISMA) or meta-analysis of ob",
+    "journal": "PeerJ",
+    "source_name": "PeerJ",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://peerj.com/articles/20897",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 2,
+    "_pre_score": 1.0,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70085-z",
+    "title": "Lyn governs the establishment and maintenance of B cell anergy by suppressing PI3K signaling",
+    "abstract": "<p>Nature Communications, Published online: 08 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70085-z\">doi:10.1038/s41467-026-70085-z</a></p>The Src-family kinase Lyn plays multiple roles in myeloid and B cell development; thus, conventional or cell-type specific genomic deletion of Lyn does not allow clear functional readouts regarding specific mature B cell functions. Here the authors establish a mouse model in which Lyn is acutely deleted in a Tamoxifen inducible manner in B cells and find that Lyn plays a role in the anergy of DNA reactive Ars/A1 B cells via providing continuous inhibitory signalling.",
+    "journal": "Nature Communications",
+    "source_name": "Nature Communications",
+    "pub_date": "2026-03-08",
+    "doi": "",
+    "url": "https://www.nature.com/articles/s41467-026-70085-z",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 0.8145,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004961",
+    "title": "From crisis response to country control: Restoring agency and sustainability in global health",
+    "abstract": "<p>by Ebere Okereke</p>\n\nGlobal health is at a structural inflection point. Crisis-driven architectures saved lives but entrenched fragility and dependence. Sustaining progress now requires restoring country agency, strengthening national institutions, and securing predictable, sustainable health financing.\n\nGlobal health architecture as we know it is at a structural inflection point. In this Perspective, Ebere Okereke discusses priorities for sustainable progress, including restoring country agency, strengthening national institutions, and securing predictable, sustainable health financing.",
+    "journal": "PLOS Medicine",
+    "source_name": "PLOS Medicine",
+    "pub_date": "2026-03-03",
+    "doi": "",
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004961",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 0.7989999999999999,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00645-2",
+    "title": "Radiology AI makes consistent diagnoses using 3D images from different health centres",
+    "abstract": "<p>Nature, Published online: 04 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00645-2\">doi:10.1038/d41586-026-00645-2</a></p>To meet the growing demand for radiology artificial-intelligence tools, a 3D vision\u2013language model called Merlin was trained on abdominal computed-tomography scans, radiology reports and electronic health records. Merlin demonstrated stronger off-the-shelf performance than did other vision\u2013language models across three hospital sites distinct from the initial training centre, highlighting its potential for broader clinical adoption.",
+    "journal": "Nature News",
+    "source_name": "Nature News",
+    "pub_date": "2026-03-04",
+    "doi": "",
+    "url": "https://www.nature.com/articles/d41586-026-00645-2",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 3,
+    "_pre_score": 0.7889999999999999,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.quantamagazine.org/new-strides-made-on-deceptively-simple-lonely-runner-problem-20260306/",
+    "title": "New Strides Made on Deceptively Simple \u2018Lonely Runner\u2019 Problem",
+    "abstract": "A straightforward conjecture about runners moving around a track turns out to be equivalent to many complex mathematical questions. Three new proofs mark the first significant progress on the problem in decades.            <p>The post <a href=\"https://www.quantamagazine.org/new-strides-made-on-deceptively-simple-lonely-runner-problem-20260306/\" target=\"_blank\">New Strides Made on Deceptively Simple \u2018Lonely Runner\u2019 Problem</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+    "journal": "Quanta Magazine",
+    "source_name": "Quanta Magazine",
+    "pub_date": "2026-03-06",
+    "doi": "",
+    "url": "https://www.quantamagazine.org/new-strides-made-on-deceptively-simple-lonely-runner-problem-20260306/",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 3,
+    "_pre_score": 0.764,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00652-3",
+    "title": "Hunt for reactive metabolites uncovers unusual chemistry in a human pathogen",
+    "abstract": "<p>Nature, Published online: 04 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00652-3\">doi:10.1038/d41586-026-00652-3</a></p>A workflow was developed to selectively capture bacterially produced compounds containing a reactive diazo chemical group. This enabled the discovery of two diazo-containing molecules from a bacterium that causes lung disease. Investigation of the bacterial synthesis of these molecules revealed an enzyme that constructs the diazo group, with broad synthetic applications.",
+    "journal": "Nature News",
+    "source_name": "Nature News",
+    "pub_date": "2026-03-04",
+    "doi": "",
+    "url": "https://www.nature.com/articles/d41586-026-00652-3",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 3,
+    "_pre_score": 0.758,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.quantamagazine.org/what-crystals-older-than-the-sun-reveal-about-the-start-of-the-solar-system-20260302/",
+    "title": "What Crystals Older Than the Sun Reveal About the Start of the Solar System",
+    "abstract": "Microscopic crystals extracted from meteorites could help settle a debate about the birth of our patch of the Milky Way.            <p>The post <a href=\"https://www.quantamagazine.org/what-crystals-older-than-the-sun-reveal-about-the-start-of-the-solar-system-20260302/\" target=\"_blank\">What Crystals Older Than the Sun Reveal About the Start of the Solar System</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+    "journal": "Quanta Magazine",
+    "source_name": "Quanta Magazine",
+    "pub_date": "2026-03-02",
+    "doi": "",
+    "url": "https://www.quantamagazine.org/what-crystals-older-than-the-sun-reveal-about-the-start-of-the-solar-system-20260302/",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 3,
+    "_pre_score": 0.7325,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00650-5",
+    "title": "Stress-hormone signalling protects spreading cancer cells from immune system",
+    "abstract": "<p>Nature, Published online: 04 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00650-5\">doi:10.1038/d41586-026-00650-5</a></p>Metastasis occurs when cancer cells spread to other organs and escape elimination by the immune system. Analysis reveals that these cells resist killing by immune cells by harnessing stress-hormone signalling through the glucocorticoid receptor, suggesting a potential therapeutic target for preventing metastasis.",
+    "journal": "Nature News",
+    "source_name": "Nature News",
+    "pub_date": "2026-03-04",
+    "doi": "",
+    "url": "https://www.nature.com/articles/d41586-026-00650-5",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 3,
+    "_pre_score": 0.7285,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00656-z",
+    "title": "A genetic switch turns off parental behaviour and drives infanticide in male striped mice",
+    "abstract": "<p>Nature, Published online: 04 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00656-z\">doi:10.1038/d41586-026-00656-z</a></p>Male parenting in mammals is highly variable, ranging from caring to neglectful and abusive. The brain and behaviour of the African striped mouse reveal that, in males, the social environment and expression level of the Agouti gene affect whether the animals will be hostile or caring towards pups.",
+    "journal": "Nature News",
+    "source_name": "Nature News",
+    "pub_date": "2026-03-04",
+    "doi": "",
+    "url": "https://www.nature.com/articles/d41586-026-00656-z",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 3,
+    "_pre_score": 0.7205,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70405-3",
+    "title": "High-voltage and stable co-free LiNiO<sub>2</sub> positive electrode for sulfide-based all-solid-state batteries",
+    "abstract": "<p>Nature Communications, Published online: 08 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70405-3\">doi:10.1038/s41467-026-70405-3</a></p>High-voltage Co-free LiNiO2 positive electrode for all-solid-state batteries suffers from structural and interfacial degradation. Here, the authors report a general doping strategy that stabilizes the cathode and enables durable, high-voltage all-solid-state batteries.",
+    "journal": "Nature Communications",
+    "source_name": "Nature Communications",
+    "pub_date": "2026-03-08",
+    "doi": "",
+    "url": "https://www.nature.com/articles/s41467-026-70405-3",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 0.7135,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70251-3",
+    "title": "Accelerated discovery of highly active enzyme nanohybrids with parallelized Bayesian optimization in hybrid space",
+    "abstract": "<p>Nature Communications, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70251-3\">doi:10.1038/s41467-026-70251-3</a></p>AI is transforming protein engineering, but the immobilization of enzymes often impairs their activity. Here, the authors present a machine-learning-based workflow that can be used to identify optimal nanohybrids with high activity recovery across diverse enzymes.",
+    "journal": "Nature Communications",
+    "source_name": "Nature Communications",
+    "pub_date": "2026-03-07",
+    "doi": "",
+    "url": "https://www.nature.com/articles/s41467-026-70251-3",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 0.711,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Analysis unavailable."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70430-2",
+    "title": "Cyclophilin A stabilizes the capsid protein p72 to facilitate African swine fever virus replication",
+    "abstract": "<p>Nature Communications, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70430-2\">doi:10.1038/s41467-026-70430-2</a></p>African swine fever virus (ASFV) virions mainly contain capsid protein p72. Here, the authors show that host cyclophilin A binds to and stabilizes p72, promoting viral factory formation and virion assembly, thus offering a promising anti-ASFV target.",
+    "journal": "Nature Communications",
+    "source_name": "Nature Communications",
+    "pub_date": "2026-03-07",
+    "doi": "",
+    "url": "https://www.nature.com/articles/s41467-026-70430-2",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 1,
+    "_pre_score": 0.704,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Not analyzed."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Not analyzed."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Not analyzed."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  },
+  {
+    "id": "https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/",
+    "title": "Can the Most Abstract Math Make the World a Better Place?",
+    "abstract": "Columnist Natalie Wolchover explores whether applied category theory can be \u201cgreen\u201d math.            <p>The post <a href=\"https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/\" target=\"_blank\">Can the Most Abstract Math Make the World a Better Place?</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+    "journal": "Quanta Magazine",
+    "source_name": "Quanta Magazine",
+    "pub_date": "2026-03-04",
+    "doi": "",
+    "url": "https://www.quantamagazine.org/can-the-most-abstract-math-make-the-world-a-better-place-20260304/",
+    "pdf_url": null,
+    "concepts": [],
+    "cited_by_count": 0,
+    "collection": "rss",
+    "priority": 3,
+    "_pre_score": 0.6985,
+    "analysis": {
+      "contradicts_consensus": {
+        "score": 0,
+        "explanation": "Not analyzed."
+      },
+      "new_frontier": {
+        "score": 0,
+        "explanation": "Not analyzed."
+      },
+      "cross_disciplinary": {
+        "score": 0,
+        "explanation": "Not analyzed."
+      },
+      "core_claim": "",
+      "why_surprising": "",
+      "best_for_podcast": false
+    },
+    "score": 0.5
+  }
+]

@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
   "mp3": "output/2026-03-08/podcast_2026-03-08.mp3",
-  "paper_count": 0,
+  "paper_count": 30,
   "segments": [
     {
       "index": 0,
@@ -14,12 +14,21 @@
     },
     {
       "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
       "type": "outro",
       "title": "Outro",
       "journal": "",
       "url": "",
       "score": 0,
-      "timestamp_sec": 20.616
+      "timestamp_sec": 27.095999999999997
     }
   ]
 }
