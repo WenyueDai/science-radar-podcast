@@ -14,36 +14,31 @@ limits:
   max_papers_per_journal: 4  # avoid one journal dominating
 
 # High-impact journals to track via OpenAlex
+# All IF > 17, or undisputed field leaders (PRL, ApJL)
 target_journals:
-  # Multidisciplinary top-tier
+  # Multidisciplinary elite (IF > 60)
   - "Nature"
   - "Science"
-  - "PNAS"
   - "Cell"
-  - "Nature Communications"
-  - "Science Advances"
-  - "eLife"
-  # Nature family
+  # Medical elite (IF > 60)
+  - "New England Journal of Medicine"
+  - "The Lancet"
+  # Nature family (IF > 17)
   - "Nature Medicine"
-  - "Nature Physics"
-  - "Nature Chemistry"
-  - "Nature Ecology & Evolution"
-  - "Nature Neuroscience"
-  - "Nature Materials"
   - "Nature Biotechnology"
+  - "Nature Materials"
   - "Nature Climate Change"
   - "Nature Human Behaviour"
+  - "Nature Physics"
+  - "Nature Chemistry"
+  - "Nature Neuroscience"
+  - "Nature Ecology & Evolution"
   - "Nature Astronomy"
-  # Science family
+  # Science family (IF > 17)
   - "Science Translational Medicine"
   - "Science Robotics"
   - "Science Immunology"
-  # Other high-impact
-  - "The Lancet"
-  - "NEJM"
-  - "Cell Reports"
-  - "Current Biology"
-  - "PLOS Biology"
+  # Physics & Astronomy field leaders
   - "Physical Review Letters"
   - "Astrophysical Journal Letters"
 
@@ -67,12 +62,6 @@ rss_sources:
   - name: "Science Magazine"
     url: "https://www.science.org/rss/news_current.xml"
     priority: 1
-  - name: "PNAS Latest"
-    url: "https://www.pnas.org/rss/current.xml"
-    priority: 1
-  - name: "eLife"
-    url: "https://elifesciences.org/rss/recent.xml"
-    priority: 2
   - name: "Quanta Magazine"
     url: "https://www.quantamagazine.org/feed/"
     priority: 2
