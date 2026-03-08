@@ -28,28 +28,29 @@ Start immediately with the science. Never invent numbers, methods, or results no
 
 PROMPT_DEEP = """Write a podcast segment about this paper. Length: 250-350 words.
 
-Title: {title}
-Journal: {journal}
-Core claim: {core_claim}
-Why surprising: {why_surprising}
-Contradicts consensus score {cc_score}/10: {cc_exp}
-New frontier score {nf_score}/10: {nf_exp}
-Cross-disciplinary score {cd_score}/10: {cd_exp}
+TITLE: {title}
+JOURNAL: {journal}
+LENS: {lens}
 
-Full text excerpt:
+NOTES FROM ANALYSIS:
+{analysis_text}
+
+ABSTRACT / FULL TEXT EXCERPT:
 {fulltext}
 
 Write the segment now. Start with a hook sentence. Cover: what the researchers found,
 how they found it, why it matters, and what it challenges or opens up.
 Mention the journal naturally. End with a forward-looking sentence.
+Use ONLY information from the notes and text above — do NOT invent details.
 Do NOT use sub-headings. Write flowing prose only."""
 
 PROMPT_ROUNDUP = """Write a short podcast roundup blurb about this paper. Length: 80-120 words.
 
-Title: {title}
-Journal: {journal}
-Abstract: {abstract}
-Core claim: {core_claim}
+TITLE: {title}
+JOURNAL: {journal}
+
+NOTES FROM ANALYSIS:
+{analysis_text}
 
 Start with the key finding. Mention the journal. End with one sentence on why it matters.
 Flowing prose only. No invented details."""
@@ -151,30 +152,24 @@ def generate_scripts(papers: list[dict], groups: dict, llm_client: OpenAI,
 
 def _generate_paper_segment(paper: dict, client: OpenAI, model: str, is_deep: bool,
                               retries: int = 3) -> dict | None:
-    """Generate script for a single paper."""
-    analysis = paper.get("analysis", {})
+    """Generate script for a single paper using plain-text analysis as context."""
+    analysis_text = paper.get("analysis_text") or paper.get("abstract", "")[:500]
+    lens = paper.get("lens", "GENERAL")
 
     if is_deep:
         prompt = PROMPT_DEEP.format(
             title=paper["title"],
             journal=paper.get("journal", ""),
-            core_claim=analysis.get("core_claim", paper.get("abstract", "")[:300]),
-            why_surprising=analysis.get("why_surprising", ""),
-            cc_score=analysis.get("contradicts_consensus", {}).get("score", 0),
-            cc_exp=analysis.get("contradicts_consensus", {}).get("explanation", ""),
-            nf_score=analysis.get("new_frontier", {}).get("score", 0),
-            nf_exp=analysis.get("new_frontier", {}).get("explanation", ""),
-            cd_score=analysis.get("cross_disciplinary", {}).get("score", 0),
-            cd_exp=analysis.get("cross_disciplinary", {}).get("explanation", ""),
-            fulltext=(paper.get("fulltext") or paper.get("abstract", ""))[:5000],
+            lens=lens,
+            analysis_text=analysis_text[:3000],
+            fulltext=(paper.get("fulltext") or paper.get("abstract", ""))[:3000],
         )
         max_tokens = 2800
     else:
         prompt = PROMPT_ROUNDUP.format(
             title=paper["title"],
             journal=paper.get("journal", ""),
-            abstract=paper.get("abstract", "")[:1000],
-            core_claim=analysis.get("core_claim", ""),
+            analysis_text=analysis_text[:1500],
         )
         max_tokens = 1200
 
@@ -215,9 +210,13 @@ def _generate_synthesis(papers: list[dict], client: OpenAI, model: str,
     # Build paper summary list
     summaries = []
     for i, p in enumerate(papers[:25], 1):  # limit to 25 for context
-        analysis = p.get("analysis", {})
-        core = analysis.get("core_claim") or p.get("abstract", "")[:200]
-        summaries.append(f"[{i}] {p['title']} ({p.get('journal', 'Unknown')})\n    Core claim: {core}")
+        analysis_text = p.get("analysis_text", "")
+        core = p.get("abstract", "")[:200]
+        for line in analysis_text.splitlines():
+            if line.strip().upper().startswith("CORE CLAIM:"):
+                core = line.split(":", 1)[1].strip()
+                break
+        summaries.append(f"[{i}] {p['title']} ({p.get('journal', 'Unknown')}) [lens: {p.get('lens','GENERAL')}]\n    {core}")
 
     paper_summaries = "\n\n".join(summaries)
 
