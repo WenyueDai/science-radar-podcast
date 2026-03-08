@@ -80,6 +80,7 @@ jobs:
           git config user.email "bot@science-radar"
           git add state/ data/analysis_cache/ docs/ output/
           git diff --staged --quiet || git commit -m "Episode $(date -u +%Y-%m-%d) [automated]"
+          git pull --rebase
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
