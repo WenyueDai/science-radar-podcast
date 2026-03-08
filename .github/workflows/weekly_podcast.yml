@@ -1,0 +1,77 @@
+name: Weekly Science Radar Podcast
+
+on:
+  schedule:
+    # Every Monday at 04:00 UTC (covers the full past week)
+    - cron: "0 4 * * 1"
+  workflow_dispatch:
+    inputs:
+      run_date:
+        description: "Episode date (YYYY-MM-DD, default: today)"
+        required: false
+      force_regen:
+        description: "Force regenerate even if already published"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  generate_podcast:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install system dependencies
+        run: sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run weekly pipeline
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          RUN_DATE: ${{ github.event.inputs.run_date || '' }}
+          FORCE_REGEN: ${{ github.event.inputs.force_regen || 'false' }}
+        run: python run_weekly.py
+
+      - name: Build GitHub Pages site
+        run: python tools/build_site.py
+
+      - name: Commit state + site changes
+        run: |
+          git config user.name "Science Radar Bot"
+          git config user.email "bot@science-radar"
+          git add state/ data/analysis_cache/ docs/ output/
+          git diff --staged --quiet || git commit -m "Episode $(date -u +%Y-%m-%d) [automated]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+
+      - name: Upload MP3 as release asset
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          DATE="${RUN_DATE:-$(date -u +%Y-%m-%d)}"
+          MP3="output/${DATE}/podcast_${DATE}.mp3"
+          if [ -f "$MP3" ]; then
+            gh release create "episode-${DATE}" "$MP3" \
+              --title "Science Radar — ${DATE}" \
+              --notes "Weekly science podcast episode." \
+              2>/dev/null || \
+            gh release upload "episode-${DATE}" "$MP3" --clobber
+          fi

@@ -1,0 +1,245 @@
+"""
+Podcast script generator.
+
+Structure of ~1h episode:
+  1. Intro (fixed text from config)
+  2. Section: "Challenging What We Know" (contradicts_consensus papers)
+  3. Section: "New Frontiers" (new_frontier papers)
+  4. Section: "Bridging Worlds" (cross_disciplinary papers)
+  5. Section: "This Week's Highlights" (remaining papers — quick roundup)
+  6. SYNTHESIS SEGMENT: Cross-domain connections (LLM finds hidden links across ALL papers)
+  7. Outro (fixed text from config)
+
+Each paper gets one LLM call (not batched) for consistent quality.
+"""
+
+import logging
+import time
+from openai import OpenAI
+
+logger = logging.getLogger(__name__)
+
+# ── Per-paper prompts ──────────────────────────────────────────────────────────
+
+SYSTEM_DEEP = """You are the host of Science Radar, a podcast for scientifically curious people.
+Your style is intelligent, engaging, and direct. You explain ideas clearly without dumbing them down.
+You get genuinely excited about surprising findings. No filler phrases. No "certainly!" or "great question!".
+Start immediately with the science. Never invent numbers, methods, or results not in the source text."""
+
+PROMPT_DEEP = """Write a podcast segment about this paper. Length: 250-350 words.
+
+Title: {title}
+Journal: {journal}
+Core claim: {core_claim}
+Why surprising: {why_surprising}
+Contradicts consensus score {cc_score}/10: {cc_exp}
+New frontier score {nf_score}/10: {nf_exp}
+Cross-disciplinary score {cd_score}/10: {cd_exp}
+
+Full text excerpt:
+{fulltext}
+
+Write the segment now. Start with a hook sentence. Cover: what the researchers found,
+how they found it, why it matters, and what it challenges or opens up.
+Mention the journal naturally. End with a forward-looking sentence.
+Do NOT use sub-headings. Write flowing prose only."""
+
+PROMPT_ROUNDUP = """Write a short podcast roundup blurb about this paper. Length: 80-120 words.
+
+Title: {title}
+Journal: {journal}
+Abstract: {abstract}
+Core claim: {core_claim}
+
+Start with the key finding. Mention the journal. End with one sentence on why it matters.
+Flowing prose only. No invented details."""
+
+# ── Synthesis prompt ───────────────────────────────────────────────────────────
+
+SYSTEM_SYNTHESIS = """You are a science philosopher and cross-disciplinary thinker.
+You find unexpected connections between discoveries from completely different fields.
+Your goal is to find hidden patterns, analogies, and implications that no single scientist
+would see because they are too deep in their own field. Be specific. Be bold. Be surprising."""
+
+PROMPT_SYNTHESIS = """You are given a set of scientific papers published this week across all fields.
+Your job: find the most surprising NON-OBVIOUS connections between them.
+
+PAPERS THIS WEEK:
+{paper_summaries}
+
+Write a 400-600 word podcast closing segment called "The Big Picture".
+- Identify 2-3 unexpected thematic connections across different fields
+- Explain what these connections might mean for science broadly
+- Suggest one bold hypothesis or research direction that emerges from combining ideas across papers
+- Be specific — name the papers and fields you're connecting
+- Do NOT just summarize individual papers again. Focus on CONNECTIONS and IMPLICATIONS.
+Start with: "Now, stepping back from the individual papers this week..."
+End with a thought-provoking question or observation."""
+
+
+def generate_scripts(papers: list[dict], groups: dict, llm_client: OpenAI,
+                     model: str, config: dict) -> list[dict]:
+    """
+    Generate podcast script segments for each paper + synthesis.
+    Returns list of segment dicts: {type, title, text, paper_id}
+    """
+    segments = []
+
+    # Intro
+    intro_text = config.get("podcast", {}).get("intro_text", "Welcome to Science Radar.")
+    segments.append({"type": "intro", "title": "Intro", "text": intro_text, "paper_id": None})
+
+    # Section 1: Challenging What We Know
+    cc_papers = groups.get("contradicts_consensus", [])
+    if cc_papers:
+        segments.append({"type": "section_header", "title": "Challenging What We Know",
+                         "text": "Our first section this week: Challenging What We Know. "
+                                 "These papers take aim at ideas we thought were settled.",
+                         "paper_id": None})
+        for paper in cc_papers:
+            seg = _generate_paper_segment(paper, llm_client, model, is_deep=True)
+            if seg:
+                segments.append(seg)
+
+    # Section 2: New Frontiers
+    nf_papers = groups.get("new_frontier", [])
+    if nf_papers:
+        segments.append({"type": "section_header", "title": "New Frontiers",
+                         "text": "Next: New Frontiers. Papers that are opening doors "
+                                 "into territory science has barely touched.",
+                         "paper_id": None})
+        for paper in nf_papers:
+            seg = _generate_paper_segment(paper, llm_client, model, is_deep=True)
+            if seg:
+                segments.append(seg)
+
+    # Section 3: Bridging Worlds
+    cd_papers = groups.get("cross_disciplinary", [])
+    if cd_papers:
+        segments.append({"type": "section_header", "title": "Bridging Worlds",
+                         "text": "Now for Bridging Worlds — papers that connect ideas "
+                                 "from fields that rarely talk to each other.",
+                         "paper_id": None})
+        for paper in cd_papers:
+            seg = _generate_paper_segment(paper, llm_client, model, is_deep=True)
+            if seg:
+                segments.append(seg)
+
+    # Section 4: This Week's Highlights (general / lower-scored papers)
+    general_papers = groups.get("general", [])
+    if general_papers:
+        segments.append({"type": "section_header", "title": "This Week's Highlights",
+                         "text": "And now, a quick tour through this week's other noteworthy papers.",
+                         "paper_id": None})
+        for paper in general_papers:
+            seg = _generate_paper_segment(paper, llm_client, model, is_deep=False)
+            if seg:
+                segments.append(seg)
+
+    # Synthesis segment
+    synthesis = _generate_synthesis(papers, llm_client, model)
+    if synthesis:
+        segments.append({"type": "synthesis", "title": "The Big Picture",
+                         "text": synthesis, "paper_id": None})
+
+    # Outro
+    outro_text = config.get("podcast", {}).get("outro_text", "Thanks for listening to Science Radar.")
+    segments.append({"type": "outro", "title": "Outro", "text": outro_text, "paper_id": None})
+
+    return segments
+
+
+def _generate_paper_segment(paper: dict, client: OpenAI, model: str, is_deep: bool,
+                              retries: int = 3) -> dict | None:
+    """Generate script for a single paper."""
+    analysis = paper.get("analysis", {})
+
+    if is_deep:
+        prompt = PROMPT_DEEP.format(
+            title=paper["title"],
+            journal=paper.get("journal", ""),
+            core_claim=analysis.get("core_claim", paper.get("abstract", "")[:300]),
+            why_surprising=analysis.get("why_surprising", ""),
+            cc_score=analysis.get("contradicts_consensus", {}).get("score", 0),
+            cc_exp=analysis.get("contradicts_consensus", {}).get("explanation", ""),
+            nf_score=analysis.get("new_frontier", {}).get("score", 0),
+            nf_exp=analysis.get("new_frontier", {}).get("explanation", ""),
+            cd_score=analysis.get("cross_disciplinary", {}).get("score", 0),
+            cd_exp=analysis.get("cross_disciplinary", {}).get("explanation", ""),
+            fulltext=(paper.get("fulltext") or paper.get("abstract", ""))[:5000],
+        )
+        max_tokens = 2800
+    else:
+        prompt = PROMPT_ROUNDUP.format(
+            title=paper["title"],
+            journal=paper.get("journal", ""),
+            abstract=paper.get("abstract", "")[:1000],
+            core_claim=analysis.get("core_claim", ""),
+        )
+        max_tokens = 1200
+
+    for attempt in range(retries):
+        try:
+            response = client.chat.completions.create(
+                model=model,
+                messages=[
+                    {"role": "system", "content": SYSTEM_DEEP},
+                    {"role": "user", "content": prompt},
+                ],
+                temperature=0.3,
+                max_tokens=max_tokens,
+                timeout=45,
+            )
+            text = response.choices[0].message.content.strip()
+            if text:
+                return {
+                    "type": "deep_dive" if is_deep else "roundup",
+                    "title": paper["title"],
+                    "text": text,
+                    "paper_id": paper["id"],
+                    "journal": paper.get("journal", ""),
+                    "score": paper.get("score", 0),
+                    "url": paper.get("url", ""),
+                }
+        except Exception as e:
+            logger.warning(f"Script gen failed for '{paper['title'][:50]}' (attempt {attempt+1}): {e}")
+            if attempt < retries - 1:
+                time.sleep(2 ** attempt)
+
+    return None
+
+
+def _generate_synthesis(papers: list[dict], client: OpenAI, model: str,
+                         retries: int = 3) -> str | None:
+    """Generate the cross-domain synthesis segment."""
+    # Build paper summary list
+    summaries = []
+    for i, p in enumerate(papers[:25], 1):  # limit to 25 for context
+        analysis = p.get("analysis", {})
+        core = analysis.get("core_claim") or p.get("abstract", "")[:200]
+        summaries.append(f"[{i}] {p['title']} ({p.get('journal', 'Unknown')})\n    Core claim: {core}")
+
+    paper_summaries = "\n\n".join(summaries)
+
+    for attempt in range(retries):
+        try:
+            response = client.chat.completions.create(
+                model=model,
+                messages=[
+                    {"role": "system", "content": SYSTEM_SYNTHESIS},
+                    {"role": "user", "content": PROMPT_SYNTHESIS.format(paper_summaries=paper_summaries)},
+                ],
+                temperature=0.5,  # more creative for synthesis
+                max_tokens=3000,
+                timeout=60,
+            )
+            text = response.choices[0].message.content.strip()
+            if text:
+                logger.info("Synthesis segment generated successfully")
+                return text
+        except Exception as e:
+            logger.warning(f"Synthesis failed (attempt {attempt+1}): {e}")
+            if attempt < retries - 1:
+                time.sleep(2 ** attempt)
+
+    return None

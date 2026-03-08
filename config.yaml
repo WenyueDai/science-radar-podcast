@@ -1,0 +1,136 @@
+# Science Radar Podcast - Weekly Configuration
+# Covers ALL of science, hunting for surprising/frontier/cross-disciplinary findings
+
+timezone: "UTC"
+lookback_days: 7  # past week
+
+paths:
+  data_dir: "data"
+  output_dir: "output"
+  state_dir: "state"
+
+limits:
+  max_papers_total: 35       # ~1h podcast
+  max_papers_per_journal: 4  # avoid one journal dominating
+
+# High-impact journals to track via OpenAlex
+target_journals:
+  # Multidisciplinary top-tier
+  - "Nature"
+  - "Science"
+  - "PNAS"
+  - "Cell"
+  - "Nature Communications"
+  - "Science Advances"
+  - "eLife"
+  # Nature family
+  - "Nature Medicine"
+  - "Nature Physics"
+  - "Nature Chemistry"
+  - "Nature Ecology & Evolution"
+  - "Nature Neuroscience"
+  - "Nature Materials"
+  - "Nature Biotechnology"
+  - "Nature Climate Change"
+  - "Nature Human Behaviour"
+  - "Nature Astronomy"
+  # Science family
+  - "Science Translational Medicine"
+  - "Science Robotics"
+  - "Science Immunology"
+  # Other high-impact
+  - "The Lancet"
+  - "NEJM"
+  - "Cell Reports"
+  - "Current Biology"
+  - "PLOS Biology"
+  - "Physical Review Letters"
+  - "Astrophysical Journal Letters"
+
+# arXiv categories to scan for preprints
+arxiv_categories:
+  - "q-bio"           # Quantitative Biology
+  - "physics"         # Physics (broad)
+  - "cond-mat"        # Condensed Matter
+  - "astro-ph"        # Astrophysics
+  - "cs.AI"           # AI
+  - "cs.LG"           # Machine Learning
+  - "math-ph"         # Mathematical Physics
+  - "quant-ph"        # Quantum Physics
+  - "nlin"            # Nonlinear Sciences
+
+# RSS feeds for direct journal coverage
+rss_sources:
+  - name: "Nature - Latest Research"
+    url: "https://www.nature.com/nature.rss"
+    priority: 1
+  - name: "Science Magazine"
+    url: "https://www.science.org/rss/news_current.xml"
+    priority: 1
+  - name: "PNAS Latest"
+    url: "https://www.pnas.org/rss/current.xml"
+    priority: 1
+  - name: "eLife"
+    url: "https://elifesciences.org/rss/recent.xml"
+    priority: 2
+  - name: "Quanta Magazine"
+    url: "https://www.quantamagazine.org/feed/"
+    priority: 2
+  - name: "Science News"
+    url: "https://www.sciencenews.org/feed"
+    priority: 3
+
+podcast:
+  voice: "en-GB-RyanNeural"
+  voice_rate: "+20%"
+  intro_text: >
+    Welcome to Science Radar, your weekly digest of the most surprising,
+    frontier-pushing, and cross-disciplinary discoveries from the world's
+    top scientific journals. I'm your host, and this week we've uncovered
+    findings that challenge what we thought we knew, open entirely new
+    research directions, and connect ideas across fields in unexpected ways.
+    Let's dive in.
+  outro_text: >
+    That's Science Radar for this week. These papers remind us that science
+    is never settled — every answer opens new questions, and the most
+    exciting discoveries often come from places we least expect.
+    Until next week, keep questioning everything.
+
+llm:
+  provider: "openrouter"
+  api_key_env: "OPENROUTER_API_KEY"
+  # Gemini 2.0 Flash via OpenRouter — free, no Google key needed
+  script_model: "google/gemini-2.0-flash-exp:free"
+  analysis_model: "google/gemini-2.0-flash-exp:free"
+  synthesis_model: "google/gemini-2.0-flash-exp:free"
+  temperature: 0.3
+  analysis_temperature: 0.1
+
+# The 3 special lenses for scoring papers
+scoring:
+  # Minimum score to include in episode
+  min_score: 1
+  weights:
+    contradicts_consensus: 3.0   # Highest priority — challenges what we know
+    new_frontier: 2.5            # Opens genuinely new direction
+    cross_disciplinary: 2.0      # Bridges two distant fields
+    high_impact_journal: 1.5     # Nature/Science/Cell tier
+    open_access: 0.5             # Full text available = better analysis
+
+# Terms that indicate a paper is likely groundbreaking/surprising
+signal_keywords:
+  - "unexpected"
+  - "surprising"
+  - "contrary to"
+  - "challenges"
+  - "overturns"
+  - "paradox"
+  - "anomaly"
+  - "first evidence"
+  - "previously unknown"
+  - "long-standing"
+  - "rethink"
+  - "surprisingly"
+  - "counterintuitive"
+  - "defies"
+  - "contrary to expectation"

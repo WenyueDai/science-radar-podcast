@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Science Radar</title>
+  <style>
+    :root {
+      --purple:      #7c3aed;
+      --purple-dark: #5b21b6;
+      --purple-light:#ede9fe;
+      --purple-mid:  #a78bfa;
+      --bg:          #0f0a1e;
+      --surface:     #1a1033;
+      --surface2:    #241648;
+      --text:        #e2d9f3;
+      --text-muted:  #9d7ecf;
+      --border:      #3b2f6e;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* Header */
+    header {
+      background: linear-gradient(135deg, var(--purple-dark) 0%, var(--purple) 100%);
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 { font-size: 2rem; font-weight: 800; letter-spacing: -0.5px; }
+    header p { color: var(--purple-light); margin-top: 0.4rem; font-size: 0.95rem; }
+
+    /* Layout */
+    main { max-width: 860px; margin: 0 auto; padding: 2rem 1rem; }
+
+    /* Player card */
+    .player-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    .player-card h2 { font-size: 1.1rem; color: var(--purple-mid); margin-bottom: 1rem; }
+    audio {
+      width: 100%;
+      accent-color: var(--purple);
+      margin-bottom: 0.5rem;
+    }
+    audio::-webkit-media-controls-panel { background: var(--surface2); }
+    .episode-meta { font-size: 0.8rem; color: var(--text-muted); }
+
+    /* Segment seeking hint */
+    .seek-hint {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin-top: 0.5rem;
+    }
+
+    /* Papers list */
+    .section-title {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--purple-mid);
+      margin: 1.5rem 0 0.75rem;
+      font-weight: 600;
+    }
+    .papers-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+    .paper-item {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.6rem 0.9rem;
+      cursor: pointer;
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .paper-item:hover { border-color: var(--purple); background: var(--surface); }
+    .paper-item.active { border-color: var(--purple-mid); background: var(--surface); }
+    .paper-num { color: var(--purple-mid); font-size: 0.75rem; flex-shrink: 0; font-weight: 600; }
+    .paper-title { font-size: 0.88rem; flex: 1; }
+    .paper-title a { color: var(--text); text-decoration: none; }
+    .paper-title a:hover { color: var(--purple-mid); }
+    .paper-journal { font-size: 0.72rem; color: var(--text-muted); flex-shrink: 0; }
+
+    /* Archive table */
+    .archive-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-top: 2rem;
+    }
+    .archive-card h2 { font-size: 1rem; color: var(--purple-mid); margin-bottom: 1rem; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+    th { text-align: left; color: var(--text-muted); font-weight: 500;
+          padding: 0.4rem 0.5rem; border-bottom: 1px solid var(--border); }
+    td { padding: 0.5rem 0.5rem; border-bottom: 1px solid var(--border); }
+    td a { color: var(--purple-mid); text-decoration: none; }
+    td a:hover { text-decoration: underline; }
+    tr:last-child td { border-bottom: none; }
+
+    /* RSS link */
+    .rss-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      color: var(--purple-mid);
+      font-size: 0.82rem;
+      text-decoration: none;
+      margin-top: 1.5rem;
+    }
+    .rss-link:hover { color: var(--purple); }
+
+    /* Animated mascot */
+    .mascot {
+      text-align: center;
+      font-size: 2.5rem;
+      margin: 1.5rem 0 0.5rem;
+      animation: float 3s ease-in-out infinite;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-6px); }
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: var(--text-muted);
+      font-size: 0.78rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🔭 Science Radar</h1>
+  <p>Weekly deep-dives into surprising, frontier, and cross-disciplinary science</p>
+</header>
+
+<main>
+  <div class="mascot">🧪</div>
+
+  <!-- No episodes yet -->
+
+  
+
+  <a href="feed.xml" class="rss-link">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+      <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19.01 7.38 20 6.18 20 4.98 20 4 19.01 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/>
+    </svg>
+    Subscribe via RSS / Podcast App
+  </a>
+</main>
+
+<footer>
+  Generated automatically by Science Radar &middot;
+  Powered by OpenRouter + Edge TTS &middot; All free
+</footer>
+
+<script>
+const segments = [];
+const player = document.getElementById("player");
+const items = document.querySelectorAll(".paper-item");
+
+function seekTo(ts) {
+  if (!player) return;
+  player.currentTime = Math.max(0, ts - 1.5);
+  player.play();
+}
+
+// Highlight active segment as audio plays
+if (player) {
+  player.addEventListener("timeupdate", () => {
+    const t = player.currentTime;
+    const paperSegs = segments.filter(s => s.type === "deep_dive" || s.type === "roundup");
+    let activeIdx = -1;
+    for (let i = paperSegs.length - 1; i >= 0; i--) {
+      if (t >= paperSegs[i].ts) { activeIdx = paperSegs[i].index; break; }
+    }
+    items.forEach(el => {
+      el.classList.toggle("active", parseInt(el.dataset.idx) === activeIdx);
+    });
+  });
+}
+</script>
+</body>
+</html>
