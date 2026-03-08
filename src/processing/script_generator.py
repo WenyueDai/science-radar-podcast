@@ -150,6 +150,43 @@ def generate_scripts(papers: list[dict], groups: dict, llm_client: OpenAI,
     return segments
 
 
+def _fallback_segment(paper: dict, is_deep: bool) -> dict:
+    """Build a minimal but honest segment from abstract when LLM is unavailable."""
+    title = paper["title"]
+    journal = paper.get("journal", "")
+    abstract = (paper.get("abstract") or "").strip()
+    analysis = (paper.get("analysis_text") or "").strip()
+
+    # Pull CORE CLAIM from analysis if it exists
+    core = ""
+    for line in analysis.splitlines():
+        if line.strip().upper().startswith("CORE CLAIM:"):
+            core = line.split(":", 1)[1].strip()
+            break
+    if not core:
+        core = abstract[:400] if abstract else "Details not available."
+
+    if is_deep:
+        text = (
+            f"{title}. "
+            f"Published in {journal}. "
+            f"{core} "
+            f"{abstract[len(core):600].strip()}"
+        ).strip()
+    else:
+        text = f"{title} — {journal}. {core[:300].strip()}"
+
+    return {
+        "type": "deep_dive" if is_deep else "roundup",
+        "title": title,
+        "text": text,
+        "paper_id": paper["id"],
+        "journal": journal,
+        "score": paper.get("score", 0),
+        "url": paper.get("url", ""),
+    }
+
+
 def _generate_paper_segment(paper: dict, client: OpenAI, model: str, is_deep: bool,
                               retries: int = 3) -> dict | None:
     """Generate script for a single paper using plain-text analysis as context."""
@@ -183,9 +220,9 @@ def _generate_paper_segment(paper: dict, client: OpenAI, model: str, is_deep: bo
                 ],
                 temperature=0.3,
                 max_tokens=max_tokens,
-                timeout=45,
+                timeout=60,
             )
-            text = response.choices[0].message.content.strip()
+            text = (response.choices[0].message.content or "").strip()
             if text:
                 return {
                     "type": "deep_dive" if is_deep else "roundup",
@@ -196,12 +233,15 @@ def _generate_paper_segment(paper: dict, client: OpenAI, model: str, is_deep: bo
                     "score": paper.get("score", 0),
                     "url": paper.get("url", ""),
                 }
+            logger.warning(f"Empty LLM response for '{paper['title'][:50]}' (attempt {attempt+1})")
         except Exception as e:
-            logger.warning(f"Script gen failed for '{paper['title'][:50]}' (attempt {attempt+1}): {e}")
+            logger.warning(f"Script gen failed for '{paper['title'][:50]}' (attempt {attempt+1}): {type(e).__name__}: {e}")
             if attempt < retries - 1:
-                time.sleep(2 ** attempt)
+                time.sleep(3 ** attempt)
 
-    return None
+    # Fallback: build segment from abstract when LLM is unavailable
+    logger.warning(f"All LLM retries failed — using abstract fallback for '{paper['title'][:60]}'")
+    return _fallback_segment(paper, is_deep)
 
 
 def _generate_synthesis(papers: list[dict], client: OpenAI, model: str,

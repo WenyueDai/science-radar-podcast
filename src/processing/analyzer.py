@@ -131,11 +131,11 @@ def _call_llm(paper: dict, client: OpenAI, model: str, retries: int = 3) -> Opti
             text = (response.choices[0].message.content or "").strip()
             if text and "CORE CLAIM" in text:
                 return text
-            logger.warning(f"Unexpected response format (attempt {attempt + 1}): {text[:100]}")
+            logger.warning(f"Unexpected response format (attempt {attempt + 1}): {text[:200]!r}")
         except Exception as e:
-            logger.warning(f"LLM call failed (attempt {attempt + 1}): {e}")
+            logger.warning(f"LLM call failed (attempt {attempt + 1}): {type(e).__name__}: {e}")
             if attempt < retries - 1:
-                time.sleep(2 ** attempt)
+                time.sleep(3 ** attempt)
 
     return None
 
