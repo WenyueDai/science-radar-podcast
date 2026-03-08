@@ -2,8 +2,8 @@ name: Weekly Science Radar Podcast
 
 on:
   schedule:
-    # Every Monday at 04:00 UTC (covers the full past week)
-    - cron: "0 4 * * 1"
+    # Every Tuesday at 01:00 UTC
+    - cron: "0 1 * * 2"
   workflow_dispatch:
     inputs:
       run_date:
@@ -47,6 +47,7 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           RUN_DATE: ${{ github.event.inputs.run_date || '' }}
           FORCE_REGEN: ${{ github.event.inputs.force_regen || 'false' }}
+          GITHUB_REPO: WenyueDai/science-radar-podcast
         run: python run_weekly.py
 
       - name: Build GitHub Pages site
