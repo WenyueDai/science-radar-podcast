@@ -51,8 +51,8 @@ def make_llm_client(config: dict) -> OpenAI:
 def main():
     config = load_config()
 
-    # Determine episode date
-    run_date = os.environ.get("RUN_DATE", datetime.now(timezone.utc).strftime("%Y-%m-%d"))
+    # Determine episode date — treat empty string same as missing
+    run_date = os.environ.get("RUN_DATE", "").strip() or datetime.now(timezone.utc).strftime("%Y-%m-%d")
     logger.info(f"=== Science Radar — episode {run_date} ===")
 
     # Paths
@@ -143,7 +143,7 @@ def main():
     logger.info("Phase 4: Ranking and selecting...")
     from src.processing.ranker import select_papers, group_by_lens
 
-    selected = select_papers(papers, config)
+    selected = select_papers(papers, config, state_dir=state_dir)
     groups = group_by_lens(selected)
 
     logger.info(f"Selected {len(selected)} papers:")

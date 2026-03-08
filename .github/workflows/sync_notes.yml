@@ -1,0 +1,41 @@
+name: Sync Paper Notes to Notion
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'state/paper_notes.json'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install requests
+
+      - name: Sync notes to Notion
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python tools/sync_notion_notes.py
+
+      - name: Commit notion_created.json
+        run: |
+          git config user.name "Science Radar Bot"
+          git config user.email "bot@science-radar"
+          git add state/notion_created.json
+          git diff --staged --quiet || git commit -m "Update Notion sync state [automated]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}

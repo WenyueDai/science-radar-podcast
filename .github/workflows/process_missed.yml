@@ -1,0 +1,43 @@
+name: Process Missed Papers
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'state/missed_papers.json'
+
+permissions:
+  contents: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install pyyaml requests openai
+
+      - name: Process missed papers
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python tools/process_missed_papers.py
+
+      - name: Rebuild site
+        run: python tools/build_site.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "Science Radar Bot"
+          git config user.email "bot@science-radar"
+          git add state/ docs/
+          git diff --staged --quiet || git commit -m "Process missed papers + rebuild site [automated]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}

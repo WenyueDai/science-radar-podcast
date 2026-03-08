@@ -77,9 +77,9 @@ def concat_with_transitions(segment_files: List[Path], out_mp3: Path,
             sequence.append(sfx)
             cursor += sfx_duration
 
-    # Write concat list
+    # Write concat list — use absolute paths so ffmpeg works from any cwd
     list_file = out_mp3.parent / "ffmpeg_concat_list.txt"
-    list_file.write_text("\n".join(f"file '{p.as_posix()}'" for p in sequence))
+    list_file.write_text("\n".join(f"file '{p.resolve().as_posix()}'" for p in sequence))
 
     # Concatenate
     filter_str = f"atempo={atempo}" if atempo != 1.0 else "anull"
