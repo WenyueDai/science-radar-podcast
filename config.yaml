@@ -35,14 +35,42 @@ arxiv_categories:
   - "hep-th"          # High Energy Physics — Theory
   - "gr-qc"           # General Relativity & Quantum Cosmology
 
-# Science journalism RSS — quality articles, not papers
+# RSS sources split into two tiers:
+#   priority 1-2 = actual research papers with abstracts (primary source while S2 API pending)
+#   priority 3   = science journalism (context/supplementary only)
 rss_sources:
+  # ── Open-access journals (return real papers with full abstracts) ───────────
+  - name: "Science Advances"
+    url: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    priority: 1
+  - name: "eLife"
+    url: "https://elifesciences.org/rss/recent.xml"
+    priority: 1
+  - name: "PNAS"
+    url: "https://www.pnas.org/rss/current.xml"
+    priority: 1
+  - name: "Nature Communications"
+    url: "https://www.nature.com/ncomms.rss"
+    priority: 1
+  - name: "PLOS Biology"
+    url: "https://journals.plos.org/plosbiology/feed/atom"
+    priority: 1
+  - name: "PLOS Medicine"
+    url: "https://journals.plos.org/plosmedicine/feed/atom"
+    priority: 1
+  - name: "PLOS ONE"
+    url: "https://journals.plos.org/plosone/feed/atom"
+    priority: 2
+  - name: "PeerJ"
+    url: "https://peerj.com/articles/index.rss"
+    priority: 2
+  # ── Science journalism (supplementary context) ─────────────────────────────
   - name: "Quanta Magazine"
     url: "https://www.quantamagazine.org/feed/"
-    priority: 1
+    priority: 3
   - name: "Nature News"
     url: "https://www.nature.com/nature.rss"
-    priority: 2
+    priority: 3
 
 podcast:
   voice: "en-GB-RyanNeural"

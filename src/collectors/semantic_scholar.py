@@ -5,11 +5,18 @@ Unlike OpenAlex (journal-restricted), this searches broadly across ALL of scienc
 and uses Semantic Scholar's influence metrics (influentialCitationCount) as a
 quality signal instead of journal prestige.
 
-Semantic Scholar Graph API is free, no key required (rate-limited at ~1 req/sec).
+API key (optional but recommended):
+  Set SEMANTIC_SCHOLAR_API_KEY env var to avoid sharing the unauthenticated
+  rate-limit pool with all other users. Get a key at:
+  https://www.semanticscholar.org/product/api#api-key-form
+  Both authenticated and unauthenticated limits are 1 RPS, but authenticated
+  requests are not throttled during heavy shared usage.
+
 Docs: https://api.semanticscholar.org/api-docs/
 """
 
 import logging
+import os
 import time
 from datetime import datetime, timedelta, timezone
 from typing import Optional
@@ -17,6 +24,15 @@ from typing import Optional
 import requests
 
 logger = logging.getLogger(__name__)
+
+
+def _headers() -> dict:
+    """Return request headers, including API key if available."""
+    h = {}
+    key = os.environ.get("SEMANTIC_SCHOLAR_API_KEY", "").strip()
+    if key:
+        h["x-api-key"] = key
+    return h
 
 S2_BASE = "https://api.semanticscholar.org/graph/v1"
 S2_FIELDS = (
@@ -99,12 +115,12 @@ def _fetch_domain(
         "limit": min(max_results * 5, 100),
         "offset": 0,
     }
-    resp = requests.get(f"{S2_BASE}/paper/search", params=params, timeout=20)
+    resp = requests.get(f"{S2_BASE}/paper/search", params=params, headers=_headers(), timeout=20)
 
     if resp.status_code == 429:
         logger.warning("S2: rate limited — sleeping 60s")
         time.sleep(60)
-        resp = requests.get(f"{S2_BASE}/paper/search", params=params, timeout=20)
+        resp = requests.get(f"{S2_BASE}/paper/search", params=params, headers=_headers(), timeout=20)
 
     resp.raise_for_status()
     data = resp.json()

@@ -84,15 +84,20 @@ def main():
     seen = load_seen(state_dir)
     papers = []
 
-    # Semantic Scholar — broad sweep across all scientific domains (no journal restriction)
-    s2_cfg = config.get("semantic_scholar", {})
-    s2_papers = semantic_scholar.fetch_papers(
-        lookback_days=lookback_days,
-        max_per_domain=s2_cfg.get("max_per_domain", 12),
-        delay_sec=s2_cfg.get("delay_sec", 1.2),
-    )
-    papers.extend(s2_papers)
-    logger.info(f"Semantic Scholar: {len(s2_papers)} papers")
+    # Semantic Scholar — requires API key to avoid shared rate-limit throttling.
+    # Skipped automatically until SEMANTIC_SCHOLAR_API_KEY is set.
+    s2_key = os.environ.get("SEMANTIC_SCHOLAR_API_KEY", "").strip()
+    if s2_key:
+        s2_cfg = config.get("semantic_scholar", {})
+        s2_papers = semantic_scholar.fetch_papers(
+            lookback_days=lookback_days,
+            max_per_domain=s2_cfg.get("max_per_domain", 12),
+            delay_sec=s2_cfg.get("delay_sec", 1.2),
+        )
+        papers.extend(s2_papers)
+        logger.info(f"Semantic Scholar: {len(s2_papers)} papers")
+    else:
+        logger.info("Semantic Scholar: skipped (set SEMANTIC_SCHOLAR_API_KEY to enable)")
 
     # arXiv preprints (keep: good preprint coverage, especially physics/ML)
     arxiv_cats = config.get("arxiv_categories", [])
