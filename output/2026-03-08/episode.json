@@ -1,7 +1,7 @@
 {
   "date": "2026-03-08",
   "mp3": "output/2026-03-08/podcast_2026-03-08.mp3",
-  "paper_count": 26,
+  "paper_count": 16,
   "segments": [
     {
       "index": 0,
@@ -23,12 +23,156 @@
     },
     {
       "index": 2,
+      "type": "roundup",
+      "title": "<i>SLC4A1</i> mutations that cause distal renal tubular acidosis alter cytoplasmic pH and cellular autophagy",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108253",
+      "score": 1.0,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Acetylation of H3K115 is associated with fragile nucleosomes at CpG island promoters and active regulatory sites",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108802",
+      "score": 1.0,
+      "timestamp_sec": 54.912
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Dissociable dynamic effects of expectation during statistical learning",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/103689",
+      "score": 1.0,
+      "timestamp_sec": 81.288
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Sperm motility in mice with oligo-astheno-teratozoospermia restored by in vivo injection and electroporation of naked mRNA",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/94514",
+      "score": 1.0,
+      "timestamp_sec": 105.48
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Factors associated with pulmonary tuberculosis in older adults: A scoping review",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344311",
+      "score": 1.0,
+      "timestamp_sec": 132.552
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Invasive <i>Argemone mexicana\u2019s</i> suppressive effects on germination and early growth of <i>Triticum aestivum</i> and <i>Hordeum vulgare</i> in South-western Saudi Arabia",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344281",
+      "score": 1.0,
+      "timestamp_sec": 158.32799999999997
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Unraveling the therapeutic potential of <i>Elaeagnus angustifolia</i> extract on triple-negative breast cancer (TNBC): An investigation using zebrafish model",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344247",
+      "score": 1.0,
+      "timestamp_sec": 189.14399999999998
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Concurrent training in cardiac rehabilitation: A scoping review of aerobic-strength combinations in patients with coronary artery disease",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344208",
+      "score": 1.0,
+      "timestamp_sec": 219.91199999999998
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Effects of dynamic taping and moderate-intensity TheraBand training versus usual care on pain, disability, and well-being in adult National Cadet Corps with chronic heel pain: a pilot and feasibility trial",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/20777",
+      "score": 1.0,
+      "timestamp_sec": 248.49599999999998
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Beyond the sandy bottom: evolutionary and taxonomic insights into lizardfishes (Teleostei: Aulopiformes)",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/20735",
+      "score": 1.0,
+      "timestamp_sec": 278.544
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Lipid metabolism drives dietary effects on T cell ferroptosis and immunity",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10193-4",
+      "score": 0.697,
+      "timestamp_sec": 302.544
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Merlin: a computed tomography vision\u2013language foundation model and dataset",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10181-8",
+      "score": 0.694,
+      "timestamp_sec": 323.544
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "The oldest articulated bony fish from the early Silurian period",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10125-2",
+      "score": 0.692,
+      "timestamp_sec": 344.568
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Structural basis of RNA-guided transcription by a dCas12f\u2013\u03c3<sup>E</sup>\u2013RNAP complex",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10178-3",
+      "score": 0.689,
+      "timestamp_sec": 364.70399999999995
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Deep learning in biology faces a transferability crisis",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003656",
+      "score": 0.296,
+      "timestamp_sec": 388.15199999999993
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Developing monoclonal antibody therapies for measles could lead to adverse pathogen evolution",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003701",
+      "score": 0.27,
+      "timestamp_sec": 411.4559999999999
+    },
+    {
+      "index": 18,
       "type": "outro",
       "title": "Outro",
       "journal": "",
       "url": "",
       "score": 0,
-      "timestamp_sec": 27.095999999999997
+      "timestamp_sec": 436.2479999999999
     }
   ]
 }

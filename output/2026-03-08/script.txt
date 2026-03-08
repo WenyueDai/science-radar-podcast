@@ -11,6 +11,102 @@ Welcome to Science Radar, your weekly digest of the most surprising, frontier-pu
 And now, a quick tour through this week's other noteworthy papers.
 
 ============================================================
+[ROUNDUP] <i>SLC4A1</i> mutations that cause distal renal tubular acidosis alter cytoplasmic pH and cellular autophagy
+============================================================
+<i>SLC4A1</i> mutations that cause distal renal tubular acidosis alter cytoplasmic pH and cellular autophagy — eLife. Distal renal tubular acidosis (dRTA) is a disorder characterized by the inability of the collecting duct system to secrete acids during metabolic acidosis. The pathophysiology of dominant or recessive <i>SLC4A1</i> variant-related dRTA has been linked with the mis-trafficking defect of mutant kAE1 p
+
+============================================================
+[ROUNDUP] Acetylation of H3K115 is associated with fragile nucleosomes at CpG island promoters and active regulatory sites
+============================================================
+Acetylation of H3K115 is associated with fragile nucleosomes at CpG island promoters and active regulatory sites — eLife. Acetylation of lysine residues in the tail domain of histone H3 is well characterised, but lysine residues in the histone globular domain are also acetylated. Histone modifications in the globular domain have regulatory potential because of their impact on nucleosome stability but remain poorly char
+
+============================================================
+[ROUNDUP] Dissociable dynamic effects of expectation during statistical learning
+============================================================
+Dissociable dynamic effects of expectation during statistical learning — eLife. The brain is thought to optimise behaviour by generating predictions based on learned statistical regularities. Predictive processing seemingly explains expectation suppression (ES), the attenuation of neural activity in response to expected stimuli. However, the mechanisms behind ES are unclear, wi
+
+============================================================
+[ROUNDUP] Sperm motility in mice with oligo-astheno-teratozoospermia restored by in vivo injection and electroporation of naked mRNA
+============================================================
+Sperm motility in mice with oligo-astheno-teratozoospermia restored by in vivo injection and electroporation of naked mRNA — eLife. Oligo-astheno-teratozoospermia (OAT), a recurrent cause of male infertility, is the most frequent disorder of spermatogenesis with a predominantly genetic origin. Patients and mice bearing mutations in the <i>ARMC2</i> gene exhibit reduced sperm concentration, multiple morphological defects, and imp
+
+============================================================
+[ROUNDUP] Factors associated with pulmonary tuberculosis in older adults: A scoping review
+============================================================
+Factors associated with pulmonary tuberculosis in older adults: A scoping review — PLOS ONE. <p>by Francisco de Assis Moura Batista, Juliana Iscarlaty Freire de Araújo, Fernanda Cunha Soares, Thalyta Cristina Mansano Schlosser, Clarissa Terenzi Seixas, Silvana Loana Oliveira-Sousa, Gilson de Vasconcelos Torres, Ana Elza Oliveira de Mendonça, Thaiza Teixeira Xavier Nobre</p>
+
+Tuberculosis is
+
+============================================================
+[ROUNDUP] Invasive <i>Argemone mexicana’s</i> suppressive effects on germination and early growth of <i>Triticum aestivum</i> and <i>Hordeum vulgare</i> in South-western Saudi Arabia
+============================================================
+Invasive <i>Argemone mexicana’s</i> suppressive effects on germination and early growth of <i>Triticum aestivum</i> and <i>Hordeum vulgare</i> in South-western Saudi Arabia — PLOS ONE. <p>by Manal A. Alshaqhaa, Imen Souid, Manar D. Alshehri, Norah Alyahya, Kamel Msaada, Mounira Mkaddem Guedri</p>
+
+The invasion of exotic plant species has emerged as a global problem that impacts the ecosystems, economy, and human health, and is the reason for biodiversity loss. <i>Argemone mexicana
+
+============================================================
+[ROUNDUP] Unraveling the therapeutic potential of <i>Elaeagnus angustifolia</i> extract on triple-negative breast cancer (TNBC): An investigation using zebrafish model
+============================================================
+Unraveling the therapeutic potential of <i>Elaeagnus angustifolia</i> extract on triple-negative breast cancer (TNBC): An investigation using zebrafish model — PLOS ONE. <p>by Haya Abuhijleh, Zain Zakria, Hiba Bawadi, Ayat Hammad, Ala-Eddin Al Moustafa, Abdullah Shaito, Maha Al-Asmakh</p>
+
+Breast cancer is a widespread and aggressive disease, with 2.3 million new cases globally in 2022. Metastasis, the spread of cancer cells to distant organs, remains a leading caus
+
+============================================================
+[ROUNDUP] Concurrent training in cardiac rehabilitation: A scoping review of aerobic-strength combinations in patients with coronary artery disease
+============================================================
+Concurrent training in cardiac rehabilitation: A scoping review of aerobic-strength combinations in patients with coronary artery disease — PLOS ONE. <p>by Aliff Latir, Eliza Hafiz, Anwar Suhaimi</p>
+
+Concurrent training (CT), defined as the integration of aerobic and strength exercise modalities, is increasingly implemented within cardiac rehabilitation (CR) to improve cardiovascular and musculoskeletal health. However, CT prescriptions vary mar
+
+============================================================
+[ROUNDUP] Effects of dynamic taping and moderate-intensity TheraBand training versus usual care on pain, disability, and well-being in adult National Cadet Corps with chronic heel pain: a pilot and feasibility trial
+============================================================
+Effects of dynamic taping and moderate-intensity TheraBand training versus usual care on pain, disability, and well-being in adult National Cadet Corps with chronic heel pain: a pilot and feasibility trial — PeerJ. Background
+               Chronic heel pain (CHP), often attributed to plantar fasciitis, is prevalent among physically active individuals such as National Cadet Corps (NCC) cadets. While Dynamic Taping (DT) and TheraBand exercises have each demonstrated individual benefits in musculoskeletal rehabi
+
+============================================================
+[ROUNDUP] Beyond the sandy bottom: evolutionary and taxonomic insights into lizardfishes (Teleostei: Aulopiformes)
+============================================================
+Beyond the sandy bottom: evolutionary and taxonomic insights into lizardfishes (Teleostei: Aulopiformes) — PeerJ. Background
+               Lizardfishes (family Synodontidae) are benthic, carnivorous fishes that primarily inhabit tropical and subtropical sandy seabeds and play an important role in benthic ecosystem functioning. They are characterized by cylindrical bodies and large mouths and currently comprise
+
+============================================================
+[ROUNDUP] Lipid metabolism drives dietary effects on T cell ferroptosis and immunity
+============================================================
+Lipid metabolism drives dietary effects on T cell ferroptosis and immunity — Nature News. <p>Nature, Published online: 04 March 2026; <a href="https://www.nature.com/articles/s41586-026-10193-4">doi:10.1038/s41586-026-10193-4</a></p>The susceptibility of mouse and human T cells to ferroptosis is determined by the balance of systemic polyunsaturated and monounsaturated fatty acids, highli
+
+============================================================
+[ROUNDUP] Merlin: a computed tomography vision–language foundation model and dataset
+============================================================
+Merlin: a computed tomography vision–language foundation model and dataset — Nature News. <p>Nature, Published online: 04 March 2026; <a href="https://www.nature.com/articles/s41586-026-10181-8">doi:10.1038/s41586-026-10181-8</a></p>Merlin, a vision–language foundation model trained on a large dataset of paired CT scans, patient record data and radiology reports, demonstrates strong perf
+
+============================================================
+[ROUNDUP] The oldest articulated bony fish from the early Silurian period
+============================================================
+The oldest articulated bony fish from the early Silurian period — Nature News. <p>Nature, Published online: 04 March 2026; <a href="https://www.nature.com/articles/s41586-026-10125-2">doi:10.1038/s41586-026-10125-2</a></p>A tiny, articulated, near-complete osteichthyan from the early Silurian Chongqing Lagerstätte, represents the oldest osteichthyan occurrence including microf
+
+============================================================
+[ROUNDUP] Structural basis of RNA-guided transcription by a dCas12f–σ<sup>E</sup>–RNAP complex
+============================================================
+Structural basis of RNA-guided transcription by a dCas12f–σ<sup>E</sup>–RNAP complex — Nature News. <p>Nature, Published online: 04 March 2026; <a href="https://www.nature.com/articles/s41586-026-10178-3">doi:10.1038/s41586-026-10178-3</a></p>Cryogenic electron microscopy reveals how dCas12f with σE recruits RNAP to targeted DNA, initiating transcription at a fixed downstream distance, bypassing c
+
+============================================================
+[ROUNDUP] Deep learning in biology faces a transferability crisis
+============================================================
+Deep learning in biology faces a transferability crisis — PLOS Biology. <p>by Thomas A. O’Shea-Wheller, Katie I. Murray</p>
+
+Creating generalizable models is a conserved aim in deep learning—however, misleading claims of transferability threaten to obfuscate reliable performance evaluation. We outline the severity of this issue in the biosciences, and suggest potential
+
+============================================================
+[ROUNDUP] Developing monoclonal antibody therapies for measles could lead to adverse pathogen evolution
+============================================================
+Developing monoclonal antibody therapies for measles could lead to adverse pathogen evolution — PLOS Biology. <p>by David A. Kennedy</p>
+
+Monoclonal antibody therapies are being developed to treat measles in response to its recent resurgence. These therapies risk driving measles virus evolution in ways that might undermine the protection offered by vaccination, outweighing potential benefits.
+
+Monoclonal an
+
+============================================================
 [OUTRO] Outro
 ============================================================
 That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
