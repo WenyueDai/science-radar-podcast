@@ -17,8 +17,5 @@ output/**/segments/
 output/**/ffmpeg_concat_list.txt
 output/**/transition_sfx.mp3
 
-# Local git worktrees
-.worktrees/
-
 # Large data cache (optional — comment out if you want to keep LLM cache in repo)
 # data/analysis_cache/
