@@ -48,16 +48,24 @@ def fetch_papers(
 ) -> list[dict]:
     """
     Fetch recent papers across scientific domains from Semantic Scholar.
+
+    S2 has a 2–4 week indexing lag, so we use a wider fetch window (lookback_days * 4,
+    min 30 days) but filter client-side to the actual lookback window. This ensures
+    we always have a full pool of papers. Cross-week deduplication is handled
+    by seen_ids in state/.
+
     Returns list of paper dicts with standardized fields.
-    Deduplicates within this call by paper ID.
     """
-    since_date = (datetime.now(timezone.utc) - timedelta(days=lookback_days)).strftime("%Y-%m-%d")
+    cutoff = datetime.now(timezone.utc) - timedelta(days=lookback_days)
+    # Fetch window: 4× the lookback or at least 30 days to account for S2 indexing lag
+    fetch_since = (datetime.now(timezone.utc) - timedelta(days=max(lookback_days * 4, 30))).strftime("%Y-%m-%d")
+
     all_papers: list[dict] = []
     seen_ids: set[str] = set()
 
     for domain, query in DOMAIN_QUERIES:
         try:
-            papers = _fetch_domain(query, domain, since_date, max_per_domain)
+            papers = _fetch_domain(query, domain, fetch_since, max_per_domain, cutoff)
             new = [p for p in papers if p["id"] not in seen_ids]
             seen_ids.update(p["id"] for p in new)
             all_papers.extend(new)
@@ -75,22 +83,27 @@ def fetch_papers(
 def _fetch_domain(
     query: str,
     domain: str,
-    since_date: str,
+    fetch_since: str,
     max_results: int,
+    cutoff: datetime,
 ) -> list[dict]:
-    """Fetch papers for one domain query, with one retry on rate-limit."""
+    """
+    Fetch papers for one domain query.
+    - Server-side: broad date window (fetch_since) to account for S2 indexing lag
+    - Client-side: filter to cutoff (the actual lookback window)
+    """
     params = {
         "query": query,
         "fields": S2_FIELDS,
-        "publicationDateOrYear": f"{since_date}:",
-        "limit": min(max_results * 3, 100),
+        "publicationDateOrYear": f"{fetch_since}:",
+        "limit": min(max_results * 5, 100),
         "offset": 0,
     }
     resp = requests.get(f"{S2_BASE}/paper/search", params=params, timeout=20)
 
     if resp.status_code == 429:
-        logger.warning("S2: rate limited — sleeping 30s")
-        time.sleep(30)
+        logger.warning("S2: rate limited — sleeping 60s")
+        time.sleep(60)
         resp = requests.get(f"{S2_BASE}/paper/search", params=params, timeout=20)
 
     resp.raise_for_status()
@@ -99,8 +112,18 @@ def _fetch_domain(
     papers: list[dict] = []
     for item in data.get("data", []):
         paper = _normalize(item, domain)
-        if paper:
-            papers.append(paper)
+        if not paper:
+            continue
+        # Client-side date filter: keep only papers within the actual lookback window
+        pub = paper.get("pub_date", "")
+        if pub:
+            try:
+                pub_dt = datetime.fromisoformat(pub).replace(tzinfo=timezone.utc)
+                if pub_dt < cutoff:
+                    continue
+            except ValueError:
+                pass  # unparseable date — keep the paper
+        papers.append(paper)
         if len(papers) >= max_results:
             break
 

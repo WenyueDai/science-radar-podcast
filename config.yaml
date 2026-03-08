@@ -22,18 +22,18 @@ semantic_scholar:
   delay_sec: 1.2             # polite rate-limiting (S2 is free, ~1 req/sec)
 
 # arXiv preprint categories — kept alongside Semantic Scholar
+# Note: only valid leaf/sub-root categories work; "physics", "nlin", "econ", "eess" return 0
 arxiv_categories:
   - "q-bio"           # Quantitative Biology
-  - "physics"         # Physics (broad)
-  - "cond-mat"        # Condensed Matter
+  - "cond-mat"        # Condensed Matter Physics
   - "astro-ph"        # Astrophysics
-  - "cs.AI"           # AI
+  - "cs.AI"           # Artificial Intelligence
   - "cs.LG"           # Machine Learning
   - "math-ph"         # Mathematical Physics
   - "quant-ph"        # Quantum Physics
-  - "nlin"            # Nonlinear Sciences
-  - "econ"            # Economics
-  - "eess"            # Electrical Engineering & Signal Processing
+  - "hep-ph"          # High Energy Physics — Phenomenology
+  - "hep-th"          # High Energy Physics — Theory
+  - "gr-qc"           # General Relativity & Quantum Cosmology
 
 # Science journalism RSS — quality articles, not papers
 rss_sources:
