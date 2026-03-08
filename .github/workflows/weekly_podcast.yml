@@ -51,6 +51,8 @@ jobs:
         run: python run_weekly.py
 
       - name: Build GitHub Pages site
+        env:
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         run: python tools/build_site.py
 
       - name: Upload MP3 as release asset
