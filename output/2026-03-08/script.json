@@ -1,0 +1,20 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from the world's top scientific journals. I'm your host, and this week we've uncovered findings that challenge what we thought we knew, open entirely new research directions, and connect ideas across fields in unexpected ways. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. These papers remind us that science is never settled \u2014 every answer opens new questions, and the most exciting discoveries often come from places we least expect. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

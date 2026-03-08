@@ -1,0 +1,17 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from the world's top scientific journals. I'm your host, and this week we've uncovered findings that challenge what we thought we knew, open entirely new research directions, and connect ideas across fields in unexpected ways. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. These papers remind us that science is never settled — every answer opens new questions, and the most exciting discoveries often come from places we least expect. Until next week, keep questioning everything.
+

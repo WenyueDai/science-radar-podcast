@@ -170,7 +170,31 @@
 <main>
   <div class="mascot">🧪</div>
 
-  <!-- No episodes yet -->
+  
+  <div class="card">
+    <h2>Latest Episode — 2026-03-08</h2>
+    <audio id="player" controls preload="none">
+      <source src='https://github.com/WenyueDai/science-radar-podcast/releases/download/episode-2026-03-08/podcast_2026-03-08.mp3' type='audio/mpeg'>
+      Your browser does not support audio.
+    </audio>
+    <div class="episode-meta">12 papers · click a paper to jump to its segment</div>
+  </div>
+
+  <div class="section-title">This week&apos;s papers</div>
+  <ul class="papers-list" id="paper-list">
+    
+  </ul>
+
+  <div class="feedback-toolbar">
+    <button class="btn" onclick="saveFeedback()">⭐ Save feedback to GitHub</button>
+    <button class="btn secondary" onclick="openModal()">🔑 Set token</button>
+    <span id="feedback-status"></span>
+  </div>
+  <p style="font-size:0.75rem;color:var(--text-muted);margin-top:0.5rem">
+    Checking papers you found interesting improves next week&apos;s ranking.
+    Notes are synced to Notion if configured.
+  </p>
+  
 
   <!-- Missed papers -->
   <div class="card" style="margin-top:2rem">
@@ -198,7 +222,7 @@
 
 <script>
 const REPO = "WenyueDai/science-radar-podcast";
-const segments = [];
+const segments = [{"index": 0, "type": "intro", "title": "Intro", "journal": "", "url": "", "ts": 0.0}, {"index": 1, "type": "section_header", "title": "This Week's Highlights", "journal": "", "url": "", "ts": 21.695999999999998}, {"index": 2, "type": "outro", "title": "Outro", "journal": "", "url": "", "ts": 28.175999999999995}];
 const player = document.getElementById("player");
 const items = document.querySelectorAll(".paper-item");
 
