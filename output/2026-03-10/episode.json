@@ -1,0 +1,205 @@
+{
+  "date": "2026-03-10",
+  "mp3": "output/2026-03-10/podcast_2026-03-10.mp3",
+  "paper_count": 19,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Automated genome mining predicts structural diversity and taxonomic distribution of peptide metallophores across bacteria",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109154",
+      "score": 1.0,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Descending locus coeruleus noradrenergic signaling to spinal astrocyte subset is required for stress-induced mechanical pain hypersensitivity",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/104453",
+      "score": 1.0,
+      "timestamp_sec": 52.967999999999996
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Oral preexposure prophylaxis use and the risk of bacterial sexually transmitted infections and HIV among African women: A prospective observational cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004962",
+      "score": 1.0,
+      "timestamp_sec": 80.688
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Linear anti-jamming algorithm design for multi-channel optical fiber communication",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344533",
+      "score": 1.0,
+      "timestamp_sec": 112.82400000000001
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "The impact of social support on career decision-making difficulties: The serial mediating roles of career decision-making self-efficacy and job search clarity, and moderation by proactive personality",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344515",
+      "score": 1.0,
+      "timestamp_sec": 135.888
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Habitual coffee consumption poorly correlates with sleep quality and daytime sleepiness: A cross-sectional study",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344479",
+      "score": 1.0,
+      "timestamp_sec": 164.28
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Integrative network pharmacology and machine learning identify potential targets of indole-3-lactic acid in colorectal cancer",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344478",
+      "score": 1.0,
+      "timestamp_sec": 191.61599999999999
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Association between sedentary behavior, physical activity, and neck pain, disability index, and cervical physiological function in university students: a cross-sectional study",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/20908",
+      "score": 1.0,
+      "timestamp_sec": 220.224
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Comparative efficacy of different doses of mesenchymal stem cells derived from different tissue sources for knee osteoarthritis: a systematic review and network meta-analysis of randomized controlled trials",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/20776",
+      "score": 1.0,
+      "timestamp_sec": 245.20799999999997
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Learning turbulent flows with generative models for super resolution and sparse flow reconstruction",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-70145-4",
+      "score": 0.813,
+      "timestamp_sec": 275.99999999999994
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Bioengineered ferritin-based lysosome-targeting chimera platform for tumor-targeted therapy",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-70383-6",
+      "score": 0.778,
+      "timestamp_sec": 296.87999999999994
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Directional dynamics in the entorhinal cortex of male mice driven by behavioral constraints",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-70289-3",
+      "score": 0.767,
+      "timestamp_sec": 319.46399999999994
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Disorder Drives One of Nature\u2019s Most Complex Machines",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/",
+      "score": 0.734,
+      "timestamp_sec": 341.3279999999999
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Reconstructing fine-scale 3D wind fields with terrain-informed machine learning",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-70562-5",
+      "score": 0.702,
+      "timestamp_sec": 359.68799999999993
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Daily briefing: How koalas escaped a genetic bottleneck",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00771-x",
+      "score": 0.682,
+      "timestamp_sec": 381.02399999999994
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Mechanism of co-transcriptional cap snatching by influenza polymerase",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10189-0",
+      "score": 0.675,
+      "timestamp_sec": 401.1119999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Wide-swath altimetry maps bank shapes and storage changes in global rivers",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10218-y",
+      "score": 0.675,
+      "timestamp_sec": 421.9919999999999
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Microbiota-mediated induction of beige adipocytes in response to dietary cues",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10205-3",
+      "score": 0.673,
+      "timestamp_sec": 443.4239999999999
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "A GABAergic network from AVP- to VIP-neurons in the suprachiasmatic nucleus sets the timing of circadian behavior rhythms",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003706",
+      "score": 0.5,
+      "timestamp_sec": 464.2319999999999
+    },
+    {
+      "index": 21,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 494.3999999999999
+    }
+  ]
+}

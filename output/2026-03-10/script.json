@@ -1,0 +1,191 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Automated genome mining predicts structural diversity and taxonomic distribution of peptide metallophores across bacteria",
+    "text": "Automated genome mining predicts structural diversity and taxonomic distribution of peptide metallophores across bacteria \u2014 eLife. Microbial competition for trace metals shapes their communities and interactions with humans and plants. Many bacteria scavenge trace metals with metallophores, small molecules that chelate environmental metal ions. Metallophore production may be predicted by genome mining, where genomes are scanned",
+    "paper_id": "https://elifesciences.org/articles/109154",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/109154"
+  },
+  {
+    "type": "roundup",
+    "title": "Descending locus coeruleus noradrenergic signaling to spinal astrocyte subset is required for stress-induced mechanical pain hypersensitivity",
+    "text": "Descending locus coeruleus noradrenergic signaling to spinal astrocyte subset is required for stress-induced mechanical pain hypersensitivity \u2014 eLife. It is known that stress powerfully alters pain, but its underlying mechanisms remain elusive. Here, we identified a circuit, locus coeruleus descending noradrenergic neurons projecting to the spinal dorsal horn (LC<sup>\u2192SDH</sup>-NA neurons), that is activated by acute exposure to restraint stress a",
+    "paper_id": "https://elifesciences.org/articles/104453",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/104453"
+  },
+  {
+    "type": "roundup",
+    "title": "Oral preexposure prophylaxis use and the risk of bacterial sexually transmitted infections and HIV among African women: A prospective observational cohort study",
+    "text": "Oral preexposure prophylaxis use and the risk of bacterial sexually transmitted infections and HIV among African women: A prospective observational cohort study \u2014 PLOS Medicine. <p>by David Mukasa, John Kinuthia, Allison Meisner, Daniel Matemo, Torin Schaafsma, Jennifer Morton, Cynthia Wandera, Elvira Budiawan, Valarie Kemuto, Cherotich Irine, Stephen Odhiambo, Mercy Bii, Beatrice Oduor, Esther Achieng, Tessy Oyombra, Ugochinyere V. Ukah, Kenneth K. Mugwanya, for the FP Plu",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004962",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004962"
+  },
+  {
+    "type": "roundup",
+    "title": "Linear anti-jamming algorithm design for multi-channel optical fiber communication",
+    "text": "Linear anti-jamming algorithm design for multi-channel optical fiber communication \u2014 PLOS ONE. <p>by Haichao Yu</p>\n\nThe multi-channel fiber optic communication network, crucial for long-distance digital signal transmission, faces linear interference from orthogonal frequency division multiplexing. To address the challenge of linear anti-interference in digital signal transmission, this paper",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344533",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344533"
+  },
+  {
+    "type": "roundup",
+    "title": "The impact of social support on career decision-making difficulties: The serial mediating roles of career decision-making self-efficacy and job search clarity, and moderation by proactive personality",
+    "text": "The impact of social support on career decision-making difficulties: The serial mediating roles of career decision-making self-efficacy and job search clarity, and moderation by proactive personality \u2014 PLOS ONE. <p>by Rong Chen, Qin Zhang, Yunfei Cao</p>\n\nCareer decision-making difficulties are a common challenge for college students, which can hinder their transition from education to employment. Based on the Social Cognitive Model of Career Self-Management, this study explored how social support was relat",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344515",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344515"
+  },
+  {
+    "type": "roundup",
+    "title": "Habitual coffee consumption poorly correlates with sleep quality and daytime sleepiness: A cross-sectional study",
+    "text": "Habitual coffee consumption poorly correlates with sleep quality and daytime sleepiness: A cross-sectional study \u2014 PLOS ONE. <p>by Simon S\u00f6derholm, Martin Ulander, Vanessa William Toma, Sara Kaufmann, Xiangyu Qiao, Daniel Berglind, Susanna Calling, Bledar Daka, Ludger Grote, Mats Martinell, Frida Bergman, Pontus Henriksson, Carl-Johan \u00d6stgren, Wen Zhong, Claudio Cant\u00f9, Fredrik Iredahl</p>\n\nCoffee is the most common drink",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344479",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344479"
+  },
+  {
+    "type": "roundup",
+    "title": "Integrative network pharmacology and machine learning identify potential targets of indole-3-lactic acid in colorectal cancer",
+    "text": "Integrative network pharmacology and machine learning identify potential targets of indole-3-lactic acid in colorectal cancer \u2014 PLOS ONE. <p>by Jie Li, Jian Zhang, Jun Ke, Zhijian Ren, Cuncheng Feng</p>\n\nThe treatment of colorectal cancer (CRC) remains challenging due to chemotherapy resistance and genetic heterogeneity. Indole-3-lactic acid (ILA), a tryptophan metabolite derived from gut microbiota, exhibits promising anti-inflammato",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344478",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344478"
+  },
+  {
+    "type": "roundup",
+    "title": "Association between sedentary behavior, physical activity, and neck pain, disability index, and cervical physiological function in university students: a cross-sectional study",
+    "text": "Association between sedentary behavior, physical activity, and neck pain, disability index, and cervical physiological function in university students: a cross-sectional study \u2014 PeerJ. Background\n               With changes in modern lifestyle, cervical health issues among college students have become increasingly prevalent.\n            \n            \n               Objective\n               This study aimed to explore the associations between sedentary behavior (SB), physical activ",
+    "paper_id": "https://peerj.com/articles/20908",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/20908"
+  },
+  {
+    "type": "roundup",
+    "title": "Comparative efficacy of different doses of mesenchymal stem cells derived from different tissue sources for knee osteoarthritis: a systematic review and network meta-analysis of randomized controlled trials",
+    "text": "Comparative efficacy of different doses of mesenchymal stem cells derived from different tissue sources for knee osteoarthritis: a systematic review and network meta-analysis of randomized controlled trials \u2014 PeerJ. Introduction\n               Knee osteoarthritis (KOA) remains a leading cause of disability, and mesenchymal stem cells (MSCs) show potential for KOA treatment. However, existing studies demonstrate conflicting results on the optimal dose and tissue source of MSCs for KOA treatment. This gap limits",
+    "paper_id": "https://peerj.com/articles/20776",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/20776"
+  },
+  {
+    "type": "roundup",
+    "title": "Learning turbulent flows with generative models for super resolution and sparse flow reconstruction",
+    "text": "Learning turbulent flows with generative models for super resolution and sparse flow reconstruction \u2014 Nature Communications. <p>Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70145-4\">doi:10.1038/s41467-026-70145-4</a></p>Turbulent flow modeling remains a significant challenge due to the computational expense and difficulty in accurately capturing fine-scale str",
+    "paper_id": "https://www.nature.com/articles/s41467-026-70145-4",
+    "journal": "Nature Communications",
+    "score": 0.813,
+    "url": "https://www.nature.com/articles/s41467-026-70145-4"
+  },
+  {
+    "type": "roundup",
+    "title": "Bioengineered ferritin-based lysosome-targeting chimera platform for tumor-targeted therapy",
+    "text": "Bioengineered ferritin-based lysosome-targeting chimera platform for tumor-targeted therapy \u2014 Nature Communications. <p>Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70383-6\">doi:10.1038/s41467-026-70383-6</a></p>Lysosome-targeting chimeras (LYTACs) hold therapeutic potential by degrading pathogenesis associated proteins, but current LYTAC systems often",
+    "paper_id": "https://www.nature.com/articles/s41467-026-70383-6",
+    "journal": "Nature Communications",
+    "score": 0.778,
+    "url": "https://www.nature.com/articles/s41467-026-70383-6"
+  },
+  {
+    "type": "roundup",
+    "title": "Directional dynamics in the entorhinal cortex of male mice driven by behavioral constraints",
+    "text": "Directional dynamics in the entorhinal cortex of male mice driven by behavioral constraints \u2014 Nature Communications. <p>Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70289-3\">doi:10.1038/s41467-026-70289-3</a></p>How behavioral constraints re-organize functionally-defined HD (head direction) cells within the wider entorhinal network is not fully underst",
+    "paper_id": "https://www.nature.com/articles/s41467-026-70289-3",
+    "journal": "Nature Communications",
+    "score": 0.767,
+    "url": "https://www.nature.com/articles/s41467-026-70289-3"
+  },
+  {
+    "type": "roundup",
+    "title": "Disorder Drives One of Nature\u2019s Most Complex Machines",
+    "text": "Disorder Drives One of Nature\u2019s Most Complex Machines \u2014 Quanta Magazine. Every second, hundreds to thousands of molecules move through thousands of nuclear pores in each of your cells. A new high-definition view reveals the machine in action.            <p>The post <a href=\"https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/\" tar",
+    "paper_id": "https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/",
+    "journal": "Quanta Magazine",
+    "score": 0.734,
+    "url": "https://www.quantamagazine.org/disorder-drives-one-of-natures-most-complex-machines-20260309/"
+  },
+  {
+    "type": "roundup",
+    "title": "Reconstructing fine-scale 3D wind fields with terrain-informed machine learning",
+    "text": "Reconstructing fine-scale 3D wind fields with terrain-informed machine learning \u2014 Nature Communications. <p>Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70562-5\">doi:10.1038/s41467-026-70562-5</a></p>This study presents a terrain-aware AI framework trained on computational fluid dynamics that reconstructs fine-scale 3D wind fields from coar",
+    "paper_id": "https://www.nature.com/articles/s41467-026-70562-5",
+    "journal": "Nature Communications",
+    "score": 0.702,
+    "url": "https://www.nature.com/articles/s41467-026-70562-5"
+  },
+  {
+    "type": "roundup",
+    "title": "Daily briefing: How koalas escaped a genetic bottleneck",
+    "text": "Daily briefing: How koalas escaped a genetic bottleneck \u2014 Nature News. <p>Nature, Published online: 06 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00771-x\">doi:10.1038/d41586-026-00771-x</a></p>Evidence from koalas suggest that even species pushed to the brink of extinction can recover lost genetic diversity. Plus, the first \u2018half M\u00f6bius\u2019 carbon-bas",
+    "paper_id": "https://www.nature.com/articles/d41586-026-00771-x",
+    "journal": "Nature News",
+    "score": 0.682,
+    "url": "https://www.nature.com/articles/d41586-026-00771-x"
+  },
+  {
+    "type": "roundup",
+    "title": "Mechanism of co-transcriptional cap snatching by influenza polymerase",
+    "text": "Mechanism of co-transcriptional cap snatching by influenza polymerase \u2014 Nature News. <p>Nature, Published online: 04 March 2026; <a href=\"https://www.nature.com/articles/s41586-026-10189-0\">doi:10.1038/s41586-026-10189-0</a></p>Structural and biochemical studies of influenza virus RNA-dependent RNA polymerase (FluPol) in complex with transcribing host RNA polymerase II reveal the mo",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10189-0",
+    "journal": "Nature News",
+    "score": 0.675,
+    "url": "https://www.nature.com/articles/s41586-026-10189-0"
+  },
+  {
+    "type": "roundup",
+    "title": "Wide-swath altimetry maps bank shapes and storage changes in global rivers",
+    "text": "Wide-swath altimetry maps bank shapes and storage changes in global rivers \u2014 Nature News. <p>Nature, Published online: 04 March 2026; <a href=\"https://www.nature.com/articles/s41586-026-10218-y\">doi:10.1038/s41586-026-10218-y</a></p>Observations of river channel geometry and monthly water storage changes for 126,674 river reaches worldwide are derived from the first water year of the Sur",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10218-y",
+    "journal": "Nature News",
+    "score": 0.675,
+    "url": "https://www.nature.com/articles/s41586-026-10218-y"
+  },
+  {
+    "type": "roundup",
+    "title": "Microbiota-mediated induction of beige adipocytes in response to dietary cues",
+    "text": "Microbiota-mediated induction of beige adipocytes in response to dietary cues \u2014 Nature News. <p>Nature, Published online: 04 March 2026; <a href=\"https://www.nature.com/articles/s41586-026-10205-3\">doi:10.1038/s41586-026-10205-3</a></p>In mice, a low-protein diet leads to a gut-microbiota-driven remodelling of adipose tissue towards brown fat, showing that gut microorganisms have a role in",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10205-3",
+    "journal": "Nature News",
+    "score": 0.673,
+    "url": "https://www.nature.com/articles/s41586-026-10205-3"
+  },
+  {
+    "type": "roundup",
+    "title": "A GABAergic network from AVP- to VIP-neurons in the suprachiasmatic nucleus sets the timing of circadian behavior rhythms",
+    "text": "A GABAergic network from AVP- to VIP-neurons in the suprachiasmatic nucleus sets the timing of circadian behavior rhythms \u2014 PLOS Biology. <p>by Yubo Peng, Yusuke Tsuno, Takashi Maejima, Mohan Wang, Jaehun Jung, Ayako Matsui, Michihiro Mieda</p>\n\nThe central circadian clock of the suprachiasmatic nucleus (SCN) consists of a network of multiple types of \u03b3-aminobutyric acid (GABA)-ergic neurons and glial cells. However, the precise role",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003706",
+    "journal": "PLOS Biology",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003706"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]
