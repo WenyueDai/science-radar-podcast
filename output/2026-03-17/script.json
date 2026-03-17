@@ -1,0 +1,227 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Precision cutaneous stimulation in freely moving mice",
+    "text": "Precision cutaneous stimulation in freely moving mice \u2014 eLife. Somatosensation connects animals to their immediate environment, shaping critical behaviors essential for adaptation, learning, and survival. Probing the relationships between somatosensory inputs and behavior in mice presents substantial challenges, primarily due to the practical difficulties of de",
+    "paper_id": "https://elifesciences.org/articles/106033",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/106033"
+  },
+  {
+    "type": "roundup",
+    "title": "Cell type-specific network analysis in Diversity Outbred mice identifies genes potentially responsible for human bone mineral density GWAS associations",
+    "text": "Cell type-specific network analysis in Diversity Outbred mice identifies genes potentially responsible for human bone mineral density GWAS associations \u2014 eLife. Genome-wide association studies (GWASs) have identified many sources of genetic variation associated with bone mineral density (BMD), a clinical predictor of fracture risk and osteoporosis. Aside from the identification of causal genes, other difficult challenges to informing GWAS include characteri",
+    "paper_id": "https://elifesciences.org/articles/100832",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/100832"
+  },
+  {
+    "type": "roundup",
+    "title": "Immune evasive DNA donors and recombinases license kilobase-scale writing",
+    "text": "Immune evasive DNA donors and recombinases license kilobase-scale writing \u2014 Nature News. <p>Nature, Published online: 11 March 2026; <a href=\"https://www.nature.com/articles/s41586-026-10241-z\">doi:10.1038/s41586-026-10241-z</a></p>INSTALL overcomes fundamental challenges for DNA delivery and integration methods by synergizing immune-stealth nucleic acids with recombinases to enable kil",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10241-z",
+    "journal": "Nature News",
+    "score": 1.179,
+    "url": "https://www.nature.com/articles/s41586-026-10241-z"
+  },
+  {
+    "type": "roundup",
+    "title": "How an all-female fish species defies evolutionary expectations",
+    "text": "How an all-female fish species defies evolutionary expectations \u2014 Nature News. <p>Nature, Published online: 11 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00493-0\">doi:10.1038/d41586-026-00493-0</a></p>Asexual reproduction should be an evolutionary dead end. A study of asexual fish shows that a genetic \u2018copy and paste\u2019 helps to overcome the predicted costs",
+    "paper_id": "https://www.nature.com/articles/d41586-026-00493-0",
+    "journal": "Nature News",
+    "score": 1.157,
+    "url": "https://www.nature.com/articles/d41586-026-00493-0"
+  },
+  {
+    "type": "roundup",
+    "title": "This fish shouldn\u2019t exist \u2014 the weird genetics of clonal vertebrates",
+    "text": "This fish shouldn\u2019t exist \u2014 the weird genetics of clonal vertebrates \u2014 Nature News. <p>Nature, Published online: 11 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00798-0\">doi:10.1038/d41586-026-00798-0</a></p>A study reveals how the asexual Amazon molly defies evolutionary expectations \u2014 plus, evidence of what might be powering superluminous supernovae.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-00798-0",
+    "journal": "Nature News",
+    "score": 1.144,
+    "url": "https://www.nature.com/articles/d41586-026-00798-0"
+  },
+  {
+    "type": "roundup",
+    "title": "Using mosquitoes to vaccinate bats could curb the spread of deadly diseases",
+    "text": "Using mosquitoes to vaccinate bats could curb the spread of deadly diseases \u2014 Nature News. <p>Nature, Published online: 11 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00795-3\">doi:10.1038/d41586-026-00795-3</a></p>But scientists say there are practical and ethical challenges to overcome before the strategy could be deployed in real-world settings.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-00795-3",
+    "journal": "Nature News",
+    "score": 1.139,
+    "url": "https://www.nature.com/articles/d41586-026-00795-3"
+  },
+  {
+    "type": "roundup",
+    "title": "Deep learning\u2013driven image captioning: Progress through transformers and large language models",
+    "text": "Deep learning\u2013driven image captioning: Progress through transformers and large language models \u2014 PLOS ONE. <p>by Priyanka Panchal, Vishal Polara, Siddaraj U, Abdullah Baz, Shobhit K. Patel</p>\n\nThis paper provides a novel deep learning model for captioning of images by using an advanced vision transformer architecture with a powerful LLM. Proposed models show a significant improvement over traditional CN",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345012",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345012"
+  },
+  {
+    "type": "roundup",
+    "title": "Understanding climate refugees from educators\u2019 perspectives: Social studies teachers\u2019 views",
+    "text": "Understanding climate refugees from educators\u2019 perspectives: Social studies teachers\u2019 views \u2014 PLOS ONE. <p>by Leyla Donmez Bayrakci, Fatih Ozdemir</p>\n\nThis study aimed to examine social studies teachers\u2019 knowledge, attitudes, and approaches regarding the concept of climate refugees. Employing a phenomenological design within qualitative research, semi-structured interviews were conducted with volunte",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344777",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344777"
+  },
+  {
+    "type": "roundup",
+    "title": "Cardenolide toxin diversity impacts monarch butterfly growth and sequestration",
+    "text": "Cardenolide toxin diversity impacts monarch butterfly growth and sequestration \u2014 eLife. In coevolutionary interactions, host plants accrue novel chemical defenses that specialist herbivores counter by detoxification and sometimes sequestration. We recently found unusual nitrogen- and sulfur-containing (N,S-) cardenolides in some milkweeds\u2014highly toxic compounds that monarch butterflies",
+    "paper_id": "https://elifesciences.org/articles/109003",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/109003"
+  },
+  {
+    "type": "roundup",
+    "title": "Self-association enhances early attentional selection through automatic prioritization of socially salient signals",
+    "text": "Self-association enhances early attentional selection through automatic prioritization of socially salient signals \u2014 eLife. Efficiently processing self-related information is critical for cognition, yet the earliest mechanisms enabling this self-prioritization in humans remain unclear. By combining a temporal order judgement task with computational modeling based on the Theory of Visual Attention (TVA), we show how mere,",
+    "paper_id": "https://elifesciences.org/articles/100932",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/100932"
+  },
+  {
+    "type": "roundup",
+    "title": "Thalamic reticular neurons provide cell type-specific modulation of sound processing in the auditory thalamus",
+    "text": "Thalamic reticular neurons provide cell type-specific modulation of sound processing in the auditory thalamus \u2014 PLOS Biology. <p>by Solymar Rol\u00f3n-Mart\u00ednez, Austin J. Mendoza, Christopher F. Angeloni, Nathan W. Vogler, Audrey C. Drotos, Mark Aizenberg, Ruoyi Chen, Kaylie Vu, Julie S. Haas, Maria N. Geffen</p>\n\nInhibition plays an important role in controlling the flow and processing of auditory information throughout the ce",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003693",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003693"
+  },
+  {
+    "type": "roundup",
+    "title": "Impacts of parental age and inbreeding on fitness in a wild insect",
+    "text": "Impacts of parental age and inbreeding on fitness in a wild insect \u2014 PLOS Biology. <p>by Tom Tregenza, Rolando Rodr\u00edguez-Mu\u00f1oz, Alfredo F. Ojanguren, Paul Hopwood, Jelle J. Boonekamp</p>\n\nParental age and inbreeding have both been shown to have substantial fitness effects in laboratory experiments and in observations of wild animals. These demographic effects are likely to be stro",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003713",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003713"
+  },
+  {
+    "type": "roundup",
+    "title": "The retrieval of previously learned motor memories is facilitated by the reinstatement of default mode network manifold structures",
+    "text": "The retrieval of previously learned motor memories is facilitated by the reinstatement of default mode network manifold structures \u2014 PLOS Biology. <p>by Ali Rezaei, Corson N. Areshenkoff, Daniel J. Gale, Emily R. Oby, Jonathan Smallwood, J. Randall Flanagan, Jeffrey D. Wammes, Jason P. Gallivan</p>\n\nMotor learning induces alterations in neural activity that can persist long after the effects of such learning have faded. These persistent neural",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003684",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003684"
+  },
+  {
+    "type": "roundup",
+    "title": "<i>Cis</i>-regulatory evolution of Wnt family genes contributes to a morphological difference between silkworm species",
+    "text": "<i>Cis</i>-regulatory evolution of Wnt family genes contributes to a morphological difference between silkworm species \u2014 PLOS Biology. <p>by Kenta Tomihara, Ana Pinharanda, Young Mi Kwon, Andrew M. Taverner, Laura S. Kors, Matthew L. Aardema, Julia C. Holder, Lin Poyraz, Takashi Kiuchi, Peter Andolfatto</p>\n\nClosely related species often exhibit distinct morphologies that can contribute to species-specific adaptations and reproduct",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003605",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003605"
+  },
+  {
+    "type": "roundup",
+    "title": "The association between power outages and cardiovascular and respiratory hospitalizations among US Medicare beneficiaries in 2018: A case-crossover study",
+    "text": "The association between power outages and cardiovascular and respiratory hospitalizations among US Medicare beneficiaries in 2018: A case-crossover study \u2014 PLOS Medicine. <p>by Heather McBrien, Daniel Mork, Vivian Do, Marianthi-Anna Kioumourtzoglou, Joan A. Casey</p>\nBackground <p>In the United States, already-prevalent power outages are increasing in frequency and duration with climate change. Studies from New York State show that power outages may increase hospital",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004923",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004923"
+  },
+  {
+    "type": "roundup",
+    "title": "Is it inside my head? Characterization of sound externalization in schizophrenia",
+    "text": "Is it inside my head? Characterization of sound externalization in schizophrenia \u2014 PLOS ONE. <p>by Laure Fivel, Mathieu Lavandier, Nicolas Grimault, Fabien Perrin, Marine Mondino, Fr\u00e9d\u00e9ric Haesebaert</p>\n\nSchizophrenia has been linked to reality monitoring confusions, particularly misattributions of internal productions to external sources. We hypothesized that these misattributions may be",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345074",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345074"
+  },
+  {
+    "type": "roundup",
+    "title": "Cardiorespiratory fitness attenuates the association between psychosocial stress and cardiometabolic risk \u2013 Results from the SCAPIS population",
+    "text": "Cardiorespiratory fitness attenuates the association between psychosocial stress and cardiometabolic risk \u2013 Results from the SCAPIS population \u2014 PLOS ONE. <p>by Frida Griffin, Jonatan Fridolfsson, Daniel Arvidsson, Ingibj\u00f6rg H. Jonsdottir, Mats B\u00f6rjesson</p>\nAims <p>Low cardiorespiratory fitness (CRF) and high psychosocial stress can contribute to cardiovascular disease. CRF is a strong predictor of cardiovascular outcomes, yet population-based eviden",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345029",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345029"
+  },
+  {
+    "type": "roundup",
+    "title": "Effect of growth hormone adjuvant treatment on oocyte retrieval in patients with poor ovarian response and no viable embryos in previous in vitro fertilization (IVF) cycles",
+    "text": "Effect of growth hormone adjuvant treatment on oocyte retrieval in patients with poor ovarian response and no viable embryos in previous in vitro fertilization (IVF) cycles \u2014 PeerJ. Background\n               This study aimed to evaluate the efficacy of growth hormone (GH) as an adjuvant treatment for enhancing embryo quantity in patients with poor ovarian response (POR) who previously had no viable embryos in in vitro fertilization (IVF) cycles.",
+    "paper_id": "https://peerj.com/articles/21000",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/21000"
+  },
+  {
+    "type": "roundup",
+    "title": "Effect of the interpregnancy interval after early pregnancy loss on pregnancy outcomes after subsequent embryo transfer: a retrospective cohort study",
+    "text": "Effect of the interpregnancy interval after early pregnancy loss on pregnancy outcomes after subsequent embryo transfer: a retrospective cohort study \u2014 PeerJ. Background\n               After early pregnancy loss (EPL), couples often seek counselling on how long to wait before attempting to conceive again. However, the optimal interpregnancy interval (IPI) between EPL and the next pregnancy is controversial. Additionally, studies on the impact of the IPI f",
+    "paper_id": "https://peerj.com/articles/20949",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/20949"
+  },
+  {
+    "type": "roundup",
+    "title": "Transcriptome analysis reveals heat stress-responsive genes in octoploid strawberry seedlings and expression pattern analysis of FaHSF gene family under heat stress",
+    "text": "Transcriptome analysis reveals heat stress-responsive genes in octoploid strawberry seedlings and expression pattern analysis of FaHSF gene family under heat stress \u2014 PeerJ. Extreme high temperatures severely affect the cultivation of octoploid strawberry seedlings. However, the molecular mechanisms of heat stress response in strawberry seedlings remain unclear. The results demonstrated that when strawberry seedlings were subjected to 40\u00a0\u00b0C treatment for 6 hours, the pr",
+    "paper_id": "https://peerj.com/articles/20932",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/20932"
+  },
+  {
+    "type": "roundup",
+    "title": "Development and validation of early-stage and progression prediction models for chronic kidney disease: a retrospective study",
+    "text": "Development and validation of early-stage and progression prediction models for chronic kidney disease: a retrospective study \u2014 PeerJ. Objectives\nChronic kidney disease (CKD) poses a significant public health burden. This study aimed to evaluate the associations between clinical laboratory indices and CKD and to develop prediction and  prognostic models for CKD risk assessment and disease progression.\n\n\nDesign & Methods\nBetween Jan",
+    "paper_id": "https://peerj.com/articles/20931",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/20931"
+  },
+  {
+    "type": "roundup",
+    "title": "Clinical potential and challenges of spatially profiling tumor-infiltrating lymphocytes in early-stage breast cancer",
+    "text": "Clinical potential and challenges of spatially profiling tumor-infiltrating lymphocytes in early-stage breast cancer \u2014 PLOS Medicine. <p>by David B. Page, Michael Simanonok, Douglas A. Hanes, Alan Su</p>\n\nDigitally automated spatial profiling of immune-tumor cell interactions using multispectral immunofluorescence holds promise as a biomarker to predict outcomes in early-stage breast cancer, but prospective validation and harmoniz",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004979",
+    "journal": "PLOS Medicine",
+    "score": 0.803,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004979"
+  },
+  {
+    "type": "roundup",
+    "title": "Quantify unmet medical need across the disease landscape \u2013 A large language model-based methodology",
+    "text": "Quantify unmet medical need across the disease landscape \u2013 A large language model-based methodology \u2014 PLOS Medicine. <p>by Elliott W. Sharp, Nicholas Fragola, Charlotte Blewitt, Matthew Goddeeris, Lee Lancashire, Charlie Hempstead, David C. Fajgenbaum</p>\nBackground <p>Despite the ultimate goal of medical researchers and funders being to maximize patient benefit, there is no systematic process for quantifying unme",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004798",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004798"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

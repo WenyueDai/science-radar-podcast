@@ -1,0 +1,158 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Precision cutaneous stimulation in freely moving mice
+============================================================
+Precision cutaneous stimulation in freely moving mice — eLife. Somatosensation connects animals to their immediate environment, shaping critical behaviors essential for adaptation, learning, and survival. Probing the relationships between somatosensory inputs and behavior in mice presents substantial challenges, primarily due to the practical difficulties of de
+
+============================================================
+[ROUNDUP] Cell type-specific network analysis in Diversity Outbred mice identifies genes potentially responsible for human bone mineral density GWAS associations
+============================================================
+Cell type-specific network analysis in Diversity Outbred mice identifies genes potentially responsible for human bone mineral density GWAS associations — eLife. Genome-wide association studies (GWASs) have identified many sources of genetic variation associated with bone mineral density (BMD), a clinical predictor of fracture risk and osteoporosis. Aside from the identification of causal genes, other difficult challenges to informing GWAS include characteri
+
+============================================================
+[ROUNDUP] Immune evasive DNA donors and recombinases license kilobase-scale writing
+============================================================
+Immune evasive DNA donors and recombinases license kilobase-scale writing — Nature News. <p>Nature, Published online: 11 March 2026; <a href="https://www.nature.com/articles/s41586-026-10241-z">doi:10.1038/s41586-026-10241-z</a></p>INSTALL overcomes fundamental challenges for DNA delivery and integration methods by synergizing immune-stealth nucleic acids with recombinases to enable kil
+
+============================================================
+[ROUNDUP] How an all-female fish species defies evolutionary expectations
+============================================================
+How an all-female fish species defies evolutionary expectations — Nature News. <p>Nature, Published online: 11 March 2026; <a href="https://www.nature.com/articles/d41586-026-00493-0">doi:10.1038/d41586-026-00493-0</a></p>Asexual reproduction should be an evolutionary dead end. A study of asexual fish shows that a genetic ‘copy and paste’ helps to overcome the predicted costs
+
+============================================================
+[ROUNDUP] This fish shouldn’t exist — the weird genetics of clonal vertebrates
+============================================================
+This fish shouldn’t exist — the weird genetics of clonal vertebrates — Nature News. <p>Nature, Published online: 11 March 2026; <a href="https://www.nature.com/articles/d41586-026-00798-0">doi:10.1038/d41586-026-00798-0</a></p>A study reveals how the asexual Amazon molly defies evolutionary expectations — plus, evidence of what might be powering superluminous supernovae.
+
+============================================================
+[ROUNDUP] Using mosquitoes to vaccinate bats could curb the spread of deadly diseases
+============================================================
+Using mosquitoes to vaccinate bats could curb the spread of deadly diseases — Nature News. <p>Nature, Published online: 11 March 2026; <a href="https://www.nature.com/articles/d41586-026-00795-3">doi:10.1038/d41586-026-00795-3</a></p>But scientists say there are practical and ethical challenges to overcome before the strategy could be deployed in real-world settings.
+
+============================================================
+[ROUNDUP] Deep learning–driven image captioning: Progress through transformers and large language models
+============================================================
+Deep learning–driven image captioning: Progress through transformers and large language models — PLOS ONE. <p>by Priyanka Panchal, Vishal Polara, Siddaraj U, Abdullah Baz, Shobhit K. Patel</p>
+
+This paper provides a novel deep learning model for captioning of images by using an advanced vision transformer architecture with a powerful LLM. Proposed models show a significant improvement over traditional CN
+
+============================================================
+[ROUNDUP] Understanding climate refugees from educators’ perspectives: Social studies teachers’ views
+============================================================
+Understanding climate refugees from educators’ perspectives: Social studies teachers’ views — PLOS ONE. <p>by Leyla Donmez Bayrakci, Fatih Ozdemir</p>
+
+This study aimed to examine social studies teachers’ knowledge, attitudes, and approaches regarding the concept of climate refugees. Employing a phenomenological design within qualitative research, semi-structured interviews were conducted with volunte
+
+============================================================
+[ROUNDUP] Cardenolide toxin diversity impacts monarch butterfly growth and sequestration
+============================================================
+Cardenolide toxin diversity impacts monarch butterfly growth and sequestration — eLife. In coevolutionary interactions, host plants accrue novel chemical defenses that specialist herbivores counter by detoxification and sometimes sequestration. We recently found unusual nitrogen- and sulfur-containing (N,S-) cardenolides in some milkweeds—highly toxic compounds that monarch butterflies
+
+============================================================
+[ROUNDUP] Self-association enhances early attentional selection through automatic prioritization of socially salient signals
+============================================================
+Self-association enhances early attentional selection through automatic prioritization of socially salient signals — eLife. Efficiently processing self-related information is critical for cognition, yet the earliest mechanisms enabling this self-prioritization in humans remain unclear. By combining a temporal order judgement task with computational modeling based on the Theory of Visual Attention (TVA), we show how mere,
+
+============================================================
+[ROUNDUP] Thalamic reticular neurons provide cell type-specific modulation of sound processing in the auditory thalamus
+============================================================
+Thalamic reticular neurons provide cell type-specific modulation of sound processing in the auditory thalamus — PLOS Biology. <p>by Solymar Rolón-Martínez, Austin J. Mendoza, Christopher F. Angeloni, Nathan W. Vogler, Audrey C. Drotos, Mark Aizenberg, Ruoyi Chen, Kaylie Vu, Julie S. Haas, Maria N. Geffen</p>
+
+Inhibition plays an important role in controlling the flow and processing of auditory information throughout the ce
+
+============================================================
+[ROUNDUP] Impacts of parental age and inbreeding on fitness in a wild insect
+============================================================
+Impacts of parental age and inbreeding on fitness in a wild insect — PLOS Biology. <p>by Tom Tregenza, Rolando Rodríguez-Muñoz, Alfredo F. Ojanguren, Paul Hopwood, Jelle J. Boonekamp</p>
+
+Parental age and inbreeding have both been shown to have substantial fitness effects in laboratory experiments and in observations of wild animals. These demographic effects are likely to be stro
+
+============================================================
+[ROUNDUP] The retrieval of previously learned motor memories is facilitated by the reinstatement of default mode network manifold structures
+============================================================
+The retrieval of previously learned motor memories is facilitated by the reinstatement of default mode network manifold structures — PLOS Biology. <p>by Ali Rezaei, Corson N. Areshenkoff, Daniel J. Gale, Emily R. Oby, Jonathan Smallwood, J. Randall Flanagan, Jeffrey D. Wammes, Jason P. Gallivan</p>
+
+Motor learning induces alterations in neural activity that can persist long after the effects of such learning have faded. These persistent neural
+
+============================================================
+[ROUNDUP] <i>Cis</i>-regulatory evolution of Wnt family genes contributes to a morphological difference between silkworm species
+============================================================
+<i>Cis</i>-regulatory evolution of Wnt family genes contributes to a morphological difference between silkworm species — PLOS Biology. <p>by Kenta Tomihara, Ana Pinharanda, Young Mi Kwon, Andrew M. Taverner, Laura S. Kors, Matthew L. Aardema, Julia C. Holder, Lin Poyraz, Takashi Kiuchi, Peter Andolfatto</p>
+
+Closely related species often exhibit distinct morphologies that can contribute to species-specific adaptations and reproduct
+
+============================================================
+[ROUNDUP] The association between power outages and cardiovascular and respiratory hospitalizations among US Medicare beneficiaries in 2018: A case-crossover study
+============================================================
+The association between power outages and cardiovascular and respiratory hospitalizations among US Medicare beneficiaries in 2018: A case-crossover study — PLOS Medicine. <p>by Heather McBrien, Daniel Mork, Vivian Do, Marianthi-Anna Kioumourtzoglou, Joan A. Casey</p>
+Background <p>In the United States, already-prevalent power outages are increasing in frequency and duration with climate change. Studies from New York State show that power outages may increase hospital
+
+============================================================
+[ROUNDUP] Is it inside my head? Characterization of sound externalization in schizophrenia
+============================================================
+Is it inside my head? Characterization of sound externalization in schizophrenia — PLOS ONE. <p>by Laure Fivel, Mathieu Lavandier, Nicolas Grimault, Fabien Perrin, Marine Mondino, Frédéric Haesebaert</p>
+
+Schizophrenia has been linked to reality monitoring confusions, particularly misattributions of internal productions to external sources. We hypothesized that these misattributions may be
+
+============================================================
+[ROUNDUP] Cardiorespiratory fitness attenuates the association between psychosocial stress and cardiometabolic risk – Results from the SCAPIS population
+============================================================
+Cardiorespiratory fitness attenuates the association between psychosocial stress and cardiometabolic risk – Results from the SCAPIS population — PLOS ONE. <p>by Frida Griffin, Jonatan Fridolfsson, Daniel Arvidsson, Ingibjörg H. Jonsdottir, Mats Börjesson</p>
+Aims <p>Low cardiorespiratory fitness (CRF) and high psychosocial stress can contribute to cardiovascular disease. CRF is a strong predictor of cardiovascular outcomes, yet population-based eviden
+
+============================================================
+[ROUNDUP] Effect of growth hormone adjuvant treatment on oocyte retrieval in patients with poor ovarian response and no viable embryos in previous in vitro fertilization (IVF) cycles
+============================================================
+Effect of growth hormone adjuvant treatment on oocyte retrieval in patients with poor ovarian response and no viable embryos in previous in vitro fertilization (IVF) cycles — PeerJ. Background
+               This study aimed to evaluate the efficacy of growth hormone (GH) as an adjuvant treatment for enhancing embryo quantity in patients with poor ovarian response (POR) who previously had no viable embryos in in vitro fertilization (IVF) cycles.
+
+============================================================
+[ROUNDUP] Effect of the interpregnancy interval after early pregnancy loss on pregnancy outcomes after subsequent embryo transfer: a retrospective cohort study
+============================================================
+Effect of the interpregnancy interval after early pregnancy loss on pregnancy outcomes after subsequent embryo transfer: a retrospective cohort study — PeerJ. Background
+               After early pregnancy loss (EPL), couples often seek counselling on how long to wait before attempting to conceive again. However, the optimal interpregnancy interval (IPI) between EPL and the next pregnancy is controversial. Additionally, studies on the impact of the IPI f
+
+============================================================
+[ROUNDUP] Transcriptome analysis reveals heat stress-responsive genes in octoploid strawberry seedlings and expression pattern analysis of FaHSF gene family under heat stress
+============================================================
+Transcriptome analysis reveals heat stress-responsive genes in octoploid strawberry seedlings and expression pattern analysis of FaHSF gene family under heat stress — PeerJ. Extreme high temperatures severely affect the cultivation of octoploid strawberry seedlings. However, the molecular mechanisms of heat stress response in strawberry seedlings remain unclear. The results demonstrated that when strawberry seedlings were subjected to 40 °C treatment for 6 hours, the pr
+
+============================================================
+[ROUNDUP] Development and validation of early-stage and progression prediction models for chronic kidney disease: a retrospective study
+============================================================
+Development and validation of early-stage and progression prediction models for chronic kidney disease: a retrospective study — PeerJ. Objectives
+Chronic kidney disease (CKD) poses a significant public health burden. This study aimed to evaluate the associations between clinical laboratory indices and CKD and to develop prediction and  prognostic models for CKD risk assessment and disease progression.
+
+
+Design & Methods
+Between Jan
+
+============================================================
+[ROUNDUP] Clinical potential and challenges of spatially profiling tumor-infiltrating lymphocytes in early-stage breast cancer
+============================================================
+Clinical potential and challenges of spatially profiling tumor-infiltrating lymphocytes in early-stage breast cancer — PLOS Medicine. <p>by David B. Page, Michael Simanonok, Douglas A. Hanes, Alan Su</p>
+
+Digitally automated spatial profiling of immune-tumor cell interactions using multispectral immunofluorescence holds promise as a biomarker to predict outcomes in early-stage breast cancer, but prospective validation and harmoniz
+
+============================================================
+[ROUNDUP] Quantify unmet medical need across the disease landscape – A large language model-based methodology
+============================================================
+Quantify unmet medical need across the disease landscape – A large language model-based methodology — PLOS Medicine. <p>by Elliott W. Sharp, Nicholas Fragola, Charlotte Blewitt, Matthew Goddeeris, Lee Lancashire, Charlie Hempstead, David C. Fajgenbaum</p>
+Background <p>Despite the ultimate goal of medical researchers and funders being to maximize patient benefit, there is no systematic process for quantifying unme
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

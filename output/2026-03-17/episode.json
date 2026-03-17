@@ -1,0 +1,241 @@
+{
+  "date": "2026-03-17",
+  "mp3": "output/2026-03-17/podcast_2026-03-17.mp3",
+  "paper_count": 23,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Precision cutaneous stimulation in freely moving mice",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/106033",
+      "score": 1.5,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Cell type-specific network analysis in Diversity Outbred mice identifies genes potentially responsible for human bone mineral density GWAS associations",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/100832",
+      "score": 1.5,
+      "timestamp_sec": 48.864
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Immune evasive DNA donors and recombinases license kilobase-scale writing",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10241-z",
+      "score": 1.179,
+      "timestamp_sec": 78.168
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "How an all-female fish species defies evolutionary expectations",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00493-0",
+      "score": 1.157,
+      "timestamp_sec": 98.52000000000001
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "This fish shouldn\u2019t exist \u2014 the weird genetics of clonal vertebrates",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00798-0",
+      "score": 1.144,
+      "timestamp_sec": 118.92000000000002
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Using mosquitoes to vaccinate bats could curb the spread of deadly diseases",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00795-3",
+      "score": 1.139,
+      "timestamp_sec": 138.816
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Deep learning\u2013driven image captioning: Progress through transformers and large language models",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345012",
+      "score": 1.0,
+      "timestamp_sec": 157.2
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Understanding climate refugees from educators\u2019 perspectives: Social studies teachers\u2019 views",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344777",
+      "score": 1.0,
+      "timestamp_sec": 181.65599999999998
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Cardenolide toxin diversity impacts monarch butterfly growth and sequestration",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109003",
+      "score": 1.0,
+      "timestamp_sec": 205.67999999999998
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Self-association enhances early attentional selection through automatic prioritization of socially salient signals",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/100932",
+      "score": 1.0,
+      "timestamp_sec": 229.65599999999998
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Thalamic reticular neurons provide cell type-specific modulation of sound processing in the auditory thalamus",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003693",
+      "score": 1.0,
+      "timestamp_sec": 254.06399999999996
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Impacts of parental age and inbreeding on fitness in a wild insect",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003713",
+      "score": 1.0,
+      "timestamp_sec": 281.568
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "The retrieval of previously learned motor memories is facilitated by the reinstatement of default mode network manifold structures",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003684",
+      "score": 1.0,
+      "timestamp_sec": 305.76
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "<i>Cis</i>-regulatory evolution of Wnt family genes contributes to a morphological difference between silkworm species",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003605",
+      "score": 1.0,
+      "timestamp_sec": 333.288
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "The association between power outages and cardiovascular and respiratory hospitalizations among US Medicare beneficiaries in 2018: A case-crossover study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004923",
+      "score": 1.0,
+      "timestamp_sec": 362.184
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Is it inside my head? Characterization of sound externalization in schizophrenia",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345074",
+      "score": 1.0,
+      "timestamp_sec": 391.896
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Cardiorespiratory fitness attenuates the association between psychosocial stress and cardiometabolic risk \u2013 Results from the SCAPIS population",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345029",
+      "score": 1.0,
+      "timestamp_sec": 417.24
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Effect of growth hormone adjuvant treatment on oocyte retrieval in patients with poor ovarian response and no viable embryos in previous in vitro fertilization (IVF) cycles",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/21000",
+      "score": 1.0,
+      "timestamp_sec": 446.928
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Effect of the interpregnancy interval after early pregnancy loss on pregnancy outcomes after subsequent embryo transfer: a retrospective cohort study",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/20949",
+      "score": 1.0,
+      "timestamp_sec": 473.808
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "Transcriptome analysis reveals heat stress-responsive genes in octoploid strawberry seedlings and expression pattern analysis of FaHSF gene family under heat stress",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/20932",
+      "score": 1.0,
+      "timestamp_sec": 501.62399999999997
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "Development and validation of early-stage and progression prediction models for chronic kidney disease: a retrospective study",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/20931",
+      "score": 1.0,
+      "timestamp_sec": 529.3199999999999
+    },
+    {
+      "index": 23,
+      "type": "roundup",
+      "title": "Clinical potential and challenges of spatially profiling tumor-infiltrating lymphocytes in early-stage breast cancer",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004979",
+      "score": 0.803,
+      "timestamp_sec": 555.3839999999999
+    },
+    {
+      "index": 24,
+      "type": "roundup",
+      "title": "Quantify unmet medical need across the disease landscape \u2013 A large language model-based methodology",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004798",
+      "score": 0.5,
+      "timestamp_sec": 580.56
+    },
+    {
+      "index": 25,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 605.76
+    }
+  ]
+}
