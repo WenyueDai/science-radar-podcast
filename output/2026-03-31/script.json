@@ -1,0 +1,200 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "From reductionism to complex systems: Paradigm shift and knowledge evolution in competitive sports research using BERTopic",
+    "text": "From reductionism to complex systems: Paradigm shift and knowledge evolution in competitive sports research using BERTopic \u2014 PLOS ONE. <p>by Ling Pan</p>\nBackground and purpose <p>With the exponential growth in the volume of competitive sports research, traditional bibliometric methods based on keyword co-occurrence struggle to accurately capture the field's deep semantic structure and evolutionary dynamics. This study aims to empl",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346022",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346022"
+  },
+  {
+    "type": "roundup",
+    "title": "Health-related quality of life in children with HIV/AIDS: Child and parent perspectives at a tertiary ART clinic in Kathmandu, Nepal",
+    "text": "Health-related quality of life in children with HIV/AIDS: Child and parent perspectives at a tertiary ART clinic in Kathmandu, Nepal \u2014 PLOS ONE. <p>by Kamala Budha, Prakash Ghimire</p>\nBackground <p>Children living with human immunodeficiency virus/acquired immunodeficiency syndrome (HIV/AIDS) face persistent physical, emotional, and social challenges that can reduce their quality of life. In Nepal, evidence describing the health-related qua",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346012",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346012"
+  },
+  {
+    "type": "roundup",
+    "title": "Development of X-SIAGA: A disease X and outbreak preparedness intervention for indigenous households in Selangor, Malaysia",
+    "text": "Development of X-SIAGA: A disease X and outbreak preparedness intervention for indigenous households in Selangor, Malaysia \u2014 PLOS ONE. <p>by Ameerah Su\u2019ad Abdul Shakor, Mariam Mohamad, Khalid Ibrahim, Izandis Mohamad Sayed</p>\nBackground <p>The indigenous people of Peninsular Malaysia, locally known as the Orang Asli, are vulnerable to outbreaks and novel threats such as Disease X. This is due to socioeconomic challenges, limited h",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345785",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345785"
+  },
+  {
+    "type": "roundup",
+    "title": "Redirecting current solves a shadowy problem faced by perovskite solar cells",
+    "text": "Redirecting current solves a shadowy problem faced by perovskite solar cells \u2014 Nature News. <p>Nature, Published online: 25 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00921-1\">doi:10.1038/d41586-026-00921-1</a></p>Solar modules made from perovskite materials have a stability issue that arises when they are placed in partial shade. This long-standing problem has now bee",
+    "paper_id": "https://www.nature.com/articles/d41586-026-00921-1",
+    "journal": "Nature News",
+    "score": 1.195,
+    "url": "https://www.nature.com/articles/d41586-026-00921-1"
+  },
+  {
+    "type": "roundup",
+    "title": "Daily briefing: The surprising science behind red-light therapy",
+    "text": "Daily briefing: The surprising science behind red-light therapy \u2014 Nature News. <p>Nature, Published online: 25 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00986-y\">doi:10.1038/d41586-026-00986-y</a></p>Evidence is building that red light can help conditions from hair loss to mouth ulcers. Plus, \u2018zombie\u2019 bacterial cells revived with a genome transplant and h",
+    "paper_id": "https://www.nature.com/articles/d41586-026-00986-y",
+    "journal": "Nature News",
+    "score": 1.176,
+    "url": "https://www.nature.com/articles/d41586-026-00986-y"
+  },
+  {
+    "type": "roundup",
+    "title": "The surprising science behind red-light therapy \u2014 and how it really works",
+    "text": "The surprising science behind red-light therapy \u2014 and how it really works \u2014 Nature News. <p>Nature, Published online: 25 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00878-1\">doi:10.1038/d41586-026-00878-1</a></p>People are buying helmets, face masks, vests and beds that emit long-wavelength light. Beneath the hype, there is some interesting biology.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-00878-1",
+    "journal": "Nature News",
+    "score": 1.141,
+    "url": "https://www.nature.com/articles/d41586-026-00878-1"
+  },
+  {
+    "type": "roundup",
+    "title": "\u2018Continuity over novelty\u2019: why environmental science needs to rethink its focus",
+    "text": "\u2018Continuity over novelty\u2019: why environmental science needs to rethink its focus \u2014 Nature News. <p>Nature, Published online: 25 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00933-x\">doi:10.1038/d41586-026-00933-x</a></p>With government funding in decline, researchers should prioritize data collation and training the next generation of scientists.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-00933-x",
+    "journal": "Nature News",
+    "score": 1.135,
+    "url": "https://www.nature.com/articles/d41586-026-00933-x"
+  },
+  {
+    "type": "roundup",
+    "title": "Psilocin fosters neuroplasticity in iPSC-derived human cortical neurons",
+    "text": "Psilocin fosters neuroplasticity in iPSC-derived human cortical neurons \u2014 eLife. Psilocybin is studied as innovative medication in anxiety, substance abuse and treatment-resistant depression. Animal studies show that psychedelics promote neuronal plasticity by strengthening synaptic responses and protein synthesis. However, the exact molecular and cellular changes induced by psi",
+    "paper_id": "https://elifesciences.org/articles/104006",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/104006"
+  },
+  {
+    "type": "roundup",
+    "title": "Death receptor 6 does not regulate axon degeneration and Schwann cell injury responses during Wallerian degeneration",
+    "text": "Death receptor 6 does not regulate axon degeneration and Schwann cell injury responses during Wallerian degeneration \u2014 eLife. Axon degeneration (AxD), accompanied by glial remodeling, is a pathological hallmark of many neurodegenerative diseases, leading to the disruption of neuronal connectivity. Understanding the mechanisms in neurons and glia that regulate AxD is essential for developing therapeutic strategies to preven",
+    "paper_id": "https://elifesciences.org/articles/108389",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/108389"
+  },
+  {
+    "type": "roundup",
+    "title": "Human exploration strategically balances approaching and avoiding uncertainty",
+    "text": "Human exploration strategically balances approaching and avoiding uncertainty \u2014 eLife. A central purpose of exploration is to reduce goal-relevant uncertainty. Consequently, individuals often explore by focusing on areas of uncertainty in the environment. However, people sometimes adopt the opposite strategy, one of avoiding uncertainty. How are the conflicting tendencies to approach",
+    "paper_id": "https://elifesciences.org/articles/94231",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/94231"
+  },
+  {
+    "type": "roundup",
+    "title": "Nociceptor neurons control pollution-mediated neutrophilic asthma",
+    "text": "Nociceptor neurons control pollution-mediated neutrophilic asthma \u2014 eLife. The immune and sensory nervous systems, having evolved in parallel, communicate through shared receptors and transmitters to maintain homeostasis and respond to both external and internal disruptions. Although neural responses often confer protective benefits, they can also exacerbate inflammation d",
+    "paper_id": "https://elifesciences.org/articles/101988",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/101988"
+  },
+  {
+    "type": "roundup",
+    "title": "Structures of the human glucose-6-phosphate transporter provide insights into its transport cycle and substrate recognition",
+    "text": "Structures of the human glucose-6-phosphate transporter provide insights into its transport cycle and substrate recognition \u2014 PLOS Biology. <p>by Wanqin Zhang, Haizhan Jiao, Jingchuan Xue, Jiao Zhou, Yuye Wang, Qi Pan, Yuting Guo, Geshu Zhang, Hongli Hu, Xue Guo</p>\n\nThe human glucose-6-phosphate transporter (G6PT/SLC37A4) mediates the translocation of glucose-6-phosphate (G6P) from the cytoplasm into the endoplasmic reticulum, a proces",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003731",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003731"
+  },
+  {
+    "type": "roundup",
+    "title": "Social compatibility in opposite-sex prairie vole pairs is modulated by early-life sleep experience",
+    "text": "Social compatibility in opposite-sex prairie vole pairs is modulated by early-life sleep experience \u2014 PLOS Biology. <p>by Lezio S. Bueno-Junior, Noah E. P. Milman, Carolyn E. Jones-Tinsley, Anjesh Ghimire, Peyton T. Wickham, Yujia Hu, Bing Ye, Miranda M. Lim, Brendon O. Watson</p>\n\nStudies of human social behavior indicate stronger social affinity in matched-neurotype dyads (e.g., two individuals with autism or t",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003434",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003434"
+  },
+  {
+    "type": "roundup",
+    "title": "Neuronal populations across the cortex underlie discrete, categorical, and subjective representations of visual durations",
+    "text": "Neuronal populations across the cortex underlie discrete, categorical, and subjective representations of visual durations \u2014 PLOS Biology. <p>by Valeria Centanino, Gianfranco Fortunato, Domenica Bueti</p>\n\nThe neural processing of subsecond durations recruits a wide network of areas. Although unimodal tuning has been shown in many of these regions, its role and link to perception remain unclear. Here, we used 7T functional MRI while pa",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003704",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003704"
+  },
+  {
+    "type": "roundup",
+    "title": "Self-allocation bias in performance-based cooperative decisions is driven by self-interest rather than distorted performance encoding",
+    "text": "Self-allocation bias in performance-based cooperative decisions is driven by self-interest rather than distorted performance encoding \u2014 PLOS Biology. <p>by Sihui Zhang, Xue Yong, Yina Ma, Christoph W. Korn</p>\n\nHuman cooperation often involves performing joint tasks, where success relies on how collective rewards are allocated among cooperating parties based on their individual performance and contribution to task outcomes. However, it remains un",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003694",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003694"
+  },
+  {
+    "type": "roundup",
+    "title": "Effect of enhanced peer PrEP referral with HIV self-testing delivery among young Kenyan women: A randomized controlled trial of peer networks",
+    "text": "Effect of enhanced peer PrEP referral with HIV self-testing delivery among young Kenyan women: A randomized controlled trial of peer networks \u2014 PLOS Medicine. <p>by Katrina F. Ortblad, Njeri Wairimu, Carlos Culquichicon, Irene Njeru, Rachel C. Malen, Adriana M. Reedy, Obinna Ekwunife, Maureen McGowan, Margaret Mwangi, Agata Muthoni, Dorcas Kiboi, Sarah Njoroge, Fei Gao, Jared M. Baeten, Kenneth Ngure</p>\nBackground <p>Adolescent girls and young women (AGY",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005023",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005023"
+  },
+  {
+    "type": "roundup",
+    "title": "Early aspirin withdrawal versus dual antiplatelet therapy in high-risk patients after percutaneous coronary intervention: Meta-analysis of randomized trials",
+    "text": "Early aspirin withdrawal versus dual antiplatelet therapy in high-risk patients after percutaneous coronary intervention: Meta-analysis of randomized trials \u2014 PLOS Medicine. <p>by Eliano P. Navarese, Paul Gurbel, Udaya Tantry, Giuseppe Talanas, Klaudyna Grzelakowska, Julia Umi\u0144ska, Young-Hoon Jeong, Kevin Bliden, Safi U. Khan, Jacek Kubica, Timothy D. Henry, Michael E. Farkouh, Dean J. Kereiakes</p>\nBackground <p>Patients at high ischemic or bleeding risk after percutan",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004995",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004995"
+  },
+  {
+    "type": "roundup",
+    "title": "Physical activity across mid-life and mortality outcomes in Australian women: A target trial emulation using a prospective cohort",
+    "text": "Physical activity across mid-life and mortality outcomes in Australian women: A target trial emulation using a prospective cohort \u2014 PLOS Medicine. <p>by Binh Nguyen, Katherine B. Owen, Mengyun Luo, Wendy Brown, Gregore I. Mielke, Philip J. Clare, Ding Ding</p>\nBackground <p>Long-term causal evidence comparing different physical activity patterns and mortality outcomes is needed. Using observational data to emulate an RCT, this study compared d",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004976",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004976"
+  },
+  {
+    "type": "roundup",
+    "title": "Policy stringency during the COVID-19 pandemic and healthcare services utilization in China: An interrupted time-series analysis",
+    "text": "Policy stringency during the COVID-19 pandemic and healthcare services utilization in China: An interrupted time-series analysis \u2014 PLOS Medicine. <p>by Hong Xiao, Guanin Bai, Fang Liu, Yuechong Cui, Joseph M. Unger</p>\nBackground <p>The COVID-19 pandemic has profoundly impacted healthcare systems worldwide, with China presenting a unique case. As the first country to report COVID-19 cases and the last to lift its stringent Zero-COVID policy,",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004672",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004672"
+  },
+  {
+    "type": "roundup",
+    "title": "Testing the feasibility of blood flow restriction training to enhance the HEALTH benefits of exercise in individuals with type 2 diabetes (BOOST-HEALTH Trial): Study Protocol",
+    "text": "Testing the feasibility of blood flow restriction training to enhance the HEALTH benefits of exercise in individuals with type 2 diabetes (BOOST-HEALTH Trial): Study Protocol \u2014 PLOS ONE. <p>by Amy M Thomson, Seth F McCarthy, Jamie F Burr, Jonathan P Little, Maryam Kebbe, Martin S\u00e9n\u00e9chal</p>\nIntroduction <p>Individuals with type 2 diabetes (T2D) display reduced cardiorespiratory fitness, a strong predictor of premature mortality and T2D-related complications. Aerobic training (AT) en",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346176",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346176"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

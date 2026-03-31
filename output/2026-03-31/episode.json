@@ -1,0 +1,214 @@
+{
+  "date": "2026-03-31",
+  "mp3": "output/2026-03-31/podcast_2026-03-31.mp3",
+  "paper_count": 20,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "From reductionism to complex systems: Paradigm shift and knowledge evolution in competitive sports research using BERTopic",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346022",
+      "score": 1.5,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Health-related quality of life in children with HIV/AIDS: Child and parent perspectives at a tertiary ART clinic in Kathmandu, Nepal",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346012",
+      "score": 1.5,
+      "timestamp_sec": 52.919999999999995
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Development of X-SIAGA: A disease X and outbreak preparedness intervention for indigenous households in Selangor, Malaysia",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345785",
+      "score": 1.5,
+      "timestamp_sec": 79.968
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Redirecting current solves a shadowy problem faced by perovskite solar cells",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00921-1",
+      "score": 1.195,
+      "timestamp_sec": 106.46400000000001
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Daily briefing: The surprising science behind red-light therapy",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00986-y",
+      "score": 1.176,
+      "timestamp_sec": 127.58400000000002
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "The surprising science behind red-light therapy \u2014 and how it really works",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00878-1",
+      "score": 1.141,
+      "timestamp_sec": 148.104
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "\u2018Continuity over novelty\u2019: why environmental science needs to rethink its focus",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00933-x",
+      "score": 1.135,
+      "timestamp_sec": 168.216
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Psilocin fosters neuroplasticity in iPSC-derived human cortical neurons",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/104006",
+      "score": 1.0,
+      "timestamp_sec": 187.344
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Death receptor 6 does not regulate axon degeneration and Schwann cell injury responses during Wallerian degeneration",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108389",
+      "score": 1.0,
+      "timestamp_sec": 211.82399999999998
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Human exploration strategically balances approaching and avoiding uncertainty",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/94231",
+      "score": 1.0,
+      "timestamp_sec": 236.90399999999997
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Nociceptor neurons control pollution-mediated neutrophilic asthma",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/101988",
+      "score": 1.0,
+      "timestamp_sec": 261.28799999999995
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Structures of the human glucose-6-phosphate transporter provide insights into its transport cycle and substrate recognition",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003731",
+      "score": 1.0,
+      "timestamp_sec": 283.67999999999995
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Social compatibility in opposite-sex prairie vole pairs is modulated by early-life sleep experience",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003434",
+      "score": 1.0,
+      "timestamp_sec": 315.33599999999996
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Neuronal populations across the cortex underlie discrete, categorical, and subjective representations of visual durations",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003704",
+      "score": 1.0,
+      "timestamp_sec": 343.29599999999994
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Self-allocation bias in performance-based cooperative decisions is driven by self-interest rather than distorted performance encoding",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003694",
+      "score": 1.0,
+      "timestamp_sec": 371.5679999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Effect of enhanced peer PrEP referral with HIV self-testing delivery among young Kenyan women: A randomized controlled trial of peer networks",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005023",
+      "score": 1.0,
+      "timestamp_sec": 398.87999999999994
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Early aspirin withdrawal versus dual antiplatelet therapy in high-risk patients after percutaneous coronary intervention: Meta-analysis of randomized trials",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004995",
+      "score": 1.0,
+      "timestamp_sec": 431.3999999999999
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Physical activity across mid-life and mortality outcomes in Australian women: A target trial emulation using a prospective cohort",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004976",
+      "score": 1.0,
+      "timestamp_sec": 463.5599999999999
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Policy stringency during the COVID-19 pandemic and healthcare services utilization in China: An interrupted time-series analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004672",
+      "score": 1.0,
+      "timestamp_sec": 492.81599999999986
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "Testing the feasibility of blood flow restriction training to enhance the HEALTH benefits of exercise in individuals with type 2 diabetes (BOOST-HEALTH Trial): Study Protocol",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346176",
+      "score": 1.0,
+      "timestamp_sec": 521.8319999999999
+    },
+    {
+      "index": 22,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 554.5199999999999
+    }
+  ]
+}
