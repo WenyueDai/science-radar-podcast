@@ -1,0 +1,191 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Dynamic modulation of social gaze by sex and familiarity in marmoset dyads
+============================================================
+Dynamic modulation of social gaze by sex and familiarity in marmoset dyads — eLife. Social communication relies on the ability to perceive and interpret the direction of others’ attention, and is commonly conveyed through head orientation and gaze direction in humans and nonhuman primates. However, traditional social gaze experiments in nonhuman primates require restraining head mo
+
+============================================================
+[ROUNDUP] Transforming a fragile protein helix into an ultrastable scaffold via a hierarchical AI and chemistry framework
+============================================================
+Transforming a fragile protein helix into an ultrastable scaffold via a hierarchical AI and chemistry framework — eLife. The rational design of proteins that maintain structural integrity under concurrent thermal, mechanical, and chemical stress remains a challenge in molecular engineering. We present a hierarchical framework that transforms an α-helical domain into an ultrastable scaffold by integrating AI-guided des
+
+============================================================
+[ROUNDUP] Extracellular vesicle-mediated release of bis(monoacylglycerol)phosphate is regulated by LRRK2 and glucocerebrosidase activity
+============================================================
+Extracellular vesicle-mediated release of bis(monoacylglycerol)phosphate is regulated by LRRK2 and glucocerebrosidase activity — eLife. The endolysosomal phospholipid bis(monoacylglycerol)phosphate (BMP) is aberrantly elevated in urine from Parkinson’s patients carrying mutations in leucine-rich repeat kinase 2 (LRRK2) and glucocerebrosidase (GCase). Because BMP resides on, and regulates biogenesis of, endolysosomal intralumenal mem
+
+============================================================
+[ROUNDUP] Peptidoglycan recycling is critical for cell division, cell wall integrity, and β-lactam resistance in <i>Caulobacter crescentus</i>
+============================================================
+Peptidoglycan recycling is critical for cell division, cell wall integrity, and β-lactam resistance in <i>Caulobacter crescentus</i> — eLife. Most bacteria possess a peptidoglycan (PG) sacculus, which is continuously remodeled during cell growth and division. The turnover products generated in this process are typically imported into the cell and reused for PG biosynthesis. While the underlying pathways have been studied intensively in ga
+
+============================================================
+[ROUNDUP] The m<sup>6</sup>Am methyltransferase PCIF1 promotes osteogenic differentiation of mesenchymal stem cells through stabilization of Wnt-related transcripts
+============================================================
+The m<sup>6</sup>Am methyltransferase PCIF1 promotes osteogenic differentiation of mesenchymal stem cells through stabilization of Wnt-related transcripts — PLOS Biology. <p>by Wei Song, Kuan-Jui Su, Zhehui Pan, Zhong Zhang, Qi Yin, Weimin Lin, Linfeng Liu, Yun Gong, Bocheng Liang, Yimeng Cai, Qiwen Li, Hui Shen, Hong-Wen Deng, Quan Yuan</p>
+
+Osteogenesis depends on the self-renewal and differentiation of mesenchymal stem cells (MSCs). Emerging research underscores t
+
+============================================================
+[ROUNDUP] The non-vesicular cholesterol transporter GRAMD1C is a pan-coronavirus antiviral target
+============================================================
+The non-vesicular cholesterol transporter GRAMD1C is a pan-coronavirus antiviral target — PLOS Biology. <p>by Zhelin Su, Zhen Fu, Yichen Yang, Yanan Fu, Jingwen Mo, Juan Xu, Yubei Tan, Yixin Xiang, Yuejun Shi, Shengsong Xie, Limeng Sun, Guiqing Peng</p>
+
+Coronaviruses (CoVs) rely heavily on host lipid metabolism for efficient replication, but the specific host pathways involved remain incompletely def
+
+============================================================
+[ROUNDUP] Emotion regulation success involves systematic gradient-based reconfigurations of large-scale activation patterns in the human brain
+============================================================
+Emotion regulation success involves systematic gradient-based reconfigurations of large-scale activation patterns in the human brain — PLOS Biology. <p>by Ruien Wang, Remi Janet, Carmen Morawetz, Anita Tusche</p>
+
+Emotion regulation is essential for well-being and mental health, yet individuals vary widely in their emotion regulation success. Why? Traditional neuroimaging studies of emotion regulation often focus on localized neural activity or
+
+============================================================
+[ROUNDUP] Urban and rural prevalence of tuberculosis in low- and middle-income countries: A systematic review and meta-analysis
+============================================================
+Urban and rural prevalence of tuberculosis in low- and middle-income countries: A systematic review and meta-analysis — PLOS Medicine. <p>by Seyed Alireza Mortazavi, Nicole A. Swartwood, Nanki Singh, Melike Hazal Can, Hening Cui, Do Kyung Ryuk, Katherine C. Horton, Nicolas A. Menzies, Peter MacPherson</p>
+Background <p>Urban and rural settings differ in key determinants of tuberculosis (TB) burden, including transmission dynamics,
+
+============================================================
+[ROUNDUP] Impact of sugary drink taxes on beverage calories purchased in a national fast food restaurant chain: A quasi-experimental study
+============================================================
+Impact of sugary drink taxes on beverage calories purchased in a national fast food restaurant chain: A quasi-experimental study — PLOS Medicine. <p>by Pasquale E. Rummo, Juan A. Echenique, Erilia Wu, Tod Mijanovich, Sunita M. Desai, Marie A. Bragg, Beth C. Weitzman, Brian Elbel</p>
+Background <p>Sugary drink taxes have been implemented in several U.S. jurisdictions, but we know little about the impact of taxes on calories purchased in restau
+
+============================================================
+[ROUNDUP] Machine learning assisted differentiation of low acuity patients at dispatch: The MADLAD randomized controlled trial
+============================================================
+Machine learning assisted differentiation of low acuity patients at dispatch: The MADLAD randomized controlled trial — PLOS Medicine. <p>by Douglas Nils Spangler, Simon Morelli, David Smekal, Lennart Edmark, Hans Blomberg</p>
+Background <p>Resource Constrained Situations (RCS) at Emergency Medical Dispatch centers where there are more patients requiring an ambulance than there are available ambulances are common. Machine Learning
+
+============================================================
+[ROUNDUP] Referral to treatment times in the National Health Service of England: A five-year analysis of the impact of the COVID-19 Pandemic and socioeconomic deprivation and future implications for Ear, Nose and Throat service delivery
+============================================================
+Referral to treatment times in the National Health Service of England: A five-year analysis of the impact of the COVID-19 Pandemic and socioeconomic deprivation and future implications for Ear, Nose and Throat service delivery — PLOS ONE. <p>by Dimitrios Spinos, Thomas Beech, Jonathan Lee, Christopher Coulson, Laura French, Sheila Greenfield, Ian Litchfield, Paul Nankivell, Richard Allen, Jameel Muzaffar</p>
+Introduction <p>Referral-to-Treatment (RTT) waiting times are a critical indicator of healthcare system efficiency and equity.
+
+============================================================
+[ROUNDUP] The role of personality traits and moral disengagement in academic dishonesty: An analysis of the big five and the dark tetrad
+============================================================
+The role of personality traits and moral disengagement in academic dishonesty: An analysis of the big five and the dark tetrad — PLOS ONE. <p>by Julia Sánchez-García, Jorge Cebrián, Elena Fernández-del-Río, Pedro J. Ramos-Villagrasa</p>
+
+Academic dishonesty – the inclination to cheat, falsify and plagiarise in the academic environment – is a growing concern in society, influenced by multiple psychological factors. This study aims to ex
+
+============================================================
+[ROUNDUP] Urbanization alters soil trace metal enrichment and health risks in the black soil Region of Northeast China
+============================================================
+Urbanization alters soil trace metal enrichment and health risks in the black soil Region of Northeast China — PLOS ONE. <p>by Guanxin Du, Yu Sun, Hongyan Lu, Baiquan Yan, Huimin Dai, Kai Liu, Keke Xu</p>
+
+While urbanization is accelerating across China’s black soil regions, its specific impact on trace metal accumulation in the vulnerable urban-agricultural transition zones remains poorly understood. This study inves
+
+============================================================
+[ROUNDUP] Association between chronic stress and the epigenome: Exploration of psychological and biological stress
+============================================================
+Association between chronic stress and the epigenome: Exploration of psychological and biological stress — PLOS ONE. <p>by Melissa Miller, Robin D. Brown, Cole Krautkramer, Rhea Gogia, Hagen Fritz, Dennis Wylie, Kerry Kinney, Frances A. Champagne</p>
+
+Chronic stress is a predictor of health outcomes. Epigenetic mechanisms such as DNA methylation (DNAm) have been proposed as mediators between stress and health traj
+
+============================================================
+[ROUNDUP] Development and validation of an inflammatory-immune-nutritional integrated scoring system: a novel strategy for predicting postoperative survival in non-small cell lung cancer
+============================================================
+Development and validation of an inflammatory-immune-nutritional integrated scoring system: a novel strategy for predicting postoperative survival in non-small cell lung cancer — PeerJ. Background
+               Accurate prognosis prediction is crucial for managing non-small cell lung cancer (NSCLC). Tumor heterogeneity limits the predictive power of traditional tumor lymph node metastasis (TNM) staging alone. The interplay between inflammation, immunity, and nutrition in the tumor
+
+============================================================
+[ROUNDUP] Enhancing clinical breast examination (CBE) uptake: insights from women in northeastern Peninsular Malaysia
+============================================================
+Enhancing clinical breast examination (CBE) uptake: insights from women in northeastern Peninsular Malaysia — PeerJ. Background
+Clinical breast examination (CBE) is an important component of an early detection strategy for breast cancer in settings where organized screening coverage is limited. This study aimed to determine CBE uptake and its associated factors among women in Kelantan, Northeastern Peninsular Mala
+
+============================================================
+[ROUNDUP] Spatial differentiation and association between ecosystem service value and landscape ecological risk index in Anning River dry valley
+============================================================
+Spatial differentiation and association between ecosystem service value and landscape ecological risk index in Anning River dry valley — PeerJ. To reveal the changes and future states of ecosystem service value (ESV) and landscape ecological risk index (LERI) in typical dry valley ecosystems in the 21st century, this study utilized high-precision land use data combined with ESV assessment, LERI assessment, bivariate spatial autocorrelation,
+
+============================================================
+[ROUNDUP] Kinesiophobia and alexithymia in knee osteoarthritis: association with radiological severity
+============================================================
+Kinesiophobia and alexithymia in knee osteoarthritis: association with radiological severity — PeerJ. Background
+Pain and disability in knee osteoarthritis (KO) are influenced by both structural and psychosocial factors. However, the roles of kinesiophobia and alexithymia in KO remain poorly understood.
+
+
+Objective
+To investigate the relationships among kinesiophobia, alexithymia, and radiographic s
+
+============================================================
+[ROUNDUP] Nanoscale transfer-printed full-colour ultrahigh-resolution quantum dot LEDs
+============================================================
+Nanoscale transfer-printed full-colour ultrahigh-resolution quantum dot LEDs — Nature News. <p>Nature, Published online: 01 April 2026; <a href="https://www.nature.com/articles/s41586-026-10333-w">doi:10.1038/s41586-026-10333-w</a></p>A dual-action force dynamics strategy using a hard silicon template as a nanoimprinting stamp combined with inverted transfer printing is described for the m
+
+============================================================
+[ROUNDUP] Are ultra-processed foods too tasty? Toward a metabolic framework for diet and obesity
+============================================================
+Are ultra-processed foods too tasty? Toward a metabolic framework for diet and obesity — PLOS Medicine. <p>by David S. Ludwig</p>
+
+A recent lawsuit against “hyper-palatable” ultra-processed foods has amplified controversies over its effects on obesity-related chronic disease. Addressing this public health crisis requires a new framework, centered on the metabolic effects of food.
+
+In this Perspective,
+
+============================================================
+[ROUNDUP] ‘Replication games’ test the robustness of social-science studies
+============================================================
+‘Replication games’ test the robustness of social-science studies — Nature News. <p>Nature, Published online: 01 April 2026; <a href="https://www.nature.com/articles/d41586-026-00684-9">doi:10.1038/d41586-026-00684-9</a></p>A large-scale assessment of the reproducibility and robustness of 110 articles published in leading economics and political-science journals finds that more
+
+============================================================
+[ROUNDUP] An Arctic Road Trip Brings Vital Underground Networks into View
+============================================================
+An Arctic Road Trip Brings Vital Underground Networks into View — Quanta Magazine. A vast meshwork of soil-bound fungi governs life aboveground. In Alaska, and at field sites around the world, researchers are racing to understand exactly how, with essential stores of carbon at stake.            <p>The post <a href="https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-un
+
+============================================================
+[ROUNDUP] Dissecting PGE<sub>2</sub>-driven inhibition of T cell activation using single-cell multi-omic and inflammatory bowel disease genetic association analysis
+============================================================
+Dissecting PGE<sub>2</sub>-driven inhibition of T cell activation using single-cell multi-omic and inflammatory bowel disease genetic association analysis — Nature Communications. <p>Nature Communications, Published online: 07 April 2026; <a href="https://www.nature.com/articles/s41467-026-71383-2">doi:10.1038/s41467-026-71383-2</a></p>Prostaglandin E2 (PGE2) and TGF-β can affect the function and phenotype of Th17 cells. Here the authors used single-cell multi-omics to profil
+
+============================================================
+[ROUNDUP] Cutting aircraft soot emissions is not enough to curb contrail clouds
+============================================================
+Cutting aircraft soot emissions is not enough to curb contrail clouds — Nature News. <p>Nature, Published online: 01 April 2026; <a href="https://www.nature.com/articles/d41586-026-00931-z">doi:10.1038/d41586-026-00931-z</a></p>The contrail clouds formed by jet engines contribute to global warming. In-flight measurements of the particles emitted and contrails produced by a passenger
+
+============================================================
+[ROUNDUP] Reproducibility and robustness of economics and political science research
+============================================================
+Reproducibility and robustness of economics and political science research — Nature News. <p>Nature, Published online: 01 April 2026; <a href="https://www.nature.com/articles/s41586-026-10251-x">doi:10.1038/s41586-026-10251-x</a></p>Robustness checks and reproduction of analyses with existing and updated data based on 110 articles in economics and political science journals with data and
+
+============================================================
+[ROUNDUP] New Advances Bring the Era of Quantum Computers Closer Than Ever
+============================================================
+New Advances Bring the Era of Quantum Computers Closer Than Ever — Quanta Magazine. Two research groups say they have significantly reduced the amount of qubits and time required to crack common online security technologies.            <p>The post <a href="https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-computers-closer-than-ever-20260403/" target="_blank">New
+
+============================================================
+[ROUNDUP] Lignocellulose-mediated selection of potential halophilic PET-degrading enzymes from mangrove soil
+============================================================
+Lignocellulose-mediated selection of potential halophilic PET-degrading enzymes from mangrove soil — Nature Communications. <p>Nature Communications, Published online: 07 April 2026; <a href="https://www.nature.com/articles/s41467-026-71548-z">doi:10.1038/s41467-026-71548-z</a></p>Mangroves are increasingly exposed to plastic pollution. In this study, the authors performed microcosm experiments to show that mangrove soil
+
+============================================================
+[ROUNDUP] Scalable Ni‑driven synthesis of Pt single‑site catalysts for hydrogen evolution
+============================================================
+Scalable Ni‑driven synthesis of Pt single‑site catalysts for hydrogen evolution — Nature Communications. <p>Nature Communications, Published online: 07 April 2026; <a href="https://www.nature.com/articles/s41467-026-71498-6">doi:10.1038/s41467-026-71498-6</a></p>Platinum-based catalysts are essential for sustainable hydrogen production. Here, the authors report a scalable synthesis of a low-platinum ca
+
+============================================================
+[ROUNDUP] Specificity and recognition of the ADP-ribosyl-ubiquitin modification in the DNA damage response
+============================================================
+Specificity and recognition of the ADP-ribosyl-ubiquitin modification in the DNA damage response — PLOS Biology. <p>by Chatrin Chatrin, Kang Zhu, Michael D. R. Simmons, Lucy Maginn, Kira Schützenhofer, Yang Lu, Nina Đuki, Sven Wijngaarden, Max S. Kloet, Katarzyna Wiktoria Kliza, Gerbrand J. van der Heden van Noort, Dmitri V. Filippov, Dragana Ahel, Rebecca Smith, Ivan Ahel</p>
+
+ADP-ribosylation (ADPr) is a pos
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
