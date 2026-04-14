@@ -1,0 +1,245 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Challenges in replay detection by TDLM in post-encoding resting state",
+    "text": "Challenges in replay detection by TDLM in post-encoding resting state \u2014 eLife. Using temporally delayed linear modeling (TDLM) and magnetoencephalography (MEG), we investigated whether items associated with an underlying graph structure are replayed during a post-learning resting state. In these same data, we previously provided evidence for replay during online (non-rest) mem",
+    "paper_id": "https://elifesciences.org/articles/108023",
+    "journal": "eLife",
+    "score": 2.0,
+    "url": "https://elifesciences.org/articles/108023"
+  },
+  {
+    "type": "roundup",
+    "title": "Fitness drivers of division of labor in vertebrates",
+    "text": "Fitness drivers of division of labor in vertebrates \u2014 eLife. Although division of labor as a means to increase productivity is a common feature in animal social groups, most previous studies have focused almost exclusively on eusocial insects with extreme task partitioning. Empirical evidence of division of labor in vertebrates is scarce, largely because we l",
+    "paper_id": "https://elifesciences.org/articles/105501",
+    "journal": "eLife",
+    "score": 2.0,
+    "url": "https://elifesciences.org/articles/105501"
+  },
+  {
+    "type": "roundup",
+    "title": "Daily briefing: AI spread information about an obviously made-up disease",
+    "text": "Daily briefing: AI spread information about an obviously made-up disease \u2014 Nature News. <p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01140-4\">doi:10.1038/d41586-026-01140-4</a></p>AI chatbots informed users of the symptoms of \u2018bixonimania\u2019 after scientists published just two fake preprints. Plus, different psychedelics work in surprisi",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01140-4",
+    "journal": "Nature News",
+    "score": 1.696,
+    "url": "https://www.nature.com/articles/d41586-026-01140-4"
+  },
+  {
+    "type": "roundup",
+    "title": "Identification and comparison of orthologous cell types from primate embryoid bodies shows limits of marker gene transferability",
+    "text": "Identification and comparison of orthologous cell types from primate embryoid bodies shows limits of marker gene transferability \u2014 eLife. The identification of cell types remains a major challenge. Even after a decade of single-cell RNA sequencing (scRNA-seq), reasonable cell type annotations almost always include manual non-automated steps. The identification of orthologous cell types across species complicates matters even more, but",
+    "paper_id": "https://elifesciences.org/articles/105398",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/105398"
+  },
+  {
+    "type": "roundup",
+    "title": "Colonization amplification despite limited in-hospital transmission: A modeling study",
+    "text": "Colonization amplification despite limited in-hospital transmission: A modeling study \u2014 PLOS Medicine. <p>by Daniel De-la-Rosa-Martinez, Travis C. Porco, Ashley Hazel, Xinran Liu, Karim Khader, Seth Blumberg</p>\nBackground <p>Although healthcare-associated transmission of <i>Clostridioides difficile</i> is a recognized public health concern, community-onset infections represent an important component",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004712",
+    "journal": "PLOS Medicine",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004712"
+  },
+  {
+    "type": "roundup",
+    "title": "Spatial omics and AI for clinically actionable cancer biomarkers",
+    "text": "Spatial omics and AI for clinically actionable cancer biomarkers \u2014 PLOS Medicine. <p>by Nic G. Reitsam</p>\n\nIntegrating spatial omics with artificial intelligence is likely to advance biomarker research and diagnostics, with the potential to pair mechanistic insight into spatial target biology. By developing scalable, reproducible quantification in routine pathology, it can help",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005049",
+    "journal": "PLOS Medicine",
+    "score": 1.324,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005049"
+  },
+  {
+    "type": "roundup",
+    "title": "Metabolomics across scales: from single cells to population studies",
+    "text": "Metabolomics across scales: from single cells to population studies \u2014 Nature News. <p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10277-1\">doi:10.1038/s41586-026-10277-1</a></p>This Perspective reviews the potential and the challenges of metabolomics approaches, encompassing both single-cell and population-scale metabolomics.",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10277-1",
+    "journal": "Nature News",
+    "score": 1.147,
+    "url": "https://www.nature.com/articles/s41586-026-10277-1"
+  },
+  {
+    "type": "roundup",
+    "title": "When career anxiety becomes gameplay: lessons from China\u2019s \u2018young-faculty simulator\u2019",
+    "text": "When career anxiety becomes gameplay: lessons from China\u2019s \u2018young-faculty simulator\u2019 \u2014 Nature News. <p>Nature, Published online: 08 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-00224-5\">doi:10.1038/d41586-026-00224-5</a></p>A popular online game simulates life as an academic \u2014 and throws the challenges of being an early-career researcher into sharp relief.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-00224-5",
+    "journal": "Nature News",
+    "score": 1.139,
+    "url": "https://www.nature.com/articles/d41586-026-00224-5"
+  },
+  {
+    "type": "roundup",
+    "title": "Audiovisual cues must be predictable and win-paired to drive risky choice",
+    "text": "Audiovisual cues must be predictable and win-paired to drive risky choice \u2014 eLife. Risky or maladaptive decision making is thought to be central to the etiology of both drug and gambling addiction. Salient audiovisual cues paired with rewarding outcomes, such as the jackpot sound on a win, can enhance disadvantageous, risky choice in both rats and humans, yet it is unclear which a",
+    "paper_id": "https://elifesciences.org/articles/105951",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/105951"
+  },
+  {
+    "type": "roundup",
+    "title": "Action information is integrated into entorhinal representations of conceptual space and is reflected in eye movements",
+    "text": "Action information is integrated into entorhinal representations of conceptual space and is reflected in eye movements \u2014 PLOS Biology. <p>by Alexander Eperon, Christian F. Doeller, Stephanie Theves, Roberto Bottini</p>\n\nThe hippocampal-entorhinal system represents relations between states in spatial and nonspatial cognitive maps. Critical to understanding how these memory representations are used for cognition is to determine wheth",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003755",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003755"
+  },
+  {
+    "type": "roundup",
+    "title": "Altered salience network structure\u2013function integration underlies the decline in cognitive flexibility during aging",
+    "text": "Altered salience network structure\u2013function integration underlies the decline in cognitive flexibility during aging \u2014 PLOS Biology. <p>by Xing Qian, Wan Lin Yue, Kwun Kei Ng, Ruth L. F. Leong, Fang Ji, Narayanaswamy Venketasubramanian, Saima Hilal, Christopher Chen, Michael W. L. Chee, Dani S. Bassett, Juan Helen Zhou</p>\n\nCognitive flexibility supports efficient switching between mental sets and contributes to the preservation",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003738",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003738"
+  },
+  {
+    "type": "roundup",
+    "title": "Diversity patterns in terrestrial tetrapod clades are governed by equilibrium dynamics",
+    "text": "Diversity patterns in terrestrial tetrapod clades are governed by equilibrium dynamics \u2014 PLOS Biology. <p>by Felipe O. Cerezer, Antonin Machac, Jan Smy\u010dka, I\u00f1igo Rubio-L\u00f3pez, Maxime Qu\u00e9tin, David Storch</p>\n\nLarge-scale patterns of species richness have been attributed to ecological limits, variation in diversification rates, and differences in evolutionary time, yet the relative importance of these",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003730",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003730"
+  },
+  {
+    "type": "roundup",
+    "title": "Casein kinase 2-mediated phosphorylation of the splicing factor SF3B3 plays a key role in esophageal squamous cell carcinoma progression",
+    "text": "Casein kinase 2-mediated phosphorylation of the splicing factor SF3B3 plays a key role in esophageal squamous cell carcinoma progression \u2014 PLOS Biology. <p>by Du-chuang Wang, Jia-yuan Li, Xiao-bing Wang, Guo-sheng Hu, Rui-chao Nie, Bin Zheng, Yao-hui He, Wen Liu</p>\n\nProtein kinases play a crucial role in regulating cellular processes, and their dysregulation is frequently implicated in various diseases, including cancer. Targeting protein kinases r",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003729",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003729"
+  },
+  {
+    "type": "roundup",
+    "title": "Association between early methadone dose titration and treatment discontinuation and opioid toxicity: A retrospective cohort study",
+    "text": "Association between early methadone dose titration and treatment discontinuation and opioid toxicity: A retrospective cohort study \u2014 PLOS Medicine. <p>by Ria Garg, Jin Luo, Nikki Bozinoff, Beth Sproule, Tony Antoniou, Jennifer Wyman, Pamela Leece, Charlotte Munro, Jes Besharh, Tara Gomes</p>\nBackground <p>Clinical guidance in Canada and the United States recommends faster methadone dose titration for individuals using fentanyl. An initial dose",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004748",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004748"
+  },
+  {
+    "type": "roundup",
+    "title": "Prenatal exposure to per- and polyfluoroalkyl substances (PFAS) and incidence of asthma and wheeze in childhood: A register-based cohort study in Ronneby, Sweden",
+    "text": "Prenatal exposure to per- and polyfluoroalkyl substances (PFAS) and incidence of asthma and wheeze in childhood: A register-based cohort study in Ronneby, Sweden \u2014 PLOS Medicine. <p>by Annelise J. Blomberg, Christel Nielsen, Beata Borgstr\u00f6m Bolmsj\u00f6, Marie-Ab\u00e8le Bind, Linda Hartman, Anna Saxne J\u00f6ud</p>\nBackground <p>Early-life exposure to per- and polyfluoroalkyl substances (PFAS) may impact the developing lungs and immune system and increase the risk of childhood asthma, but",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004659",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004659"
+  },
+  {
+    "type": "roundup",
+    "title": "From visual attention to behavioural intention: A relational framework of culturally creative desserts in museum communication",
+    "text": "From visual attention to behavioural intention: A relational framework of culturally creative desserts in museum communication \u2014 PLOS ONE. <p>by Zichen Ke, Xiang Meng, Jingzong Xu, Muhizam Mustafa</p>\n\nThis study examines how the visual presentation of culturally creative desserts (CCDs), modelled after Chinese museum artefacts, relates to potential visitors\u2019 visit-related behavioural intention under first-exposure, image-mediated cond",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347418",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347418"
+  },
+  {
+    "type": "roundup",
+    "title": "Discovery of a Roman Quarry for Pozzolanic aggregates in the Euganean Hills Magmatic District, Northeast Italy: A stepwise archaeometric approach",
+    "text": "Discovery of a Roman Quarry for Pozzolanic aggregates in the Euganean Hills Magmatic District, Northeast Italy: A stepwise archaeometric approach \u2014 PLOS ONE. <p>by Simone Dilaria, Luigi Germinario, Claudio Mazzoli, Caterina Previato, Milo K. Pilgrim, Josiah Olah, Jacopo Nava, Jacopo Bonetto, Michele Secco</p>\n\nThis study investigates the provenance of volcanic aggregates used in Roman lime-based mortars from the theatre\u2013bath complex at Via Scavi in Monte",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347202",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347202"
+  },
+  {
+    "type": "roundup",
+    "title": "Pelvic floor exercise: Awareness, knowledge, beliefs and practices among pregnant women in a Ghanaian setting",
+    "text": "Pelvic floor exercise: Awareness, knowledge, beliefs and practices among pregnant women in a Ghanaian setting \u2014 PLOS ONE. <p>by Yaa Abrafi Ankomah, Bright Anneh Awaitey, Moses Monday Omoniyi, Benjamin Asamoah, Obed Kwame Numadzi, Kwofie Robert Amoah, Joel Innocent Goli</p>\nBackground <p>Pregnancy and childbirth increase the risk of pelvic floor muscle damage, leading to conditions such as urinary incontinence, fecal in",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347199",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347199"
+  },
+  {
+    "type": "roundup",
+    "title": "Genetic, clinical, and biochemical profiling of Gilbert syndrome in a Nepali cohort: High prevalence of the UGT1A1 c.-3279T>G polymorphism and correlation with hematological parameters",
+    "text": "Genetic, clinical, and biochemical profiling of Gilbert syndrome in a Nepali cohort: High prevalence of the UGT1A1 c.-3279T>G polymorphism and correlation with hematological parameters \u2014 PLOS ONE. <p>by Pragya Gautam Ghimire, Prasanna Ghimire, Rajan Pande</p>\nIntroduction <p>Gilbert Syndrome (GS) is a common hereditary disorder characterized by intermittent jaundice. The pathogenesis is unconjugated hyperbilirubinemia due to reduced hepatic UDP-glucuronosyltransferase 1A1 (UGT1A1) activity. I",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347128",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347128"
+  },
+  {
+    "type": "roundup",
+    "title": "Genome-wide identification of WRKY gene family members in Populus trichocarpa and their response to biotic stresses",
+    "text": "Genome-wide identification of WRKY gene family members in Populus trichocarpa and their response to biotic stresses \u2014 PeerJ. Background\nWRKY transcription factors (TFs) are key regulators of plant stress resistance. Despite their importance, the regulatory mechanisms of WRKYs in Populus trichocarpa under biotic stress remain insufficiently explored. This study presents a comprehensive bioinformatic characterization of the",
+    "paper_id": "https://peerj.com/articles/21132",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/21132"
+  },
+  {
+    "type": "roundup",
+    "title": "Development and validation of an early predictive model for acute stress disorder after trauma: a clinical cohort study",
+    "text": "Development and validation of an early predictive model for acute stress disorder after trauma: a clinical cohort study \u2014 PeerJ. Background\n               Injury is sudden and unpredictable and has become a major public health problem in the world, and many trauma patients may experience cognitive or psychological problems including acute stress disorder (ASD). However, the ability to identify ASD early is still limited. The",
+    "paper_id": "https://peerj.com/articles/21131",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/21131"
+  },
+  {
+    "type": "roundup",
+    "title": "Efficacy and safety of tacrolimus combined with low-dose glucocorticoids vs. high-dose glucocorticoids in initial treatment of adult-onset minimal change disease: a retrospective cohort study",
+    "text": "Efficacy and safety of tacrolimus combined with low-dose glucocorticoids vs. high-dose glucocorticoids in initial treatment of adult-onset minimal change disease: a retrospective cohort study \u2014 PeerJ. Background\nThe treatment of adult minimal change disease (MCD) is challenging due to the side effects of high-dose and long-term glucocorticoid therapy as well as the frequent relapsing of the disease. Clinically, there is a demand for regimens that ensure rapid response and lower relapse rates, suc",
+    "paper_id": "https://peerj.com/articles/21089",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/21089"
+  },
+  {
+    "type": "roundup",
+    "title": "Effect of vitamin D supplementation on blood lipids in patients with metabolic syndrome: a meta-analysis",
+    "text": "Effect of vitamin D supplementation on blood lipids in patients with metabolic syndrome: a meta-analysis \u2014 PeerJ. Background\n               Vitamin D, a fat-soluble vitamin critical for bone metabolism, has recently been implicated in metabolic homeostasis. Growing evidence suggests its potential role in modulating lipid profiles in metabolic syndrome.\n            \n            \n               Objectives",
+    "paper_id": "https://peerj.com/articles/21086",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/21086"
+  },
+  {
+    "type": "roundup",
+    "title": "Earth system instability explains redox paradox during late Cambrian SPICE event",
+    "text": "Earth system instability explains redox paradox during late Cambrian SPICE event \u2014 Science Advances. Science Advances, Volume 12, Issue 15, April 2026. <br />",
+    "paper_id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9224?af=R",
+    "journal": "Science Advances",
+    "score": 0.528,
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9224?af=R"
+  },
+  {
+    "type": "roundup",
+    "title": "Erratum for the Research Article, \u201cUnexpected fish and squid in the central Arctic deep scattering layer\u201d by P. Snoeijs-Leijonmalm et al.",
+    "text": "Erratum for the Research Article, \u201cUnexpected fish and squid in the central Arctic deep scattering layer\u201d by P. Snoeijs-Leijonmalm et al. \u2014 Science Advances. Science Advances, Volume 12, Issue 15, April 2026. <br />",
+    "paper_id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3528?af=R",
+    "journal": "Science Advances",
+    "score": 0.528,
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3528?af=R"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

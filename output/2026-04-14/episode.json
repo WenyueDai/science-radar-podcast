@@ -1,0 +1,259 @@
+{
+  "date": "2026-04-14",
+  "mp3": "output/2026-04-14/podcast_2026-04-14.mp3",
+  "paper_count": 25,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Challenges in replay detection by TDLM in post-encoding resting state",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108023",
+      "score": 2.0,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Fitness drivers of division of labor in vertebrates",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/105501",
+      "score": 2.0,
+      "timestamp_sec": 51.144
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Daily briefing: AI spread information about an obviously made-up disease",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01140-4",
+      "score": 1.696,
+      "timestamp_sec": 72.264
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Identification and comparison of orthologous cell types from primate embryoid bodies shows limits of marker gene transferability",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/105398",
+      "score": 1.5,
+      "timestamp_sec": 93.24
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Colonization amplification despite limited in-hospital transmission: A modeling study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004712",
+      "score": 1.5,
+      "timestamp_sec": 119.952
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Spatial omics and AI for clinically actionable cancer biomarkers",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005049",
+      "score": 1.324,
+      "timestamp_sec": 145.152
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Metabolomics across scales: from single cells to population studies",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10277-1",
+      "score": 1.147,
+      "timestamp_sec": 169.53599999999997
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "When career anxiety becomes gameplay: lessons from China\u2019s \u2018young-faculty simulator\u2019",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-00224-5",
+      "score": 1.139,
+      "timestamp_sec": 188.59199999999996
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Audiovisual cues must be predictable and win-paired to drive risky choice",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/105951",
+      "score": 1.0,
+      "timestamp_sec": 208.05599999999995
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Action information is integrated into entorhinal representations of conceptual space and is reflected in eye movements",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003755",
+      "score": 1.0,
+      "timestamp_sec": 231.52799999999993
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Altered salience network structure\u2013function integration underlies the decline in cognitive flexibility during aging",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003738",
+      "score": 1.0,
+      "timestamp_sec": 256.94399999999996
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Diversity patterns in terrestrial tetrapod clades are governed by equilibrium dynamics",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003730",
+      "score": 1.0,
+      "timestamp_sec": 284.95199999999994
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Casein kinase 2-mediated phosphorylation of the splicing factor SF3B3 plays a key role in esophageal squamous cell carcinoma progression",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003729",
+      "score": 1.0,
+      "timestamp_sec": 309.7919999999999
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Association between early methadone dose titration and treatment discontinuation and opioid toxicity: A retrospective cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004748",
+      "score": 1.0,
+      "timestamp_sec": 339.5999999999999
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Prenatal exposure to per- and polyfluoroalkyl substances (PFAS) and incidence of asthma and wheeze in childhood: A register-based cohort study in Ronneby, Sweden",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004659",
+      "score": 1.0,
+      "timestamp_sec": 368.7359999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "From visual attention to behavioural intention: A relational framework of culturally creative desserts in museum communication",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347418",
+      "score": 1.0,
+      "timestamp_sec": 397.84799999999984
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Discovery of a Roman Quarry for Pozzolanic aggregates in the Euganean Hills Magmatic District, Northeast Italy: A stepwise archaeometric approach",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347202",
+      "score": 1.0,
+      "timestamp_sec": 423.9359999999998
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Pelvic floor exercise: Awareness, knowledge, beliefs and practices among pregnant women in a Ghanaian setting",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347199",
+      "score": 1.0,
+      "timestamp_sec": 452.1359999999998
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Genetic, clinical, and biochemical profiling of Gilbert syndrome in a Nepali cohort: High prevalence of the UGT1A1 c.-3279T>G polymorphism and correlation with hematological parameters",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347128",
+      "score": 1.0,
+      "timestamp_sec": 478.27199999999976
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "Genome-wide identification of WRKY gene family members in Populus trichocarpa and their response to biotic stresses",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/21132",
+      "score": 1.0,
+      "timestamp_sec": 513.0959999999998
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "Development and validation of an early predictive model for acute stress disorder after trauma: a clinical cohort study",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/21131",
+      "score": 1.0,
+      "timestamp_sec": 541.0559999999998
+    },
+    {
+      "index": 23,
+      "type": "roundup",
+      "title": "Efficacy and safety of tacrolimus combined with low-dose glucocorticoids vs. high-dose glucocorticoids in initial treatment of adult-onset minimal change disease: a retrospective cohort study",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/21089",
+      "score": 1.0,
+      "timestamp_sec": 566.4719999999998
+    },
+    {
+      "index": 24,
+      "type": "roundup",
+      "title": "Effect of vitamin D supplementation on blood lipids in patients with metabolic syndrome: a meta-analysis",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/21086",
+      "score": 1.0,
+      "timestamp_sec": 594.4319999999998
+    },
+    {
+      "index": 25,
+      "type": "roundup",
+      "title": "Earth system instability explains redox paradox during late Cambrian SPICE event",
+      "journal": "Science Advances",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9224?af=R",
+      "score": 0.528,
+      "timestamp_sec": 617.4719999999998
+    },
+    {
+      "index": 26,
+      "type": "roundup",
+      "title": "Erratum for the Research Article, \u201cUnexpected fish and squid in the central Arctic deep scattering layer\u201d by P. Snoeijs-Leijonmalm et al.",
+      "journal": "Science Advances",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3528?af=R",
+      "score": 0.528,
+      "timestamp_sec": 632.3039999999997
+    },
+    {
+      "index": 27,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 649.4879999999997
+    }
+  ]
+}
