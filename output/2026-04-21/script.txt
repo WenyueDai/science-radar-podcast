@@ -1,0 +1,118 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] A step-by-step guide to nailing your tenure promotion package
+============================================================
+A step-by-step guide to nailing your tenure promotion package — Nature News. <p>Nature, Published online: 20 April 2026; <a href="https://www.nature.com/articles/d41586-026-00990-2">doi:10.1038/d41586-026-00990-2</a></p>It’s an important milestone in many academic careers, yet the tenure process is surprisingly nebulous. Here’s what it takes to succeed.
+
+============================================================
+[ROUNDUP] Rapid diagnostic tests, laboratory-based immunoassay and nucleic acid testing strategies for long-acting injectable pre-exposure prophylaxis: A systematic review
+============================================================
+Rapid diagnostic tests, laboratory-based immunoassay and nucleic acid testing strategies for long-acting injectable pre-exposure prophylaxis: A systematic review — PLOS Medicine. <p>by Warittha Tieosapjaroen, Eloise Williams, Cheryl C. Johnson, Carlota Baptista Da Silva, Magdalena Barr-DiChiara, Michelle Rodolph, Heather Leigh Ingold, Heather-Marie A. Schmidt, Mateo Prochazka, Busi Msimanga, Celine Lastrucci, Hortensia Peralta, Lastone Chitembo, Precious Andifasi, Nandi Sieg
+
+============================================================
+[ROUNDUP] Global burden, trends and projections analysis of interstitial lung disease and pulmonary sarcoidosis in elderly adults (aged 55+ Years) based on GBD 2021
+============================================================
+Global burden, trends and projections analysis of interstitial lung disease and pulmonary sarcoidosis in elderly adults (aged 55+ Years) based on GBD 2021 — PLOS ONE. <p>by Zhilan Huang, Tingyi Xie, Mingwen Tang, Zhuni Chen, Dan Jia, Anqi Su, Zhujin Jin, Tuliang Liang, Wei Xie</p>
+Background <p>Pulmonary fibrosis is a severe chronic lung disease whose prevalence has been rising in recent years, representing one of the major respiratory health challenges globally
+
+============================================================
+[ROUNDUP] The robust, high-throughput, and temporally regulated roxCre and loxCre reporting systems for genetic modifications in vivo
+============================================================
+The robust, high-throughput, and temporally regulated roxCre and loxCre reporting systems for genetic modifications in vivo — eLife. Cre-loxP technology, a cornerstone in fate mapping and in vivo gene function studies, faces challenges in achieving precise and efficient conditional mutagenesis through inducible systems. This study introduces two innovative genetic tools designed to overcome these limitations. The first, roxCre, e
+
+============================================================
+[ROUNDUP] New idtracker.ai rethinks multi-animal tracking as a representation learning problem to increase accuracy and reduce tracking time
+============================================================
+New idtracker.ai rethinks multi-animal tracking as a representation learning problem to increase accuracy and reduce tracking time — eLife. idTracker and idtracker.ai approach multi-animal tracking from video as an image classification problem. For this classification, both rely on segments of video where all animals are visible to extract images and their identity labels. When these segments are too short, tracking can become slow and
+
+============================================================
+[ROUNDUP] Immune cells have a surprising role in exercise endurance
+============================================================
+Immune cells have a surprising role in exercise endurance — Nature News. <p>Nature, Published online: 17 April 2026; <a href="https://www.nature.com/articles/d41586-026-01245-w">doi:10.1038/d41586-026-01245-w</a></p>Study in mice suggests that B cells help to regulate muscle performance.
+
+============================================================
+[ROUNDUP] Identification and clinical implications of immune-related hub genes in psoriasis
+============================================================
+Identification and clinical implications of immune-related hub genes in psoriasis — PLOS ONE. <p>by Yuzhen Sun, Ziguang Zhou, Yu Mao, Niu Liu, Yanfeng Li, Weiyuan Fang</p>
+Background <p>Psoriasis, a chronic inflammatory skin disease affecting 2–3% of the global population, is driven by dysregulated immune responses. Despite advancements in biologic therapies, treatment challenges persist due
+
+============================================================
+[ROUNDUP] Balancing the supply and demand for taxonomy: An analysis of European taxonomic capacity and policy needs
+============================================================
+Balancing the supply and demand for taxonomy: An analysis of European taxonomic capacity and policy needs — PLOS ONE. <p>by Quentin J. Groom, Melanie De Nolf, Lina M. Estupinan-Suarez, Sofie Meeus</p>
+
+Taxonomy is a cornerstone of biological science and essential to biodiversity policy, yet it faces persistent structural challenges collectively known as the “taxonomic impediment”. These include limited capacity, un
+
+============================================================
+[ROUNDUP] How individual vigor shapes human–human physical interaction
+============================================================
+How individual vigor shapes human–human physical interaction — eLife. The speed of voluntary movements varies systematically, with some individuals moving consistently faster than others across different actions. These variations, conceptualized as vigor, reflect a time–effort–accuracy tradeoff in motor planning. How do two mechanically coupled partners with different
+
+============================================================
+[ROUNDUP] Dimorphic neural network architecture prioritizes sexual-related behaviors in male <i>Caenorhabditis elegans</i>
+============================================================
+Dimorphic neural network architecture prioritizes sexual-related behaviors in male <i>Caenorhabditis elegans</i> — eLife. Neural network architecture determines its functional output. However, the detailed mechanisms are not well characterized. In this study, we focused on the neural network architectures of male and hermaphrodite <i>Caenorhabditis elegans</i> and the association with sexually dimorphic behaviors. We a
+
+============================================================
+[ROUNDUP] Neural population dynamics and temporal context cells in macaque medial parietal cortex support temporal order memory
+============================================================
+Neural population dynamics and temporal context cells in macaque medial parietal cortex support temporal order memory — PLOS Biology. <p>by Shuzhen Zuo, Chenyu Wang, Lei Wang, Zhiyong Jin, Xufeng Zhou, Ning Su, Jianhua Liu, Thomas J. McHugh, Makoto Kusunoki, Sze Chai Kwok</p>
+
+Episodic memory involves encoding and remembering the order of events experienced over time. Previous work examining the mechanisms of temporal order memori
+
+============================================================
+[ROUNDUP] Somatosensory input drives membrane potential dynamics in motor cortex during voluntary limb movement
+============================================================
+Somatosensory input drives membrane potential dynamics in motor cortex during voluntary limb movement — PLOS Biology. <p>by Birgit C. Voigt, Florian Rau, Luc Estebanez, James F. A. Poulet</p>
+
+How the motor cortex controls movement remains a fundamental question in neuroscience. Although somatosensory input is thought to influence motor cortex activity and the execution of voluntary movements, its role in driving m
+
+============================================================
+[ROUNDUP] Cell type-agnostic transcriptomic signatures enable uniform comparisons of neural maturation
+============================================================
+Cell type-agnostic transcriptomic signatures enable uniform comparisons of neural maturation — PLOS Biology. <p>by Sridevi Venkatesan, Jonathan M. Werner, Yun Li, Jesse Gillis</p>
+
+Understanding where a cell sits along developmental time is as important as identifying its type. While single-cell transcriptomics has catalogued the diversity of neural cell types, aligning them along a shared temporal axis ac
+
+============================================================
+[ROUNDUP] High-throughput characterization of <i>Mycobacterium tuberculosis</i> gene function across diverse conditions
+============================================================
+High-throughput characterization of <i>Mycobacterium tuberculosis</i> gene function across diverse conditions — PLOS Biology. <p>by Kayla M. Dinshaw, Katie A. Lien, Matthew Knight, Sorel V. Yigma Ouonkap, Hualan Liu, David F. Savage, Hans K. Carlson, Adam M. Deutschbauer, Sarah A. Stanley</p>
+
+<i>Mycobacterium tuberculosis</i> (Mtb) is a human bacterial pathogen that establishes chronic infection in the lung. Although the
+
+============================================================
+[ROUNDUP] Association between gabapentinoid treatment, concurrent use with opioid or benzodiazepine and the risk of drug poisoning: A self-controlled case series study
+============================================================
+Association between gabapentinoid treatment, concurrent use with opioid or benzodiazepine and the risk of drug poisoning: A self-controlled case series study — PLOS Medicine. <p>by Andrew S. C. Yuen, Boqing Chen, Adrienne Y. L. Chan, Joseph F. Hayes, David P. J. Osborn, Frank M. C. Besag, Wallis C. Y. Lau, Ian C. K. Wong, Li Wei, Kenneth K. C. Man</p>
+Background <p>Consumption of gabapentinoids has increased worldwide in recent years, and the association between its use
+
+============================================================
+[ROUNDUP] Phenotypic variability and trait-specific selection in <i>Aegle marmelos</i> Correa genotypes based on morphological and quality traits
+============================================================
+Phenotypic variability and trait-specific selection in <i>Aegle marmelos</i> Correa genotypes based on morphological and quality traits — PLOS ONE. <p>by A. K. Singh, Vikas Yadav, Lalu Prasad Yadav, K. Gangadhara, Anil Pawar, Jagadish Rane, P. Ravat, A. Sahil, Prashant Kaushik, Ali Khadivi, Yazgan Tunç</p>
+
+This study aimed to assess the genetic variability in <i>Aegle marmelos</i> Correa to develop trait-specific genotypes based on morphologic
+
+============================================================
+[ROUNDUP] Cost-effectiveness of esketamine versus alternative treatment strategies for treatment-resistant depression in Hong Kong: A multi-armed modeling study
+============================================================
+Cost-effectiveness of esketamine versus alternative treatment strategies for treatment-resistant depression in Hong Kong: A multi-armed modeling study — PLOS Medicine. <p>by Yifan Li, Vivien Kin Yi Chan, Mark Jit, Franco Wing Tak Cheng, Hei Hang Edmund Yiu, David Makram Bishai, Dawn Craig, Esther Wai Yin Chan, Sandra Sau Man Chan, Xue Li</p>
+Background <p>Treatment-resistant depression (TRD), defined as failure to respond to at least two adequately administered an
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
