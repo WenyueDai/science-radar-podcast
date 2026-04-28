@@ -1,0 +1,163 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] AFD thermosensory neurons mediate tactile-dependent locomotion modulation in <i>C. elegans</i>
+============================================================
+AFD thermosensory neurons mediate tactile-dependent locomotion modulation in <i>C. elegans</i> — eLife. Sensory neurons drive animal behaviors by detecting environmental stimuli and relaying information to downstream circuits. Beyond their primary roles in sensing, these neurons often form additional synaptic connections outside their main sensory modality, suggesting broader contributions to behavior
+
+============================================================
+[ROUNDUP] Genomic insights into SARS-CoV-2 evolution in Yantai, China after the adjustment of the dynamic zero-COVID policy in 2023
+============================================================
+Genomic insights into SARS-CoV-2 evolution in Yantai, China after the adjustment of the dynamic zero-COVID policy in 2023 — PeerJ. Coronavirus Disease 2019 (COVID-19) cases surged after China adjusted the dynamic COVID-zero strategy at the end of 2022, posing significant public health challenges in Yantai. To monitor the evolutionary process and characterize variants circulating in Yantai in 2023, 613 nasopharyngeal swab sample
+
+============================================================
+[ROUNDUP] Advancing environmental sustainability research and policy in sport
+============================================================
+Advancing environmental sustainability research and policy in sport — Nature Communications. <p>Nature Communications, Published online: 28 April 2026; <a href="https://www.nature.com/articles/s41467-026-72583-6">doi:10.1038/s41467-026-72583-6</a></p>Sport holds profound global social influence, yet its systemic environmental footprint is often overlooked in sustainable development governan
+
+============================================================
+[ROUNDUP] A New Type of Neuroplasticity Rewires the Brain After a Single Experience
+============================================================
+A New Type of Neuroplasticity Rewires the Brain After a Single Experience — Quanta Magazine. “Neurons that fire together, wire together” is not the full story. A novel mechanism explains how the brain can learn across longer timescales.            <p>The post <a href="https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/" target="
+
+============================================================
+[ROUNDUP] A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots
+============================================================
+A Powerful New ‘QR Code’ Untangles Math’s Knottiest Knots — Quanta Magazine. With a newly discovered mathematical tool, researchers are hoping to gain unprecedented insight into the structure of complex knots.            <p>The post <a href="https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/" target="_blank">A Powerful New ‘QR Cod
+
+============================================================
+[ROUNDUP] A cell-death protein has an unexpected role in intestinal repair
+============================================================
+A cell-death protein has an unexpected role in intestinal repair — Nature News. <p>Nature, Published online: 22 April 2026; <a href="https://www.nature.com/articles/d41586-026-00810-7">doi:10.1038/d41586-026-00810-7</a></p>A form of the inflammatory protein caspase-5 is expressed in immature gut cells, where it promotes proliferation and facilitates tissue regeneration.
+
+============================================================
+[ROUNDUP] Cosmic-ray detection heralds era of mega-observatories for neutrinos
+============================================================
+Cosmic-ray detection heralds era of mega-observatories for neutrinos — Nature News. <p>Nature, Published online: 24 April 2026; <a href="https://www.nature.com/articles/d41586-026-01282-5">doi:10.1038/d41586-026-01282-5</a></p>Radio sensors at South Pole suggest arrays could record neutrinos of unprecedented energies over hundreds of cubic kilometres of ice.
+
+============================================================
+[ROUNDUP] Distinct mechanisms of inhibition of Kv2 potassium channels by tetraethylammonium and RY785
+============================================================
+Distinct mechanisms of inhibition of Kv2 potassium channels by tetraethylammonium and RY785 — eLife. Voltage-gated K<sup>+</sup> channels play central roles in human physiology, in health, and disease. A repertoire of inhibitors that are both potent and specific would, therefore, be of great value. RY785 has been described as promising in this regard, as it selectively inhibits channels in the Kv2
+
+============================================================
+[ROUNDUP] Single-cell lineage tracing identifies hemogenic endothelial cells in the adult mouse bone marrow
+============================================================
+Single-cell lineage tracing identifies hemogenic endothelial cells in the adult mouse bone marrow — eLife. During mouse development, hematopoietic stem and progenitor cells (HSPCs) originate from hemogenic endothelial cells (ECs) through a process of endothelial-to-hematopoietic transition. These HSPCs are thought to fully sustain adult hematopoiesis. However, it remains unknown whether adult ECs retain
+
+============================================================
+[ROUNDUP] B cell expression of an enzymatic intermediary in ether lipid biosynthesis promotes antibody responses and germinal center size
+============================================================
+B cell expression of an enzymatic intermediary in ether lipid biosynthesis promotes antibody responses and germinal center size — eLife. The qualities of antibody (Ab) responses provided by B lymphocytes and their plasma cell (PC) descendants are crucial facets of responses to vaccines and microbes. Metabolic processes and products regulate aspects of B cell proliferation and differentiation into germinal center (GC) and PC states al
+
+============================================================
+[ROUNDUP] Bipedalism and brain expansion explain human handedness
+============================================================
+Bipedalism and brain expansion explain human handedness — PLOS Biology. <p>by Thomas A. Püschel, Rachel M. Hurwitz, Chris Venditti</p>
+
+Humans exhibit a striking and near-universal population-level right-hand preference, an evolutionary singularity unmatched among primates. Despite its pervasiveness, the origins of this lateralization remain poorly understood. Here, we
+
+============================================================
+[ROUNDUP] Expansion of the geranylgeranyl pyrophosphate synthase gene family underlies the evolution of terpenoid biosynthesis in termites
+============================================================
+Expansion of the geranylgeranyl pyrophosphate synthase gene family underlies the evolution of terpenoid biosynthesis in termites — PLOS Biology. <p>by Natan Horáček, Ondřej Lukšan, Zarley Rebholz, Karel Harant, Radek Pohl, Lana Mutabdžija-Nedelcheva, Simon Hellemans, Daniel Jungwirth, Jan Křivánek, Anna Amirianová, Pavlína Kyjaková, Thomas Bourguignon, Dorothea Tholl, Robert Hanus, Jitka Štáfková</p>
+
+Termites produce the most diverse array
+
+============================================================
+[ROUNDUP] A cortico-subthalamic circuit rapidly engages and releases inhibition of specific movements depending on the environmental context
+============================================================
+A cortico-subthalamic circuit rapidly engages and releases inhibition of specific movements depending on the environmental context — PLOS Biology. <p>by Cheol Soh, Mario Hervault, Nathan H. Chalkley, Kien Huynh, Qiang Zhang, Ergun Y. Uc, Jeremy D. W. Greenlee, Jan R. Wessel</p>
+
+Response inhibition is an important cognitive control mechanism that enables flexible behavior by stopping inappropriate actions. Intracranial recordings across specie
+
+============================================================
+[ROUNDUP] Sea urchin eggs contain a plastid-derived structure that contributes to their development
+============================================================
+Sea urchin eggs contain a plastid-derived structure that contributes to their development — PLOS Biology. <p>by Tyler J. Carrier, Andrés Rufino-Navarro, Thorben Knoop, Urska Repnik, Andrés Mauricio Caraballo-Rodríguez, David M. Needham, Corinna Bang, Sören Franzenburg, Marc Bramkamp, Willi Rath, Arne Biastoch, José Carlos Hernández, Ute Hentschel</p>
+
+Development in the sea has long been thought to be a
+
+============================================================
+[ROUNDUP] Tobacco control policies on cancer prevention in the Eastern Mediterranean Region, 2025–2050: A modeling study
+============================================================
+Tobacco control policies on cancer prevention in the Eastern Mediterranean Region, 2025–2050: A modeling study — PLOS Medicine. <p>by Saeed Nemati, Mojtaba Vand Rajabpour, Xiaoshuang Feng, Negar Taheri, Harriet Rumgay, Farrokh Heidari, Ebrahim Karimi, Sepideh Abdi, Mattias Johansson, Mahdi Sheikh</p>
+Background <p>Despite the implementation of control policies, smoking prevalence remains high in Eastern Mediterranean Region
+
+============================================================
+[ROUNDUP] Identification of lipid quantitative trait loci linked with cardiometabolic disease in Asian Indians and Europeans: A genome-wide association study and mendelian randomization
+============================================================
+Identification of lipid quantitative trait loci linked with cardiometabolic disease in Asian Indians and Europeans: A genome-wide association study and mendelian randomization — PLOS Medicine. <p>by Madhusmita Rout, Christopher E. Aston, Ravindranath Duggirala, Harald H. Goring, Oliver Fiehn, Dharambir K. Sanghera</p>
+Background <p>Genetic mechanisms that predispose people to type 2 diabetes (T2D) and cardiovascular disease (CVD) remain poorly understood, partly because of a lack of suffi
+
+============================================================
+[ROUNDUP] Transcriptomic study of WSSV infection in <i>Litopenaeus vannamei</i> lymphoid organ via single nuclei RNA sequencing
+============================================================
+Transcriptomic study of WSSV infection in <i>Litopenaeus vannamei</i> lymphoid organ via single nuclei RNA sequencing — PLOS ONE. <p>by Alexandra Florea, Nick Wade, Sarah J. Salisbury, James Furniss, Clémence Fraslin, Ambre Chapuis, Kallen Sullivan, Robert Stewart, Diego Robledo, Tim P. Bean</p>
+Background <p>Aquaculture is the fastest growing farmed food sector and is a key part of global food security. Crustacean aquaculture
+
+============================================================
+[ROUNDUP] Prevalence of perinatal depression in Ethiopia: An umbrella review of systematic review and meta-analysis studies
+============================================================
+Prevalence of perinatal depression in Ethiopia: An umbrella review of systematic review and meta-analysis studies — PLOS ONE. <p>by Mogesie Necho, Maregu Shegaw, Tamirat Anbesaw, Nahom Birru, Getinet Ayano, Mekonnen Tsehay, Wondale Getnet, Solomon Yimer, Asmare Belete, Yosef Zenebe, Zelalem Birhan, Chalachew Tiruneh</p>
+Background <p>Perinatal depression is a significant public health concern that affects women during preg
+
+============================================================
+[ROUNDUP] Systems modeling of a phenazine-producing <i>Escherichia coli</i> bio-battery anolyte
+============================================================
+Systems modeling of a phenazine-producing <i>Escherichia coli</i> bio-battery anolyte — PLOS ONE. <p>by Simon M. King, Michael R. King</p>
+
+Bioelectrochemical systems that combine living microbes with electrochemical devices are emerging as platforms for sustainable energy and chemical production. Phenazine-based organic redox flow batteries (RFBs) already achieve high-capacity, long-lived negol
+
+============================================================
+[ROUNDUP] Vegetated landscape coherence and complexity shape psychophysiological stress recovery in campus courtyards
+============================================================
+Vegetated landscape coherence and complexity shape psychophysiological stress recovery in campus courtyards — PLOS ONE. <p>by Yaling Gao, Qunyue Liu, Wenxin Yang, Lingfang Lin, He Huang</p>
+
+University students across urban campuses face sustained stress loads, making everyday restorative opportunities paramount. We ran a randomized virtual-reality experiment (N = 282) crossing landscape coherence (low, moderate, hig
+
+============================================================
+[ROUNDUP] Visual acuity and stereopsis across the parafoveal and perifoveal retina in young adults: an eccentricity and meridian analysis
+============================================================
+Visual acuity and stereopsis across the parafoveal and perifoveal retina in young adults: an eccentricity and meridian analysis — PeerJ. Background
+               Visual acuity (VA) and stereoacuity (SVA) are fundamental visual functions that decline with increasing retinal eccentricity. Patients with macular degeneration and other central vision disorders often rely on paracentral vision, yet location-specific reference data for VA
+
+============================================================
+[ROUNDUP] Intermittent fasting for rheumatic diseases: a systematic review and meta-analysis of conflicting evidence from observational studies and randomized controlled trials
+============================================================
+Intermittent fasting for rheumatic diseases: a systematic review and meta-analysis of conflicting evidence from observational studies and randomized controlled trials — PeerJ. Background and Objectives
+Intermittent fasting (IF) has emerged as a dietary approach with potential therapeutic effects that is gaining recognition. Although several studies have explored the impact of IF on clinical symptoms in patients with rheumatic diseases, a quantitative synthesis of the exis
+
+============================================================
+[ROUNDUP] Comprehensive genome characterization and expression analysis of the DUF4228 gene family in Sorghum (Sorghum bicolor L.) under salt stress conditions
+============================================================
+Comprehensive genome characterization and expression analysis of the DUF4228 gene family in Sorghum (Sorghum bicolor L.) under salt stress conditions — PeerJ. Sorghum (Sorghum bicolor L.) is recognized for its resilience to environmental adversities; the DUF4228 gene family plays vital roles in development, growth, and response to stress in number of plant species such as  Arabidopsis thaliana, and Glycine max, however, the systematic analysis of these ge
+
+============================================================
+[ROUNDUP] Quality of antenatal and delivery care and postnatal care use: A multi-country observational study of 400,000 births
+============================================================
+Quality of antenatal and delivery care and postnatal care use: A multi-country observational study of 400,000 births — PLOS Medicine. <p>by Jan E. Cooper, Hwa-Young Lee, Katherine Wright, Prashant Jaryan, Margaret E. Kruk</p>
+Background <p>Postnatal care (PNC) plays a crucial role in averting newborn mortality, yet its use remains low, particularly in regions with the highest mortality. While demographic and social determinants of
+
+============================================================
+[ROUNDUP] Optimizing dengue vaccination strategies
+============================================================
+Optimizing dengue vaccination strategies — PLOS Medicine. <p>by Annelies Wilder-Smith</p>
+
+Dengue is a rapidly expanding global health threat driven by urbanization, climate change, and complex transmission dynamics. Modeling and tailored vaccination programs will be critical to developing effective, context-specific strategies to reducing disease burden.
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
