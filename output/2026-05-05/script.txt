@@ -1,0 +1,152 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Capsular specificity in temperate phages of <i>Klebsiella pneumoniae</i> is driven by diverse receptor-binding enzymes
+============================================================
+Capsular specificity in temperate phages of <i>Klebsiella pneumoniae</i> is driven by diverse receptor-binding enzymes — PLOS Biology. <p>by Aleksandra Otwinowska, Janusz Koszucki, Vyshakh R. Panicker, Jade Leconte, Sebastian Olejniczak, Kathryn E. Holt, Edward J. Feil, Eduardo P. C. Rocha, Bogna Smug, Barbara Maciejewska, Zuzanna Drulis-Kawa, Rafal J. Mostowy</p>
+
+Virulent bacteriophages infecting <i>Klebsiella pneumoniae often sh
+
+============================================================
+[ROUNDUP] ATF-MGIAM: Medically-guided interpretable attention mapping for robust pertussis cough sound recognition
+============================================================
+ATF-MGIAM: Medically-guided interpretable attention mapping for robust pertussis cough sound recognition — PLOS ONE. <p>by Siheng Zhang, Yan Xu, Ying Xiao</p>
+
+To address the challenges of complex acoustic patterns and limited interpretability in pertussis cough sound recognition, this study proposes an interpretable deep learning framework based on adaptive time–frequency fusion and medically guided attention mec
+
+============================================================
+[ROUNDUP] From sequencing to intelligence: how AI is transforming metagenomics
+============================================================
+From sequencing to intelligence: how AI is transforming metagenomics — PeerJ. Microbial communities are critical in advancing human health. Metagenomics is a technique that analyzes these communities and allows for investigating their composition and functions. Metagenomic shotgun sequencing enables to capture all of the genetic material in environmental samples, such as wate
+
+============================================================
+[ROUNDUP] An innovative approach to preparing medical students for residency application season
+============================================================
+An innovative approach to preparing medical students for residency application season — PeerJ. Background
+The residency application process has become increasingly complex, with constant updates to the Electronic Residency Application Service (MyERAS), the introduction of the Residency Common Application Service (RCAS), and changes to specialty-specific processes like the Urology and Plastic
+
+============================================================
+[ROUNDUP] Submicrometre sampling of living cells by macrophages
+============================================================
+Submicrometre sampling of living cells by macrophages — Nature News. <p>Nature, Published online: 29 April 2026; <a href="https://www.nature.com/articles/s41586-026-10435-5">doi:10.1038/s41586-026-10435-5</a></p>Macrophages can sample antigens from living cells through a trogocytosis-like mechanism that routes ingested material away from degradation, a finding that d
+
+============================================================
+[ROUNDUP] Immunity gets a boost from a surprising place — breakfast
+============================================================
+Immunity gets a boost from a surprising place — breakfast — Nature News. <p>Nature, Published online: 29 April 2026; <a href="https://www.nature.com/articles/d41586-026-01406-x">doi:10.1038/d41586-026-01406-x</a></p>Eating a meal could lead to T cells springing into action more quickly— plus, 40 years after Chornobyl, how future nuclear calamities can be avoided.
+
+============================================================
+[ROUNDUP] Genome pioneer Craig Venter dies: here’s how he transformed science
+============================================================
+Genome pioneer Craig Venter dies: here’s how he transformed science — Nature News. <p>Nature, Published online: 30 April 2026; <a href="https://www.nature.com/articles/d41586-026-01226-z">doi:10.1038/d41586-026-01226-z</a></p>Venter redrew the boundaries of biology — sequencing DNA at unprecedented speed, engineering synthetic life and charting ocean microbes.
+
+============================================================
+[ROUNDUP] The past, present and future of de novo protein design
+============================================================
+The past, present and future of de novo protein design — Nature News. <p>Nature, Published online: 29 April 2026; <a href="https://www.nature.com/articles/s41586-026-10328-7">doi:10.1038/s41586-026-10328-7</a></p>A Review of de novo protein design highlights key methodological advances and achievements, current challenges and future applications.
+
+============================================================
+[ROUNDUP] <i>Trp53</i> loss drives the neoplastic transformation of <i>Pik3ca</i><sup>H1047R</sup>-induced vascular malformation in a mouse model
+============================================================
+<i>Trp53</i> loss drives the neoplastic transformation of <i>Pik3ca</i><sup>H1047R</sup>-induced vascular malformation in a mouse model — PLOS ONE. <p>by Miaolu Tang, Jessica Sallavanti, Matthew Lanza, Danielle Covington, Wei Li</p>
+
+Vascular malformations are anomalies of blood or lymphatic vessels that are frequently associated with activating <i>PIK3CA</i> mutations. Although these lesions are generally considered non-neoplastic, rare cases
+
+============================================================
+[ROUNDUP] Evidence of off-target probe binding affecting 10x Genomics Xenium gene panels compromise accuracy of spatial transcriptomic profiling
+============================================================
+Evidence of off-target probe binding affecting 10x Genomics Xenium gene panels compromise accuracy of spatial transcriptomic profiling — eLife. The accuracy of spatial gene expression profiles generated by probe-based in situ spatially resolved transcriptomic technologies depends on the specificity with which probes bind to their intended target gene. Off-target binding, defined as a probe binding to something other than the target gene, ca
+
+============================================================
+[ROUNDUP] RadD from <i>Fusobacterium nucleatum</i> engages NKp46 to promote antitumor cytotoxicity
+============================================================
+RadD from <i>Fusobacterium nucleatum</i> engages NKp46 to promote antitumor cytotoxicity — eLife. <i>Fusobacterium nucleatum</i>, a gram-negative bacterium implicated in periodontal disease, contributes to tumor progression in various cancers. Whether the presence of <i>F. nucleatum</i> inhibits tumor progression of some cancers is largely unknown. Here, we identify an interaction between <i>F.
+
+============================================================
+[ROUNDUP] Adapting clinical chemistry plasma as a source for liquid biopsies
+============================================================
+Adapting clinical chemistry plasma as a source for liquid biopsies — eLife. Circulating cell-free DNA (cfDNA) is valuable for molecular testing, but typically requires specialized collection tubes or immediate processing. We investigated whether residual plasma from heparin separators, routinely used in clinical chemistry, could serve as an accessible and underused source f
+
+============================================================
+[ROUNDUP] Bivalent mRNA booster encoding virus-like particles elicits potent polyclass receptor-binding domain antibodies in pre-vaccinated mice
+============================================================
+Bivalent mRNA booster encoding virus-like particles elicits potent polyclass receptor-binding domain antibodies in pre-vaccinated mice — eLife. mRNA vaccines emerged as a leading vaccine technology during the COVID-19 pandemic. However, their sustained protective efficacies were limited by relatively short-lived antibody responses and the emergence of SARS-CoV-2 variants, necessitating frequent and variant-updated boosters. We recently deve
+
+============================================================
+[ROUNDUP] An anatomical and connectivity atlas of the tree shrew brain to bridge rodent and primate neuroanatomy
+============================================================
+An anatomical and connectivity atlas of the tree shrew brain to bridge rodent and primate neuroanatomy — PLOS Biology. <p>by Xiaojia Zhu, Rui Bi, Haotian Yan, Qiyu Wang, Lin Li, Hongli Li, Long-Bao Lv, Cirong Liu, Yong-Gang Yao</p>
+
+The tree shrew (<i>Tupaia belangeri</i>), phylogenetically proximal to primates, serves as a critical model for evolutionary neurobiology and disease mechanisms. High-resolution MRI prov
+
+============================================================
+[ROUNDUP] Wild parrots exhibit age-dependent conformity when learning about novel food
+============================================================
+Wild parrots exhibit age-dependent conformity when learning about novel food — PLOS Biology. <p>by Julia Penndorf, Brendan J. Barrett, Sonja Wild, John M. Martin, Lucy M. Aplin</p>
+
+There is extensive evidence that the spread of innovation via social learning can facilitate uptake of new foraging behaviours in populations. In comparison, social learning about novel food types has received c
+
+============================================================
+[ROUNDUP] Translational repression of viral RNAs supports persistent arbovirus infection in mosquitoes
+============================================================
+Translational repression of viral RNAs supports persistent arbovirus infection in mosquitoes — PLOS Biology. <p>by Marc Talló-Parra, Mireia Puig-Torrents, Gemma Pérez-Vilaró, Sol Ribó Pons, Juana Díez</p>
+
+Arboviruses induce acute lytic infection in human cells but establish persistent infection in their mosquito vectors, a viral strategy that is essential for sustained viral transmission. How mosquito cel
+
+============================================================
+[ROUNDUP] The principles of Population-Level Approaches to Dementia Risk Reduction (PLADRR)
+============================================================
+The principles of Population-Level Approaches to Dementia Risk Reduction (PLADRR) — PLOS Medicine. <p>by Sebastian Walsh, Susanne Röhr, Joaquin Mígeot, Yuliya Bodryzlova, Etuini Ma’u, Simone Salemme, Charles R. Marshall, Timothy Daly, Gary Cheung, Blossom C. M. Stephan, Raj Kalaria, Kenneth M. Langa, Naaheed Mukadam, Leslie Grasset, Sarah Cullum, Ishtar Govia, Nikki-Anne Wilson, Daniele Urso, Rut
+
+============================================================
+[ROUNDUP] Subsequent primary cancer incidence among cancer survivors in the United States, 1975–2019: An age–period–cohort analysis
+============================================================
+Subsequent primary cancer incidence among cancer survivors in the United States, 1975–2019: An age–period–cohort analysis — PLOS Medicine. <p>by Hui G. Cheng, Livingstone Aduse-Poku, Chelsey McGill, Oxana Palesh, Susan Hong</p>
+Background <p>The growing population of cancer survivors faces elevated risks of subsequent primary cancers (SPCs), yet temporal patterns in SPC incidence remain poorly understood. This study aims to characteriz
+
+============================================================
+[ROUNDUP] Identifying novel prodromal symptoms of eclampsia: A two-country, case-control study
+============================================================
+Identifying novel prodromal symptoms of eclampsia: A two-country, case-control study — PLOS Medicine. <p>by Roxanne Hastie, Farhatulain Ahmed, Parinaz Mehdipour, Bernard Yan, Susan P. Walker, Jacqui Visser, Anam Bashir, Lyle Gurrin, Anthea Lindquist, Jessica A. Atkinson, Catherine Cluver, Lina Bergman, Stephen Tong</p>
+Background <p>Magnesium sulphate halves the risk of eclampsia. There is no consen
+
+============================================================
+[ROUNDUP] Interpretable miRNA-based prediction model for early detection of pancreatic cancer: Development and cross-platform validation
+============================================================
+Interpretable miRNA-based prediction model for early detection of pancreatic cancer: Development and cross-platform validation — PLOS ONE. <p>by Yanfei Zhu, Linglin Zhu, Yumei Liu, Yongshuo Ji, Junqiu Zhu, Hong Zhao</p>
+Background <p>Pancreatic cancer remains one of the most lethal malignancies, largely due to delayed diagnosis. Although microRNA (miRNA) biomarkers show promise, many previous studies lack cross-platform validation and
+
+============================================================
+[ROUNDUP] How metaverse music platform cues shape content creation behavior: Evidence from social and flow pathways
+============================================================
+How metaverse music platform cues shape content creation behavior: Evidence from social and flow pathways — PLOS ONE. <p>by Qiyue Song, Di Mu, Xiaodi Peng, Guanzhou Liu</p>
+
+This study examines how metaverse music platform design influences users’ content creation behavior. Drawing on the Stimulus–Organism–Response framework, it develops a dual-path model in which relational-affective cues shape social experience,
+
+============================================================
+[ROUNDUP] A retrospective quantitative CT study reveals subclinical pulmonary vascular loss and right middle lobe vulnerability in PM/DM patients without interstitial lung disease
+============================================================
+A retrospective quantitative CT study reveals subclinical pulmonary vascular loss and right middle lobe vulnerability in PM/DM patients without interstitial lung disease — PeerJ. Background
+               Connective tissue disease-associated interstitial lung disease (CTD-ILD) is triggered by pulmonary vascular injury. However, early subclinical lung changes in polymyositis/dermatomyositis (PM/DM) patients without ILD (PM/DM-non-ILD) remain undetectable by conventional imagi
+
+============================================================
+[ROUNDUP] Response of soil bacterial community structure in Pisha sandstone areas to different stumping
+============================================================
+Response of soil bacterial community structure in Pisha sandstone areas to different stumping — PeerJ. Background
+               The Pisha sandstone region of Inner Mongolia is one of the areas most severely affected by soil erosion in the world. Stumping is a widely used practice for rejuvenating degraded sea buckthorn (Hippophae rhamnoides) plantations, but how stumping depth affects soil bacterial
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

@@ -1,0 +1,227 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Capsular specificity in temperate phages of <i>Klebsiella pneumoniae</i> is driven by diverse receptor-binding enzymes",
+    "text": "Capsular specificity in temperate phages of <i>Klebsiella pneumoniae</i> is driven by diverse receptor-binding enzymes \u2014 PLOS Biology. <p>by Aleksandra Otwinowska, Janusz Koszucki, Vyshakh R. Panicker, Jade Leconte, Sebastian Olejniczak, Kathryn E. Holt, Edward J. Feil, Eduardo P. C. Rocha, Bogna Smug, Barbara Maciejewska, Zuzanna Drulis-Kawa, Rafal J. Mostowy</p>\n\nVirulent bacteriophages infecting <i>Klebsiella pneumoniae often sh",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003716",
+    "journal": "PLOS Biology",
+    "score": 2.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003716"
+  },
+  {
+    "type": "roundup",
+    "title": "ATF-MGIAM: Medically-guided interpretable attention mapping for robust pertussis cough sound recognition",
+    "text": "ATF-MGIAM: Medically-guided interpretable attention mapping for robust pertussis cough sound recognition \u2014 PLOS ONE. <p>by Siheng Zhang, Yan Xu, Ying Xiao</p>\n\nTo address the challenges of complex acoustic patterns and limited interpretability in pertussis cough sound recognition, this study proposes an interpretable deep learning framework based on adaptive time\u2013frequency fusion and medically guided attention mec",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348508",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348508"
+  },
+  {
+    "type": "roundup",
+    "title": "From sequencing to intelligence: how AI is transforming metagenomics",
+    "text": "From sequencing to intelligence: how AI is transforming metagenomics \u2014 PeerJ. Microbial communities are critical in advancing human health. Metagenomics is a technique that analyzes these communities and allows for investigating their composition and functions. Metagenomic shotgun sequencing enables to capture all of the genetic material in environmental samples, such as wate",
+    "paper_id": "https://peerj.com/articles/21137",
+    "journal": "PeerJ",
+    "score": 1.5,
+    "url": "https://peerj.com/articles/21137"
+  },
+  {
+    "type": "roundup",
+    "title": "An innovative approach to preparing medical students for residency application season",
+    "text": "An innovative approach to preparing medical students for residency application season \u2014 PeerJ. Background\nThe residency application process has become increasingly complex, with constant updates to the Electronic Residency Application Service (MyERAS), the introduction of the Residency Common Application Service (RCAS), and changes to specialty-specific processes like the Urology and Plastic",
+    "paper_id": "https://peerj.com/articles/21042",
+    "journal": "PeerJ",
+    "score": 1.5,
+    "url": "https://peerj.com/articles/21042"
+  },
+  {
+    "type": "roundup",
+    "title": "Submicrometre sampling of living cells by macrophages",
+    "text": "Submicrometre sampling of living cells by macrophages \u2014 Nature News. <p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10435-5\">doi:10.1038/s41586-026-10435-5</a></p>Macrophages can sample antigens from living cells through a trogocytosis-like mechanism that routes ingested material away from degradation, a finding that d",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10435-5",
+    "journal": "Nature News",
+    "score": 1.19,
+    "url": "https://www.nature.com/articles/s41586-026-10435-5"
+  },
+  {
+    "type": "roundup",
+    "title": "Immunity gets a boost from a surprising place \u2014 breakfast",
+    "text": "Immunity gets a boost from a surprising place \u2014 breakfast \u2014 Nature News. <p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01406-x\">doi:10.1038/d41586-026-01406-x</a></p>Eating a meal could lead to T cells springing into action more quickly\u2014 plus, 40 years after Chornobyl, how future nuclear calamities can be avoided.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01406-x",
+    "journal": "Nature News",
+    "score": 1.146,
+    "url": "https://www.nature.com/articles/d41586-026-01406-x"
+  },
+  {
+    "type": "roundup",
+    "title": "Genome pioneer Craig Venter dies: here\u2019s how he transformed science",
+    "text": "Genome pioneer Craig Venter dies: here\u2019s how he transformed science \u2014 Nature News. <p>Nature, Published online: 30 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01226-z\">doi:10.1038/d41586-026-01226-z</a></p>Venter redrew the boundaries of biology \u2014 sequencing DNA at unprecedented speed, engineering synthetic life and charting ocean microbes.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01226-z",
+    "journal": "Nature News",
+    "score": 1.139,
+    "url": "https://www.nature.com/articles/d41586-026-01226-z"
+  },
+  {
+    "type": "roundup",
+    "title": "The past, present and future of de novo protein design",
+    "text": "The past, present and future of de novo protein design \u2014 Nature News. <p>Nature, Published online: 29 April 2026; <a href=\"https://www.nature.com/articles/s41586-026-10328-7\">doi:10.1038/s41586-026-10328-7</a></p>A Review of de novo protein design highlights key methodological advances and achievements, current challenges and future applications.",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10328-7",
+    "journal": "Nature News",
+    "score": 1.139,
+    "url": "https://www.nature.com/articles/s41586-026-10328-7"
+  },
+  {
+    "type": "roundup",
+    "title": "<i>Trp53</i> loss drives the neoplastic transformation of <i>Pik3ca</i><sup>H1047R</sup>-induced vascular malformation in a mouse model",
+    "text": "<i>Trp53</i> loss drives the neoplastic transformation of <i>Pik3ca</i><sup>H1047R</sup>-induced vascular malformation in a mouse model \u2014 PLOS ONE. <p>by Miaolu Tang, Jessica Sallavanti, Matthew Lanza, Danielle Covington, Wei Li</p>\n\nVascular malformations are anomalies of blood or lymphatic vessels that are frequently associated with activating <i>PIK3CA</i> mutations. Although these lesions are generally considered non-neoplastic, rare cases",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348285",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348285"
+  },
+  {
+    "type": "roundup",
+    "title": "Evidence of off-target probe binding affecting 10x Genomics Xenium gene panels compromise accuracy of spatial transcriptomic profiling",
+    "text": "Evidence of off-target probe binding affecting 10x Genomics Xenium gene panels compromise accuracy of spatial transcriptomic profiling \u2014 eLife. The accuracy of spatial gene expression profiles generated by probe-based in situ spatially resolved transcriptomic technologies depends on the specificity with which probes bind to their intended target gene. Off-target binding, defined as a probe binding to something other than the target gene, ca",
+    "paper_id": "https://elifesciences.org/articles/107070",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/107070"
+  },
+  {
+    "type": "roundup",
+    "title": "RadD from <i>Fusobacterium nucleatum</i> engages NKp46 to promote antitumor cytotoxicity",
+    "text": "RadD from <i>Fusobacterium nucleatum</i> engages NKp46 to promote antitumor cytotoxicity \u2014 eLife. <i>Fusobacterium nucleatum</i>, a gram-negative bacterium implicated in periodontal disease, contributes to tumor progression in various cancers. Whether the presence of <i>F. nucleatum</i> inhibits tumor progression of some cancers is largely unknown. Here, we identify an interaction between <i>F.",
+    "paper_id": "https://elifesciences.org/articles/108439",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/108439"
+  },
+  {
+    "type": "roundup",
+    "title": "Adapting clinical chemistry plasma as a source for liquid biopsies",
+    "text": "Adapting clinical chemistry plasma as a source for liquid biopsies \u2014 eLife. Circulating cell-free DNA (cfDNA) is valuable for molecular testing, but typically requires specialized collection tubes or immediate processing. We investigated whether residual plasma from heparin separators, routinely used in clinical chemistry, could serve as an accessible and underused source f",
+    "paper_id": "https://elifesciences.org/articles/108708",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/108708"
+  },
+  {
+    "type": "roundup",
+    "title": "Bivalent mRNA booster encoding virus-like particles elicits potent polyclass receptor-binding domain antibodies in pre-vaccinated mice",
+    "text": "Bivalent mRNA booster encoding virus-like particles elicits potent polyclass receptor-binding domain antibodies in pre-vaccinated mice \u2014 eLife. mRNA vaccines emerged as a leading vaccine technology during the COVID-19 pandemic. However, their sustained protective efficacies were limited by relatively short-lived antibody responses and the emergence of SARS-CoV-2 variants, necessitating frequent and variant-updated boosters. We recently deve",
+    "paper_id": "https://elifesciences.org/articles/108959",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/108959"
+  },
+  {
+    "type": "roundup",
+    "title": "An anatomical and connectivity atlas of the tree shrew brain to bridge rodent and primate neuroanatomy",
+    "text": "An anatomical and connectivity atlas of the tree shrew brain to bridge rodent and primate neuroanatomy \u2014 PLOS Biology. <p>by Xiaojia Zhu, Rui Bi, Haotian Yan, Qiyu Wang, Lin Li, Hongli Li, Long-Bao Lv, Cirong Liu, Yong-Gang Yao</p>\n\nThe tree shrew (<i>Tupaia belangeri</i>), phylogenetically proximal to primates, serves as a critical model for evolutionary neurobiology and disease mechanisms. High-resolution MRI prov",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003773",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003773"
+  },
+  {
+    "type": "roundup",
+    "title": "Wild parrots exhibit age-dependent conformity when learning about novel food",
+    "text": "Wild parrots exhibit age-dependent conformity when learning about novel food \u2014 PLOS Biology. <p>by Julia Penndorf, Brendan J. Barrett, Sonja Wild, John M. Martin, Lucy M. Aplin</p>\n\nThere is extensive evidence that the spread of innovation via social learning can facilitate uptake of new foraging behaviours in populations. In comparison, social learning about novel food types has received c",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003741",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003741"
+  },
+  {
+    "type": "roundup",
+    "title": "Translational repression of viral RNAs supports persistent arbovirus infection in mosquitoes",
+    "text": "Translational repression of viral RNAs supports persistent arbovirus infection in mosquitoes \u2014 PLOS Biology. <p>by Marc Tall\u00f3-Parra, Mireia Puig-Torrents, Gemma P\u00e9rez-Vilar\u00f3, Sol Rib\u00f3 Pons, Juana D\u00edez</p>\n\nArboviruses induce acute lytic infection in human cells but establish persistent infection in their mosquito vectors, a viral strategy that is essential for sustained viral transmission. How mosquito cel",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003702",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003702"
+  },
+  {
+    "type": "roundup",
+    "title": "The principles of Population-Level Approaches to Dementia Risk Reduction (PLADRR)",
+    "text": "The principles of Population-Level Approaches to Dementia Risk Reduction (PLADRR) \u2014 PLOS Medicine. <p>by Sebastian Walsh, Susanne R\u00f6hr, Joaquin M\u00edgeot, Yuliya Bodryzlova, Etuini Ma\u2019u, Simone Salemme, Charles R. Marshall, Timothy Daly, Gary Cheung, Blossom C. M. Stephan, Raj Kalaria, Kenneth M. Langa, Naaheed Mukadam, Leslie Grasset, Sarah Cullum, Ishtar Govia, Nikki-Anne Wilson, Daniele Urso, Rut",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005059",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005059"
+  },
+  {
+    "type": "roundup",
+    "title": "Subsequent primary cancer incidence among cancer survivors in the United States, 1975\u20132019: An age\u2013period\u2013cohort analysis",
+    "text": "Subsequent primary cancer incidence among cancer survivors in the United States, 1975\u20132019: An age\u2013period\u2013cohort analysis \u2014 PLOS Medicine. <p>by Hui G. Cheng, Livingstone Aduse-Poku, Chelsey McGill, Oxana Palesh, Susan Hong</p>\nBackground <p>The growing population of cancer survivors faces elevated risks of subsequent primary cancers (SPCs), yet temporal patterns in SPC incidence remain poorly understood. This study aims to characteriz",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005034",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005034"
+  },
+  {
+    "type": "roundup",
+    "title": "Identifying novel prodromal symptoms of eclampsia: A two-country, case-control study",
+    "text": "Identifying novel prodromal symptoms of eclampsia: A two-country, case-control study \u2014 PLOS Medicine. <p>by Roxanne Hastie, Farhatulain Ahmed, Parinaz Mehdipour, Bernard Yan, Susan P. Walker, Jacqui Visser, Anam Bashir, Lyle Gurrin, Anthea Lindquist, Jessica A. Atkinson, Catherine Cluver, Lina Bergman, Stephen Tong</p>\nBackground <p>Magnesium sulphate halves the risk of eclampsia. There is no consen",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004994",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004994"
+  },
+  {
+    "type": "roundup",
+    "title": "Interpretable miRNA-based prediction model for early detection of pancreatic cancer: Development and cross-platform validation",
+    "text": "Interpretable miRNA-based prediction model for early detection of pancreatic cancer: Development and cross-platform validation \u2014 PLOS ONE. <p>by Yanfei Zhu, Linglin Zhu, Yumei Liu, Yongshuo Ji, Junqiu Zhu, Hong Zhao</p>\nBackground <p>Pancreatic cancer remains one of the most lethal malignancies, largely due to delayed diagnosis. Although microRNA (miRNA) biomarkers show promise, many previous studies lack cross-platform validation and",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348699",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348699"
+  },
+  {
+    "type": "roundup",
+    "title": "How metaverse music platform cues shape content creation behavior: Evidence from social and flow pathways",
+    "text": "How metaverse music platform cues shape content creation behavior: Evidence from social and flow pathways \u2014 PLOS ONE. <p>by Qiyue Song, Di Mu, Xiaodi Peng, Guanzhou Liu</p>\n\nThis study examines how metaverse music platform design influences\u00a0users\u2019\u00a0content creation behavior. Drawing on the Stimulus\u2013Organism\u2013Response framework, it develops a dual-path model in which relational-affective cues shape social experience,",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348632",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348632"
+  },
+  {
+    "type": "roundup",
+    "title": "A retrospective quantitative CT study reveals subclinical pulmonary vascular loss and right middle lobe vulnerability in PM/DM patients without interstitial lung disease",
+    "text": "A retrospective quantitative CT study reveals subclinical pulmonary vascular loss and right middle lobe vulnerability in PM/DM patients without interstitial lung disease \u2014 PeerJ. Background\n               Connective tissue disease-associated interstitial lung disease (CTD-ILD) is triggered by pulmonary vascular injury. However, early subclinical lung changes in polymyositis/dermatomyositis (PM/DM) patients without ILD (PM/DM-non-ILD) remain undetectable by conventional imagi",
+    "paper_id": "https://peerj.com/articles/21259",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/21259"
+  },
+  {
+    "type": "roundup",
+    "title": "Response of soil bacterial community structure in Pisha sandstone areas to different stumping",
+    "text": "Response of soil bacterial community structure in Pisha sandstone areas to different stumping \u2014 PeerJ. Background\n               The Pisha sandstone region of Inner Mongolia is one of the areas most severely affected by soil erosion in the world. Stumping is a widely used practice for rejuvenating degraded sea buckthorn (Hippophae rhamnoides) plantations, but how stumping depth affects soil bacterial",
+    "paper_id": "https://peerj.com/articles/21234",
+    "journal": "PeerJ",
+    "score": 1.0,
+    "url": "https://peerj.com/articles/21234"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

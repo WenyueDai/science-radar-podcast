@@ -1,0 +1,241 @@
+{
+  "date": "2026-05-05",
+  "mp3": "output/2026-05-05/podcast_2026-05-05.mp3",
+  "paper_count": 23,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Capsular specificity in temperate phages of <i>Klebsiella pneumoniae</i> is driven by diverse receptor-binding enzymes",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003716",
+      "score": 2.0,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "ATF-MGIAM: Medically-guided interpretable attention mapping for robust pertussis cough sound recognition",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348508",
+      "score": 1.5,
+      "timestamp_sec": 56.831999999999994
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "From sequencing to intelligence: how AI is transforming metagenomics",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/21137",
+      "score": 1.5,
+      "timestamp_sec": 80.568
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "An innovative approach to preparing medical students for residency application season",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/21042",
+      "score": 1.5,
+      "timestamp_sec": 104.04
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Submicrometre sampling of living cells by macrophages",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10435-5",
+      "score": 1.19,
+      "timestamp_sec": 126.62400000000001
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Immunity gets a boost from a surprising place \u2014 breakfast",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01406-x",
+      "score": 1.146,
+      "timestamp_sec": 145.728
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Genome pioneer Craig Venter dies: here\u2019s how he transformed science",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01226-z",
+      "score": 1.139,
+      "timestamp_sec": 165.288
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "The past, present and future of de novo protein design",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10328-7",
+      "score": 1.139,
+      "timestamp_sec": 185.256
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "<i>Trp53</i> loss drives the neoplastic transformation of <i>Pik3ca</i><sup>H1047R</sup>-induced vascular malformation in a mouse model",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348285",
+      "score": 1.0,
+      "timestamp_sec": 203.784
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Evidence of off-target probe binding affecting 10x Genomics Xenium gene panels compromise accuracy of spatial transcriptomic profiling",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/107070",
+      "score": 1.0,
+      "timestamp_sec": 234.21599999999998
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "RadD from <i>Fusobacterium nucleatum</i> engages NKp46 to promote antitumor cytotoxicity",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108439",
+      "score": 1.0,
+      "timestamp_sec": 259.32
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Adapting clinical chemistry plasma as a source for liquid biopsies",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108708",
+      "score": 1.0,
+      "timestamp_sec": 286.96799999999996
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Bivalent mRNA booster encoding virus-like particles elicits potent polyclass receptor-binding domain antibodies in pre-vaccinated mice",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108959",
+      "score": 1.0,
+      "timestamp_sec": 310.55999999999995
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "An anatomical and connectivity atlas of the tree shrew brain to bridge rodent and primate neuroanatomy",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003773",
+      "score": 1.0,
+      "timestamp_sec": 338.3039999999999
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Wild parrots exhibit age-dependent conformity when learning about novel food",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003741",
+      "score": 1.0,
+      "timestamp_sec": 366.9119999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Translational repression of viral RNAs supports persistent arbovirus infection in mosquitoes",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003702",
+      "score": 1.0,
+      "timestamp_sec": 391.39199999999994
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "The principles of Population-Level Approaches to Dementia Risk Reduction (PLADRR)",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005059",
+      "score": 1.0,
+      "timestamp_sec": 417.7679999999999
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Subsequent primary cancer incidence among cancer survivors in the United States, 1975\u20132019: An age\u2013period\u2013cohort analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005034",
+      "score": 1.0,
+      "timestamp_sec": 446.5439999999999
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Identifying novel prodromal symptoms of eclampsia: A two-country, case-control study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004994",
+      "score": 1.0,
+      "timestamp_sec": 476.2319999999999
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "Interpretable miRNA-based prediction model for early detection of pancreatic cancer: Development and cross-platform validation",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348699",
+      "score": 1.0,
+      "timestamp_sec": 504.6239999999999
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "How metaverse music platform cues shape content creation behavior: Evidence from social and flow pathways",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348632",
+      "score": 1.0,
+      "timestamp_sec": 532.9919999999998
+    },
+    {
+      "index": 23,
+      "type": "roundup",
+      "title": "A retrospective quantitative CT study reveals subclinical pulmonary vascular loss and right middle lobe vulnerability in PM/DM patients without interstitial lung disease",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/21259",
+      "score": 1.0,
+      "timestamp_sec": 558.8159999999998
+    },
+    {
+      "index": 24,
+      "type": "roundup",
+      "title": "Response of soil bacterial community structure in Pisha sandstone areas to different stumping",
+      "journal": "PeerJ",
+      "url": "https://peerj.com/articles/21234",
+      "score": 1.0,
+      "timestamp_sec": 588.8159999999998
+    },
+    {
+      "index": 25,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 611.9519999999998
+    }
+  ]
+}
