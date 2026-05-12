@@ -1,0 +1,139 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Dynamic architecture of mycobacterial outer membranes revealed by all-atom simulations
+============================================================
+Dynamic architecture of mycobacterial outer membranes revealed by all-atom simulations — eLife. Tuberculosis remains a global health crisis due to the resilience of <i>Mycobacterium tuberculosis</i> (<i>Mtb</i>), largely attributed to its unique cell envelope. The impermeability and structural complexity of the outer membrane of this envelope, driven by mycolic acids and glycolipids, pose sign
+
+============================================================
+[ROUNDUP] What Causes Lightning? The Answer Keeps Getting More Interesting.
+============================================================
+What Causes Lightning? The Answer Keeps Getting More Interesting. — Quanta Magazine. Armed with a slew of new instruments, physicists are closing in on one of nature’s oldest mysteries — and finding that storm clouds are seething with violent and unexpected phenomena.            <p>The post <a href="https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-i
+
+============================================================
+[ROUNDUP] The sleep paradox: why do humans sleep so little when we need it so much?
+============================================================
+The sleep paradox: why do humans sleep so little when we need it so much? — Nature News. <p>Nature, Published online: 11 May 2026; <a href="https://www.nature.com/articles/d41586-026-01478-9">doi:10.1038/d41586-026-01478-9</a></p>A new book brings together ethnography, neurobiology and primatology to argue that how much our species sleeps is an evolutionary trade-off, with lessons for h
+
+============================================================
+[ROUNDUP] Daily briefing: A stunningly detailed map of the Universe and the month’s best science images
+============================================================
+Daily briefing: A stunningly detailed map of the Universe and the month’s best science images — Nature News. <p>Nature, Published online: 07 May 2026; <a href="https://www.nature.com/articles/d41586-026-01508-6">doi:10.1038/d41586-026-01508-6</a></p>The month’s most spectacular science images. Plus, the surprising activity in the unconscious brain.
+
+============================================================
+[ROUNDUP] Adult-neurogenesis allows for representational stability and flexibility in early olfactory system
+============================================================
+Adult-neurogenesis allows for representational stability and flexibility in early olfactory system — eLife. In the olfactory system, adult-neurogenesis results in the continuous reorganization of synaptic connections and network architecture throughout the animal’s life. This poses a critical challenge: How does the olfactory system maintain stable representations of odors amidst this ongoing circuit inst
+
+============================================================
+[ROUNDUP] Cross-modal interaction of human alpha activity does not reflect inhibition of early sensory processing in a frequency-tagging study using EEG and MEG
+============================================================
+Cross-modal interaction of human alpha activity does not reflect inhibition of early sensory processing in a frequency-tagging study using EEG and MEG — eLife. Selective attention involves prioritising relevant sensory input while suppressing irrelevant stimuli. It has been proposed that oscillatory alpha-band activity (~10 Hz) aids this process by functionally inhibiting early sensory regions. However, recent studies have challenged this notion. Our EEG a
+
+============================================================
+[ROUNDUP] Recombination shapes the diversification of the <i>wtf</i> meiotic drivers
+============================================================
+Recombination shapes the diversification of the <i>wtf</i> meiotic drivers — eLife. Meiotic drivers are selfish genetic elements that distort fair segregation. The <i>wtf</i> genes are poison-antidote meiotic drivers that are experiencing rapid diversification in fission yeasts. However, gene duplication alone is insufficient to drive the diversification of <i>wtf</i> genes, given
+
+============================================================
+[ROUNDUP] Targeted sequencing enhances detection of pangolin trafficking hotspots and dynamics of both domestic and global trade markets
+============================================================
+Targeted sequencing enhances detection of pangolin trafficking hotspots and dynamics of both domestic and global trade markets — PLOS Biology. <p>by Sean P. Heighton, Jérôme Murienne, Mukesh Thakur, Alain Didier Missoup, Wirdateti Wirdateti, Chabi Sylvestre Djagoun, Sery Bi Gonedelé, Gabriel Ngua Ayecaba, Brice Roxan Momboua, Flobert Njiokou, Anne-Lise Chaber, Helen C. Nash, Barbora Černá Bolfíková, Sylvain Dufour, Guy T. Gembu, Ayodeji Ol
+
+============================================================
+[ROUNDUP] Structured water molecules drive activation and G protein selectivity in the GPR174 receptor
+============================================================
+Structured water molecules drive activation and G protein selectivity in the GPR174 receptor — PLOS Biology. <p>by Ying-Jun Dong, Kun Xi, Ya-Zhi Zhang, Jian-Heng Xue, Dan-Dan Shen, Shao-Kun Zang, Ruozhu Zhao, Hai Qi, Chunyou Mao, Wei-Wei Wang, Yan Zhang</p>
+
+G protein-coupled receptor 174 (GPR174), a key modulator of autoimmune responses, maintains immune homeostasis through distinct G protein signaling pa
+
+============================================================
+[ROUNDUP] Ultrasound neuromodulation reveals distinct roles of the dorsal anterior cingulate cortex and anterior insula in learning
+============================================================
+Ultrasound neuromodulation reveals distinct roles of the dorsal anterior cingulate cortex and anterior insula in learning — PLOS Biology. <p>by Nomiki Koutsoumpari, Johannes Algermissen, Siti Nurbaya Yaakub, Hanneke EM den Ouden, Nadege Bault, Elsa Fouragnan</p>
+
+Pavlovian biases reflect how evolutionarily hard-wired tendencies—automatic approach toward reward cues and withdrawal from threat cues—can interfere with flexible, goal-dire
+
+============================================================
+[ROUNDUP] Surveillance on California dairy farms reveals multiple possible sources of H5N1 influenza virus transmission
+============================================================
+Surveillance on California dairy farms reveals multiple possible sources of H5N1 influenza virus transmission — PLOS Biology. <p>by A. J. Campbell, Meredith Shephard, Abigail P. Paulos, Matthew D. Pauly, Michelle N. Vu, Chloe Stenkamp-Strahm, Kaitlyn Bushfield, Betsy Hunter-Binns, Orlando Sablon, Emily E. Bendall, William J. Fitzimmons, Kayla Brizuela, Grace E. Quirk, Nirmal Kumar, Brian McCluskey, Nishit Shetty, Linsey C.
+
+============================================================
+[ROUNDUP] Optimal minimal residual disease threshold in pediatric acute myeloid leukemia: A retrospective cohort study based on the TARGET database
+============================================================
+Optimal minimal residual disease threshold in pediatric acute myeloid leukemia: A retrospective cohort study based on the TARGET database — PLOS Medicine. <p>by Xiong-yu Liao, Hong Zheng, Jian-pei Fang, Dun-hua Zhou, Kun-yin Qiu</p>
+Background <p>Minimal residual disease (MRD) monitoring is a cornerstone of risk stratification in pediatric acute myeloid leukemia (AML), with a threshold of 0.1% conventionally defining positivity by flow cytometry. Adva
+
+============================================================
+[ROUNDUP] Pathways of emergency care for severely ill children in Nigerian and Ugandan hospitals: A process mapping study
+============================================================
+Pathways of emergency care for severely ill children in Nigerian and Ugandan hospitals: A process mapping study — PLOS Medicine. <p>by Rami Subhi, Abiodun Sogbesan, Dan Muramuzi, Mikael Burhin, Ayobami A. Bakare, Adegoke G. Falade, Freddy E. Kitutu, Freddie Ssengooba, Carina King, Sumit Kane, Belinda Dawson-McClaren, Hamish R. Graham, the MOXY-Implementation Research Collaboration </p>
+Background <p>Child mortality remains hi
+
+============================================================
+[ROUNDUP] Health system use and experience among people with poor mental health: A cross-sectional analysis of the People’s Voice Survey in 18 countries
+============================================================
+Health system use and experience among people with poor mental health: A cross-sectional analysis of the People’s Voice Survey in 18 countries — PLOS Medicine. <p>by Margaret E. Kruk, Neena R. Kapoor, Catherine Arsenault, Susanne Carai, Federico M. Daray, Svetlana V. Doubova, Catherine K. Ettman, Patricia J. Garcia, Theodros Getachew, Ezequiel Garcia-Elorrio, Eric J. Lenze, Todd P. Lewis, Agustina Mazzoni, Jesus Medina-Ranilla, Sailesh Mohan, Inbarani Naid
+
+============================================================
+[ROUNDUP] The application of innovative joint control strategies in the synergistic optimization of enterprise procurement, production, rework and quality control
+============================================================
+The application of innovative joint control strategies in the synergistic optimization of enterprise procurement, production, rework and quality control — PLOS ONE. <p>by Qingyu Hong, Jiping Qi, Hao Yin, Jie Gu, Hong Shen, Jihua Fan</p>
+
+This study proposes an innovative joint control strategy for enterprise collaborative optimization in procurement, production, rework, and quality control in mechanical component manufacturing enterprises. A comprehensive model
+
+============================================================
+[ROUNDUP] Evaluating healthcare professionals’ readiness for community-based kangaroo mother care in resource-limited setting
+============================================================
+Evaluating healthcare professionals’ readiness for community-based kangaroo mother care in resource-limited setting — PLOS ONE. <p>by Hagos T. Atalay, Victoria J. Kain, Amanda G. Carter</p>
+Background <p>Neonatal mortality remains a major public health challenge in low-resource settings. Community-Based Kangaroo Mother Care (cKMC) improves survival outcomes for preterm and low-birthweight infants. However, its implementation
+
+============================================================
+[ROUNDUP] Work engagement, job satisfaction and turnover intention among nurses working in private hospitals of Pokhara, Nepal
+============================================================
+Work engagement, job satisfaction and turnover intention among nurses working in private hospitals of Pokhara, Nepal — PLOS ONE. <p>by Sujata Kandel, Hari Prasad Kaphle</p>
+Background <p>Understanding nurses’ engagement and drivers is crucial as it impacts patient experience, safety and healthcare quality. Despite the rapid growth of the private healthcare sector and numbers of nurses, little is known about the factors influe
+
+============================================================
+[ROUNDUP] Seasonal changes in the distributions of fish and zooplankton across the Barents Sea Polar Front
+============================================================
+Seasonal changes in the distributions of fish and zooplankton across the Barents Sea Polar Front — PLOS ONE. <p>by Einat Sandbank, Malin Daase, Paul E. Renaud, Sünnje L. Basedow, Maxime Geoffroy</p>
+
+Oceanic fronts are often characterized by high primary productivity and increased localized levels of species diversity and biomass; this is due in part to the mixing of distinct water masses as well as the ag
+
+============================================================
+[ROUNDUP] Three cryo-EM structures of complement C3d-bound αMβ2 reveal an unexpected layer of dynamics for αI-containing integrin receptors
+============================================================
+Three cryo-EM structures of complement C3d-bound αMβ2 reveal an unexpected layer of dynamics for αI-containing integrin receptors — Science Advances. Science Advances, Volume 12, Issue 19, May 2026. <br />
+
+============================================================
+[ROUNDUP] Targeting cGAS-STING signaling to overcome antibiotic-resistant bacterial infections: Challenges and opportunities
+============================================================
+Targeting cGAS-STING signaling to overcome antibiotic-resistant bacterial infections: Challenges and opportunities — Science Advances. Science Advances, Volume 12, Issue 19, May 2026. <br />
+
+============================================================
+[ROUNDUP] Ecosystem technology (ecotech): Harnessing natural processes to address global challenges
+============================================================
+Ecosystem technology (ecotech): Harnessing natural processes to address global challenges — Science Advances. Science Advances, Volume 12, Issue 19, May 2026. <br />
+
+============================================================
+[ROUNDUP] Point-of-care early infant HIV diagnosis at birth in a pragmatic cluster-randomized trial in Mozambique and Tanzania: A comparative cost and cost-effectiveness study
+============================================================
+Point-of-care early infant HIV diagnosis at birth in a pragmatic cluster-randomized trial in Mozambique and Tanzania: A comparative cost and cost-effectiveness study — PLOS Medicine. <p>by Kira Elsbernd, Issa Sabi, Ilesh V. Jani, Chishamiso Mudenyanga, Siriel Boniface, Arlete Mahumane, Joaquim Lequechane, Falume Chale, Bindiya Meggi, Kassia Pereira, Raphael Edom, Anange F. Lwilla, W. Chris Buck, Nyanda Elias Ntinyinya, Michael Hoelscher, Till Baernighausen, Arne Kroidl, Stefan K
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

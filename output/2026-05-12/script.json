@@ -1,0 +1,218 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Dynamic architecture of mycobacterial outer membranes revealed by all-atom simulations",
+    "text": "Dynamic architecture of mycobacterial outer membranes revealed by all-atom simulations \u2014 eLife. Tuberculosis remains a global health crisis due to the resilience of <i>Mycobacterium tuberculosis</i> (<i>Mtb</i>), largely attributed to its unique cell envelope. The impermeability and structural complexity of the outer membrane of this envelope, driven by mycolic acids and glycolipids, pose sign",
+    "paper_id": "https://elifesciences.org/articles/108644",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/108644"
+  },
+  {
+    "type": "roundup",
+    "title": "What Causes Lightning? The Answer Keeps Getting More Interesting.",
+    "text": "What Causes Lightning? The Answer Keeps Getting More Interesting. \u2014 Quanta Magazine. Armed with a slew of new instruments, physicists are closing in on one of nature\u2019s oldest mysteries \u2014 and finding that storm clouds are seething with violent and unexpected phenomena.            <p>The post <a href=\"https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-i",
+    "paper_id": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/",
+    "journal": "Quanta Magazine",
+    "score": 1.253,
+    "url": "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-getting-more-interesting-20260506/"
+  },
+  {
+    "type": "roundup",
+    "title": "The sleep paradox: why do humans sleep so little when we need it so much?",
+    "text": "The sleep paradox: why do humans sleep so little when we need it so much? \u2014 Nature News. <p>Nature, Published online: 11 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01478-9\">doi:10.1038/d41586-026-01478-9</a></p>A new book brings together ethnography, neurobiology and primatology to argue that how much our species sleeps is an evolutionary trade-off, with lessons for h",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01478-9",
+    "journal": "Nature News",
+    "score": 1.165,
+    "url": "https://www.nature.com/articles/d41586-026-01478-9"
+  },
+  {
+    "type": "roundup",
+    "title": "Daily briefing: A stunningly detailed map of the Universe and the month\u2019s best science images",
+    "text": "Daily briefing: A stunningly detailed map of the Universe and the month\u2019s best science images \u2014 Nature News. <p>Nature, Published online: 07 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01508-6\">doi:10.1038/d41586-026-01508-6</a></p>The month\u2019s most spectacular science images. Plus, the surprising activity in the unconscious brain.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01508-6",
+    "journal": "Nature News",
+    "score": 1.121,
+    "url": "https://www.nature.com/articles/d41586-026-01508-6"
+  },
+  {
+    "type": "roundup",
+    "title": "Adult-neurogenesis allows for representational stability and flexibility in early olfactory system",
+    "text": "Adult-neurogenesis allows for representational stability and flexibility in early olfactory system \u2014 eLife. In the olfactory system, adult-neurogenesis results in the continuous reorganization of synaptic connections and network architecture throughout the animal\u2019s life. This poses a critical challenge: How does the olfactory system maintain stable representations of odors amidst this ongoing circuit inst",
+    "paper_id": "https://elifesciences.org/articles/107905",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/107905"
+  },
+  {
+    "type": "roundup",
+    "title": "Cross-modal interaction of human alpha activity does not reflect inhibition of early sensory processing in a frequency-tagging study using EEG and MEG",
+    "text": "Cross-modal interaction of human alpha activity does not reflect inhibition of early sensory processing in a frequency-tagging study using EEG and MEG \u2014 eLife. Selective attention involves prioritising relevant sensory input while suppressing irrelevant stimuli. It has been proposed that oscillatory alpha-band activity (~10 Hz) aids this process by functionally inhibiting early sensory regions. However, recent studies have challenged this notion. Our EEG a",
+    "paper_id": "https://elifesciences.org/articles/106050",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/106050"
+  },
+  {
+    "type": "roundup",
+    "title": "Recombination shapes the diversification of the <i>wtf</i> meiotic drivers",
+    "text": "Recombination shapes the diversification of the <i>wtf</i> meiotic drivers \u2014 eLife. Meiotic drivers are selfish genetic elements that distort fair segregation. The <i>wtf</i> genes are poison-antidote meiotic drivers that are experiencing rapid diversification in fission yeasts. However, gene duplication alone is insufficient to drive the diversification of <i>wtf</i> genes, given",
+    "paper_id": "https://elifesciences.org/articles/100638",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/100638"
+  },
+  {
+    "type": "roundup",
+    "title": "Targeted sequencing enhances detection of pangolin trafficking hotspots and dynamics of both domestic and global trade markets",
+    "text": "Targeted sequencing enhances detection of pangolin trafficking hotspots and dynamics of both domestic and global trade markets \u2014 PLOS Biology. <p>by Sean P. Heighton, J\u00e9r\u00f4me Murienne, Mukesh Thakur, Alain Didier Missoup, Wirdateti Wirdateti, Chabi Sylvestre Djagoun, Sery Bi Gonedel\u00e9, Gabriel Ngua Ayecaba, Brice Roxan Momboua, Flobert Njiokou, Anne-Lise Chaber, Helen C. Nash, Barbora \u010cern\u00e1 Bolf\u00edkov\u00e1, Sylvain Dufour, Guy T. Gembu, Ayodeji Ol",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003762",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003762"
+  },
+  {
+    "type": "roundup",
+    "title": "Structured water molecules drive activation and G protein selectivity in the GPR174 receptor",
+    "text": "Structured water molecules drive activation and G protein selectivity in the GPR174 receptor \u2014 PLOS Biology. <p>by Ying-Jun Dong, Kun Xi, Ya-Zhi Zhang, Jian-Heng Xue, Dan-Dan Shen, Shao-Kun Zang, Ruozhu Zhao, Hai Qi, Chunyou Mao, Wei-Wei Wang, Yan Zhang</p>\n\nG protein-coupled receptor 174 (GPR174), a key modulator of autoimmune responses, maintains immune homeostasis through distinct G protein signaling pa",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003447",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003447"
+  },
+  {
+    "type": "roundup",
+    "title": "Ultrasound neuromodulation reveals distinct roles of the dorsal anterior cingulate cortex and anterior insula in learning",
+    "text": "Ultrasound neuromodulation reveals distinct roles of the dorsal anterior cingulate cortex and anterior insula in learning \u2014 PLOS Biology. <p>by Nomiki Koutsoumpari, Johannes Algermissen, Siti Nurbaya Yaakub, Hanneke EM den Ouden, Nadege Bault, Elsa Fouragnan</p>\n\nPavlovian biases reflect how evolutionarily hard-wired tendencies\u2014automatic approach toward reward cues and withdrawal from threat cues\u2014can interfere with flexible, goal-dire",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003767",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003767"
+  },
+  {
+    "type": "roundup",
+    "title": "Surveillance on California dairy farms reveals multiple possible sources of H5N1 influenza virus transmission",
+    "text": "Surveillance on California dairy farms reveals multiple possible sources of H5N1 influenza virus transmission \u2014 PLOS Biology. <p>by A. J. Campbell, Meredith Shephard, Abigail P. Paulos, Matthew D. Pauly, Michelle N. Vu, Chloe Stenkamp-Strahm, Kaitlyn Bushfield, Betsy Hunter-Binns, Orlando Sablon, Emily E. Bendall, William J. Fitzimmons, Kayla Brizuela, Grace E. Quirk, Nirmal Kumar, Brian McCluskey, Nishit Shetty, Linsey C.",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003761",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003761"
+  },
+  {
+    "type": "roundup",
+    "title": "Optimal minimal residual disease threshold in pediatric acute myeloid leukemia: A retrospective cohort study based on the TARGET database",
+    "text": "Optimal minimal residual disease threshold in pediatric acute myeloid leukemia: A retrospective cohort study based on the TARGET database \u2014 PLOS Medicine. <p>by Xiong-yu Liao, Hong Zheng, Jian-pei Fang, Dun-hua Zhou, Kun-yin Qiu</p>\nBackground <p>Minimal residual disease (MRD) monitoring is a cornerstone of risk stratification in pediatric acute myeloid leukemia (AML), with a threshold of 0.1% conventionally defining positivity by flow cytometry. Adva",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005088",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005088"
+  },
+  {
+    "type": "roundup",
+    "title": "Pathways of emergency care for severely ill children in Nigerian and Ugandan hospitals: A process mapping study",
+    "text": "Pathways of emergency care for severely ill children in Nigerian and Ugandan hospitals: A process mapping study \u2014 PLOS Medicine. <p>by Rami Subhi, Abiodun Sogbesan, Dan Muramuzi, Mikael Burhin, Ayobami A. Bakare, Adegoke G. Falade, Freddy E. Kitutu, Freddie Ssengooba, Carina King, Sumit Kane, Belinda Dawson-McClaren, Hamish R. Graham, the MOXY-Implementation Research Collaboration </p>\nBackground <p>Child mortality remains hi",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004832",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004832"
+  },
+  {
+    "type": "roundup",
+    "title": "Health system use and experience among people with poor mental health: A cross-sectional analysis of the People\u2019s Voice Survey in 18 countries",
+    "text": "Health system use and experience among people with poor mental health: A cross-sectional analysis of the People\u2019s Voice Survey in 18 countries \u2014 PLOS Medicine. <p>by Margaret E. Kruk, Neena R. Kapoor, Catherine Arsenault, Susanne Carai, Federico M. Daray, Svetlana V. Doubova, Catherine K. Ettman, Patricia J. Garcia, Theodros Getachew, Ezequiel Garcia-Elorrio, Eric J. Lenze, Todd P. Lewis, Agustina Mazzoni, Jesus Medina-Ranilla, Sailesh Mohan, Inbarani Naid",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004745",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004745"
+  },
+  {
+    "type": "roundup",
+    "title": "The application of innovative joint control strategies in the synergistic optimization of enterprise procurement, production, rework and quality control",
+    "text": "The application of innovative joint control strategies in the synergistic optimization of enterprise procurement, production, rework and quality control \u2014 PLOS ONE. <p>by Qingyu Hong, Jiping Qi, Hao Yin, Jie Gu, Hong Shen, Jihua Fan</p>\n\nThis study proposes an innovative joint control strategy for enterprise collaborative optimization in procurement, production, rework, and quality control in mechanical component manufacturing enterprises. A comprehensive model",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349198",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349198"
+  },
+  {
+    "type": "roundup",
+    "title": "Evaluating healthcare professionals\u2019 readiness for community-based kangaroo mother care in resource-limited setting",
+    "text": "Evaluating healthcare professionals\u2019 readiness for community-based kangaroo mother care in resource-limited setting \u2014 PLOS ONE. <p>by Hagos T. Atalay, Victoria J. Kain, Amanda G. Carter</p>\nBackground <p>Neonatal mortality remains a major public health challenge in low-resource settings. Community-Based Kangaroo Mother Care (cKMC) improves survival outcomes for preterm and low-birthweight infants. However, its implementation",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349104",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349104"
+  },
+  {
+    "type": "roundup",
+    "title": "Work engagement, job satisfaction and turnover intention among nurses working in private hospitals of Pokhara, Nepal",
+    "text": "Work engagement, job satisfaction and turnover intention among nurses working in private hospitals of Pokhara, Nepal \u2014 PLOS ONE. <p>by Sujata Kandel, Hari Prasad Kaphle</p>\nBackground <p>Understanding nurses\u2019 engagement and drivers is crucial as it impacts patient experience, safety and healthcare quality. Despite the rapid growth of the private healthcare sector and numbers of nurses, little is known about the factors influe",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348956",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348956"
+  },
+  {
+    "type": "roundup",
+    "title": "Seasonal changes in the distributions of fish and zooplankton across the Barents Sea Polar Front",
+    "text": "Seasonal changes in the distributions of fish and zooplankton across the Barents Sea Polar Front \u2014 PLOS ONE. <p>by Einat Sandbank, Malin Daase, Paul E. Renaud, S\u00fcnnje L. Basedow, Maxime Geoffroy</p>\n\nOceanic fronts are often characterized by high primary productivity and increased localized levels of species diversity and biomass; this is due in part to the mixing of distinct water masses as well as the ag",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348949",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348949"
+  },
+  {
+    "type": "roundup",
+    "title": "Three cryo-EM structures of complement C3d-bound \u03b1M\u03b22 reveal an unexpected layer of dynamics for \u03b1I-containing integrin receptors",
+    "text": "Three cryo-EM structures of complement C3d-bound \u03b1M\u03b22 reveal an unexpected layer of dynamics for \u03b1I-containing integrin receptors \u2014 Science Advances. Science Advances, Volume 12, Issue 19, May 2026. <br />",
+    "paper_id": "https://www.science.org/doi/abs/10.1126/sciadv.aea7241?af=R",
+    "journal": "Science Advances",
+    "score": 0.527,
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aea7241?af=R"
+  },
+  {
+    "type": "roundup",
+    "title": "Targeting cGAS-STING signaling to overcome antibiotic-resistant bacterial infections: Challenges and opportunities",
+    "text": "Targeting cGAS-STING signaling to overcome antibiotic-resistant bacterial infections: Challenges and opportunities \u2014 Science Advances. Science Advances, Volume 12, Issue 19, May 2026. <br />",
+    "paper_id": "https://www.science.org/doi/abs/10.1126/sciadv.aec7001?af=R",
+    "journal": "Science Advances",
+    "score": 0.527,
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec7001?af=R"
+  },
+  {
+    "type": "roundup",
+    "title": "Ecosystem technology (ecotech): Harnessing natural processes to address global challenges",
+    "text": "Ecosystem technology (ecotech): Harnessing natural processes to address global challenges \u2014 Science Advances. Science Advances, Volume 12, Issue 19, May 2026. <br />",
+    "paper_id": "https://www.science.org/doi/abs/10.1126/sciadv.aec5411?af=R",
+    "journal": "Science Advances",
+    "score": 0.527,
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec5411?af=R"
+  },
+  {
+    "type": "roundup",
+    "title": "Point-of-care early infant HIV diagnosis at birth in a pragmatic cluster-randomized trial in Mozambique and Tanzania: A comparative cost and cost-effectiveness study",
+    "text": "Point-of-care early infant HIV diagnosis at birth in a pragmatic cluster-randomized trial in Mozambique and Tanzania: A comparative cost and cost-effectiveness study \u2014 PLOS Medicine. <p>by Kira Elsbernd, Issa Sabi, Ilesh V. Jani, Chishamiso Mudenyanga, Siriel Boniface, Arlete Mahumane, Joaquim Lequechane, Falume Chale, Bindiya Meggi, Kassia Pereira, Raphael Edom, Anange F. Lwilla, W. Chris Buck, Nyanda Elias Ntinyinya, Michael Hoelscher, Till Baernighausen, Arne Kroidl, Stefan K",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005069",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005069"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]
