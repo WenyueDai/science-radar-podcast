@@ -1,0 +1,182 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Encoding performance of cortical neurons critically depends on their morphological and neurophysiological properties",
+    "text": "Encoding performance of cortical neurons critically depends on their morphological and neurophysiological properties \u2014 PLOS Biology. <p>by Omer Revah, Fred Wolf, Michael J. Gutnick, Andreas Neef</p>\n\nSixty years after the concept of population coding in neuronal networks was introduced, we still lack a comprehensive understanding of its performance limits and the role of neuronal physiology. Here, we use dynamic gain analysis in",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003789",
+    "journal": "PLOS Biology",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003789"
+  },
+  {
+    "type": "roundup",
+    "title": "Mapping of in vivo cleavage sites uncovers a major role for yeast RNase III in regulating protein-coding genes",
+    "text": "Mapping of in vivo cleavage sites uncovers a major role for yeast RNase III in regulating protein-coding genes \u2014 eLife. A large fraction of newly transcribed RNA is degraded in the nucleus, but nuclear mRNA degradation pathways remain largely understudied. The yeast nuclear endoribonuclease Rnt1 has a well-characterized role in the maturation of many ncRNA precursors. However, the scope and consequence of its functio",
+    "paper_id": "https://elifesciences.org/articles/106662",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/106662"
+  },
+  {
+    "type": "roundup",
+    "title": "Threshold-adaptive pruning with multi-key homomorphic encryption for communication-efficient secure federated learning",
+    "text": "Threshold-adaptive pruning with multi-key homomorphic encryption for communication-efficient secure federated learning \u2014 PLOS ONE. <p>by Jie Guo, Renjing Liu, Jinsheng Xing</p>\n\nUnder the federated learning framework, frequent parameter interactions between edge devices and servers result in communication inefficiency, while conventional encryption methods fail to resist multi-node collusion attacks. To address these challenges",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349432",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349432"
+  },
+  {
+    "type": "roundup",
+    "title": "KT-YOLO: A multi-convolution kernel collaboration model for dense Hu sheep behavior detection",
+    "text": "KT-YOLO: A multi-convolution kernel collaboration model for dense Hu sheep behavior detection \u2014 PLOS ONE. <p>by Suoxiang Zhang, Hongrui Chang, Zhonghong Wu, Guoxin Wu, Ronghua Ji</p>\n\nComputer vision has been extensively applied to sheep behavior detection in recent years. However, the dense distribution of Hu sheep poses detection challenges, while imbalanced behavioral categories in datasets affect cl",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349267",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349267"
+  },
+  {
+    "type": "roundup",
+    "title": "A novel Z-number based multi-stage assessment framework for problem-based learning in practical courses",
+    "text": "A novel Z-number based multi-stage assessment framework for problem-based learning in practical courses \u2014 PLOS ONE. <p>by Limin Yu, Zhe Chen, Zeyu Qin</p>\n\nConfronting the growing disparity between standardized evaluation systems and personalized competency development in practical education, this study proposes a novel data-driven framework integrating Multi-Criteria Group Decision Making (MCGDM) to enhance curr",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349114",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349114"
+  },
+  {
+    "type": "roundup",
+    "title": "Daily briefing: Around seven hours of sleep slows biological ageing",
+    "text": "Daily briefing: Around seven hours of sleep slows biological ageing \u2014 Nature News. <p>Nature, Published online: 14 May 2026; <a href=\"https://www.nature.com/articles/d41586-026-01578-6\">doi:10.1038/d41586-026-01578-6</a></p>Between six and eight hours of sleep each day seems to be a \u2018sweet spot\u2019 for preventing disease. Plus, unexpected interbreeding between Denisovans and Homo ere",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01578-6",
+    "journal": "Nature News",
+    "score": 1.19,
+    "url": "https://www.nature.com/articles/d41586-026-01578-6"
+  },
+  {
+    "type": "roundup",
+    "title": "Circadian control of a sex-specific behavior in <i>Drosophila</i>",
+    "text": "Circadian control of a sex-specific behavior in <i>Drosophila</i> \u2014 eLife. An endogenous circadian clock controls many of the behavioral traits of <i>Drosophila melanogaster</i>. This \u2018clock\u2019 relies on the activity of interconnected clusters of neurons that harbor the clock machinery. The hierarchy among clusters involved in the control of rest-activity cycles has been ext",
+    "paper_id": "https://elifesciences.org/articles/103359",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/103359"
+  },
+  {
+    "type": "roundup",
+    "title": "Cas9<sup>+</sup> conditionally immortalized neutrophil progenitors as a tool for genome wide CRISPR screening for neutrophil differentiation and function",
+    "text": "Cas9<sup>+</sup> conditionally immortalized neutrophil progenitors as a tool for genome wide CRISPR screening for neutrophil differentiation and function \u2014 eLife. Neutrophils are short-lived cells of the innate immune system that play numerous roles in defense against infection, regulation of immune responses, tissue damage and repair, autoimmunity, and other non-communicable diseases. Understanding neutrophil function at a mechanistic level has been hampered",
+    "paper_id": "https://elifesciences.org/articles/82289",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/82289"
+  },
+  {
+    "type": "roundup",
+    "title": "Redirection of SARS-CoV-2 to phagocytes by intranasal sACE2-Fc as a universal decoy confers complete prophylactic protection",
+    "text": "Redirection of SARS-CoV-2 to phagocytes by intranasal sACE2-Fc as a universal decoy confers complete prophylactic protection \u2014 eLife. The rapid evolution of SARS-CoV-2 and other respiratory RNA viruses limits the success of current vaccines and antibody-based therapies. Engineered decoy receptors based on soluble angiotensin-converting enzyme 2 (sACE2) offer promising alternatives but show limited clinical success. This study cond",
+    "paper_id": "https://elifesciences.org/articles/108883",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/108883"
+  },
+  {
+    "type": "roundup",
+    "title": "Symbiotic bacteria may support calcium carbonate precipitation in the Gulf toadfish",
+    "text": "Symbiotic bacteria may support calcium carbonate precipitation in the Gulf toadfish \u2014 PLOS Biology. <p>by Anthony M. Bonacolta, Tristan Kravitz, Roc\u00edo Mozo, Lydia J. Baker, Rachael M. Heuer, Martin Grosell, Javier del Campo</p>\n\nMarine fish play a significant yet understudied role in the oceanic carbon cycle through the production of magnesium-rich calcium carbonate (CaCO<sub>3</sub>) precipitates",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003764",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003764"
+  },
+  {
+    "type": "roundup",
+    "title": "Acoustic delivery of indocyanine green via biosynthetic gas vesicles for tumor photothermal therapy",
+    "text": "Acoustic delivery of indocyanine green via biosynthetic gas vesicles for tumor photothermal therapy \u2014 PLOS Biology. <p>by Jiaqi Zhang, Licong Huang, Shuhui Wang, Jingwen Ding, Yuping Yang, Chenhui Li, Ping Zhao, Qian Li, Fei Yan</p>\n\nPhotothermal therapy (PTT) serves as a complementary strategy to conventional cancer treatments. Indocyanine green (ICG) is the only U.S. Food and Drug Administration (FDA)-approved",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003786",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003786"
+  },
+  {
+    "type": "roundup",
+    "title": "Spatial transcriptomic-metabolic features of tumor foci and tumor capsule in microvascular invasion with hepatocellular carcinoma: A spatial multi-omics study",
+    "text": "Spatial transcriptomic-metabolic features of tumor foci and tumor capsule in microvascular invasion with hepatocellular carcinoma: A spatial multi-omics study \u2014 PLOS Medicine. <p>by Zhi-Hui Luo, Na Wang, Jingwei Zhao, Fei Long, Si Wu, Wei Zhong, Wei-Ming Chen, Bicheng Wang, Kun Wang, Yufeng Yuan, Jingjiao Zhou, Chunhui Yuan, Fubing Wang</p>\nBackground <p>Microvascular invasion (MVI) is closely related to the recurrence and metastasis of hepatocellular carcinoma (HCC), but",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004703",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004703"
+  },
+  {
+    "type": "roundup",
+    "title": "First-trimester nonsteroidal anti-inflammatory drugs exposure and risk of major congenital malformations: A retrospective register-based cohort study",
+    "text": "First-trimester nonsteroidal anti-inflammatory drugs exposure and risk of major congenital malformations: A retrospective register-based cohort study \u2014 PLOS Medicine. <p>by Ariel Avraham Hasidim, Itamar Ben Shitrit, Daphna Idan, Tal Michael, Amalia Levy, Gali Pariente, Eitan Lunenfeld, Sharon Daniel</p>\nBackground <p>Pain and fever are common in early pregnancy, yet their management poses a major clinical dilemma. Although not confirmed, recent studies have raise",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005063",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005063"
+  },
+  {
+    "type": "roundup",
+    "title": "Contribution of nosocomial transmission to <i>Klebsiella pneumoniae</i> neonatal sepsis in Africa and South Asia: An observational study of infection clusters inferred from pathogen genomics and temporal data",
+    "text": "Contribution of nosocomial transmission to <i>Klebsiella pneumoniae</i> neonatal sepsis in Africa and South Asia: An observational study of infection clusters inferred from pathogen genomics and temporal data \u2014 PLOS Medicine. <p>by Erkison Ewomazino Odih, Jabir A. Abdulahi, Anne V. Amulele, Matthew Bates, Eva Heinz, Weiming Hu, Kajal Jain, Rindidzani Magobo, Courtney P. Olwagen, John M. Tembo, Tolbert Sonda, Jonathan Strysko, Caroline C. Tigoi, Kyle Bittinger, Jennifer Cornick, Ebenezer Foster-Nyarko, Wilson Gumbi, Steve",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005077",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005077"
+  },
+  {
+    "type": "roundup",
+    "title": "Social contact patterns in the United Kingdom following the COVID-19 pandemic: The Reconnect cross-sectional survey",
+    "text": "Social contact patterns in the United Kingdom following the COVID-19 pandemic: The Reconnect cross-sectional survey \u2014 PLOS Medicine. <p>by Lucy Goodfellow, Billy J. Quilty, Kevin van Zandvoort, W. John Edmunds</p>\nBackground <p>Close-contact and respiratory infectious diseases are spread through social interactions. Measuring these interactions has transformed our ability to understand transmission and control these infections. S",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005038",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005038"
+  },
+  {
+    "type": "roundup",
+    "title": "A study of push and pull factors influencing employee retention in education sector in China: Using PLS-SEM and multi-group analysis",
+    "text": "A study of push and pull factors influencing employee retention in education sector in China: Using PLS-SEM and multi-group analysis \u2014 PLOS ONE. <p>by Zhengda Yao, Juanjuan Zhang, Dejun Kang</p>\n\nEmployee retention remains a pressing issue and it reflects a key psychological decision-making outcome shaped by work-related stressors and organizational resources. Drawing on the Push-Pull framework, this study examines how pull factors (training",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349605",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349605"
+  },
+  {
+    "type": "roundup",
+    "title": "A pioneering plastic particle footprint concept for addressing the challenges posed by plastic pollution",
+    "text": "A pioneering plastic particle footprint concept for addressing the challenges posed by plastic pollution \u2014 Science Advances. Science Advances, Volume 12, Issue 20, May 2026. <br />",
+    "paper_id": "https://www.science.org/doi/abs/10.1126/sciadv.aec1418?af=R",
+    "journal": "Science Advances",
+    "score": 0.527,
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1418?af=R"
+  },
+  {
+    "type": "roundup",
+    "title": "Structural basis for hemoglobin scavenging by CD163 reveals mechanism of ligand promiscuity",
+    "text": "Structural basis for hemoglobin scavenging by CD163 reveals mechanism of ligand promiscuity \u2014 PLOS Biology. <p>by Richard X. Zhou, Matthew K. Higgins</p>\n\nThe scavenger receptor CD163 detoxifies free hemoglobin released on erythrocyte lysis to prevent oxidative damage. The best understood route for hemoglobin detoxification involves the formation of haptoglobin-hemoglobin complexes that bind CD163 and are",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003788",
+    "journal": "PLOS Biology",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003788"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

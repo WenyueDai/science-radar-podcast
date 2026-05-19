@@ -1,0 +1,126 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Encoding performance of cortical neurons critically depends on their morphological and neurophysiological properties
+============================================================
+Encoding performance of cortical neurons critically depends on their morphological and neurophysiological properties — PLOS Biology. <p>by Omer Revah, Fred Wolf, Michael J. Gutnick, Andreas Neef</p>
+
+Sixty years after the concept of population coding in neuronal networks was introduced, we still lack a comprehensive understanding of its performance limits and the role of neuronal physiology. Here, we use dynamic gain analysis in
+
+============================================================
+[ROUNDUP] Mapping of in vivo cleavage sites uncovers a major role for yeast RNase III in regulating protein-coding genes
+============================================================
+Mapping of in vivo cleavage sites uncovers a major role for yeast RNase III in regulating protein-coding genes — eLife. A large fraction of newly transcribed RNA is degraded in the nucleus, but nuclear mRNA degradation pathways remain largely understudied. The yeast nuclear endoribonuclease Rnt1 has a well-characterized role in the maturation of many ncRNA precursors. However, the scope and consequence of its functio
+
+============================================================
+[ROUNDUP] Threshold-adaptive pruning with multi-key homomorphic encryption for communication-efficient secure federated learning
+============================================================
+Threshold-adaptive pruning with multi-key homomorphic encryption for communication-efficient secure federated learning — PLOS ONE. <p>by Jie Guo, Renjing Liu, Jinsheng Xing</p>
+
+Under the federated learning framework, frequent parameter interactions between edge devices and servers result in communication inefficiency, while conventional encryption methods fail to resist multi-node collusion attacks. To address these challenges
+
+============================================================
+[ROUNDUP] KT-YOLO: A multi-convolution kernel collaboration model for dense Hu sheep behavior detection
+============================================================
+KT-YOLO: A multi-convolution kernel collaboration model for dense Hu sheep behavior detection — PLOS ONE. <p>by Suoxiang Zhang, Hongrui Chang, Zhonghong Wu, Guoxin Wu, Ronghua Ji</p>
+
+Computer vision has been extensively applied to sheep behavior detection in recent years. However, the dense distribution of Hu sheep poses detection challenges, while imbalanced behavioral categories in datasets affect cl
+
+============================================================
+[ROUNDUP] A novel Z-number based multi-stage assessment framework for problem-based learning in practical courses
+============================================================
+A novel Z-number based multi-stage assessment framework for problem-based learning in practical courses — PLOS ONE. <p>by Limin Yu, Zhe Chen, Zeyu Qin</p>
+
+Confronting the growing disparity between standardized evaluation systems and personalized competency development in practical education, this study proposes a novel data-driven framework integrating Multi-Criteria Group Decision Making (MCGDM) to enhance curr
+
+============================================================
+[ROUNDUP] Daily briefing: Around seven hours of sleep slows biological ageing
+============================================================
+Daily briefing: Around seven hours of sleep slows biological ageing — Nature News. <p>Nature, Published online: 14 May 2026; <a href="https://www.nature.com/articles/d41586-026-01578-6">doi:10.1038/d41586-026-01578-6</a></p>Between six and eight hours of sleep each day seems to be a ‘sweet spot’ for preventing disease. Plus, unexpected interbreeding between Denisovans and Homo ere
+
+============================================================
+[ROUNDUP] Circadian control of a sex-specific behavior in <i>Drosophila</i>
+============================================================
+Circadian control of a sex-specific behavior in <i>Drosophila</i> — eLife. An endogenous circadian clock controls many of the behavioral traits of <i>Drosophila melanogaster</i>. This ‘clock’ relies on the activity of interconnected clusters of neurons that harbor the clock machinery. The hierarchy among clusters involved in the control of rest-activity cycles has been ext
+
+============================================================
+[ROUNDUP] Cas9<sup>+</sup> conditionally immortalized neutrophil progenitors as a tool for genome wide CRISPR screening for neutrophil differentiation and function
+============================================================
+Cas9<sup>+</sup> conditionally immortalized neutrophil progenitors as a tool for genome wide CRISPR screening for neutrophil differentiation and function — eLife. Neutrophils are short-lived cells of the innate immune system that play numerous roles in defense against infection, regulation of immune responses, tissue damage and repair, autoimmunity, and other non-communicable diseases. Understanding neutrophil function at a mechanistic level has been hampered
+
+============================================================
+[ROUNDUP] Redirection of SARS-CoV-2 to phagocytes by intranasal sACE2-Fc as a universal decoy confers complete prophylactic protection
+============================================================
+Redirection of SARS-CoV-2 to phagocytes by intranasal sACE2-Fc as a universal decoy confers complete prophylactic protection — eLife. The rapid evolution of SARS-CoV-2 and other respiratory RNA viruses limits the success of current vaccines and antibody-based therapies. Engineered decoy receptors based on soluble angiotensin-converting enzyme 2 (sACE2) offer promising alternatives but show limited clinical success. This study cond
+
+============================================================
+[ROUNDUP] Symbiotic bacteria may support calcium carbonate precipitation in the Gulf toadfish
+============================================================
+Symbiotic bacteria may support calcium carbonate precipitation in the Gulf toadfish — PLOS Biology. <p>by Anthony M. Bonacolta, Tristan Kravitz, Rocío Mozo, Lydia J. Baker, Rachael M. Heuer, Martin Grosell, Javier del Campo</p>
+
+Marine fish play a significant yet understudied role in the oceanic carbon cycle through the production of magnesium-rich calcium carbonate (CaCO<sub>3</sub>) precipitates
+
+============================================================
+[ROUNDUP] Acoustic delivery of indocyanine green via biosynthetic gas vesicles for tumor photothermal therapy
+============================================================
+Acoustic delivery of indocyanine green via biosynthetic gas vesicles for tumor photothermal therapy — PLOS Biology. <p>by Jiaqi Zhang, Licong Huang, Shuhui Wang, Jingwen Ding, Yuping Yang, Chenhui Li, Ping Zhao, Qian Li, Fei Yan</p>
+
+Photothermal therapy (PTT) serves as a complementary strategy to conventional cancer treatments. Indocyanine green (ICG) is the only U.S. Food and Drug Administration (FDA)-approved
+
+============================================================
+[ROUNDUP] Spatial transcriptomic-metabolic features of tumor foci and tumor capsule in microvascular invasion with hepatocellular carcinoma: A spatial multi-omics study
+============================================================
+Spatial transcriptomic-metabolic features of tumor foci and tumor capsule in microvascular invasion with hepatocellular carcinoma: A spatial multi-omics study — PLOS Medicine. <p>by Zhi-Hui Luo, Na Wang, Jingwei Zhao, Fei Long, Si Wu, Wei Zhong, Wei-Ming Chen, Bicheng Wang, Kun Wang, Yufeng Yuan, Jingjiao Zhou, Chunhui Yuan, Fubing Wang</p>
+Background <p>Microvascular invasion (MVI) is closely related to the recurrence and metastasis of hepatocellular carcinoma (HCC), but
+
+============================================================
+[ROUNDUP] First-trimester nonsteroidal anti-inflammatory drugs exposure and risk of major congenital malformations: A retrospective register-based cohort study
+============================================================
+First-trimester nonsteroidal anti-inflammatory drugs exposure and risk of major congenital malformations: A retrospective register-based cohort study — PLOS Medicine. <p>by Ariel Avraham Hasidim, Itamar Ben Shitrit, Daphna Idan, Tal Michael, Amalia Levy, Gali Pariente, Eitan Lunenfeld, Sharon Daniel</p>
+Background <p>Pain and fever are common in early pregnancy, yet their management poses a major clinical dilemma. Although not confirmed, recent studies have raise
+
+============================================================
+[ROUNDUP] Contribution of nosocomial transmission to <i>Klebsiella pneumoniae</i> neonatal sepsis in Africa and South Asia: An observational study of infection clusters inferred from pathogen genomics and temporal data
+============================================================
+Contribution of nosocomial transmission to <i>Klebsiella pneumoniae</i> neonatal sepsis in Africa and South Asia: An observational study of infection clusters inferred from pathogen genomics and temporal data — PLOS Medicine. <p>by Erkison Ewomazino Odih, Jabir A. Abdulahi, Anne V. Amulele, Matthew Bates, Eva Heinz, Weiming Hu, Kajal Jain, Rindidzani Magobo, Courtney P. Olwagen, John M. Tembo, Tolbert Sonda, Jonathan Strysko, Caroline C. Tigoi, Kyle Bittinger, Jennifer Cornick, Ebenezer Foster-Nyarko, Wilson Gumbi, Steve
+
+============================================================
+[ROUNDUP] Social contact patterns in the United Kingdom following the COVID-19 pandemic: The Reconnect cross-sectional survey
+============================================================
+Social contact patterns in the United Kingdom following the COVID-19 pandemic: The Reconnect cross-sectional survey — PLOS Medicine. <p>by Lucy Goodfellow, Billy J. Quilty, Kevin van Zandvoort, W. John Edmunds</p>
+Background <p>Close-contact and respiratory infectious diseases are spread through social interactions. Measuring these interactions has transformed our ability to understand transmission and control these infections. S
+
+============================================================
+[ROUNDUP] A study of push and pull factors influencing employee retention in education sector in China: Using PLS-SEM and multi-group analysis
+============================================================
+A study of push and pull factors influencing employee retention in education sector in China: Using PLS-SEM and multi-group analysis — PLOS ONE. <p>by Zhengda Yao, Juanjuan Zhang, Dejun Kang</p>
+
+Employee retention remains a pressing issue and it reflects a key psychological decision-making outcome shaped by work-related stressors and organizational resources. Drawing on the Push-Pull framework, this study examines how pull factors (training
+
+============================================================
+[ROUNDUP] A pioneering plastic particle footprint concept for addressing the challenges posed by plastic pollution
+============================================================
+A pioneering plastic particle footprint concept for addressing the challenges posed by plastic pollution — Science Advances. Science Advances, Volume 12, Issue 20, May 2026. <br />
+
+============================================================
+[ROUNDUP] Structural basis for hemoglobin scavenging by CD163 reveals mechanism of ligand promiscuity
+============================================================
+Structural basis for hemoglobin scavenging by CD163 reveals mechanism of ligand promiscuity — PLOS Biology. <p>by Richard X. Zhou, Matthew K. Higgins</p>
+
+The scavenger receptor CD163 detoxifies free hemoglobin released on erythrocyte lysis to prevent oxidative damage. The best understood route for hemoglobin detoxification involves the formation of haptoglobin-hemoglobin complexes that bind CD163 and are
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

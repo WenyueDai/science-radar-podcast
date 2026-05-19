@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-19",
+  "mp3": "output/2026-05-19/podcast_2026-05-19.mp3",
+  "paper_count": 18,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Encoding performance of cortical neurons critically depends on their morphological and neurophysiological properties",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003789",
+      "score": 1.5,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Mapping of in vivo cleavage sites uncovers a major role for yeast RNase III in regulating protein-coding genes",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/106662",
+      "score": 1.5,
+      "timestamp_sec": 52.727999999999994
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Threshold-adaptive pruning with multi-key homomorphic encryption for communication-efficient secure federated learning",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349432",
+      "score": 1.5,
+      "timestamp_sec": 79.2
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "KT-YOLO: A multi-convolution kernel collaboration model for dense Hu sheep behavior detection",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349267",
+      "score": 1.5,
+      "timestamp_sec": 103.92
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "A novel Z-number based multi-stage assessment framework for problem-based learning in practical courses",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349114",
+      "score": 1.5,
+      "timestamp_sec": 129.0
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Daily briefing: Around seven hours of sleep slows biological ageing",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01578-6",
+      "score": 1.19,
+      "timestamp_sec": 153.744
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Circadian control of a sex-specific behavior in <i>Drosophila</i>",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/103359",
+      "score": 1.0,
+      "timestamp_sec": 174.432
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Cas9<sup>+</sup> conditionally immortalized neutrophil progenitors as a tool for genome wide CRISPR screening for neutrophil differentiation and function",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/82289",
+      "score": 1.0,
+      "timestamp_sec": 196.968
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Redirection of SARS-CoV-2 to phagocytes by intranasal sACE2-Fc as a universal decoy confers complete prophylactic protection",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108883",
+      "score": 1.0,
+      "timestamp_sec": 223.968
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Symbiotic bacteria may support calcium carbonate precipitation in the Gulf toadfish",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003764",
+      "score": 1.0,
+      "timestamp_sec": 253.392
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Acoustic delivery of indocyanine green via biosynthetic gas vesicles for tumor photothermal therapy",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003786",
+      "score": 1.0,
+      "timestamp_sec": 279.888
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Spatial transcriptomic-metabolic features of tumor foci and tumor capsule in microvascular invasion with hepatocellular carcinoma: A spatial multi-omics study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004703",
+      "score": 1.0,
+      "timestamp_sec": 309.33599999999996
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "First-trimester nonsteroidal anti-inflammatory drugs exposure and risk of major congenital malformations: A retrospective register-based cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005063",
+      "score": 1.0,
+      "timestamp_sec": 342.02399999999994
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Contribution of nosocomial transmission to <i>Klebsiella pneumoniae</i> neonatal sepsis in Africa and South Asia: An observational study of infection clusters inferred from pathogen genomics and temporal data",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005077",
+      "score": 1.0,
+      "timestamp_sec": 371.3279999999999
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Social contact patterns in the United Kingdom following the COVID-19 pandemic: The Reconnect cross-sectional survey",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005038",
+      "score": 1.0,
+      "timestamp_sec": 406.7039999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "A study of push and pull factors influencing employee retention in education sector in China: Using PLS-SEM and multi-group analysis",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349605",
+      "score": 1.0,
+      "timestamp_sec": 434.23199999999986
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "A pioneering plastic particle footprint concept for addressing the challenges posed by plastic pollution",
+      "journal": "Science Advances",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1418?af=R",
+      "score": 0.527,
+      "timestamp_sec": 461.06399999999985
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Structural basis for hemoglobin scavenging by CD163 reveals mechanism of ligand promiscuity",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003788",
+      "score": 0.5,
+      "timestamp_sec": 476.03999999999985
+    },
+    {
+      "index": 20,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 503.35199999999986
+    }
+  ]
+}
