@@ -1,0 +1,223 @@
+{
+  "date": "2026-05-26",
+  "mp3": "output/2026-05-26/podcast_2026-05-26.mp3",
+  "paper_count": 21,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "A quantitative pipeline for whole-mount deep imaging and analysis of multi-layered organoids across scales",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/107154",
+      "score": 1.5,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Feature-specific threat coding in lateral septum guides defensive action",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10520-9",
+      "score": 1.152,
+      "timestamp_sec": 52.967999999999996
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Sexual dimorphism in sensorimotor transformation of optic flow",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109795",
+      "score": 1.0,
+      "timestamp_sec": 73.104
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Involuntary feedback responses reflect a representation of partner actions",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109734",
+      "score": 1.0,
+      "timestamp_sec": 96.12
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Developmental constraints mediate the reversal of temperature effects on the autumn phenology of European beech after the summer solstice",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/107554",
+      "score": 1.0,
+      "timestamp_sec": 119.97600000000001
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "The anti-neural role of BMP signaling is a consequence of its ancestral function in dorsoventral patterning",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003803",
+      "score": 1.0,
+      "timestamp_sec": 144.984
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Redundant and distinct mechanisms suppress innate immune activation during SARS-CoV-2 infection",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003808",
+      "score": 1.0,
+      "timestamp_sec": 171.864
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "The <i>Pseudomonas aeruginosa</i> ribonuclease Ribocin cleaves eukaryotic ribosomes at helix 69 to inhibit host translation",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003790",
+      "score": 1.0,
+      "timestamp_sec": 202.2
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Differences in tuberculosis prevalence by sex in low- and middle-income countries over 1993\u20132025: A systematic review and meta-analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005114",
+      "score": 1.0,
+      "timestamp_sec": 232.176
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Semaglutide-associated risk of nonarteritic anterior ischemic optic neuropathy in patients with type 2 diabetes: A systematic review and meta-analysis of observational studies",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005064",
+      "score": 1.0,
+      "timestamp_sec": 263.64
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Associations between hematologic dynamics during pregnancy and obstetric complications: A retrospective observational study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004747",
+      "score": 1.0,
+      "timestamp_sec": 295.224
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Does tear size influence factors associated with early retear, satisfaction, and functional outcomes after arthroscopic rotator cuff repair?",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350091",
+      "score": 1.0,
+      "timestamp_sec": 325.79999999999995
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Comparison of dose-adjusted EPOCH-R and R-CHOP in diffuse large B-cell lymphoma with high Ki67 expression: Results from a prospective observational study",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350024",
+      "score": 1.0,
+      "timestamp_sec": 353.90399999999994
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Integrative transcriptomic analysis identifies immune-associated candidate genes and altered immune cell infiltration in pulmonary arterial hypertension",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350015",
+      "score": 1.0,
+      "timestamp_sec": 384.33599999999996
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Identification of key genes and signaling pathways associated with acute pancreatitis and acute lung injury by bioinformatics analysis",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350013",
+      "score": 1.0,
+      "timestamp_sec": 414.07199999999995
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Two Researchers Are Rebuilding Mathematics From the Ground Up",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/two-researchers-are-rebuilding-mathematics-from-the-ground-up-20260520/",
+      "score": 0.752,
+      "timestamp_sec": 440.66399999999993
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Electrically reconfigurable polarization control with double tri-layer black phosphorus heterostructures",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-73458-6",
+      "score": 0.751,
+      "timestamp_sec": 458.99999999999994
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "How Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+      "score": 0.748,
+      "timestamp_sec": 481.99199999999996
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Too little or too much sleep is linked to faster ageing throughout the body",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01564-y",
+      "score": 0.747,
+      "timestamp_sec": 501.31199999999995
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "A non-canonical JAK/STAT pathway promotes viral replication through the lipoprotein receptor-related protein in ticks",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003797",
+      "score": 0.5,
+      "timestamp_sec": 521.616
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "Prescribed hormonal contraceptive use trends in the Estonian Biobank: A longitudinal observational study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005086",
+      "score": 0.5,
+      "timestamp_sec": 549.48
+    },
+    {
+      "index": 23,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 577.104
+    }
+  ]
+}

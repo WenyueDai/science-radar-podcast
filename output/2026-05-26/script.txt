@@ -1,0 +1,136 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] A quantitative pipeline for whole-mount deep imaging and analysis of multi-layered organoids across scales
+============================================================
+A quantitative pipeline for whole-mount deep imaging and analysis of multi-layered organoids across scales — eLife. Whole-mount 3D imaging at the cellular scale is a powerful tool for exploring complex processes during morphogenesis. In organoids, it allows examining tissue architecture, cell types, and morphology simultaneously in 3D models. However, cell packing in multilayered organoid tissues hinders both dee
+
+============================================================
+[ROUNDUP] Feature-specific threat coding in lateral septum guides defensive action
+============================================================
+Feature-specific threat coding in lateral septum guides defensive action — Nature News. <p>Nature, Published online: 20 May 2026; <a href="https://www.nature.com/articles/s41586-026-10520-9">doi:10.1038/s41586-026-10520-9</a></p>The populations of CRHR2-expressing neurons in the lateral septum of mice involved in threat-related behaviour in response to environmental challenges are defi
+
+============================================================
+[ROUNDUP] Sexual dimorphism in sensorimotor transformation of optic flow
+============================================================
+Sexual dimorphism in sensorimotor transformation of optic flow — eLife. Motion vision underpins a wide range of adaptive behaviours essential for individual and species survival. In hoverflies, some visual behaviours are sexually dimorphic, including for example male high-speed pursuit of conspecifics matched by improved optics and faster photoreceptors. Other visual be
+
+============================================================
+[ROUNDUP] Involuntary feedback responses reflect a representation of partner actions
+============================================================
+Involuntary feedback responses reflect a representation of partner actions — eLife. We have a remarkable ability to seamlessly and rapidly coordinate actions with others, from double Dutch to dancing. Humans use high-level partner representations to jointly control voluntary actions, while other work shows lower-level involuntary feedback responses to sudden visual perturbations. Y
+
+============================================================
+[ROUNDUP] Developmental constraints mediate the reversal of temperature effects on the autumn phenology of European beech after the summer solstice
+============================================================
+Developmental constraints mediate the reversal of temperature effects on the autumn phenology of European beech after the summer solstice — eLife. Accurate projections of temperate tree growing seasons under climate change require representing developmental constraints that determine tree resource allocation. A phenological ‘switch point’ after the summer solstice (21 June) has been proposed, with pre-solstice warming advancing autumn phenolog
+
+============================================================
+[ROUNDUP] The anti-neural role of BMP signaling is a consequence of its ancestral function in dorsoventral patterning
+============================================================
+The anti-neural role of BMP signaling is a consequence of its ancestral function in dorsoventral patterning — PLOS Biology. <p>by Paul Knabl, June F. Ordoñez, Juan Daniel Montenegro Cabrera, Daniel Abed-Navandi, Roland Halbauer, Oliver Link, Tim Wollesen, Grigory Genikhovich</p>
+
+In Bilateria with centralized nervous systems (e.g., in vertebrates or arthropods), the minimum of the BMP signaling activity gradient defines
+
+============================================================
+[ROUNDUP] Redundant and distinct mechanisms suppress innate immune activation during SARS-CoV-2 infection
+============================================================
+Redundant and distinct mechanisms suppress innate immune activation during SARS-CoV-2 infection — PLOS Biology. <p>by Fuchun Zhou, Sivakumar Periasamy, Nathaniel D. Jackson, Wan Sze Cheng, Ruben Soto Acosta, Aarti Tripathi, Kritika Kedarinath, Philipp A. Ilinykh, Chengjin Ye, Shailendra Chauhan, German Nudelman, Elena Zaslavsky, Haiping Hao, Steven G. Widen, Luis Martinez-Sobrido, Stuart C. Sealfon, Alexander
+
+============================================================
+[ROUNDUP] The <i>Pseudomonas aeruginosa</i> ribonuclease Ribocin cleaves eukaryotic ribosomes at helix 69 to inhibit host translation
+============================================================
+The <i>Pseudomonas aeruginosa</i> ribonuclease Ribocin cleaves eukaryotic ribosomes at helix 69 to inhibit host translation — PLOS Biology. <p>by Alejandro Vasquez-Rifo, Denis Susorov, Emily H. Sholi, Gabriel Demo, Yasaman Jami, Jihui Sha, James A. Wohlschlegel, Andrei Korostelev, Victor Ambros</p>
+
+<i>Pseudomonas aeruginosa</i> employs host translation inhibition as a virulence-enhancing strategy. We previously showed that the bacteriu
+
+============================================================
+[ROUNDUP] Differences in tuberculosis prevalence by sex in low- and middle-income countries over 1993–2025: A systematic review and meta-analysis
+============================================================
+Differences in tuberculosis prevalence by sex in low- and middle-income countries over 1993–2025: A systematic review and meta-analysis — PLOS Medicine. <p>by Nicole A. Swartwood, Nanki Singh, Seyed Alireza Mortazavi, Melike Hazal Can, Hening Cui, Do Kyung Ryuk, Peter MacPherson, Katherine C. Horton, Nicolas A. Menzies</p>
+Background <p>Global and national initiatives to combat tuberculosis (TB) have expanded over recent years. Despite this, the TB
+
+============================================================
+[ROUNDUP] Semaglutide-associated risk of nonarteritic anterior ischemic optic neuropathy in patients with type 2 diabetes: A systematic review and meta-analysis of observational studies
+============================================================
+Semaglutide-associated risk of nonarteritic anterior ischemic optic neuropathy in patients with type 2 diabetes: A systematic review and meta-analysis of observational studies — PLOS Medicine. <p>by Jędrzej Chrzanowski, Magdalena Walicka, Jacek Burzyński, Małgorzata Zaraś, Arkadiusz Michalak, Wojciech Fendler</p>
+Background <p>Semaglutide, a glucagon-like peptide-1 receptor agonist, is widely used for the management of type 2 diabetes (T2DM). Recent case reports have raised concerns about
+
+============================================================
+[ROUNDUP] Associations between hematologic dynamics during pregnancy and obstetric complications: A retrospective observational study
+============================================================
+Associations between hematologic dynamics during pregnancy and obstetric complications: A retrospective observational study — PLOS Medicine. <p>by Veronica Tozzo, Rachel Petherbridge, Kaitlyn James, Sarah Hsu, Deepti Pant, Chloe Michalopoulos, Brody H. Foy, Tanayott Thaweethai, Christopher Mow, Jacqueline Maya, Carolina Batlle Camero, Lydia Shook, Kathryn J. Gray, Logan Mauney, John M. Higgins, Camille E. Powe</p>
+Background <p>Pregnancy
+
+============================================================
+[ROUNDUP] Does tear size influence factors associated with early retear, satisfaction, and functional outcomes after arthroscopic rotator cuff repair?
+============================================================
+Does tear size influence factors associated with early retear, satisfaction, and functional outcomes after arthroscopic rotator cuff repair? — PLOS ONE. <p>by Ala’ Hawa, Ahmed F. Hawwa, James Bilbrough, Victor Chen, Mina Shenouda, George A. C. Murrell</p>
+Background <p>Determinants of structural retear, patient satisfaction, and functional outcomes after arthroscopic rotator cuff repair may vary by tear size and influence surgical decision-making.</
+
+============================================================
+[ROUNDUP] Comparison of dose-adjusted EPOCH-R and R-CHOP in diffuse large B-cell lymphoma with high Ki67 expression: Results from a prospective observational study
+============================================================
+Comparison of dose-adjusted EPOCH-R and R-CHOP in diffuse large B-cell lymphoma with high Ki67 expression: Results from a prospective observational study — PLOS ONE. <p>by Wenxin Jiang, Peng Liu</p>
+Objectives <p>To compare the safety and efficacy of first-line dose-adjusted EPOCH-R (DA-EPOCH-R) versus R-CHOP treatment in diffuse large B-cell lymphoma (DLBCL) patients with high Ki67 expression.</p> Methods <p>A retrospective analysis of DLBCL patients receiving
+
+============================================================
+[ROUNDUP] Integrative transcriptomic analysis identifies immune-associated candidate genes and altered immune cell infiltration in pulmonary arterial hypertension
+============================================================
+Integrative transcriptomic analysis identifies immune-associated candidate genes and altered immune cell infiltration in pulmonary arterial hypertension — PLOS ONE. <p>by Xitong Yang, Bin Zhou, Ying Yang, Yu Dong, Jifen Fu, Hong Liu, Xinhua Wu</p>
+Background <p>Pulmonary arterial hypertension (PAH) is a progressive vascular disease characterized by immune dysregulation and pulmonary vascular remodeling. This study aimed to identify immune-associated hub genes i
+
+============================================================
+[ROUNDUP] Identification of key genes and signaling pathways associated with acute pancreatitis and acute lung injury by bioinformatics analysis
+============================================================
+Identification of key genes and signaling pathways associated with acute pancreatitis and acute lung injury by bioinformatics analysis — PLOS ONE. <p>by Lingfeng Chen, Fengzhu Guo, Chunlin Hong</p>
+Objective <p>To identify key genes and shared pathogenic pathways associated with acute pancreatitis-associated acute lung injury (AP-ALI), through bioinformatics analysis, and to provide potential molecular targets for the diagnosis and treatment o
+
+============================================================
+[ROUNDUP] Two Researchers Are Rebuilding Mathematics From the Ground Up
+============================================================
+Two Researchers Are Rebuilding Mathematics From the Ground Up — Quanta Magazine. By replacing the most fundamental concept in topology, Peter Scholze and Dustin Clausen are taking the first step in a far bigger program to understand why numbers behave the way they do.            <p>The post <a href="https://www.quantamagazine.org/two-researchers-are-rebuilding-mathematics-from-t
+
+============================================================
+[ROUNDUP] Electrically reconfigurable polarization control with double tri-layer black phosphorus heterostructures
+============================================================
+Electrically reconfigurable polarization control with double tri-layer black phosphorus heterostructures — Nature Communications. <p>Nature Communications, Published online: 26 May 2026; <a href="https://www.nature.com/articles/s41467-026-73458-6">doi:10.1038/s41467-026-73458-6</a></p>Layered anisotropic 2D materials hold potential for the realization of compact polarization modulators. Here, the authors realize a Fabry-Perot
+
+============================================================
+[ROUNDUP] How Alexander Grothendieck Revolutionized 20th-Century Mathematics
+============================================================
+How Alexander Grothendieck Revolutionized 20th-Century Mathematics — Quanta Magazine. Grothendieck is revered in the world of math; outside of it, he’s known for his unusual life, if he’s known at all. But what were his actual mathematical contributions?            <p>The post <a href="https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-2
+
+============================================================
+[ROUNDUP] Too little or too much sleep is linked to faster ageing throughout the body
+============================================================
+Too little or too much sleep is linked to faster ageing throughout the body — Nature News. <p>Nature, Published online: 20 May 2026; <a href="https://www.nature.com/articles/d41586-026-01564-y">doi:10.1038/d41586-026-01564-y</a></p>A multimodal analysis reveals a ‘U-shaped’ association between sleep duration and biological ageing across various organ systems, with too much or not enough s
+
+============================================================
+[ROUNDUP] A non-canonical JAK/STAT pathway promotes viral replication through the lipoprotein receptor-related protein in ticks
+============================================================
+A non-canonical JAK/STAT pathway promotes viral replication through the lipoprotein receptor-related protein in ticks — PLOS Biology. <p>by Yan Xu, Wenbo Zeng, Guodian Xiong, Zhenhua Zheng, Jingwen Wang</p>
+
+Ticks transmit numerous viruses that pose significant threats to human and animal health, however, the molecular interactions between ticks and viruses remain poorly understood. Using Langat virus (LGTV)—a surrogate for tick-b
+
+============================================================
+[ROUNDUP] Prescribed hormonal contraceptive use trends in the Estonian Biobank: A longitudinal observational study
+============================================================
+Prescribed hormonal contraceptive use trends in the Estonian Biobank: A longitudinal observational study — PLOS Medicine. <p>by Jelisaveta Džigurski, Märt Möls, Kristi Läll, Hannah Currant, Mall Eltermaa, Reedik Mägi, Lili Milani, Triin Laisk, Estonian Biobank Research Team </p>
+Background <p>Hormonal contraceptives (HCs) are widely used and have well-documented population-level statistics. Previous studies with short
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

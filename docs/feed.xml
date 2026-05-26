@@ -4,8 +4,15 @@
   <title>Science Radar</title>
   <description>Weekly deep-dives into surprising, frontier, and cross-disciplinary science</description>
   <language>en</language>
-  <lastBuildDate>Tue, 19 May 2026 05:16:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 05:14:57 +0000</lastBuildDate>
   
+  <item>
+    <title>Science Radar — 2026-05-26</title>
+    <description>21 papers analyzed</description>
+    <pubDate>Tue, 26 May 2026 04:00:00 +0000</pubDate>
+    <guid isPermaLink="false">episode-2026-05-26</guid>
+    <enclosure url='https://github.com/WenyueDai/science-radar-podcast/releases/download/episode-2026-05-26/podcast_2026-05-26.mp3' type='audio/mpeg'/>
+  </item>
   <item>
     <title>Science Radar — 2026-05-19</title>
     <description>18 papers analyzed</description>
