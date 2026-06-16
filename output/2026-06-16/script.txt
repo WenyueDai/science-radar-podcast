@@ -1,0 +1,168 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Eco-evolutionary feedbacks drive the co-occurrence of restriction-modification systems and antimicrobial resistance genes in bacteria
+============================================================
+Eco-evolutionary feedbacks drive the co-occurrence of restriction-modification systems and antimicrobial resistance genes in bacteria — PLOS Biology. <p>by Joseph Westley, Paritosh Bedekar, Elizabeth Pursey, Mark D. Szczelkun, Mario Recker, Stineke van Houte, Edze R. Westra</p>
+
+Bacterial pathogens commonly become drug resistant via horizontal acquisition of antimicrobial resistance genes (ARGs), which are often encoded on mobile genetic elements
+
+============================================================
+[ROUNDUP] Estrogen impacts NOD2-dependent regulation of intestinal homeostasis
+============================================================
+Estrogen impacts NOD2-dependent regulation of intestinal homeostasis — PLOS Biology. <p>by Mckenna Eklund, Edan Foley</p>
+
+Mutations in the innate immune receptor NOD2 are the greatest single genetic risk factor for Crohn’s disease, yet the mechanisms by which NOD2 regulates intestinal homeostasis remain unclear. We used a CRISPR-generated zebrafish model to determine the impacts of
+
+============================================================
+[ROUNDUP] Biotic interactions biogeography: A framework for understanding how species interactions shape biodiversity patterns across scales
+============================================================
+Biotic interactions biogeography: A framework for understanding how species interactions shape biodiversity patterns across scales — PLOS Biology. <p>by Nuria Galiana, Miguel B. Araújo</p>
+
+The integration between biogeography and ecology has been historically limited due to the lack of data on biotic interactions across large spatial scales. The emergence of new methods and high-quality ecological network data at biogeographical scales are pa
+
+============================================================
+[ROUNDUP] Placenta accreta spectrum in the 21st century: Challenging dogma and redefining disorder
+============================================================
+Placenta accreta spectrum in the 21st century: Challenging dogma and redefining disorder — PLOS Medicine. <p>by Eric Jauniaux, Helena C. Bartels, Yalda Afshar</p>
+
+Placenta accreta spectrum (PAS) is a serious pregnancy complication caused by abnormal placental attachment to the uterus. In this Perspective, Eric Jauniaux and colleagues discuss emerging evidence that challenges our long-held pathophysiolo
+
+============================================================
+[ROUNDUP] Rossby wave-modulated orbital precipitation anomalies in the Asia-Pacific region
+============================================================
+Rossby wave-modulated orbital precipitation anomalies in the Asia-Pacific region — Nature Communications. <p>Nature Communications, Published online: 16 June 2026; <a href="https://www.nature.com/articles/s41467-026-74368-3">doi:10.1038/s41467-026-74368-3</a></p>The study reveals that orbital-driven convection in the Indo-Pacific Warm Pool generates planetary Rossby waves. These waves propagate poleward
+
+============================================================
+[ROUNDUP] In the field — and sometimes in the lab — the simplest tool is best
+============================================================
+In the field — and sometimes in the lab — the simplest tool is best — Nature News. <p>Nature, Published online: 15 June 2026; <a href="https://www.nature.com/articles/d41586-026-01885-y">doi:10.1038/d41586-026-01885-y</a></p>Technology has led to unprecedented innovation, but common household items can help make research more reproducible — and accessible.
+
+============================================================
+[ROUNDUP] JUNO experiment ushers in next generation of neutrino experiments
+============================================================
+JUNO experiment ushers in next generation of neutrino experiments — Nature News. <p>Nature, Published online: 10 June 2026; <a href="https://www.nature.com/articles/d41586-026-01585-7">doi:10.1038/d41586-026-01585-7</a></p>The first measurements from the JUNO experiment demonstrate unprecedented precision and promise exciting results.
+
+============================================================
+[ROUNDUP] Are interphylum spiralian relationships resolvable?
+============================================================
+Are interphylum spiralian relationships resolvable? — eLife. The phyla making up the major animal clade of Spiralia have been clear since the advent of molecular phylogenetics; the relationships between these spiralian phyla have not. The lack of consensus over the relationships between these important animal phyla might be a clue implying their emergence in
+
+============================================================
+[ROUNDUP] The DBD-α4 helix of EWSR1::FLI1 is required for GGAA microsatellite binding that underlies genome regulation in Ewing sarcoma
+============================================================
+The DBD-α4 helix of EWSR1::FLI1 is required for GGAA microsatellite binding that underlies genome regulation in Ewing sarcoma — eLife. Ewing sarcoma is the second most common bone cancer in children and young adults. In 85% of patients, a translocation between chromosomes 11 and 22 results in a potent fusion oncoprotein, EWSR1::FLI1. EWSR1::FLI1 is the only genetic alteration in an otherwise unaltered genome of Ewing sarcoma tumors
+
+============================================================
+[ROUNDUP] Nuclear CK1δ as a critical determinant of PER:CRY complex dynamics and circadian period
+============================================================
+Nuclear CK1δ as a critical determinant of PER:CRY complex dynamics and circadian period — eLife. The mammalian circadian clock is governed by a feedback loop in which the transcription activator CLOCK:BMAL1 induces expression of its inhibitors, PERs and CRYs, which form a complex with CK1δ, the main circadian kinase. However, the spatiotemporal dynamics of this feedback loop and the precise rol
+
+============================================================
+[ROUNDUP] Exposure to false cardiac feedback alters pain perception and anticipatory cardiac frequency
+============================================================
+Exposure to false cardiac feedback alters pain perception and anticipatory cardiac frequency — eLife. The experience of pain, like other interoceptive processes, has recently been conceptualized in terms of predictive coding and free energy frameworks. In these views, the brain integrates sensory, proprioceptive, and interoceptive signals to generate probabilistic inferences about upcoming events, w
+
+============================================================
+[ROUNDUP] Audiomotor prediction errors drive speech adaptation even in the absence of overt movement
+============================================================
+Audiomotor prediction errors drive speech adaptation even in the absence of overt movement — PLOS Biology. <p>by Benjamin Parrell, Minju Bae, Chris Naber, Olivia A. Kim, Caroline A. Niziolek, Samuel D. McDougle</p>
+
+Observed outcomes of our movements sometimes differ from our expectations. These sensory prediction errors recalibrate the brain’s internal models for motor control, reflected in alterations
+
+============================================================
+[ROUNDUP] Comparison of count-based and clustering definitions of multimorbidity and their association with prevalence of multimorbidity, health profiles, and mortality: A cohort study of UK Biobank participants
+============================================================
+Comparison of count-based and clustering definitions of multimorbidity and their association with prevalence of multimorbidity, health profiles, and mortality: A cohort study of UK Biobank participants — PLOS Medicine. <p>by Gabriella C. Silva, Aurore Fayosse, Louis Jacob, Séverine Sabia, Archana Singh-Manoux, Benjamin Landré</p>
+Background <p>Multimorbidity, the presence of several chronic conditions, is linked to higher mortality and healthcare use and thus poses a major challenge for aging populations. While mo
+
+============================================================
+[ROUNDUP] Molecular Tumor Boards clinical impact on patient care and structural features: A systematic review and meta-analysis
+============================================================
+Molecular Tumor Boards clinical impact on patient care and structural features: A systematic review and meta-analysis — PLOS Medicine. <p>by Luigi Russo, Erika Giacobini, Nicolò Lentini, Tommaso Osti, Maud Kamal, Stefania Boccia, Roberta Pastorino</p>
+Background <p>Molecular Tumor Boards (MTBs) bring together multidisciplinary experts to translate genomic data into clinical decisions in oncology, however, their overall clinical imp
+
+============================================================
+[ROUNDUP] Prediction of hospitalisation in young children with pneumonia in Malawi: A machine learning-based approach
+============================================================
+Prediction of hospitalisation in young children with pneumonia in Malawi: A machine learning-based approach — PLOS Medicine. <p>by Patrick Staunton, Mohammad Adib Makrooni, Master Chisale, Billy Nyambolo, Joseph Wu, Damien McCarthy, Mark Ledwidge, Yasir Bin Nisar, Chris Watson, Balwani Mbakaya, Cathal Seoighe, Joe Gallagher</p>
+Background <p>Globally, pneumonia remains the single biggest cause of mortality in children und
+
+============================================================
+[ROUNDUP] Rheological characteristics and modification mechanism of rock asphalt compound modified binder based on grey relational analysis
+============================================================
+Rheological characteristics and modification mechanism of rock asphalt compound modified binder based on grey relational analysis — PLOS ONE. <p>by Jinghui Hou, Xiaogang Guo</p>
+
+To address the limitations of conventional asphalt in resisting high-temperature rutting and oxidative aging, a Rock Asphalt Compound additive (RCA) —comprising natural rock asphalt with surface-treated Nano-TiO<sub>2</sub>—was investigated as a sustainable modif
+
+============================================================
+[ROUNDUP] Assessing body position through experimental cremation: A pilot study using colorimetry and FTIR-ATR analyses
+============================================================
+Assessing body position through experimental cremation: A pilot study using colorimetry and FTIR-ATR analyses — PLOS ONE. <p>by Paula Becerra Fuello, Javier Lescure, Aaron Lackinger, María Sedeño Ráez, Jesús Gámiz Caro, Gonzalo Aranda Jiménez</p>
+
+This pilot study evaluates the feasibility and limitations of a multi-proxy approach for identifying potential indicators of horizontal positioning in cremated heads from arc
+
+============================================================
+[ROUNDUP] Sensing nature in the city: The role of sight and sound in restorative tropical urban green spaces
+============================================================
+Sensing nature in the city: The role of sight and sound in restorative tropical urban green spaces — PLOS ONE. <p>by Juliana Ju Yun Hoo, Shumetha Sidhu, Kok Wei Tan</p>
+
+Rapid urbanization has increased disconnection from nature, especially in cities. While research on restorative environments has largely focused on non-tropical regions, little is known about the restorative potential of tropical urban green
+
+============================================================
+[ROUNDUP] A scoping review of computational models of the diabetic foot
+============================================================
+A scoping review of computational models of the diabetic foot — PLOS ONE. <p>by Yufeng Li, Athia Haron, Chaofan Lin, Yuan Tang, Andrew Weightman, Glen Cooper</p>
+
+The prevalence of diabetes is expected to be 650 million people by 2030, and diabetic foot ulceration (DFU) is one of its most severe complications. It poses a significant challenge to global health and brings s
+
+============================================================
+[ROUNDUP] What’s the Future of Gene Editing?
+============================================================
+What’s the Future of Gene Editing? — Quanta Magazine. In the first episode of the new season of ‘The Joy of Why,’ Nobel Laureate Jennifer Doudna discusses how she discovered CRISPR’s genome-editing power, the breakthroughs and hurdles during its explosive growth, and what lies ahead for this groundbreaking technology.            <p>The post <a href="ht
+
+============================================================
+[ROUNDUP] Carbocycle editing of ketones proceeds via a radical-mediated bidirectional C-C bond cleavage/coupling strategy
+============================================================
+Carbocycle editing of ketones proceeds via a radical-mediated bidirectional C-C bond cleavage/coupling strategy — Nature Communications. <p>Nature Communications, Published online: 15 June 2026; <a href="https://www.nature.com/articles/s41467-026-74317-0">doi:10.1038/s41467-026-74317-0</a></p>1,n-Difunctionalized alkyl linchpins are valuable synthetic intermediates, but current routes suffer from poor step economy and limited functio
+
+============================================================
+[ROUNDUP] An Early Step on the Long, Strange Road to Photosynthesis
+============================================================
+An Early Step on the Long, Strange Road to Photosynthesis — Quanta Magazine. An ancient lineage of cyanobacteria is helping biologists uncover an early evolutionary stage of the mind-boggling process that turns light into life.            <p>The post <a href="https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/" target="_blank">An
+
+============================================================
+[ROUNDUP] Confirmation that bryozoan animals were present during the Cambrian explosion
+============================================================
+Confirmation that bryozoan animals were present during the Cambrian explosion — Nature News. <p>Nature, Published online: 10 June 2026; <a href="https://www.nature.com/articles/d41586-026-01753-9">doi:10.1038/d41586-026-01753-9</a></p>Bryozoans are marine invertebrates that live in colonies and have long been considered absent from the Cambrian explosion — a rapid evolutionary event that be
+
+============================================================
+[ROUNDUP] PVC microplastics facilitate uropathogenic <i>Escherichia coli</i> pathogenicity by enhancing host cell invasion and mitochondrial-dependent pyroptosis
+============================================================
+PVC microplastics facilitate uropathogenic <i>Escherichia coli</i> pathogenicity by enhancing host cell invasion and mitochondrial-dependent pyroptosis — Nature Communications. <p>Nature Communications, Published online: 16 June 2026; <a href="https://www.nature.com/articles/s41467-026-74453-7">doi:10.1038/s41467-026-74453-7</a></p>Polyvinyl chloride microplastics have been detected within clinical settings and may influence bacterial infections. Here, the authors demonstr
+
+============================================================
+[ROUNDUP] A minimal chemo-mechanical Markov model for rotary catalysis of F<sub>1</sub>-ATPase
+============================================================
+A minimal chemo-mechanical Markov model for rotary catalysis of F<sub>1</sub>-ATPase — Nature Communications. <p>Nature Communications, Published online: 15 June 2026; <a href="https://www.nature.com/articles/s41467-026-73844-0">doi:10.1038/s41467-026-73844-0</a></p>F1-ATPase is a rotary motor protein essential for cellular energy transduction. Here the authors develop a thermodynamically consistent Markov
+
+============================================================
+[ROUNDUP] Diverse binding poses of agonistic neurotoxins on human Na<sub>v</sub>1.6
+============================================================
+Diverse binding poses of agonistic neurotoxins on human Na<sub>v</sub>1.6 — Nature News. <p>Nature, Published online: 10 June 2026; <a href="https://www.nature.com/articles/s41586-026-10661-x">doi:10.1038/s41586-026-10661-x</a></p>Structures of the distinct binding poses of three agonistic peptide toxins—bullet-ant-derived toxin δ-paraponeritoxin-Pc1a, cone snail ι-conotoxin RXIA and th
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

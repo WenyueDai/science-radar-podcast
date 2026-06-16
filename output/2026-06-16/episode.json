@@ -1,0 +1,268 @@
+{
+  "date": "2026-06-16",
+  "mp3": "output/2026-06-16/podcast_2026-06-16.mp3",
+  "paper_count": 26,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Eco-evolutionary feedbacks drive the co-occurrence of restriction-modification systems and antimicrobial resistance genes in bacteria",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003842",
+      "score": 1.5,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Estrogen impacts NOD2-dependent regulation of intestinal homeostasis",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003766",
+      "score": 1.5,
+      "timestamp_sec": 54.767999999999994
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Biotic interactions biogeography: A framework for understanding how species interactions shape biodiversity patterns across scales",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003813",
+      "score": 1.399,
+      "timestamp_sec": 79.176
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Placenta accreta spectrum in the 21st century: Challenging dogma and redefining disorder",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005142",
+      "score": 1.356,
+      "timestamp_sec": 106.152
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Rossby wave-modulated orbital precipitation anomalies in the Asia-Pacific region",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-74368-3",
+      "score": 1.196,
+      "timestamp_sec": 131.832
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "In the field \u2014 and sometimes in the lab \u2014 the simplest tool is best",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01885-y",
+      "score": 1.137,
+      "timestamp_sec": 153.31199999999998
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "JUNO experiment ushers in next generation of neutrino experiments",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01585-7",
+      "score": 1.127,
+      "timestamp_sec": 171.52799999999996
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Are interphylum spiralian relationships resolvable?",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110607",
+      "score": 1.0,
+      "timestamp_sec": 188.47199999999995
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "The DBD-\u03b14 helix of EWSR1::FLI1 is required for GGAA microsatellite binding that underlies genome regulation in Ewing sarcoma",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/95626",
+      "score": 1.0,
+      "timestamp_sec": 209.90399999999994
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Nuclear CK1\u03b4 as a critical determinant of PER:CRY complex dynamics and circadian period",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110786",
+      "score": 1.0,
+      "timestamp_sec": 240.93599999999992
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Exposure to false cardiac feedback alters pain perception and anticipatory cardiac frequency",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/90013",
+      "score": 1.0,
+      "timestamp_sec": 266.2319999999999
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Audiomotor prediction errors drive speech adaptation even in the absence of overt movement",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003862",
+      "score": 1.0,
+      "timestamp_sec": 291.1199999999999
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Comparison of count-based and clustering definitions of multimorbidity and their association with prevalence of multimorbidity, health profiles, and mortality: A cohort study of UK Biobank participants",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004914",
+      "score": 1.0,
+      "timestamp_sec": 317.7119999999999
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Molecular Tumor Boards clinical impact on patient care and structural features: A systematic review and meta-analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005125",
+      "score": 1.0,
+      "timestamp_sec": 348.71999999999986
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Prediction of hospitalisation in young children with pneumonia in Malawi: A machine learning-based approach",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005122",
+      "score": 1.0,
+      "timestamp_sec": 377.03999999999985
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Rheological characteristics and modification mechanism of rock asphalt compound modified binder based on grey relational analysis",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351848",
+      "score": 1.0,
+      "timestamp_sec": 404.30399999999986
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Assessing body position through experimental cremation: A pilot study using colorimetry and FTIR-ATR analyses",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351767",
+      "score": 1.0,
+      "timestamp_sec": 430.72799999999984
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Sensing nature in the city: The role of sight and sound in restorative tropical urban green spaces",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351647",
+      "score": 1.0,
+      "timestamp_sec": 456.7199999999998
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "A scoping review of computational models of the diabetic foot",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351638",
+      "score": 1.0,
+      "timestamp_sec": 481.31999999999977
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "What\u2019s the Future of Gene Editing?",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/",
+      "score": 0.763,
+      "timestamp_sec": 507.1919999999998
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "Carbocycle editing of ketones proceeds via a radical-mediated bidirectional C-C bond cleavage/coupling strategy",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-74317-0",
+      "score": 0.754,
+      "timestamp_sec": 529.5599999999997
+    },
+    {
+      "index": 23,
+      "type": "roundup",
+      "title": "An Early Step on the Long, Strange Road to Photosynthesis",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/",
+      "score": 0.729,
+      "timestamp_sec": 551.3759999999997
+    },
+    {
+      "index": 24,
+      "type": "roundup",
+      "title": "Confirmation that bryozoan animals were present during the Cambrian explosion",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01753-9",
+      "score": 0.727,
+      "timestamp_sec": 570.1679999999998
+    },
+    {
+      "index": 25,
+      "type": "roundup",
+      "title": "PVC microplastics facilitate uropathogenic <i>Escherichia coli</i> pathogenicity by enhancing host cell invasion and mitochondrial-dependent pyroptosis",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-74453-7",
+      "score": 0.722,
+      "timestamp_sec": 589.0559999999998
+    },
+    {
+      "index": 26,
+      "type": "roundup",
+      "title": "A minimal chemo-mechanical Markov model for rotary catalysis of F<sub>1</sub>-ATPase",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-73844-0",
+      "score": 0.721,
+      "timestamp_sec": 614.6639999999998
+    },
+    {
+      "index": 27,
+      "type": "roundup",
+      "title": "Diverse binding poses of agonistic neurotoxins on human Na<sub>v</sub>1.6",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10661-x",
+      "score": 0.718,
+      "timestamp_sec": 636.8399999999998
+    },
+    {
+      "index": 28,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 659.6879999999998
+    }
+  ]
+}

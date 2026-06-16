@@ -1,0 +1,254 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Eco-evolutionary feedbacks drive the co-occurrence of restriction-modification systems and antimicrobial resistance genes in bacteria",
+    "text": "Eco-evolutionary feedbacks drive the co-occurrence of restriction-modification systems and antimicrobial resistance genes in bacteria \u2014 PLOS Biology. <p>by Joseph Westley, Paritosh Bedekar, Elizabeth Pursey, Mark D. Szczelkun, Mario Recker, Stineke van Houte, Edze R. Westra</p>\n\nBacterial pathogens commonly become drug resistant via horizontal acquisition of antimicrobial resistance genes (ARGs), which are often encoded on mobile genetic elements",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003842",
+    "journal": "PLOS Biology",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003842"
+  },
+  {
+    "type": "roundup",
+    "title": "Estrogen impacts NOD2-dependent regulation of intestinal homeostasis",
+    "text": "Estrogen impacts NOD2-dependent regulation of intestinal homeostasis \u2014 PLOS Biology. <p>by Mckenna Eklund, Edan Foley</p>\n\nMutations in the innate immune receptor NOD2 are the greatest single genetic risk factor for Crohn\u2019s disease, yet the mechanisms by which NOD2 regulates intestinal homeostasis remain unclear. We used a CRISPR-generated zebrafish model to determine the impacts of",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003766",
+    "journal": "PLOS Biology",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003766"
+  },
+  {
+    "type": "roundup",
+    "title": "Biotic interactions biogeography: A framework for understanding how species interactions shape biodiversity patterns across scales",
+    "text": "Biotic interactions biogeography: A framework for understanding how species interactions shape biodiversity patterns across scales \u2014 PLOS Biology. <p>by Nuria Galiana, Miguel B. Ara\u00fajo</p>\n\nThe integration between biogeography and ecology has been historically limited due to the lack of data on biotic interactions across large spatial scales. The emergence of new methods and high-quality ecological network data at biogeographical scales are pa",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003813",
+    "journal": "PLOS Biology",
+    "score": 1.399,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003813"
+  },
+  {
+    "type": "roundup",
+    "title": "Placenta accreta spectrum in the 21st century: Challenging dogma and redefining disorder",
+    "text": "Placenta accreta spectrum in the 21st century: Challenging dogma and redefining disorder \u2014 PLOS Medicine. <p>by Eric Jauniaux, Helena C. Bartels, Yalda Afshar</p>\n\nPlacenta accreta spectrum (PAS) is a serious pregnancy complication caused by abnormal placental attachment to the uterus. In this Perspective, Eric Jauniaux and colleagues discuss emerging evidence that challenges our long-held pathophysiolo",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005142",
+    "journal": "PLOS Medicine",
+    "score": 1.356,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005142"
+  },
+  {
+    "type": "roundup",
+    "title": "Rossby wave-modulated orbital precipitation anomalies in the Asia-Pacific region",
+    "text": "Rossby wave-modulated orbital precipitation anomalies in the Asia-Pacific region \u2014 Nature Communications. <p>Nature Communications, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74368-3\">doi:10.1038/s41467-026-74368-3</a></p>The study reveals that orbital-driven convection in the Indo-Pacific Warm Pool generates planetary Rossby waves. These waves propagate poleward",
+    "paper_id": "https://www.nature.com/articles/s41467-026-74368-3",
+    "journal": "Nature Communications",
+    "score": 1.196,
+    "url": "https://www.nature.com/articles/s41467-026-74368-3"
+  },
+  {
+    "type": "roundup",
+    "title": "In the field \u2014 and sometimes in the lab \u2014 the simplest tool is best",
+    "text": "In the field \u2014 and sometimes in the lab \u2014 the simplest tool is best \u2014 Nature News. <p>Nature, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01885-y\">doi:10.1038/d41586-026-01885-y</a></p>Technology has led to unprecedented innovation, but common household items can help make research more reproducible \u2014 and accessible.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01885-y",
+    "journal": "Nature News",
+    "score": 1.137,
+    "url": "https://www.nature.com/articles/d41586-026-01885-y"
+  },
+  {
+    "type": "roundup",
+    "title": "JUNO experiment ushers in next generation of neutrino experiments",
+    "text": "JUNO experiment ushers in next generation of neutrino experiments \u2014 Nature News. <p>Nature, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01585-7\">doi:10.1038/d41586-026-01585-7</a></p>The first measurements from the JUNO experiment demonstrate unprecedented precision and promise exciting results.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01585-7",
+    "journal": "Nature News",
+    "score": 1.127,
+    "url": "https://www.nature.com/articles/d41586-026-01585-7"
+  },
+  {
+    "type": "roundup",
+    "title": "Are interphylum spiralian relationships resolvable?",
+    "text": "Are interphylum spiralian relationships resolvable? \u2014 eLife. The phyla making up the major animal clade of Spiralia have been clear since the advent of molecular phylogenetics; the relationships between these spiralian phyla have not. The lack of consensus over the relationships between these important animal phyla might be a clue implying their emergence in",
+    "paper_id": "https://elifesciences.org/articles/110607",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/110607"
+  },
+  {
+    "type": "roundup",
+    "title": "The DBD-\u03b14 helix of EWSR1::FLI1 is required for GGAA microsatellite binding that underlies genome regulation in Ewing sarcoma",
+    "text": "The DBD-\u03b14 helix of EWSR1::FLI1 is required for GGAA microsatellite binding that underlies genome regulation in Ewing sarcoma \u2014 eLife. Ewing sarcoma is the second most common bone cancer in children and young adults. In 85% of patients, a translocation between chromosomes 11 and 22 results in a potent fusion oncoprotein, EWSR1::FLI1. EWSR1::FLI1 is the only genetic alteration in an otherwise unaltered genome of Ewing sarcoma tumors",
+    "paper_id": "https://elifesciences.org/articles/95626",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/95626"
+  },
+  {
+    "type": "roundup",
+    "title": "Nuclear CK1\u03b4 as a critical determinant of PER:CRY complex dynamics and circadian period",
+    "text": "Nuclear CK1\u03b4 as a critical determinant of PER:CRY complex dynamics and circadian period \u2014 eLife. The mammalian circadian clock is governed by a feedback loop in which the transcription activator CLOCK:BMAL1 induces expression of its inhibitors, PERs and CRYs, which form a complex with CK1\u03b4, the main circadian kinase. However, the spatiotemporal dynamics of this feedback loop and the precise rol",
+    "paper_id": "https://elifesciences.org/articles/110786",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/110786"
+  },
+  {
+    "type": "roundup",
+    "title": "Exposure to false cardiac feedback alters pain perception and anticipatory cardiac frequency",
+    "text": "Exposure to false cardiac feedback alters pain perception and anticipatory cardiac frequency \u2014 eLife. The experience of pain, like other interoceptive processes, has recently been conceptualized in terms of predictive coding and free energy frameworks. In these views, the brain integrates sensory, proprioceptive, and interoceptive signals to generate probabilistic inferences about upcoming events, w",
+    "paper_id": "https://elifesciences.org/articles/90013",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/90013"
+  },
+  {
+    "type": "roundup",
+    "title": "Audiomotor prediction errors drive speech adaptation even in the absence of overt movement",
+    "text": "Audiomotor prediction errors drive speech adaptation even in the absence of overt movement \u2014 PLOS Biology. <p>by Benjamin Parrell, Minju Bae, Chris Naber, Olivia A. Kim, Caroline A. Niziolek, Samuel D. McDougle</p>\n\nObserved outcomes of our movements sometimes differ from our expectations. These sensory prediction errors recalibrate the brain\u2019s internal models for motor control, reflected in alterations",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003862",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003862"
+  },
+  {
+    "type": "roundup",
+    "title": "Comparison of count-based and clustering definitions of multimorbidity and their association with prevalence of multimorbidity, health profiles, and mortality: A cohort study of UK Biobank participants",
+    "text": "Comparison of count-based and clustering definitions of multimorbidity and their association with prevalence of multimorbidity, health profiles, and mortality: A cohort study of UK Biobank participants \u2014 PLOS Medicine. <p>by Gabriella C. Silva, Aurore Fayosse, Louis Jacob, S\u00e9verine Sabia, Archana Singh-Manoux, Benjamin Landr\u00e9</p>\nBackground <p>Multimorbidity, the presence of several chronic conditions, is linked to higher mortality and healthcare use and thus poses a major challenge for aging populations. While mo",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004914",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004914"
+  },
+  {
+    "type": "roundup",
+    "title": "Molecular Tumor Boards clinical impact on patient care and structural features: A systematic review and meta-analysis",
+    "text": "Molecular Tumor Boards clinical impact on patient care and structural features: A systematic review and meta-analysis \u2014 PLOS Medicine. <p>by Luigi Russo, Erika Giacobini, Nicol\u00f2 Lentini, Tommaso Osti, Maud Kamal, Stefania Boccia, Roberta Pastorino</p>\nBackground <p>Molecular Tumor Boards (MTBs) bring together multidisciplinary experts to translate genomic data into clinical decisions in oncology, however, their overall clinical imp",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005125",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005125"
+  },
+  {
+    "type": "roundup",
+    "title": "Prediction of hospitalisation in young children with pneumonia in Malawi: A machine learning-based approach",
+    "text": "Prediction of hospitalisation in young children with pneumonia in Malawi: A machine learning-based approach \u2014 PLOS Medicine. <p>by Patrick Staunton, Mohammad Adib Makrooni, Master Chisale, Billy Nyambolo, Joseph Wu, Damien McCarthy, Mark Ledwidge, Yasir Bin Nisar, Chris Watson, Balwani Mbakaya, Cathal Seoighe, Joe Gallagher</p>\nBackground <p>Globally, pneumonia remains the single biggest cause of mortality in children und",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005122",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005122"
+  },
+  {
+    "type": "roundup",
+    "title": "Rheological characteristics and modification mechanism of rock asphalt compound modified binder based on grey relational analysis",
+    "text": "Rheological characteristics and modification mechanism of rock asphalt compound modified binder based on grey relational analysis \u2014 PLOS ONE. <p>by Jinghui Hou, Xiaogang Guo</p>\n\nTo address the limitations of conventional asphalt in resisting high-temperature rutting and oxidative aging, a Rock Asphalt Compound additive (RCA) \u2014comprising natural rock asphalt with surface-treated Nano-TiO<sub>2</sub>\u2014was investigated as a sustainable modif",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351848",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351848"
+  },
+  {
+    "type": "roundup",
+    "title": "Assessing body position through experimental cremation: A pilot study using colorimetry and FTIR-ATR analyses",
+    "text": "Assessing body position through experimental cremation: A pilot study using colorimetry and FTIR-ATR analyses \u2014 PLOS ONE. <p>by Paula Becerra Fuello, Javier Lescure, Aaron Lackinger, Mar\u00eda Sede\u00f1o R\u00e1ez, Jes\u00fas G\u00e1miz Caro, Gonzalo Aranda Jim\u00e9nez</p>\n\nThis pilot study evaluates the feasibility and limitations of a multi-proxy approach for identifying potential indicators of horizontal positioning in cremated heads from arc",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351767",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351767"
+  },
+  {
+    "type": "roundup",
+    "title": "Sensing nature in the city: The role of sight and sound in restorative tropical urban green spaces",
+    "text": "Sensing nature in the city: The role of sight and sound in restorative tropical urban green spaces \u2014 PLOS ONE. <p>by Juliana Ju Yun Hoo, Shumetha Sidhu, Kok Wei Tan</p>\n\nRapid urbanization has increased disconnection from nature, especially in cities. While research on restorative environments has largely focused on non-tropical regions, little is known about the restorative potential of tropical urban green",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351647",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351647"
+  },
+  {
+    "type": "roundup",
+    "title": "A scoping review of computational models of the diabetic foot",
+    "text": "A scoping review of computational models of the diabetic foot \u2014 PLOS ONE. <p>by Yufeng Li, Athia Haron, Chaofan Lin, Yuan Tang, Andrew Weightman, Glen Cooper</p>\n\nThe prevalence of diabetes is expected to be 650 million people by 2030, and diabetic foot ulceration (DFU) is one of its most severe complications. It poses a significant challenge to global health and brings s",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351638",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351638"
+  },
+  {
+    "type": "roundup",
+    "title": "What\u2019s the Future of Gene Editing?",
+    "text": "What\u2019s the Future of Gene Editing? \u2014 Quanta Magazine. In the first episode of the new season of \u2018The Joy of Why,\u2019 Nobel Laureate Jennifer Doudna discusses how she discovered CRISPR\u2019s genome-editing power, the breakthroughs and hurdles during its explosive growth, and what lies ahead for this groundbreaking technology.            <p>The post <a href=\"ht",
+    "paper_id": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/",
+    "journal": "Quanta Magazine",
+    "score": 0.763,
+    "url": "https://www.quantamagazine.org/whats-the-future-of-gene-editing-20260611/"
+  },
+  {
+    "type": "roundup",
+    "title": "Carbocycle editing of ketones proceeds via a radical-mediated bidirectional C-C bond cleavage/coupling strategy",
+    "text": "Carbocycle editing of ketones proceeds via a radical-mediated bidirectional C-C bond cleavage/coupling strategy \u2014 Nature Communications. <p>Nature Communications, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74317-0\">doi:10.1038/s41467-026-74317-0</a></p>1,n-Difunctionalized alkyl linchpins are valuable synthetic intermediates, but current routes suffer from poor step economy and limited functio",
+    "paper_id": "https://www.nature.com/articles/s41467-026-74317-0",
+    "journal": "Nature Communications",
+    "score": 0.754,
+    "url": "https://www.nature.com/articles/s41467-026-74317-0"
+  },
+  {
+    "type": "roundup",
+    "title": "An Early Step on the Long, Strange Road to Photosynthesis",
+    "text": "An Early Step on the Long, Strange Road to Photosynthesis \u2014 Quanta Magazine. An ancient lineage of cyanobacteria is helping biologists uncover an early evolutionary stage of the mind-boggling process that turns light into life.            <p>The post <a href=\"https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/\" target=\"_blank\">An",
+    "paper_id": "https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/",
+    "journal": "Quanta Magazine",
+    "score": 0.729,
+    "url": "https://www.quantamagazine.org/an-early-step-on-the-long-strange-road-to-photosynthesis-20260610/"
+  },
+  {
+    "type": "roundup",
+    "title": "Confirmation that bryozoan animals were present during the Cambrian explosion",
+    "text": "Confirmation that bryozoan animals were present during the Cambrian explosion \u2014 Nature News. <p>Nature, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01753-9\">doi:10.1038/d41586-026-01753-9</a></p>Bryozoans are marine invertebrates that live in colonies and have long been considered absent from the Cambrian explosion \u2014 a rapid evolutionary event that be",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01753-9",
+    "journal": "Nature News",
+    "score": 0.727,
+    "url": "https://www.nature.com/articles/d41586-026-01753-9"
+  },
+  {
+    "type": "roundup",
+    "title": "PVC microplastics facilitate uropathogenic <i>Escherichia coli</i> pathogenicity by enhancing host cell invasion and mitochondrial-dependent pyroptosis",
+    "text": "PVC microplastics facilitate uropathogenic <i>Escherichia coli</i> pathogenicity by enhancing host cell invasion and mitochondrial-dependent pyroptosis \u2014 Nature Communications. <p>Nature Communications, Published online: 16 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74453-7\">doi:10.1038/s41467-026-74453-7</a></p>Polyvinyl chloride microplastics have been detected within clinical settings and may influence bacterial infections. Here, the authors demonstr",
+    "paper_id": "https://www.nature.com/articles/s41467-026-74453-7",
+    "journal": "Nature Communications",
+    "score": 0.722,
+    "url": "https://www.nature.com/articles/s41467-026-74453-7"
+  },
+  {
+    "type": "roundup",
+    "title": "A minimal chemo-mechanical Markov model for rotary catalysis of F<sub>1</sub>-ATPase",
+    "text": "A minimal chemo-mechanical Markov model for rotary catalysis of F<sub>1</sub>-ATPase \u2014 Nature Communications. <p>Nature Communications, Published online: 15 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-73844-0\">doi:10.1038/s41467-026-73844-0</a></p>F1-ATPase is a rotary motor protein essential for cellular energy transduction. Here the authors develop a thermodynamically consistent Markov",
+    "paper_id": "https://www.nature.com/articles/s41467-026-73844-0",
+    "journal": "Nature Communications",
+    "score": 0.721,
+    "url": "https://www.nature.com/articles/s41467-026-73844-0"
+  },
+  {
+    "type": "roundup",
+    "title": "Diverse binding poses of agonistic neurotoxins on human Na<sub>v</sub>1.6",
+    "text": "Diverse binding poses of agonistic neurotoxins on human Na<sub>v</sub>1.6 \u2014 Nature News. <p>Nature, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10661-x\">doi:10.1038/s41586-026-10661-x</a></p>Structures of the distinct binding poses of three agonistic peptide toxins\u2014bullet-ant-derived toxin \u03b4-paraponeritoxin-Pc1a, cone snail \u03b9-conotoxin RXIA and th",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10661-x",
+    "journal": "Nature News",
+    "score": 0.718,
+    "url": "https://www.nature.com/articles/s41586-026-10661-x"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]
