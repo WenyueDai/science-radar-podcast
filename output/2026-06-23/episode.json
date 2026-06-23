@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-23",
+  "mp3": "output/2026-06-23/podcast_2026-06-23.mp3",
+  "paper_count": 22,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Adiponectin exerts sex-dependent effects on lipid, amino acid, and glucose metabolism during caloric restriction",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003821",
+      "score": 2.0,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Factors associated with resilience among parents of children with autism spectrum disorder: A systematic review",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351969",
+      "score": 1.5,
+      "timestamp_sec": 58.05599999999999
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Global current systems in the magnetosphere of Mercury",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-74847-7",
+      "score": 1.198,
+      "timestamp_sec": 84.744
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01802-3",
+      "score": 1.159,
+      "timestamp_sec": 104.64
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Exploration of precision coregulator TR-FRET identifies diverse signatures for LXR ligands relevant to discovery of nonlipogenic ABCA1 inducers",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109146",
+      "score": 1.0,
+      "timestamp_sec": 126.26400000000001
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Neural signatures of model-based and model-free reinforcement learning across prefrontal cortex and striatum",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/106032",
+      "score": 1.0,
+      "timestamp_sec": 156.48
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Paraventricular thalamus hyperactivity mediates stress-induced sensitization of unlearned fear but not stress-enhanced fear learning (SEFL)",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/107670",
+      "score": 1.0,
+      "timestamp_sec": 182.23199999999997
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Dopamine and its receptor <i>DcDop2</i> are involved in the coevolution between \u2018<i>Candidatus</i> Liberibacter asiaticus\u2019 and <i>Diaphorina citri</i>",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109081",
+      "score": 1.0,
+      "timestamp_sec": 207.67199999999997
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Distinct sources of decision-related signals in visual cortex are represented in different local field potential bands",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003873",
+      "score": 1.0,
+      "timestamp_sec": 239.25599999999997
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "The total mass, copy number, and distribution of hormones in the human bloodstream",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003864",
+      "score": 1.0,
+      "timestamp_sec": 265.43999999999994
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Growth arrest of <i>Mycobacterium tuberculosis</i> in acidic environments enhances their survival of antibiotic treatment",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003857",
+      "score": 1.0,
+      "timestamp_sec": 290.75999999999993
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Association between initial benzodiazepine prescribing patterns and time to benzodiazepine discontinuation: A population-based retrospective cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005126",
+      "score": 1.0,
+      "timestamp_sec": 320.1119999999999
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "The data transparency crisis in research: Lessons from systematic reviews and meta-analyses",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005145",
+      "score": 1.0,
+      "timestamp_sec": 350.2319999999999
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Biomarkers of chronic liver disease and their determinants in northern Ethiopia: Evaluating the synergistic impact of HBV and Schistosoma mansoni and the contribution of metabolic and lifestyle factors to liver injury",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352266",
+      "score": 1.0,
+      "timestamp_sec": 375.6719999999999
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Between Eagle and Dragon: Affective representations of the United States and China in South Korean Media",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352240",
+      "score": 1.0,
+      "timestamp_sec": 407.3999999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Vulnerability assessment to tropical cyclones in the North Caribbean Coast of Nicaragua (1988\u20132022)",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352206",
+      "score": 1.0,
+      "timestamp_sec": 434.0399999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Reimagining machine vision with optical computing",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01891-0",
+      "score": 0.783,
+      "timestamp_sec": 461.9759999999999
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
+      "score": 0.774,
+      "timestamp_sec": 480.2639999999999
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "How the zebrafish brain weaves recent experiences into future decisions",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01756-6",
+      "score": 0.758,
+      "timestamp_sec": 502.7759999999999
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "MiT fusions, <i>TSC1\u2013TSC2</i> divergence, and stem-like programs reveal distinct origins and vulnerabilities in PEComa",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-74545-4",
+      "score": 0.738,
+      "timestamp_sec": 524.0639999999999
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "Revealing competitive interfacial reactions in high-energy Li\u2013S batteries",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-025-09473-2",
+      "score": 0.736,
+      "timestamp_sec": 549.9359999999998
+    },
+    {
+      "index": 23,
+      "type": "roundup",
+      "title": "Learning missing physics from legacy simulators with alternating neural integrators",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-74002-2",
+      "score": 0.717,
+      "timestamp_sec": 569.0639999999999
+    },
+    {
+      "index": 24,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 590.1119999999999
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Adiponectin exerts sex-dependent effects on lipid, amino acid, and glucose metabolism during caloric restriction",
+    "text": "Adiponectin exerts sex-dependent effects on lipid, amino acid, and glucose metabolism during caloric restriction \u2014 PLOS Biology. <p>by Yoshiko M. Ikushima, Kuan-Chan Chen, Richard J. Sulston, Domenico Mattiucci, Eleanor J. Brain, Stefanie A. Fung Xin Zi, Karla J. Suchacki, Benjamin J. Thomas, Andrea Lovdel, Matthew Bennett, Hiroshi Kobayashi, Phillip D. Whitfield, Keiyo Takubo, Andrew H. Baker, Nicholas M. Morton, Robert K. S",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003821",
+    "journal": "PLOS Biology",
+    "score": 2.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003821"
+  },
+  {
+    "type": "roundup",
+    "title": "Factors associated with resilience among parents of children with autism spectrum disorder: A systematic review",
+    "text": "Factors associated with resilience among parents of children with autism spectrum disorder: A systematic review \u2014 PLOS ONE. <p>by Nora Saliza Md Salim, Idayu Badilla Idris, Norazlin Kamal Nor, Syakirah Roslan, Nafisah Abdul Rashid, Roszita Ibrahim, Fairuz Nazri Abd Rahman</p>\n\nParents of children with autism spectrum disorder (ASD) experience ongoing caregiving demands and challenges that may contribute to their general",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351969",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0351969"
+  },
+  {
+    "type": "roundup",
+    "title": "Global current systems in the magnetosphere of Mercury",
+    "text": "Global current systems in the magnetosphere of Mercury \u2014 Nature Communications. <p>Nature Communications, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74847-7\">doi:10.1038/s41467-026-74847-7</a></p>Mercury\u2019s magnetic environment is shaped by electric currents driven by the solar wind. Here, the authors show a global map of these currents,",
+    "paper_id": "https://www.nature.com/articles/s41467-026-74847-7",
+    "journal": "Nature Communications",
+    "score": 1.198,
+    "url": "https://www.nature.com/articles/s41467-026-74847-7"
+  },
+  {
+    "type": "roundup",
+    "title": "Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death",
+    "text": "Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death \u2014 Nature News. <p>Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01802-3\">doi:10.1038/d41586-026-01802-3</a></p>The finding that spermine molecules in cells bind to iron to prevent it unleashing ferroptosis, a type of cell death, opens up strategies for treating tissue",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01802-3",
+    "journal": "Nature News",
+    "score": 1.159,
+    "url": "https://www.nature.com/articles/d41586-026-01802-3"
+  },
+  {
+    "type": "roundup",
+    "title": "Exploration of precision coregulator TR-FRET identifies diverse signatures for LXR ligands relevant to discovery of nonlipogenic ABCA1 inducers",
+    "text": "Exploration of precision coregulator TR-FRET identifies diverse signatures for LXR ligands relevant to discovery of nonlipogenic ABCA1 inducers \u2014 eLife. APOE4, the major genetic risk factor for Alzheimer\u2019s disease (AD), and ATP-binding cassette-A1 (ABCA1), required for lipidation of APOE are gene products of the liver X receptor (LXR) receptor. LXR agonists have been validated in animal models as therapeutics for AD, atherosclerosis, and many other",
+    "paper_id": "https://elifesciences.org/articles/109146",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/109146"
+  },
+  {
+    "type": "roundup",
+    "title": "Neural signatures of model-based and model-free reinforcement learning across prefrontal cortex and striatum",
+    "text": "Neural signatures of model-based and model-free reinforcement learning across prefrontal cortex and striatum \u2014 eLife. Animals integrate knowledge about how the state of the environment evolves to choose actions that maximise reward. Such goal-directed behaviour \u2013 or model-based (MB) reinforcement learning (RL) \u2013 can flexibly adapt choice to changes, being thus distinct from simpler habitual \u2013 or model-free (MF) RL",
+    "paper_id": "https://elifesciences.org/articles/106032",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/106032"
+  },
+  {
+    "type": "roundup",
+    "title": "Paraventricular thalamus hyperactivity mediates stress-induced sensitization of unlearned fear but not stress-enhanced fear learning (SEFL)",
+    "text": "Paraventricular thalamus hyperactivity mediates stress-induced sensitization of unlearned fear but not stress-enhanced fear learning (SEFL) \u2014 eLife. Exposure to stress can cause long-lasting enhancement of fear and other defensive responses that extend beyond the cues or contexts associated with the original traumatic event. These nonassociative consequences of stress, referred to as fear sensitization, are thought to underlie some symptoms of t",
+    "paper_id": "https://elifesciences.org/articles/107670",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/107670"
+  },
+  {
+    "type": "roundup",
+    "title": "Dopamine and its receptor <i>DcDop2</i> are involved in the coevolution between \u2018<i>Candidatus</i> Liberibacter asiaticus\u2019 and <i>Diaphorina citri</i>",
+    "text": "Dopamine and its receptor <i>DcDop2</i> are involved in the coevolution between \u2018<i>Candidatus</i> Liberibacter asiaticus\u2019 and <i>Diaphorina citri</i> \u2014 eLife. \u2018<i>Candidatus</i> Liberibacter asiaticus\u2019 (<i>C</i>Las), the causal agent of citrus huanglongbing, is transmitted by the Asian citrus psyllid <i>Diaphorina citri</i>. While <i>C</i>Las-positive (<i>C</i>Las+) females exhibit increased fecundity and metabolic demands, their neuroendocrine regulation",
+    "paper_id": "https://elifesciences.org/articles/109081",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/109081"
+  },
+  {
+    "type": "roundup",
+    "title": "Distinct sources of decision-related signals in visual cortex are represented in different local field potential bands",
+    "text": "Distinct sources of decision-related signals in visual cortex are represented in different local field potential bands \u2014 PLOS Biology. <p>by Yueyue Sapphire Hou, Pooya Laamerad, Liu D. Liu, Christopher C. Pack</p>\n\nFluctuations in single-neuron activity in the sensory cortex often correlate with perceptual decisions. This kind of correlation is often hypothesized to reflect a causal influence of sensory signals on decisions, but it",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003873",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003873"
+  },
+  {
+    "type": "roundup",
+    "title": "The total mass, copy number, and distribution of hormones in the human bloodstream",
+    "text": "The total mass, copy number, and distribution of hormones in the human bloodstream \u2014 PLOS Biology. <p>by Ron Sender, Tal Kedar, Yoav Navon, Moriya Raz, Shirley Bikel, Rina Hemi, Ron Milo, Shai Fuchs</p>\n\nThe human endocrine system orchestrates critical physiological processes, yet a systematic quantitative synthesis of clinically relevant circulating hormones has been lacking. Here, we present a",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003864",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003864"
+  },
+  {
+    "type": "roundup",
+    "title": "Growth arrest of <i>Mycobacterium tuberculosis</i> in acidic environments enhances their survival of antibiotic treatment",
+    "text": "Growth arrest of <i>Mycobacterium tuberculosis</i> in acidic environments enhances their survival of antibiotic treatment \u2014 PLOS Biology. <p>by Eun Seon Chung, William C. Johnson, Maliwan Kamkaew, Timothy A. Fitzgerald, Morgan E. McNellis, Trever C. Smith II, Srinivasan Vijay, Nguyen Thuy Thuong Thuong, Shumin Tan, Bree Beardsley Aldridge</p>\n\nThe ability of <i>Mycobacterium tuberculosis</i> (Mtb) to dynamically adjust its growth beha",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003857",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003857"
+  },
+  {
+    "type": "roundup",
+    "title": "Association between initial benzodiazepine prescribing patterns and time to benzodiazepine discontinuation: A population-based retrospective cohort study",
+    "text": "Association between initial benzodiazepine prescribing patterns and time to benzodiazepine discontinuation: A population-based retrospective cohort study \u2014 PLOS Medicine. <p>by Nikki Bozinoff, Tanya S. Hauck, Robert A. Kleinman, Matthew E. Sloan, Beth A. Sproule, Simone N. Vigod, Jennifer Wyman, Priscila Pequeno, Tara Gomes</p>\nBackground <p>Long-term benzodiazepine use has been associated with increased risk of morbidity and mortality. Preventing long-term use throu",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005126",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005126"
+  },
+  {
+    "type": "roundup",
+    "title": "The data transparency crisis in research: Lessons from systematic reviews and meta-analyses",
+    "text": "The data transparency crisis in research: Lessons from systematic reviews and meta-analyses \u2014 PLOS Medicine. <p>by Saul Martin-Rodriguez, Rodrigo Fernandez-Gonzalo, David Moher</p>\nSummary points <p>Systematic reviews and meta-analyses underpin clinical guidelines and health policy, yet their validity may be compromised by limited access to underlying datasets and associated analytical code.\nReliance on in",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005145",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005145"
+  },
+  {
+    "type": "roundup",
+    "title": "Biomarkers of chronic liver disease and their determinants in northern Ethiopia: Evaluating the synergistic impact of HBV and Schistosoma mansoni and the contribution of metabolic and lifestyle factors to liver injury",
+    "text": "Biomarkers of chronic liver disease and their determinants in northern Ethiopia: Evaluating the synergistic impact of HBV and Schistosoma mansoni and the contribution of metabolic and lifestyle factors to liver injury \u2014 PLOS ONE. <p>by Gessessew Bugssa, Nega Berhe, Girmay Medhin, Shevanti Nayagam, Tilahun Teklehaymanot, Asgeir Johannessen</p>\nBackground <p>Liver diseases are a major global health concern, affecting over 1.5 billion people and ranking among the leading causes of death. Sub-Saharan Africa carries a high burden",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352266",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352266"
+  },
+  {
+    "type": "roundup",
+    "title": "Between Eagle and Dragon: Affective representations of the United States and China in South Korean Media",
+    "text": "Between Eagle and Dragon: Affective representations of the United States and China in South Korean Media \u2014 PLOS ONE. <p>by Seungwoo Han</p>\n\nEmotions are closely implicated in how states are represented and interpreted. This study examines the affective dimensions of South Korean media portrayals of the United States and China from 1992 to 2025, focusing on variation in evaluative tone and emotional intensity. Dra",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352240",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352240"
+  },
+  {
+    "type": "roundup",
+    "title": "Vulnerability assessment to tropical cyclones in the North Caribbean Coast of Nicaragua (1988\u20132022)",
+    "text": "Vulnerability assessment to tropical cyclones in the North Caribbean Coast of Nicaragua (1988\u20132022) \u2014 PLOS ONE. <p>by Lismaryin Mu\u00f1oz-Requene, Pedro S\u00e1nchez-Zamora, Rosa Gallardo-Cobos</p>\n\nThe North Caribbean Coast Autonomous Region of Nicaragua (RACCN) is one of the most vulnerable areas to tropical cyclones (TCs), a condition exacerbated by climate change and internal structural disparities. Despite its hi",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352206",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352206"
+  },
+  {
+    "type": "roundup",
+    "title": "Reimagining machine vision with optical computing",
+    "text": "Reimagining machine vision with optical computing \u2014 Nature News. <p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01891-0\">doi:10.1038/d41586-026-01891-0</a></p>A general-purpose artificial-intelligence vision system for use in image-sensing devices has been developed by embedding fundamentals of core computer-vision",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01891-0",
+    "journal": "Nature News",
+    "score": 0.783,
+    "url": "https://www.nature.com/articles/d41586-026-01891-0"
+  },
+  {
+    "type": "roundup",
+    "title": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?",
+    "text": "Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones? \u2014 Quanta Magazine. A decades-old proof showed that seven shuffles are enough to mix up a deck of cards. But it requires you to cut the deck with the precision of a professional magician. A new proof gets around that obstacle.            <p>The post <a href=\"https://www.quantamagazine.org/seven-perfect-shuffles-randomi",
+    "paper_id": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/",
+    "journal": "Quanta Magazine",
+    "score": 0.774,
+    "url": "https://www.quantamagazine.org/seven-perfect-shuffles-randomize-a-deck-of-cards-but-how-many-sloppy-ones-20260617/"
+  },
+  {
+    "type": "roundup",
+    "title": "How the zebrafish brain weaves recent experiences into future decisions",
+    "text": "How the zebrafish brain weaves recent experiences into future decisions \u2014 Nature News. <p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01756-6\">doi:10.1038/d41586-026-01756-6</a></p>Animals often use recent experience to guide future choices. Whole-brain imaging in larval zebrafish (Danio rerio) reveals a dedicated neural circuit that gov",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01756-6",
+    "journal": "Nature News",
+    "score": 0.758,
+    "url": "https://www.nature.com/articles/d41586-026-01756-6"
+  },
+  {
+    "type": "roundup",
+    "title": "MiT fusions, <i>TSC1\u2013TSC2</i> divergence, and stem-like programs reveal distinct origins and vulnerabilities in PEComa",
+    "text": "MiT fusions, <i>TSC1\u2013TSC2</i> divergence, and stem-like programs reveal distinct origins and vulnerabilities in PEComa \u2014 Nature Communications. <p>Nature Communications, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74545-4\">doi:10.1038/s41467-026-74545-4</a></p>Perivascular epithelioid cell neoplasms are rare tumors with limited molecular stratification to guide treatment. Here, authors identify recurr",
+    "paper_id": "https://www.nature.com/articles/s41467-026-74545-4",
+    "journal": "Nature Communications",
+    "score": 0.738,
+    "url": "https://www.nature.com/articles/s41467-026-74545-4"
+  },
+  {
+    "type": "roundup",
+    "title": "Revealing competitive interfacial reactions in high-energy Li\u2013S batteries",
+    "text": "Revealing competitive interfacial reactions in high-energy Li\u2013S batteries \u2014 Nature News. <p>Nature, Published online: 17 June 2026; <a href=\"https://www.nature.com/articles/s41586-025-09473-2\">doi:10.1038/s41586-025-09473-2</a></p>Visualization of concentration-driven phase segregation within high-concentration interfacial layers in the context of high-energy lithium\u2013sulfur batteries us",
+    "paper_id": "https://www.nature.com/articles/s41586-025-09473-2",
+    "journal": "Nature News",
+    "score": 0.736,
+    "url": "https://www.nature.com/articles/s41586-025-09473-2"
+  },
+  {
+    "type": "roundup",
+    "title": "Learning missing physics from legacy simulators with alternating neural integrators",
+    "text": "Learning missing physics from legacy simulators with alternating neural integrators \u2014 Nature Communications. <p>Nature Communications, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41467-026-74002-2\">doi:10.1038/s41467-026-74002-2</a></p>Alternating Neural Integrators (ANI) offer a non-intrusive \u201creuse-and-correct\u201d framework to upgrade legacy simulators by alternating prior mode",
+    "paper_id": "https://www.nature.com/articles/s41467-026-74002-2",
+    "journal": "Nature Communications",
+    "score": 0.717,
+    "url": "https://www.nature.com/articles/s41467-026-74002-2"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

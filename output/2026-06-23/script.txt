@@ -1,0 +1,143 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Adiponectin exerts sex-dependent effects on lipid, amino acid, and glucose metabolism during caloric restriction
+============================================================
+Adiponectin exerts sex-dependent effects on lipid, amino acid, and glucose metabolism during caloric restriction — PLOS Biology. <p>by Yoshiko M. Ikushima, Kuan-Chan Chen, Richard J. Sulston, Domenico Mattiucci, Eleanor J. Brain, Stefanie A. Fung Xin Zi, Karla J. Suchacki, Benjamin J. Thomas, Andrea Lovdel, Matthew Bennett, Hiroshi Kobayashi, Phillip D. Whitfield, Keiyo Takubo, Andrew H. Baker, Nicholas M. Morton, Robert K. S
+
+============================================================
+[ROUNDUP] Factors associated with resilience among parents of children with autism spectrum disorder: A systematic review
+============================================================
+Factors associated with resilience among parents of children with autism spectrum disorder: A systematic review — PLOS ONE. <p>by Nora Saliza Md Salim, Idayu Badilla Idris, Norazlin Kamal Nor, Syakirah Roslan, Nafisah Abdul Rashid, Roszita Ibrahim, Fairuz Nazri Abd Rahman</p>
+
+Parents of children with autism spectrum disorder (ASD) experience ongoing caregiving demands and challenges that may contribute to their general
+
+============================================================
+[ROUNDUP] Global current systems in the magnetosphere of Mercury
+============================================================
+Global current systems in the magnetosphere of Mercury — Nature Communications. <p>Nature Communications, Published online: 23 June 2026; <a href="https://www.nature.com/articles/s41467-026-74847-7">doi:10.1038/s41467-026-74847-7</a></p>Mercury’s magnetic environment is shaped by electric currents driven by the solar wind. Here, the authors show a global map of these currents,
+
+============================================================
+[ROUNDUP] Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death
+============================================================
+Cancer cells adopt unprecedented strategies to produce a molecule that protects them from iron-dependent death — Nature News. <p>Nature, Published online: 22 June 2026; <a href="https://www.nature.com/articles/d41586-026-01802-3">doi:10.1038/d41586-026-01802-3</a></p>The finding that spermine molecules in cells bind to iron to prevent it unleashing ferroptosis, a type of cell death, opens up strategies for treating tissue
+
+============================================================
+[ROUNDUP] Exploration of precision coregulator TR-FRET identifies diverse signatures for LXR ligands relevant to discovery of nonlipogenic ABCA1 inducers
+============================================================
+Exploration of precision coregulator TR-FRET identifies diverse signatures for LXR ligands relevant to discovery of nonlipogenic ABCA1 inducers — eLife. APOE4, the major genetic risk factor for Alzheimer’s disease (AD), and ATP-binding cassette-A1 (ABCA1), required for lipidation of APOE are gene products of the liver X receptor (LXR) receptor. LXR agonists have been validated in animal models as therapeutics for AD, atherosclerosis, and many other
+
+============================================================
+[ROUNDUP] Neural signatures of model-based and model-free reinforcement learning across prefrontal cortex and striatum
+============================================================
+Neural signatures of model-based and model-free reinforcement learning across prefrontal cortex and striatum — eLife. Animals integrate knowledge about how the state of the environment evolves to choose actions that maximise reward. Such goal-directed behaviour – or model-based (MB) reinforcement learning (RL) – can flexibly adapt choice to changes, being thus distinct from simpler habitual – or model-free (MF) RL
+
+============================================================
+[ROUNDUP] Paraventricular thalamus hyperactivity mediates stress-induced sensitization of unlearned fear but not stress-enhanced fear learning (SEFL)
+============================================================
+Paraventricular thalamus hyperactivity mediates stress-induced sensitization of unlearned fear but not stress-enhanced fear learning (SEFL) — eLife. Exposure to stress can cause long-lasting enhancement of fear and other defensive responses that extend beyond the cues or contexts associated with the original traumatic event. These nonassociative consequences of stress, referred to as fear sensitization, are thought to underlie some symptoms of t
+
+============================================================
+[ROUNDUP] Dopamine and its receptor <i>DcDop2</i> are involved in the coevolution between ‘<i>Candidatus</i> Liberibacter asiaticus’ and <i>Diaphorina citri</i>
+============================================================
+Dopamine and its receptor <i>DcDop2</i> are involved in the coevolution between ‘<i>Candidatus</i> Liberibacter asiaticus’ and <i>Diaphorina citri</i> — eLife. ‘<i>Candidatus</i> Liberibacter asiaticus’ (<i>C</i>Las), the causal agent of citrus huanglongbing, is transmitted by the Asian citrus psyllid <i>Diaphorina citri</i>. While <i>C</i>Las-positive (<i>C</i>Las+) females exhibit increased fecundity and metabolic demands, their neuroendocrine regulation
+
+============================================================
+[ROUNDUP] Distinct sources of decision-related signals in visual cortex are represented in different local field potential bands
+============================================================
+Distinct sources of decision-related signals in visual cortex are represented in different local field potential bands — PLOS Biology. <p>by Yueyue Sapphire Hou, Pooya Laamerad, Liu D. Liu, Christopher C. Pack</p>
+
+Fluctuations in single-neuron activity in the sensory cortex often correlate with perceptual decisions. This kind of correlation is often hypothesized to reflect a causal influence of sensory signals on decisions, but it
+
+============================================================
+[ROUNDUP] The total mass, copy number, and distribution of hormones in the human bloodstream
+============================================================
+The total mass, copy number, and distribution of hormones in the human bloodstream — PLOS Biology. <p>by Ron Sender, Tal Kedar, Yoav Navon, Moriya Raz, Shirley Bikel, Rina Hemi, Ron Milo, Shai Fuchs</p>
+
+The human endocrine system orchestrates critical physiological processes, yet a systematic quantitative synthesis of clinically relevant circulating hormones has been lacking. Here, we present a
+
+============================================================
+[ROUNDUP] Growth arrest of <i>Mycobacterium tuberculosis</i> in acidic environments enhances their survival of antibiotic treatment
+============================================================
+Growth arrest of <i>Mycobacterium tuberculosis</i> in acidic environments enhances their survival of antibiotic treatment — PLOS Biology. <p>by Eun Seon Chung, William C. Johnson, Maliwan Kamkaew, Timothy A. Fitzgerald, Morgan E. McNellis, Trever C. Smith II, Srinivasan Vijay, Nguyen Thuy Thuong Thuong, Shumin Tan, Bree Beardsley Aldridge</p>
+
+The ability of <i>Mycobacterium tuberculosis</i> (Mtb) to dynamically adjust its growth beha
+
+============================================================
+[ROUNDUP] Association between initial benzodiazepine prescribing patterns and time to benzodiazepine discontinuation: A population-based retrospective cohort study
+============================================================
+Association between initial benzodiazepine prescribing patterns and time to benzodiazepine discontinuation: A population-based retrospective cohort study — PLOS Medicine. <p>by Nikki Bozinoff, Tanya S. Hauck, Robert A. Kleinman, Matthew E. Sloan, Beth A. Sproule, Simone N. Vigod, Jennifer Wyman, Priscila Pequeno, Tara Gomes</p>
+Background <p>Long-term benzodiazepine use has been associated with increased risk of morbidity and mortality. Preventing long-term use throu
+
+============================================================
+[ROUNDUP] The data transparency crisis in research: Lessons from systematic reviews and meta-analyses
+============================================================
+The data transparency crisis in research: Lessons from systematic reviews and meta-analyses — PLOS Medicine. <p>by Saul Martin-Rodriguez, Rodrigo Fernandez-Gonzalo, David Moher</p>
+Summary points <p>Systematic reviews and meta-analyses underpin clinical guidelines and health policy, yet their validity may be compromised by limited access to underlying datasets and associated analytical code.
+Reliance on in
+
+============================================================
+[ROUNDUP] Biomarkers of chronic liver disease and their determinants in northern Ethiopia: Evaluating the synergistic impact of HBV and Schistosoma mansoni and the contribution of metabolic and lifestyle factors to liver injury
+============================================================
+Biomarkers of chronic liver disease and their determinants in northern Ethiopia: Evaluating the synergistic impact of HBV and Schistosoma mansoni and the contribution of metabolic and lifestyle factors to liver injury — PLOS ONE. <p>by Gessessew Bugssa, Nega Berhe, Girmay Medhin, Shevanti Nayagam, Tilahun Teklehaymanot, Asgeir Johannessen</p>
+Background <p>Liver diseases are a major global health concern, affecting over 1.5 billion people and ranking among the leading causes of death. Sub-Saharan Africa carries a high burden
+
+============================================================
+[ROUNDUP] Between Eagle and Dragon: Affective representations of the United States and China in South Korean Media
+============================================================
+Between Eagle and Dragon: Affective representations of the United States and China in South Korean Media — PLOS ONE. <p>by Seungwoo Han</p>
+
+Emotions are closely implicated in how states are represented and interpreted. This study examines the affective dimensions of South Korean media portrayals of the United States and China from 1992 to 2025, focusing on variation in evaluative tone and emotional intensity. Dra
+
+============================================================
+[ROUNDUP] Vulnerability assessment to tropical cyclones in the North Caribbean Coast of Nicaragua (1988–2022)
+============================================================
+Vulnerability assessment to tropical cyclones in the North Caribbean Coast of Nicaragua (1988–2022) — PLOS ONE. <p>by Lismaryin Muñoz-Requene, Pedro Sánchez-Zamora, Rosa Gallardo-Cobos</p>
+
+The North Caribbean Coast Autonomous Region of Nicaragua (RACCN) is one of the most vulnerable areas to tropical cyclones (TCs), a condition exacerbated by climate change and internal structural disparities. Despite its hi
+
+============================================================
+[ROUNDUP] Reimagining machine vision with optical computing
+============================================================
+Reimagining machine vision with optical computing — Nature News. <p>Nature, Published online: 17 June 2026; <a href="https://www.nature.com/articles/d41586-026-01891-0">doi:10.1038/d41586-026-01891-0</a></p>A general-purpose artificial-intelligence vision system for use in image-sensing devices has been developed by embedding fundamentals of core computer-vision
+
+============================================================
+[ROUNDUP] Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones?
+============================================================
+Seven Perfect Shuffles Randomize a Deck of Cards. But How Many Sloppy Ones? — Quanta Magazine. A decades-old proof showed that seven shuffles are enough to mix up a deck of cards. But it requires you to cut the deck with the precision of a professional magician. A new proof gets around that obstacle.            <p>The post <a href="https://www.quantamagazine.org/seven-perfect-shuffles-randomi
+
+============================================================
+[ROUNDUP] How the zebrafish brain weaves recent experiences into future decisions
+============================================================
+How the zebrafish brain weaves recent experiences into future decisions — Nature News. <p>Nature, Published online: 17 June 2026; <a href="https://www.nature.com/articles/d41586-026-01756-6">doi:10.1038/d41586-026-01756-6</a></p>Animals often use recent experience to guide future choices. Whole-brain imaging in larval zebrafish (Danio rerio) reveals a dedicated neural circuit that gov
+
+============================================================
+[ROUNDUP] MiT fusions, <i>TSC1–TSC2</i> divergence, and stem-like programs reveal distinct origins and vulnerabilities in PEComa
+============================================================
+MiT fusions, <i>TSC1–TSC2</i> divergence, and stem-like programs reveal distinct origins and vulnerabilities in PEComa — Nature Communications. <p>Nature Communications, Published online: 23 June 2026; <a href="https://www.nature.com/articles/s41467-026-74545-4">doi:10.1038/s41467-026-74545-4</a></p>Perivascular epithelioid cell neoplasms are rare tumors with limited molecular stratification to guide treatment. Here, authors identify recurr
+
+============================================================
+[ROUNDUP] Revealing competitive interfacial reactions in high-energy Li–S batteries
+============================================================
+Revealing competitive interfacial reactions in high-energy Li–S batteries — Nature News. <p>Nature, Published online: 17 June 2026; <a href="https://www.nature.com/articles/s41586-025-09473-2">doi:10.1038/s41586-025-09473-2</a></p>Visualization of concentration-driven phase segregation within high-concentration interfacial layers in the context of high-energy lithium–sulfur batteries us
+
+============================================================
+[ROUNDUP] Learning missing physics from legacy simulators with alternating neural integrators
+============================================================
+Learning missing physics from legacy simulators with alternating neural integrators — Nature Communications. <p>Nature Communications, Published online: 23 June 2026; <a href="https://www.nature.com/articles/s41467-026-74002-2">doi:10.1038/s41467-026-74002-2</a></p>Alternating Neural Integrators (ANI) offer a non-intrusive “reuse-and-correct” framework to upgrade legacy simulators by alternating prior mode
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
