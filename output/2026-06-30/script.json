@@ -1,0 +1,191 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Controlling the synchronization and symmetry breaking of coupled bacterial pili on active biofilm carpets",
+    "text": "Controlling the synchronization and symmetry breaking of coupled bacterial pili on active biofilm carpets \u2014 eLife. In the low Reynolds number regime, active biological systems utilize nonreciprocal cyclic activities to achieve motility, as seen in the spinning of bacterial flagella and the beating of cilia. Coupling among these active mechanical components leads to synchronization and emergence of metachronal wa",
+    "paper_id": "https://elifesciences.org/articles/107609",
+    "journal": "eLife",
+    "score": 2.0,
+    "url": "https://elifesciences.org/articles/107609"
+  },
+  {
+    "type": "roundup",
+    "title": "The surprising career parallels between footballers and researchers",
+    "text": "The surprising career parallels between footballers and researchers \u2014 Nature News. <p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01794-0\">doi:10.1038/d41586-026-01794-0</a></p>Sarah Blackford reflects on how early-career scientists and professional football players share similar motivations, pressures and challenges.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01794-0",
+    "journal": "Nature News",
+    "score": 1.642,
+    "url": "https://www.nature.com/articles/d41586-026-01794-0"
+  },
+  {
+    "type": "roundup",
+    "title": "Retrosplenial cortex enables context-dependent goal-directed sensorimotor transformation",
+    "text": "Retrosplenial cortex enables context-dependent goal-directed sensorimotor transformation \u2014 eLife. The ability to dynamically adjust a behavioral response to a stimulus depending on context is of critical importance for animals. To investigate the neural basis supporting context-dependent sensory processing, we developed a behavioral task in which mice changed their response to a single whisker d",
+    "paper_id": "https://elifesciences.org/articles/109717",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/109717"
+  },
+  {
+    "type": "roundup",
+    "title": "Correlates of protection against African swine fever virus identified by a systems immunology approach",
+    "text": "Correlates of protection against African swine fever virus identified by a systems immunology approach \u2014 eLife. African swine fever virus (ASFV) causes a fatal hemorrhagic disease in domestic pigs and wild boars, which poses severe threats to the global pork industry. Despite the promise of live attenuated vaccines (LAVs), their narrow margin between efficacy and residual virulence presents major safety chall",
+    "paper_id": "https://elifesciences.org/articles/107579",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/107579"
+  },
+  {
+    "type": "roundup",
+    "title": "<i>Mycobacterium tuberculosis</i> partitions the Krebs cycle under iron starvation",
+    "text": "<i>Mycobacterium tuberculosis</i> partitions the Krebs cycle under iron starvation \u2014 eLife. In this study, we investigated how iron limitation alters central metabolism in <i>Mycobacterium tuberculosis</i> using metabolomics and stable isotope tracing. Our findings reveal a well-orchestrated metabolic programme to enable Krebs cycle activity despite the inefficient action of its iron-depen",
+    "paper_id": "https://elifesciences.org/articles/107596",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/107596"
+  },
+  {
+    "type": "roundup",
+    "title": "Ad-based social media interventions increase belief accuracy and generate pro-social opinions among non-news readers",
+    "text": "Ad-based social media interventions increase belief accuracy and generate pro-social opinions among non-news readers \u2014 PLOS ONE. <p>by Erin Wertz, Maria Babi\u0144ska, Dominik Batorski, Debra Louison-Lavoy, Nicholas Blazer, Nancy S. Noble, Magdalena Wojcieszak</p>\n\nDemocratic challenges are often attributed to the spread of misleading, untrustworthy, or biased information, leading scholars to focus on minimizing exposure to such \u201c",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352588",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352588"
+  },
+  {
+    "type": "roundup",
+    "title": "Immunization with the pan-fungal vaccine, NXT-2a, reduces fungal burden following serial intravaginal challenges with <i>C. albicans</i> in a non-human primate model of experimental vulvovaginal candidiasis",
+    "text": "Immunization with the pan-fungal vaccine, NXT-2a, reduces fungal burden following serial intravaginal challenges with <i>C. albicans</i> in a non-human primate model of experimental vulvovaginal candidiasis \u2014 PLOS ONE. <p>by Daniel A. Wychrij, Whitney Rabacal, Taylor I. Chapman, Hubertine M.E. Willems, Casey Ellen Pac, Kwadwo O. Oworae, Karen A. Norris</p>\n\nWorldwide, recurrent vulvovaginal candidiasis (RVVC) is estimated to affect approximately 138 million women annually. Current treatments for RVVC include azole",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352577",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352577"
+  },
+  {
+    "type": "roundup",
+    "title": "Genetic technologies to enhance crop nutritional value under climate change",
+    "text": "Genetic technologies to enhance crop nutritional value under climate change \u2014 Nature News. <p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10593-6\">doi:10.1038/s41586-026-10593-6</a></p>This Review reflects on the joint power of genetic technologies, including untapped CRISPR\u2013Cas techniques to combat hidden hunger and improve crop resilience,",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10593-6",
+    "journal": "Nature News",
+    "score": 1.191,
+    "url": "https://www.nature.com/articles/s41586-026-10593-6"
+  },
+  {
+    "type": "roundup",
+    "title": "Why science needs the humanities more than ever",
+    "text": "Why science needs the humanities more than ever \u2014 Nature News. <p>Nature, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01958-y\">doi:10.1038/d41586-026-01958-y</a></p>From AI to biotechnology, today\u2019s scientific breakthroughs raise ethical and social challenges that technical expertise alone cannot solve.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01958-y",
+    "journal": "Nature News",
+    "score": 1.141,
+    "url": "https://www.nature.com/articles/d41586-026-01958-y"
+  },
+  {
+    "type": "roundup",
+    "title": "The human claustrum supports cognitive networks for externally and internally driven task demands",
+    "text": "The human claustrum supports cognitive networks for externally and internally driven task demands \u2014 PLOS Biology. <p>by Brent W. Stewart, Matthew A. Cormie, Michael L. Keaser, Massieh Moayedi, Brian N. Mathur, David A. Seminowicz</p>\n\nCognitive control is believed to arise from task-dependent interactions among networks of brain regions. Although several debilitating neuropsychiatric disorders are characterized",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003843",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003843"
+  },
+  {
+    "type": "roundup",
+    "title": "Engineered bipaternal mice reveal the consequences of life without a maternal genomic contribution",
+    "text": "Engineered bipaternal mice reveal the consequences of life without a maternal genomic contribution \u2014 PLOS Biology. <p>by Si-Nan Ma, Fan Li, Yu-Long Zhao, Xue-Han Sun, Xue-Song Chen, Tian-Shi Pan, Qing-Tong Shan, Chao Liu, Gui-Hai Feng, Zhi-Kun Li, Qi Zhou, Wei Li</p>\n\nSuccessful mammalian development normally requires contributions from both maternal and paternal genomes, yet how these parental components jointl",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003871",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003871"
+  },
+  {
+    "type": "roundup",
+    "title": "Angptl5 restricts primitive hematopoiesis by promoting retinoic acid signaling in zebrafish",
+    "text": "Angptl5 restricts primitive hematopoiesis by promoting retinoic acid signaling in zebrafish \u2014 PLOS Biology. <p>by Jing Mo, Ding-Hao Zhuo, Min Gao, Ying Huang, Tao Cheng, Yang Dong, Yan-Yi Xing, Yun-Fei Li, Zi-Xin Jin, Xiang Liu, Guo-Qin Zhao, Hai-Rong Pu, Yu-Meng Liu, Li-Ping Shu, Peng-Fei Xu</p>\n\nHomeostasis is essential for hematopoiesis, and its dysregulation can lead to severe pathological conditions.",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003858",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003858"
+  },
+  {
+    "type": "roundup",
+    "title": "Multiple adhesion molecules act together in oligodendrocyte-mediated axonal selection and myelin formation",
+    "text": "Multiple adhesion molecules act together in oligodendrocyte-mediated axonal selection and myelin formation \u2014 PLOS Biology. <p>by Swathi Radha, Martina Arends, Georg Kislinger, Agata Rhomberg, Martina Schifferer, Minou Djannatian, Mikael Simons</p>\n\nRapid information processing in complex organisms depends on myelin, which consists of a multilamellar membrane that tightly adheres to the axonal surface along the internode",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003854",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003854"
+  },
+  {
+    "type": "roundup",
+    "title": "Cardiovascular outcomes and safety associated with statin therapy for primary prevention in older adults with type 2 diabetes: A target trial emulation study",
+    "text": "Cardiovascular outcomes and safety associated with statin therapy for primary prevention in older adults with type 2 diabetes: A target trial emulation study \u2014 PLOS Medicine. <p>by Linda Chan, Wanchun Xu, Esther W. Y. Chan, Eric Yuk Fai Wan</p>\nBackground <p>There is limited evidence on the use of statins for primary prevention of cardiovascular disease (CVD) in older adults with type 2 diabetes due to underrepresentation of this population in randomized controlled trial",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005136",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005136"
+  },
+  {
+    "type": "roundup",
+    "title": "Parental body mass index and offspring childhood body size and eating behaviour: A structural equation modelling analysis in the Norwegian Mother, Father and Child Cohort Study",
+    "text": "Parental body mass index and offspring childhood body size and eating behaviour: A structural equation modelling analysis in the Norwegian Mother, Father and Child Cohort Study \u2014 PLOS Medicine. <p>by Tom A. Bond, Tom A. McAdams, Nicole M. Warrington, Laurie J. Hannigan, Espen Moen Eilertsen, Ziada Ayorech, Fartein A. Torvik, George Davey Smith, Deborah A. Lawlor, Eivind Ystrom, Alexandra Havdahl, David M. Evans</p>\nBackground <p>The intergenerational transmission of obesity-related traits",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005094",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005094"
+  },
+  {
+    "type": "roundup",
+    "title": "Multi-omics biomarkers of endothelial dysregulation preceding chronic lung allograft dysfunction: A prospective cohort study",
+    "text": "Multi-omics biomarkers of endothelial dysregulation preceding chronic lung allograft dysfunction: A prospective cohort study \u2014 PLOS Medicine. <p>by Giulia Iacono, Christina Begka, Bailey Cardwell, Carmel Daunt, Roxanne Chatzis, Celine Pattaroni, Alana Butler, Matthew Macowan, Bronwyn Levvey, Gregory I. Snell, Glen P. Westall, Benjamin J. Marsland</p>\nBackground <p>Long-term survival of lung transplant recipients remains limited by chronic",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004725",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004725"
+  },
+  {
+    "type": "roundup",
+    "title": "Visual acuity in controls and patients measured with Maxwellian view and a 3 mm pupil: Examining potential effects of inherent and induced aberrations",
+    "text": "Visual acuity in controls and patients measured with Maxwellian view and a 3 mm pupil: Examining potential effects of inherent and induced aberrations \u2014 PLOS ONE. <p>by Vamsi Parimi, Ann E. Elsner, Christopher A. Clark, Brett J. King</p>\n\nWe sought to improve the measurement of visual acuity (VA) by reducing the effect of unwanted optical artifacts in patients with retinal disease. We evaluated the effects of age and of inherent and induced aberrations on VA",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352879",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352879"
+  },
+  {
+    "type": "roundup",
+    "title": "The experience of individuals following non-surgical management of Achilles tendon rupture in the United Kingdom \u2013 a qualitative study",
+    "text": "The experience of individuals following non-surgical management of Achilles tendon rupture in the United Kingdom \u2013 a qualitative study \u2014 PLOS ONE. <p>by Samuel Briggs-Price, Tom Yates, Jitendra Mangwani, Maneesh Bhatia, Seth O\u2019Neill</p>\nObjectives <p>Despite extensive research on Achilles tendon ruptures (ATR), the lived experience of patients remains\u00a0under explored. This study aimed to investigate the experiences of individuals managed non-su",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352761",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352761"
+  },
+  {
+    "type": "roundup",
+    "title": "Multilevel onsite training and mentorship model to accelerate early childhood cancer diagnosis in Northwest Ethiopia: A quasi-experimental mixed method study",
+    "text": "Multilevel onsite training and mentorship model to accelerate early childhood cancer diagnosis in Northwest Ethiopia: A quasi-experimental mixed method study \u2014 PLOS Medicine. <p>by Mulugeta Ayalew Yimer, Alemayehu Teklu Toni, Nahom Worku Teshager, Degalem Tilahun Worku, Mulat Asrade Alemayehu, Yalew Melkamu Molla, Zewudu Andualem, Asefa Adimasu Tadesse</p>\nBackground <p>Childhood cancer survival in low-income countries remains below 20%, with late recognition and delayed",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005132",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005132"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

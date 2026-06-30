@@ -1,0 +1,131 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Controlling the synchronization and symmetry breaking of coupled bacterial pili on active biofilm carpets
+============================================================
+Controlling the synchronization and symmetry breaking of coupled bacterial pili on active biofilm carpets — eLife. In the low Reynolds number regime, active biological systems utilize nonreciprocal cyclic activities to achieve motility, as seen in the spinning of bacterial flagella and the beating of cilia. Coupling among these active mechanical components leads to synchronization and emergence of metachronal wa
+
+============================================================
+[ROUNDUP] The surprising career parallels between footballers and researchers
+============================================================
+The surprising career parallels between footballers and researchers — Nature News. <p>Nature, Published online: 26 June 2026; <a href="https://www.nature.com/articles/d41586-026-01794-0">doi:10.1038/d41586-026-01794-0</a></p>Sarah Blackford reflects on how early-career scientists and professional football players share similar motivations, pressures and challenges.
+
+============================================================
+[ROUNDUP] Retrosplenial cortex enables context-dependent goal-directed sensorimotor transformation
+============================================================
+Retrosplenial cortex enables context-dependent goal-directed sensorimotor transformation — eLife. The ability to dynamically adjust a behavioral response to a stimulus depending on context is of critical importance for animals. To investigate the neural basis supporting context-dependent sensory processing, we developed a behavioral task in which mice changed their response to a single whisker d
+
+============================================================
+[ROUNDUP] Correlates of protection against African swine fever virus identified by a systems immunology approach
+============================================================
+Correlates of protection against African swine fever virus identified by a systems immunology approach — eLife. African swine fever virus (ASFV) causes a fatal hemorrhagic disease in domestic pigs and wild boars, which poses severe threats to the global pork industry. Despite the promise of live attenuated vaccines (LAVs), their narrow margin between efficacy and residual virulence presents major safety chall
+
+============================================================
+[ROUNDUP] <i>Mycobacterium tuberculosis</i> partitions the Krebs cycle under iron starvation
+============================================================
+<i>Mycobacterium tuberculosis</i> partitions the Krebs cycle under iron starvation — eLife. In this study, we investigated how iron limitation alters central metabolism in <i>Mycobacterium tuberculosis</i> using metabolomics and stable isotope tracing. Our findings reveal a well-orchestrated metabolic programme to enable Krebs cycle activity despite the inefficient action of its iron-depen
+
+============================================================
+[ROUNDUP] Ad-based social media interventions increase belief accuracy and generate pro-social opinions among non-news readers
+============================================================
+Ad-based social media interventions increase belief accuracy and generate pro-social opinions among non-news readers — PLOS ONE. <p>by Erin Wertz, Maria Babińska, Dominik Batorski, Debra Louison-Lavoy, Nicholas Blazer, Nancy S. Noble, Magdalena Wojcieszak</p>
+
+Democratic challenges are often attributed to the spread of misleading, untrustworthy, or biased information, leading scholars to focus on minimizing exposure to such “
+
+============================================================
+[ROUNDUP] Immunization with the pan-fungal vaccine, NXT-2a, reduces fungal burden following serial intravaginal challenges with <i>C. albicans</i> in a non-human primate model of experimental vulvovaginal candidiasis
+============================================================
+Immunization with the pan-fungal vaccine, NXT-2a, reduces fungal burden following serial intravaginal challenges with <i>C. albicans</i> in a non-human primate model of experimental vulvovaginal candidiasis — PLOS ONE. <p>by Daniel A. Wychrij, Whitney Rabacal, Taylor I. Chapman, Hubertine M.E. Willems, Casey Ellen Pac, Kwadwo O. Oworae, Karen A. Norris</p>
+
+Worldwide, recurrent vulvovaginal candidiasis (RVVC) is estimated to affect approximately 138 million women annually. Current treatments for RVVC include azole
+
+============================================================
+[ROUNDUP] Genetic technologies to enhance crop nutritional value under climate change
+============================================================
+Genetic technologies to enhance crop nutritional value under climate change — Nature News. <p>Nature, Published online: 24 June 2026; <a href="https://www.nature.com/articles/s41586-026-10593-6">doi:10.1038/s41586-026-10593-6</a></p>This Review reflects on the joint power of genetic technologies, including untapped CRISPR–Cas techniques to combat hidden hunger and improve crop resilience,
+
+============================================================
+[ROUNDUP] Why science needs the humanities more than ever
+============================================================
+Why science needs the humanities more than ever — Nature News. <p>Nature, Published online: 24 June 2026; <a href="https://www.nature.com/articles/d41586-026-01958-y">doi:10.1038/d41586-026-01958-y</a></p>From AI to biotechnology, today’s scientific breakthroughs raise ethical and social challenges that technical expertise alone cannot solve.
+
+============================================================
+[ROUNDUP] The human claustrum supports cognitive networks for externally and internally driven task demands
+============================================================
+The human claustrum supports cognitive networks for externally and internally driven task demands — PLOS Biology. <p>by Brent W. Stewart, Matthew A. Cormie, Michael L. Keaser, Massieh Moayedi, Brian N. Mathur, David A. Seminowicz</p>
+
+Cognitive control is believed to arise from task-dependent interactions among networks of brain regions. Although several debilitating neuropsychiatric disorders are characterized
+
+============================================================
+[ROUNDUP] Engineered bipaternal mice reveal the consequences of life without a maternal genomic contribution
+============================================================
+Engineered bipaternal mice reveal the consequences of life without a maternal genomic contribution — PLOS Biology. <p>by Si-Nan Ma, Fan Li, Yu-Long Zhao, Xue-Han Sun, Xue-Song Chen, Tian-Shi Pan, Qing-Tong Shan, Chao Liu, Gui-Hai Feng, Zhi-Kun Li, Qi Zhou, Wei Li</p>
+
+Successful mammalian development normally requires contributions from both maternal and paternal genomes, yet how these parental components jointl
+
+============================================================
+[ROUNDUP] Angptl5 restricts primitive hematopoiesis by promoting retinoic acid signaling in zebrafish
+============================================================
+Angptl5 restricts primitive hematopoiesis by promoting retinoic acid signaling in zebrafish — PLOS Biology. <p>by Jing Mo, Ding-Hao Zhuo, Min Gao, Ying Huang, Tao Cheng, Yang Dong, Yan-Yi Xing, Yun-Fei Li, Zi-Xin Jin, Xiang Liu, Guo-Qin Zhao, Hai-Rong Pu, Yu-Meng Liu, Li-Ping Shu, Peng-Fei Xu</p>
+
+Homeostasis is essential for hematopoiesis, and its dysregulation can lead to severe pathological conditions.
+
+============================================================
+[ROUNDUP] Multiple adhesion molecules act together in oligodendrocyte-mediated axonal selection and myelin formation
+============================================================
+Multiple adhesion molecules act together in oligodendrocyte-mediated axonal selection and myelin formation — PLOS Biology. <p>by Swathi Radha, Martina Arends, Georg Kislinger, Agata Rhomberg, Martina Schifferer, Minou Djannatian, Mikael Simons</p>
+
+Rapid information processing in complex organisms depends on myelin, which consists of a multilamellar membrane that tightly adheres to the axonal surface along the internode
+
+============================================================
+[ROUNDUP] Cardiovascular outcomes and safety associated with statin therapy for primary prevention in older adults with type 2 diabetes: A target trial emulation study
+============================================================
+Cardiovascular outcomes and safety associated with statin therapy for primary prevention in older adults with type 2 diabetes: A target trial emulation study — PLOS Medicine. <p>by Linda Chan, Wanchun Xu, Esther W. Y. Chan, Eric Yuk Fai Wan</p>
+Background <p>There is limited evidence on the use of statins for primary prevention of cardiovascular disease (CVD) in older adults with type 2 diabetes due to underrepresentation of this population in randomized controlled trial
+
+============================================================
+[ROUNDUP] Parental body mass index and offspring childhood body size and eating behaviour: A structural equation modelling analysis in the Norwegian Mother, Father and Child Cohort Study
+============================================================
+Parental body mass index and offspring childhood body size and eating behaviour: A structural equation modelling analysis in the Norwegian Mother, Father and Child Cohort Study — PLOS Medicine. <p>by Tom A. Bond, Tom A. McAdams, Nicole M. Warrington, Laurie J. Hannigan, Espen Moen Eilertsen, Ziada Ayorech, Fartein A. Torvik, George Davey Smith, Deborah A. Lawlor, Eivind Ystrom, Alexandra Havdahl, David M. Evans</p>
+Background <p>The intergenerational transmission of obesity-related traits
+
+============================================================
+[ROUNDUP] Multi-omics biomarkers of endothelial dysregulation preceding chronic lung allograft dysfunction: A prospective cohort study
+============================================================
+Multi-omics biomarkers of endothelial dysregulation preceding chronic lung allograft dysfunction: A prospective cohort study — PLOS Medicine. <p>by Giulia Iacono, Christina Begka, Bailey Cardwell, Carmel Daunt, Roxanne Chatzis, Celine Pattaroni, Alana Butler, Matthew Macowan, Bronwyn Levvey, Gregory I. Snell, Glen P. Westall, Benjamin J. Marsland</p>
+Background <p>Long-term survival of lung transplant recipients remains limited by chronic
+
+============================================================
+[ROUNDUP] Visual acuity in controls and patients measured with Maxwellian view and a 3 mm pupil: Examining potential effects of inherent and induced aberrations
+============================================================
+Visual acuity in controls and patients measured with Maxwellian view and a 3 mm pupil: Examining potential effects of inherent and induced aberrations — PLOS ONE. <p>by Vamsi Parimi, Ann E. Elsner, Christopher A. Clark, Brett J. King</p>
+
+We sought to improve the measurement of visual acuity (VA) by reducing the effect of unwanted optical artifacts in patients with retinal disease. We evaluated the effects of age and of inherent and induced aberrations on VA
+
+============================================================
+[ROUNDUP] The experience of individuals following non-surgical management of Achilles tendon rupture in the United Kingdom – a qualitative study
+============================================================
+The experience of individuals following non-surgical management of Achilles tendon rupture in the United Kingdom – a qualitative study — PLOS ONE. <p>by Samuel Briggs-Price, Tom Yates, Jitendra Mangwani, Maneesh Bhatia, Seth O’Neill</p>
+Objectives <p>Despite extensive research on Achilles tendon ruptures (ATR), the lived experience of patients remains under explored. This study aimed to investigate the experiences of individuals managed non-su
+
+============================================================
+[ROUNDUP] Multilevel onsite training and mentorship model to accelerate early childhood cancer diagnosis in Northwest Ethiopia: A quasi-experimental mixed method study
+============================================================
+Multilevel onsite training and mentorship model to accelerate early childhood cancer diagnosis in Northwest Ethiopia: A quasi-experimental mixed method study — PLOS Medicine. <p>by Mulugeta Ayalew Yimer, Alemayehu Teklu Toni, Nahom Worku Teshager, Degalem Tilahun Worku, Mulat Asrade Alemayehu, Yalew Melkamu Molla, Zewudu Andualem, Asefa Adimasu Tadesse</p>
+Background <p>Childhood cancer survival in low-income countries remains below 20%, with late recognition and delayed
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

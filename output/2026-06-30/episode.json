@@ -1,0 +1,205 @@
+{
+  "date": "2026-06-30",
+  "mp3": "output/2026-06-30/podcast_2026-06-30.mp3",
+  "paper_count": 19,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Controlling the synchronization and symmetry breaking of coupled bacterial pili on active biofilm carpets",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/107609",
+      "score": 2.0,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "The surprising career parallels between footballers and researchers",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01794-0",
+      "score": 1.642,
+      "timestamp_sec": 51.215999999999994
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Retrosplenial cortex enables context-dependent goal-directed sensorimotor transformation",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109717",
+      "score": 1.5,
+      "timestamp_sec": 69.888
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Correlates of protection against African swine fever virus identified by a systems immunology approach",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/107579",
+      "score": 1.5,
+      "timestamp_sec": 92.64000000000001
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "<i>Mycobacterium tuberculosis</i> partitions the Krebs cycle under iron starvation",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/107596",
+      "score": 1.5,
+      "timestamp_sec": 118.17600000000002
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Ad-based social media interventions increase belief accuracy and generate pro-social opinions among non-news readers",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352588",
+      "score": 1.5,
+      "timestamp_sec": 142.32
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Immunization with the pan-fungal vaccine, NXT-2a, reduces fungal burden following serial intravaginal challenges with <i>C. albicans</i> in a non-human primate model of experimental vulvovaginal candidiasis",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352577",
+      "score": 1.5,
+      "timestamp_sec": 168.02399999999997
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Genetic technologies to enhance crop nutritional value under climate change",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10593-6",
+      "score": 1.191,
+      "timestamp_sec": 204.23999999999995
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Why science needs the humanities more than ever",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01958-y",
+      "score": 1.141,
+      "timestamp_sec": 224.78399999999993
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "The human claustrum supports cognitive networks for externally and internally driven task demands",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003843",
+      "score": 1.0,
+      "timestamp_sec": 242.71199999999993
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Engineered bipaternal mice reveal the consequences of life without a maternal genomic contribution",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003871",
+      "score": 1.0,
+      "timestamp_sec": 268.7999999999999
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Angptl5 restricts primitive hematopoiesis by promoting retinoic acid signaling in zebrafish",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003858",
+      "score": 1.0,
+      "timestamp_sec": 295.6079999999999
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Multiple adhesion molecules act together in oligodendrocyte-mediated axonal selection and myelin formation",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003854",
+      "score": 1.0,
+      "timestamp_sec": 323.7599999999999
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Cardiovascular outcomes and safety associated with statin therapy for primary prevention in older adults with type 2 diabetes: A target trial emulation study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005136",
+      "score": 1.0,
+      "timestamp_sec": 349.1279999999999
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Parental body mass index and offspring childhood body size and eating behaviour: A structural equation modelling analysis in the Norwegian Mother, Father and Child Cohort Study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005094",
+      "score": 1.0,
+      "timestamp_sec": 379.03199999999987
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Multi-omics biomarkers of endothelial dysregulation preceding chronic lung allograft dysfunction: A prospective cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004725",
+      "score": 1.0,
+      "timestamp_sec": 410.27999999999986
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Visual acuity in controls and patients measured with Maxwellian view and a 3 mm pupil: Examining potential effects of inherent and induced aberrations",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352879",
+      "score": 1.0,
+      "timestamp_sec": 439.3919999999998
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "The experience of individuals following non-surgical management of Achilles tendon rupture in the United Kingdom \u2013 a qualitative study",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352761",
+      "score": 1.0,
+      "timestamp_sec": 467.2559999999998
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Multilevel onsite training and mentorship model to accelerate early childhood cancer diagnosis in Northwest Ethiopia: A quasi-experimental mixed method study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005132",
+      "score": 0.5,
+      "timestamp_sec": 494.0639999999998
+    },
+    {
+      "index": 21,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 523.9439999999997
+    }
+  ]
+}
