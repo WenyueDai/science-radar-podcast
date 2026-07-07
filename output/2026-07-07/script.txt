@@ -1,0 +1,177 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] TopoMetry systematically learns and evaluates the latent geometry of single-cell data
+============================================================
+TopoMetry systematically learns and evaluates the latent geometry of single-cell data — eLife. Reconstructing and investigating the geometry underlying data is a fundamental task in single-cell analysis, yet no unified framework exists for learning, evaluating, and diagnosing representations that faithfully preserve it. We present TopoMetry, a geometry-aware framework that learns intrinsic co
+
+============================================================
+[ROUNDUP] Artificial intelligence-detected HER2 strong-positive tumor proportion predicts FISH positivity and treatment response in breast cancer
+============================================================
+Artificial intelligence-detected HER2 strong-positive tumor proportion predicts FISH positivity and treatment response in breast cancer — PLOS ONE. <p>by Seung Geun Song, Soo Ick Cho, Taeyong Sim, Sangwon Shin, Wonkyung Jung, Jisoo Shin, Sukjun Kim, Heon Song, Sérgio Pereira, Donggeun Yoo, Sun Kyung Baek, Kiyong Na, Minsun Jung, So-Woon Kim</p>
+
+Human epidermal growth factor receptor 2 (HER2)-targeted therapies have revolutionized breast cancer
+
+============================================================
+[ROUNDUP] Harmonizing standards and resources for the medical genome
+============================================================
+Harmonizing standards and resources for the medical genome — Nature News. <p>Nature, Published online: 01 July 2026; <a href="https://www.nature.com/articles/s41586-026-10621-5">doi:10.1038/s41586-026-10621-5</a></p>This Perspective examines the challenges and opportunities of genomic sequencing across multiple clinical applications, including genetic therapies, and calls
+
+============================================================
+[ROUNDUP] Have people stopped trusting science? The data tell a surprising story
+============================================================
+Have people stopped trusting science? The data tell a surprising story — Nature News. <p>Nature, Published online: 01 July 2026; <a href="https://www.nature.com/articles/d41586-026-01977-9">doi:10.1038/d41586-026-01977-9</a></p>Some say there’s a global crisis of trust — but research reveals where the real problems lie.
+
+============================================================
+[ROUNDUP] Strategies to promote safe mobilization of people with obesity in inpatient care settings: A scoping review protocol
+============================================================
+Strategies to promote safe mobilization of people with obesity in inpatient care settings: A scoping review protocol — PLOS ONE. <p>by Rebecca A. Roberts, Elizabeth Finkelzon, Anika Younker, Georgia Merriman, Paul Claveria, Julianna Lancaster, Christopher Farley, Anastasia N. L. Newman</p>
+Introduction <p>Hospital-associated deconditioning is common during inpatient admissions, particularly among patients with obesity whose m
+
+============================================================
+[ROUNDUP] Semantic congruence impacts audiovisual processing in the Colavita effect
+============================================================
+Semantic congruence impacts audiovisual processing in the Colavita effect — PLOS ONE. <p>by Keira Dyck, Abigail Mitchell, Jonathan Wilbiks, Geneviève Desmarais</p>
+
+The Colavita effect is a phenomenon that occurs when participants are presented with auditory, visual, and audiovisual stimuli and are tasked to identify the modality of the stimuli. When audiovisual stimuli are presented
+
+============================================================
+[ROUNDUP] A coma pattern-based autofocusing method resolves bacterial cold shock response at single-cell level
+============================================================
+A coma pattern-based autofocusing method resolves bacterial cold shock response at single-cell level — eLife. Imaging-based single-cell physiological profiling holds great potential for uncovering fundamental bacterial cold shock response (CSR) mechanisms, but its application is impeded by severe focus drift during rapid temperature downshifts required for CSR induction. Here, we introduce LUNA (Locking Und
+
+============================================================
+[ROUNDUP] Mechanistic insights into transcriptional regulation of ARHGAP36 expression identify a factor predictive of neuroblastoma survival
+============================================================
+Mechanistic insights into transcriptional regulation of ARHGAP36 expression identify a factor predictive of neuroblastoma survival — eLife. Cancer repeatedly exploits attributes fundamental for morphogenesis to advance malignancy and metastasis. This is illustrated by lineage-specific transcription factors that regulate neural crest migration, representing frequent drivers of malignancy. One such example is the <i>forkhead</i> transcrip
+
+============================================================
+[ROUNDUP] SqueakPose Studio, an end-to-end platform for pose estimation and real-time edge-AI deployment
+============================================================
+SqueakPose Studio, an end-to-end platform for pose estimation and real-time edge-AI deployment — eLife. Accurate pose estimation underpins quantitative analysis of behavior, yet many deep learning-based tracking tools remain optimized for offline workflows that rely on fragmented software pipelines, workstation-grade GPUs, or external middleware to enable real-time deployment. Here, we present an inte
+
+============================================================
+[ROUNDUP] Sequential neural dynamics underlie unconscious integration and conscious perception of visual stimuli
+============================================================
+Sequential neural dynamics underlie unconscious integration and conscious perception of visual stimuli — PLOS Biology. <p>by Maëlan Q. Menétrey, Michael H. Herzog, David Pascucci</p>
+
+In some forms of postdictive phenomena, later events influence the perception of earlier ones, suggesting that conscious perception may be preceded by extended periods of unconscious processing. An example is the Sequential Metacontras
+
+============================================================
+[ROUNDUP] Shared memories of event details in the human brain are altered by misinformation and test expectations
+============================================================
+Shared memories of event details in the human brain are altered by misinformation and test expectations — PLOS Biology. <p>by Xuhao Shao, Chuansheng Chen, Elizabeth F. Loftus, Bi Zhu</p>
+
+Shared memories of event details are crucial to eyewitness testimony. When different people encode or recall the same event, similar scene-specific neural activity patterns emerge across individual brains. However, it remains unclea
+
+============================================================
+[ROUNDUP] Discordance in orphan drug approvals between the U.S. Food and Drug Administration and the European Medicines Agency: A retrospective observational analysis
+============================================================
+Discordance in orphan drug approvals between the U.S. Food and Drug Administration and the European Medicines Agency: A retrospective observational analysis — PLOS Medicine. <p>by Jin Ding, Michael M. Hopkins, Paul A. Martin</p>
+Background <p>The United States (US) and European Union (EU) have long-established orphan drug regulations to incentivise the development of medicines for rare diseases. While the numbers of orphan approvals have risen rapidly, there is increasi
+
+============================================================
+[ROUNDUP] Maternal congenital heart disease and risk of child developmental vulnerability in early school age: A population-based cohort study
+============================================================
+Maternal congenital heart disease and risk of child developmental vulnerability in early school age: A population-based cohort study — PLOS Medicine. <p>by Muhammad Zakir Hossin, Anne Gadermann, Edit Nagy, Randip Gill, Monique Gagné Petteni, Jonas Faxén, Neda Razaz</p>
+Background <p>While maternal congenital heart disease (CHD) is associated with increased risks of adverse pregnancy outcomes, its impact on long-term child development remains unkn
+
+============================================================
+[ROUNDUP] Intelligent compensation method for measurement errors in optical fiber current sensor caused by temperature variation based on the Levy-Weighted-QPSO-NN algorithm
+============================================================
+Intelligent compensation method for measurement errors in optical fiber current sensor caused by temperature variation based on the Levy-Weighted-QPSO-NN algorithm — PLOS ONE. <p>by Lin Cheng, Jianyong Luo, Weibin Si, Yanhua Han, Kun Zuo, Haitao Sun, Bo Niu, Shuangzan Ren</p>
+
+Temperature variations significantly degrade the measurement accuracy of fiber optic current sensors (FOCS) in critical power systems applications such as high-voltage transmission and renewable ene
+
+============================================================
+[ROUNDUP] Resistance potentiators: Evolutionary catalysts of antibiotic resistance
+============================================================
+Resistance potentiators: Evolutionary catalysts of antibiotic resistance — PLOS Biology. <p>by R. Craig MacLean, Adam Mulkern, Liam P. Shaw</p>
+
+Why do even closely-related bacteria differ in their capacity to evolve antibiotic resistance? Drawing on evidence from experimental evolution, pathogen genomics, and molecular microbiology, this Essay argues that the evolution of antibiotic re
+
+============================================================
+[ROUNDUP] The cell cloud: Adopting systems biology concepts in the era of single-cell immunology
+============================================================
+The cell cloud: Adopting systems biology concepts in the era of single-cell immunology — PLOS Biology. <p>by Tal Shay, Christophe O. Benoist, Ricardo Grieshaber-Bouyer</p>
+
+High-throughput single-cell assays reveal data that defies discrete categorization. The ‘cell cloud’ model, grounded in established systems biology principles, offers a framework to navigate biological plasticity alongside technic
+
+============================================================
+[ROUNDUP] For the First Time, a Cell Built From Scratch Grows and Divides
+============================================================
+For the First Time, a Cell Built From Scratch Grows and Divides — Quanta Magazine. Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s possible to bring nonliving materials to life, or something close to it, in the lab.            <p>The post <a href="https://www.quantamagazine.org/for-the-first-time-a-cell-built-f
+
+============================================================
+[ROUNDUP] Nanodiamonds made from tiny graphene triangles
+============================================================
+Nanodiamonds made from tiny graphene triangles — Nature News. <p>Nature, Published online: 01 July 2026; <a href="https://www.nature.com/articles/d41586-026-02001-w">doi:10.1038/d41586-026-02001-w</a></p>Nanodiamonds can host atom-sized light emitters for quantum sensing and imaging, but making nanodiamonds that are small, crystalline and uniform has been diff
+
+============================================================
+[ROUNDUP] Astrophysicists Puzzle Over Webb’s New Universe
+============================================================
+Astrophysicists Puzzle Over Webb’s New Universe — Quanta Magazine. Faced with observations of early black holes and galaxies that weren’t expected to exist, scientists have come up with a wealth of new theories to explain them. Now they just need to figure out which ones are true.            <p>The post <a href="https://www.quantamagazine.org/astrophysicists-puzzle
+
+============================================================
+[ROUNDUP] Listening in on the human brain cells that produce speech
+============================================================
+Listening in on the human brain cells that produce speech — Nature News. <p>Nature, Published online: 01 July 2026; <a href="https://www.nature.com/articles/d41586-026-02004-7">doi:10.1038/d41586-026-02004-7</a></p>By combining recordings from single neurons with artificial-intelligence techniques, specific brain cells have been identified that could enable humans to gen
+
+============================================================
+[ROUNDUP] Large-area two-dimensional MoO<sub>3</sub> as a high-<i>κ</i> dielectric for van der Waals integration
+============================================================
+Large-area two-dimensional MoO<sub>3</sub> as a high-<i>κ</i> dielectric for van der Waals integration — Nature Communications. <p>Nature Communications, Published online: 07 July 2026; <a href="https://www.nature.com/articles/s41467-026-75196-1">doi:10.1038/s41467-026-75196-1</a></p>The large-scale integration of high-κ dielectric materials with 2D semiconductors is important for the miniaturization of 2D electronics. Here,
+
+============================================================
+[ROUNDUP] Embodied cognition-driven interpretable trajectory prediction of autonomous systems
+============================================================
+Embodied cognition-driven interpretable trajectory prediction of autonomous systems — Nature Communications. <p>Nature Communications, Published online: 06 July 2026; <a href="https://www.nature.com/articles/s41467-026-75091-9">doi:10.1038/s41467-026-75091-9</a></p>The study presents an interpretable method for predicting future paths of vehicles and pedestrians by combining scene-level attention, graph-ba
+
+============================================================
+[ROUNDUP] Spatiotemporal dynamics of scattering exceptional points
+============================================================
+Spatiotemporal dynamics of scattering exceptional points — Nature Communications. <p>Nature Communications, Published online: 07 July 2026; <a href="https://www.nature.com/articles/s41467-026-75187-2">doi:10.1038/s41467-026-75187-2</a></p>Exceptional points govern unique wave scattering, yet their topology is often hidden in steady states. Here, the authors map these static singu
+
+============================================================
+[ROUNDUP] Learning regularities in noise engages both neural predictive activity and representational changes
+============================================================
+Learning regularities in noise engages both neural predictive activity and representational changes — Nature Communications. <p>Nature Communications, Published online: 07 July 2026; <a href="https://www.nature.com/articles/s41467-026-74824-0">doi:10.1038/s41467-026-74824-0</a></p>Extracting regularities from a noisy environment is fundamental to cognition, yet the underlying neural mechanisms remain unclear. Here, the au
+
+============================================================
+[ROUNDUP] Researchers Reveal the Power of ‘Quantum Proofs’
+============================================================
+Researchers Reveal the Power of ‘Quantum Proofs’ — Quanta Magazine. When checking that solutions to certain problems are correct, it turns out, you can’t get around the inherent complexity of the quantum world.             <p>The post <a href="https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/" target="_blank">Researchers Reveal
+
+============================================================
+[ROUNDUP] Ultrafast photocurrent detection contradicts optical detection conclusions: Exciton diffusion contributes little to carbon nanotube device efficiency
+============================================================
+Ultrafast photocurrent detection contradicts optical detection conclusions: Exciton diffusion contributes little to carbon nanotube device efficiency — Science Advances. Science Advances, Volume 12, Issue 27, July 2026. <br />
+
+============================================================
+[ROUNDUP] Accelerometry-measured prolonged and interrupted sedentary behavior and cancer incidence and mortality: A cohort study of 91,292 UK Biobank participants
+============================================================
+Accelerometry-measured prolonged and interrupted sedentary behavior and cancer incidence and mortality: A cohort study of 91,292 UK Biobank participants — PLOS Medicine. <p>by Ziyi Zhou, Stewart G. Trost, Gemma C. Ryde, Solange Parra-Soto, Zhe Fang, Chao Xu, Yujia Lu, Kai Wang, Mengxi Du, Zhi Li, Yuebin Lv, Jason M.R. Gill, Stuart R. Gray, Carlos Celis-Morales, Marc J. Gunter, Edward Giovannucci, Jill P. Pell, Mingyang Song, Frederick K. Ho</p>
+Background <p>Current
+
+============================================================
+[ROUNDUP] Precision oncology’s translation gap—Can molecular tumor boards bridge it?
+============================================================
+Precision oncology’s translation gap—Can molecular tumor boards bridge it? — PLOS Medicine. <p>by Margaret M. Byrne, Jill M. Kolesar</p>
+
+Precision oncology is revolutionizing cancer care, but isn’t reaching enough patients. Molecular tumor boards (MTBs) translate complex genomic data to more effectively inform personalized care, and a new meta-analysis shows they boost clinical outcomes.
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

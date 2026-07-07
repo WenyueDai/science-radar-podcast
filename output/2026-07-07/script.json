@@ -1,0 +1,272 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "TopoMetry systematically learns and evaluates the latent geometry of single-cell data",
+    "text": "TopoMetry systematically learns and evaluates the latent geometry of single-cell data \u2014 eLife. Reconstructing and investigating the geometry underlying data is a fundamental task in single-cell analysis, yet no unified framework exists for learning, evaluating, and diagnosing representations that faithfully preserve it. We present TopoMetry, a geometry-aware framework that learns intrinsic co",
+    "paper_id": "https://elifesciences.org/articles/100361",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/100361"
+  },
+  {
+    "type": "roundup",
+    "title": "Artificial intelligence-detected HER2 strong-positive tumor proportion predicts FISH positivity and treatment response in breast cancer",
+    "text": "Artificial intelligence-detected HER2 strong-positive tumor proportion predicts FISH positivity and treatment response in breast cancer \u2014 PLOS ONE. <p>by Seung Geun Song, Soo Ick Cho, Taeyong Sim, Sangwon Shin, Wonkyung Jung, Jisoo Shin, Sukjun Kim, Heon Song, S\u00e9rgio Pereira, Donggeun Yoo, Sun Kyung Baek, Kiyong Na, Minsun Jung, So-Woon Kim</p>\n\nHuman epidermal growth factor receptor 2 (HER2)-targeted therapies have revolutionized breast cancer",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352979",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352979"
+  },
+  {
+    "type": "roundup",
+    "title": "Harmonizing standards and resources for the medical genome",
+    "text": "Harmonizing standards and resources for the medical genome \u2014 Nature News. <p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10621-5\">doi:10.1038/s41586-026-10621-5</a></p>This Perspective examines the challenges and opportunities of genomic sequencing across multiple clinical applications, including genetic therapies, and calls",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10621-5",
+    "journal": "Nature News",
+    "score": 1.217,
+    "url": "https://www.nature.com/articles/s41586-026-10621-5"
+  },
+  {
+    "type": "roundup",
+    "title": "Have people stopped trusting science? The data tell a surprising story",
+    "text": "Have people stopped trusting science? The data tell a surprising story \u2014 Nature News. <p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-01977-9\">doi:10.1038/d41586-026-01977-9</a></p>Some say there\u2019s a global crisis of trust \u2014 but research reveals where the real problems lie.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-01977-9",
+    "journal": "Nature News",
+    "score": 1.117,
+    "url": "https://www.nature.com/articles/d41586-026-01977-9"
+  },
+  {
+    "type": "roundup",
+    "title": "Strategies to promote safe mobilization of people with obesity in inpatient care settings: A scoping review protocol",
+    "text": "Strategies to promote safe mobilization of people with obesity in inpatient care settings: A scoping review protocol \u2014 PLOS ONE. <p>by Rebecca A. Roberts, Elizabeth Finkelzon, Anika Younker, Georgia Merriman, Paul Claveria, Julianna Lancaster, Christopher Farley, Anastasia N. L. Newman</p>\nIntroduction <p>Hospital-associated deconditioning is common during inpatient admissions, particularly among patients with obesity whose m",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353176",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353176"
+  },
+  {
+    "type": "roundup",
+    "title": "Semantic congruence impacts audiovisual processing in the Colavita effect",
+    "text": "Semantic congruence impacts audiovisual processing in the Colavita effect \u2014 PLOS ONE. <p>by Keira Dyck, Abigail Mitchell, Jonathan Wilbiks, Genevi\u00e8ve Desmarais</p>\n\nThe Colavita effect is a phenomenon that occurs when participants are presented with auditory, visual, and audiovisual stimuli and are tasked to identify the modality of the stimuli. When audiovisual stimuli are presented",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352876",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352876"
+  },
+  {
+    "type": "roundup",
+    "title": "A coma pattern-based autofocusing method resolves bacterial cold shock response at single-cell level",
+    "text": "A coma pattern-based autofocusing method resolves bacterial cold shock response at single-cell level \u2014 eLife. Imaging-based single-cell physiological profiling holds great potential for uncovering fundamental bacterial cold shock response (CSR) mechanisms, but its application is impeded by severe focus drift during rapid temperature downshifts required for CSR induction. Here, we introduce LUNA (Locking Und",
+    "paper_id": "https://elifesciences.org/articles/110268",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/110268"
+  },
+  {
+    "type": "roundup",
+    "title": "Mechanistic insights into transcriptional regulation of ARHGAP36 expression identify a factor predictive of neuroblastoma survival",
+    "text": "Mechanistic insights into transcriptional regulation of ARHGAP36 expression identify a factor predictive of neuroblastoma survival \u2014 eLife. Cancer repeatedly exploits attributes fundamental for morphogenesis to advance malignancy and metastasis. This is illustrated by lineage-specific transcription factors that regulate neural crest migration, representing frequent drivers of malignancy. One such example is the <i>forkhead</i> transcrip",
+    "paper_id": "https://elifesciences.org/articles/108827",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/108827"
+  },
+  {
+    "type": "roundup",
+    "title": "SqueakPose Studio, an end-to-end platform for pose estimation and real-time edge-AI deployment",
+    "text": "SqueakPose Studio, an end-to-end platform for pose estimation and real-time edge-AI deployment \u2014 eLife. Accurate pose estimation underpins quantitative analysis of behavior, yet many deep learning-based tracking tools remain optimized for offline workflows that rely on fragmented software pipelines, workstation-grade GPUs, or external middleware to enable real-time deployment. Here, we present an inte",
+    "paper_id": "https://elifesciences.org/articles/111308",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/111308"
+  },
+  {
+    "type": "roundup",
+    "title": "Sequential neural dynamics underlie unconscious integration and conscious perception of visual stimuli",
+    "text": "Sequential neural dynamics underlie unconscious integration and conscious perception of visual stimuli \u2014 PLOS Biology. <p>by Ma\u00eblan Q. Men\u00e9trey, Michael H. Herzog, David Pascucci</p>\n\nIn some forms of postdictive phenomena, later events influence the perception of earlier ones, suggesting that conscious perception may be preceded by extended periods of unconscious processing. An example is the Sequential Metacontras",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003894",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003894"
+  },
+  {
+    "type": "roundup",
+    "title": "Shared memories of event details in the human brain are altered by misinformation and test expectations",
+    "text": "Shared memories of event details in the human brain are altered by misinformation and test expectations \u2014 PLOS Biology. <p>by Xuhao Shao, Chuansheng Chen, Elizabeth F. Loftus, Bi Zhu</p>\n\nShared memories of event details are crucial to eyewitness testimony. When different people encode or recall the same event, similar scene-specific neural activity patterns emerge across individual brains. However, it remains unclea",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003886",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003886"
+  },
+  {
+    "type": "roundup",
+    "title": "Discordance in orphan drug approvals between the U.S. Food and Drug Administration and the European Medicines Agency: A retrospective observational analysis",
+    "text": "Discordance in orphan drug approvals between the U.S. Food and Drug Administration and the European Medicines Agency: A retrospective observational analysis \u2014 PLOS Medicine. <p>by Jin Ding, Michael M. Hopkins, Paul A. Martin</p>\nBackground <p>The United States (US) and European Union (EU) have long-established orphan drug regulations to incentivise the development of medicines for rare diseases. While the numbers of orphan approvals have risen rapidly, there is increasi",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004861",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004861"
+  },
+  {
+    "type": "roundup",
+    "title": "Maternal congenital heart disease and risk of child developmental vulnerability in early school age: A population-based cohort study",
+    "text": "Maternal congenital heart disease and risk of child developmental vulnerability in early school age: A population-based cohort study \u2014 PLOS Medicine. <p>by Muhammad Zakir Hossin, Anne Gadermann, Edit Nagy, Randip Gill, Monique Gagn\u00e9 Petteni, Jonas Fax\u00e9n, Neda Razaz</p>\nBackground <p>While maternal congenital heart disease (CHD) is associated with increased risks of adverse pregnancy outcomes, its impact on long-term child development remains unkn",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004890",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004890"
+  },
+  {
+    "type": "roundup",
+    "title": "Intelligent compensation method for measurement errors in optical fiber current sensor caused by temperature variation based on the Levy-Weighted-QPSO-NN algorithm",
+    "text": "Intelligent compensation method for measurement errors in optical fiber current sensor caused by temperature variation based on the Levy-Weighted-QPSO-NN algorithm \u2014 PLOS ONE. <p>by Lin Cheng, Jianyong Luo, Weibin Si, Yanhua Han, Kun Zuo, Haitao Sun, Bo Niu, Shuangzan Ren</p>\n\nTemperature variations significantly degrade the measurement accuracy of fiber optic current sensors (FOCS) in critical power systems applications such as high-voltage transmission and renewable ene",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363631",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363631"
+  },
+  {
+    "type": "roundup",
+    "title": "Resistance potentiators: Evolutionary catalysts of antibiotic resistance",
+    "text": "Resistance potentiators: Evolutionary catalysts of antibiotic resistance \u2014 PLOS Biology. <p>by R. Craig MacLean, Adam Mulkern, Liam P. Shaw</p>\n\nWhy do even closely-related bacteria differ in their capacity to evolve antibiotic resistance? Drawing on evidence from experimental evolution, pathogen genomics, and molecular microbiology, this Essay argues that the evolution of antibiotic re",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003852",
+    "journal": "PLOS Biology",
+    "score": 0.951,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003852"
+  },
+  {
+    "type": "roundup",
+    "title": "The cell cloud: Adopting systems biology concepts in the era of single-cell immunology",
+    "text": "The cell cloud: Adopting systems biology concepts in the era of single-cell immunology \u2014 PLOS Biology. <p>by Tal Shay, Christophe O. Benoist, Ricardo Grieshaber-Bouyer</p>\n\nHigh-throughput single-cell assays reveal data that defies discrete categorization. The \u2018cell cloud\u2019 model, grounded in established systems biology principles, offers a framework to navigate biological plasticity alongside technic",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003853",
+    "journal": "PLOS Biology",
+    "score": 0.798,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003853"
+  },
+  {
+    "type": "roundup",
+    "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
+    "text": "For the First Time, a Cell Built From Scratch Grows and Divides \u2014 Quanta Magazine. Scientists built a synthetic cell that combines more lifelike properties than ever before \u2014 proof of concept that it\u2019s possible to bring nonliving materials to life, or something close to it, in the lab.            <p>The post <a href=\"https://www.quantamagazine.org/for-the-first-time-a-cell-built-f",
+    "paper_id": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+    "journal": "Quanta Magazine",
+    "score": 0.762,
+    "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/"
+  },
+  {
+    "type": "roundup",
+    "title": "Nanodiamonds made from tiny graphene triangles",
+    "text": "Nanodiamonds made from tiny graphene triangles \u2014 Nature News. <p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02001-w\">doi:10.1038/d41586-026-02001-w</a></p>Nanodiamonds can host atom-sized light emitters for quantum sensing and imaging, but making nanodiamonds that are small, crystalline and uniform has been diff",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02001-w",
+    "journal": "Nature News",
+    "score": 0.758,
+    "url": "https://www.nature.com/articles/d41586-026-02001-w"
+  },
+  {
+    "type": "roundup",
+    "title": "Astrophysicists Puzzle Over Webb\u2019s New Universe",
+    "text": "Astrophysicists Puzzle Over Webb\u2019s New Universe \u2014 Quanta Magazine. Faced with observations of early black holes and galaxies that weren\u2019t expected to exist, scientists have come up with a wealth of new theories to explain them. Now they just need to figure out which ones are true.            <p>The post <a href=\"https://www.quantamagazine.org/astrophysicists-puzzle",
+    "paper_id": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+    "journal": "Quanta Magazine",
+    "score": 0.751,
+    "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/"
+  },
+  {
+    "type": "roundup",
+    "title": "Listening in on the human brain cells that produce speech",
+    "text": "Listening in on the human brain cells that produce speech \u2014 Nature News. <p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02004-7\">doi:10.1038/d41586-026-02004-7</a></p>By combining recordings from single neurons with artificial-intelligence techniques, specific brain cells have been identified that could enable humans to gen",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02004-7",
+    "journal": "Nature News",
+    "score": 0.746,
+    "url": "https://www.nature.com/articles/d41586-026-02004-7"
+  },
+  {
+    "type": "roundup",
+    "title": "Large-area two-dimensional MoO<sub>3</sub> as a high-<i>\u03ba</i> dielectric for van der Waals integration",
+    "text": "Large-area two-dimensional MoO<sub>3</sub> as a high-<i>\u03ba</i> dielectric for van der Waals integration \u2014 Nature Communications. <p>Nature Communications, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75196-1\">doi:10.1038/s41467-026-75196-1</a></p>The large-scale integration of high-\u03ba dielectric materials with 2D semiconductors is important for the miniaturization of 2D electronics. Here,",
+    "paper_id": "https://www.nature.com/articles/s41467-026-75196-1",
+    "journal": "Nature Communications",
+    "score": 0.736,
+    "url": "https://www.nature.com/articles/s41467-026-75196-1"
+  },
+  {
+    "type": "roundup",
+    "title": "Embodied cognition-driven interpretable trajectory prediction of autonomous systems",
+    "text": "Embodied cognition-driven interpretable trajectory prediction of autonomous systems \u2014 Nature Communications. <p>Nature Communications, Published online: 06 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75091-9\">doi:10.1038/s41467-026-75091-9</a></p>The study presents an interpretable method for predicting future paths of vehicles and pedestrians by combining scene-level attention, graph-ba",
+    "paper_id": "https://www.nature.com/articles/s41467-026-75091-9",
+    "journal": "Nature Communications",
+    "score": 0.724,
+    "url": "https://www.nature.com/articles/s41467-026-75091-9"
+  },
+  {
+    "type": "roundup",
+    "title": "Spatiotemporal dynamics of scattering exceptional points",
+    "text": "Spatiotemporal dynamics of scattering exceptional points \u2014 Nature Communications. <p>Nature Communications, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75187-2\">doi:10.1038/s41467-026-75187-2</a></p>Exceptional points govern unique wave scattering, yet their topology is often hidden in steady states. Here, the authors map these static singu",
+    "paper_id": "https://www.nature.com/articles/s41467-026-75187-2",
+    "journal": "Nature Communications",
+    "score": 0.721,
+    "url": "https://www.nature.com/articles/s41467-026-75187-2"
+  },
+  {
+    "type": "roundup",
+    "title": "Learning regularities in noise engages both neural predictive activity and representational changes",
+    "text": "Learning regularities in noise engages both neural predictive activity and representational changes \u2014 Nature Communications. <p>Nature Communications, Published online: 07 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-74824-0\">doi:10.1038/s41467-026-74824-0</a></p>Extracting regularities from a noisy environment is fundamental to cognition, yet the underlying neural mechanisms remain unclear. Here, the au",
+    "paper_id": "https://www.nature.com/articles/s41467-026-74824-0",
+    "journal": "Nature Communications",
+    "score": 0.721,
+    "url": "https://www.nature.com/articles/s41467-026-74824-0"
+  },
+  {
+    "type": "roundup",
+    "title": "Researchers Reveal the Power of \u2018Quantum Proofs\u2019",
+    "text": "Researchers Reveal the Power of \u2018Quantum Proofs\u2019 \u2014 Quanta Magazine. When checking that solutions to certain problems are correct, it turns out, you can\u2019t get around the inherent complexity of the quantum world.             <p>The post <a href=\"https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/\" target=\"_blank\">Researchers Reveal",
+    "paper_id": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
+    "journal": "Quanta Magazine",
+    "score": 0.716,
+    "url": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/"
+  },
+  {
+    "type": "roundup",
+    "title": "Ultrafast photocurrent detection contradicts optical detection conclusions: Exciton diffusion contributes little to carbon nanotube device efficiency",
+    "text": "Ultrafast photocurrent detection contradicts optical detection conclusions: Exciton diffusion contributes little to carbon nanotube device efficiency \u2014 Science Advances. Science Advances, Volume 12, Issue 27, July 2026. <br />",
+    "paper_id": "https://www.science.org/doi/abs/10.1126/sciadv.aec3186?af=R",
+    "journal": "Science Advances",
+    "score": 0.528,
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3186?af=R"
+  },
+  {
+    "type": "roundup",
+    "title": "Accelerometry-measured prolonged and interrupted sedentary behavior and cancer incidence and mortality: A cohort study of 91,292 UK Biobank participants",
+    "text": "Accelerometry-measured prolonged and interrupted sedentary behavior and cancer incidence and mortality: A cohort study of 91,292 UK Biobank participants \u2014 PLOS Medicine. <p>by Ziyi Zhou, Stewart G. Trost, Gemma C. Ryde, Solange Parra-Soto, Zhe Fang, Chao Xu, Yujia Lu, Kai Wang, Mengxi Du, Zhi Li, Yuebin Lv, Jason M.R. Gill, Stuart R. Gray, Carlos Celis-Morales, Marc J. Gunter, Edward Giovannucci, Jill P. Pell, Mingyang Song, Frederick K. Ho</p>\nBackground <p>Current",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004767",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004767"
+  },
+  {
+    "type": "roundup",
+    "title": "Precision oncology\u2019s translation gap\u2014Can molecular tumor boards bridge it?",
+    "text": "Precision oncology\u2019s translation gap\u2014Can molecular tumor boards bridge it? \u2014 PLOS Medicine. <p>by Margaret M. Byrne, Jill M. Kolesar</p>\n\nPrecision oncology is revolutionizing cancer care, but isn\u2019t reaching enough patients. Molecular tumor boards (MTBs) translate complex genomic data to more effectively inform personalized care, and a new meta-analysis shows they boost clinical outcomes.",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005165",
+    "journal": "PLOS Medicine",
+    "score": 0.321,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005165"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

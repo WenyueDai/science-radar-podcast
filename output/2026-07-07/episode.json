@@ -1,0 +1,286 @@
+{
+  "date": "2026-07-07",
+  "mp3": "output/2026-07-07/podcast_2026-07-07.mp3",
+  "paper_count": 28,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "TopoMetry systematically learns and evaluates the latent geometry of single-cell data",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/100361",
+      "score": 1.5,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Artificial intelligence-detected HER2 strong-positive tumor proportion predicts FISH positivity and treatment response in breast cancer",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352979",
+      "score": 1.5,
+      "timestamp_sec": 51.407999999999994
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Harmonizing standards and resources for the medical genome",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10621-5",
+      "score": 1.217,
+      "timestamp_sec": 80.88
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Have people stopped trusting science? The data tell a surprising story",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-01977-9",
+      "score": 1.117,
+      "timestamp_sec": 100.152
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Strategies to promote safe mobilization of people with obesity in inpatient care settings: A scoping review protocol",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353176",
+      "score": 1.0,
+      "timestamp_sec": 117.48
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Semantic congruence impacts audiovisual processing in the Colavita effect",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0352876",
+      "score": 1.0,
+      "timestamp_sec": 143.736
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "A coma pattern-based autofocusing method resolves bacterial cold shock response at single-cell level",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110268",
+      "score": 1.0,
+      "timestamp_sec": 167.30399999999997
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Mechanistic insights into transcriptional regulation of ARHGAP36 expression identify a factor predictive of neuroblastoma survival",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108827",
+      "score": 1.0,
+      "timestamp_sec": 192.38399999999996
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "SqueakPose Studio, an end-to-end platform for pose estimation and real-time edge-AI deployment",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/111308",
+      "score": 1.0,
+      "timestamp_sec": 219.09599999999995
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Sequential neural dynamics underlie unconscious integration and conscious perception of visual stimuli",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003894",
+      "score": 1.0,
+      "timestamp_sec": 243.50399999999993
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Shared memories of event details in the human brain are altered by misinformation and test expectations",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003886",
+      "score": 1.0,
+      "timestamp_sec": 268.70399999999995
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Discordance in orphan drug approvals between the U.S. Food and Drug Administration and the European Medicines Agency: A retrospective observational analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004861",
+      "score": 1.0,
+      "timestamp_sec": 294.7679999999999
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Maternal congenital heart disease and risk of child developmental vulnerability in early school age: A population-based cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004890",
+      "score": 1.0,
+      "timestamp_sec": 323.4959999999999
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Intelligent compensation method for measurement errors in optical fiber current sensor caused by temperature variation based on the Levy-Weighted-QPSO-NN algorithm",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363631",
+      "score": 1.0,
+      "timestamp_sec": 351.3359999999999
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Resistance potentiators: Evolutionary catalysts of antibiotic resistance",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003852",
+      "score": 0.951,
+      "timestamp_sec": 379.4879999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "The cell cloud: Adopting systems biology concepts in the era of single-cell immunology",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003853",
+      "score": 0.798,
+      "timestamp_sec": 404.9999999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "For the First Time, a Cell Built From Scratch Grows and Divides",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 0.762,
+      "timestamp_sec": 430.00799999999987
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Nanodiamonds made from tiny graphene triangles",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02001-w",
+      "score": 0.758,
+      "timestamp_sec": 449.20799999999986
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Astrophysicists Puzzle Over Webb\u2019s New Universe",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "score": 0.751,
+      "timestamp_sec": 467.9279999999998
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "Listening in on the human brain cells that produce speech",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02004-7",
+      "score": 0.746,
+      "timestamp_sec": 487.4399999999998
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "Large-area two-dimensional MoO<sub>3</sub> as a high-<i>\u03ba</i> dielectric for van der Waals integration",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-75196-1",
+      "score": 0.736,
+      "timestamp_sec": 506.3519999999998
+    },
+    {
+      "index": 23,
+      "type": "roundup",
+      "title": "Embodied cognition-driven interpretable trajectory prediction of autonomous systems",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-75091-9",
+      "score": 0.724,
+      "timestamp_sec": 530.2079999999997
+    },
+    {
+      "index": 24,
+      "type": "roundup",
+      "title": "Spatiotemporal dynamics of scattering exceptional points",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-75187-2",
+      "score": 0.721,
+      "timestamp_sec": 550.9919999999997
+    },
+    {
+      "index": 25,
+      "type": "roundup",
+      "title": "Learning regularities in noise engages both neural predictive activity and representational changes",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-74824-0",
+      "score": 0.721,
+      "timestamp_sec": 571.3439999999997
+    },
+    {
+      "index": 26,
+      "type": "roundup",
+      "title": "Researchers Reveal the Power of \u2018Quantum Proofs\u2019",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-proofs-20260706/",
+      "score": 0.716,
+      "timestamp_sec": 594.1439999999997
+    },
+    {
+      "index": 27,
+      "type": "roundup",
+      "title": "Ultrafast photocurrent detection contradicts optical detection conclusions: Exciton diffusion contributes little to carbon nanotube device efficiency",
+      "journal": "Science Advances",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aec3186?af=R",
+      "score": 0.528,
+      "timestamp_sec": 612.2159999999997
+    },
+    {
+      "index": 28,
+      "type": "roundup",
+      "title": "Accelerometry-measured prolonged and interrupted sedentary behavior and cancer incidence and mortality: A cohort study of 91,292 UK Biobank participants",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004767",
+      "score": 0.5,
+      "timestamp_sec": 630.1439999999997
+    },
+    {
+      "index": 29,
+      "type": "roundup",
+      "title": "Precision oncology\u2019s translation gap\u2014Can molecular tumor boards bridge it?",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005165",
+      "score": 0.321,
+      "timestamp_sec": 665.2799999999996
+    },
+    {
+      "index": 30,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 690.7679999999996
+    }
+  ]
+}
