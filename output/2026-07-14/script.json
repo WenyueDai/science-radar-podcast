@@ -1,0 +1,200 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Human cerebellum and ventral tegmental area interact during extinction of learned fear",
+    "text": "Human cerebellum and ventral tegmental area interact during extinction of learned fear \u2014 eLife. The key elements for fear extinction learning are unexpected omissions of expected aversive events, which are considered to be rewarding. Given its reception of reward information, we tested the hypothesis that the cerebellum contributes to reward-like prediction error processing driving extinction",
+    "paper_id": "https://elifesciences.org/articles/105399",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/105399"
+  },
+  {
+    "type": "roundup",
+    "title": "The targeted cytosolic degradation of class I histone deacetylases is essential for efficient alphaherpesvirus replication",
+    "text": "The targeted cytosolic degradation of class I histone deacetylases is essential for efficient alphaherpesvirus replication \u2014 eLife. Viral infection triggers a robust DNA damage response (DDR), reshaping the host chromatin landscape to facilitate viral replication. Here, we uncover a novel mechanism by which alphaherpesviruses exploit the DDR pathway. We demonstrated that herpes simplex virus 1 (HSV-1) and pseudorabies virus (PRV",
+    "paper_id": "https://elifesciences.org/articles/110309",
+    "journal": "eLife",
+    "score": 1.466,
+    "url": "https://elifesciences.org/articles/110309"
+  },
+  {
+    "type": "roundup",
+    "title": "LARES-2 satellite measures frame-dragging effect around the Earth",
+    "text": "LARES-2 satellite measures frame-dragging effect around the Earth \u2014 Nature News. <p>Nature, Published online: 08 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10715-0\">doi:10.1038/s41586-026-10715-0</a></p>Using LARES-2, LAGEOS and GRACE satellites, researchers measured Earth\u2019s frame-dragging with unprecedented precision, strongly confirming general relativity,",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10715-0",
+    "journal": "Nature News",
+    "score": 1.194,
+    "url": "https://www.nature.com/articles/s41586-026-10715-0"
+  },
+  {
+    "type": "roundup",
+    "title": "In vivo feasibility study of humanoid robots in surgery",
+    "text": "In vivo feasibility study of humanoid robots in surgery \u2014 Nature News. <p>Nature, Published online: 08 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10796-x\">doi:10.1038/s41586-026-10796-x</a></p>A systematic evaluation shows that contemporary humanoid robots can perform laparoscopic surgical tasks through teleoperation, highlighting both their promise",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10796-x",
+    "journal": "Nature News",
+    "score": 1.179,
+    "url": "https://www.nature.com/articles/s41586-026-10796-x"
+  },
+  {
+    "type": "roundup",
+    "title": "Computational approaches and the future of urban crime research",
+    "text": "Computational approaches and the future of urban crime research \u2014 Nature News. <p>Nature, Published online: 08 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10622-4\">doi:10.1038/s41586-026-10622-4</a></p>This Review examines the opportunities and challenges introduced by new datasets and computational techniques in urban crime research, and outlines future dir",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10622-4",
+    "journal": "Nature News",
+    "score": 1.175,
+    "url": "https://www.nature.com/articles/s41586-026-10622-4"
+  },
+  {
+    "type": "roundup",
+    "title": "Briefing Chat: The 30 year-legacy of a science icon \u2014 Dolly the sheep",
+    "text": "Briefing Chat: The 30 year-legacy of a science icon \u2014 Dolly the sheep \u2014 Nature News. <p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02185-1\">doi:10.1038/d41586-026-02185-1</a></p>Nature staff discuss the landmark moment when a mammal was first cloned from an adult cell \u2014 plus, the first direct observation of ocean-floor crust being cre",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02185-1",
+    "journal": "Nature News",
+    "score": 1.152,
+    "url": "https://www.nature.com/articles/d41586-026-02185-1"
+  },
+  {
+    "type": "roundup",
+    "title": "Cytoplasmic circular dsDNA is a key constituent of stress granules",
+    "text": "Cytoplasmic circular dsDNA is a key constituent of stress granules \u2014 eLife. Stress granules are large cytoplasmic bodies formed in response to environmental insults by eukaryotic cells. Stress granule formation is key for post-stress recovery, and many diseases and infections are characterized by dysregulation of these membraneless organelles. How specific and non-specific",
+    "paper_id": "https://elifesciences.org/articles/111336",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/111336"
+  },
+  {
+    "type": "roundup",
+    "title": "Heterozygote advantage cannot explain MHC diversity, but MHC diversity can explain heterozygote advantage",
+    "text": "Heterozygote advantage cannot explain MHC diversity, but MHC diversity can explain heterozygote advantage \u2014 eLife. Several theoretical studies have concluded that heterozygote advantage makes at most a minor contribution to MHC diversity. Siljestam and Rueffler (2024) recently presented models in which heterozygote advantage alone can lead to realistically high diversity. Here I argue that heterozygote advantage",
+    "paper_id": "https://elifesciences.org/articles/107256",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/107256"
+  },
+  {
+    "type": "roundup",
+    "title": "Meis1 isoform diversity orchestrates neural progenitor differentiation by regulating ATOH1 degradation at distinct subcellular compartments",
+    "text": "Meis1 isoform diversity orchestrates neural progenitor differentiation by regulating ATOH1 degradation at distinct subcellular compartments \u2014 PLOS Biology. <p>by Tomoo Owa, Toma Adachi, Ryo Shiraishi, Kentaro Ichijo, Kaiyuan Ji, Minami Mizuno, Kyoka Suyama, Kayo Nishitani, Ikuko Hasegawa, Masaki Sone, Daisuke Kawauchi, Tomoki Nishioka, Shinichiro Taya, Yutaka Suzuki, Kozo Kaibuchi, Satoshi Miyashita, Mikio Hoshino</p>\n\nThe development of the complex ne",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003897",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003897"
+  },
+  {
+    "type": "roundup",
+    "title": "Social learning dynamically shapes moral decision-making by biasing subjective valuation",
+    "text": "Social learning dynamically shapes moral decision-making by biasing subjective valuation \u2014 PLOS Biology. <p>by Julien Benistant, Valentin Guigon, Alain Nicolas, Edmund Derrington, Jean-Claude Dreher</p>\n\nObserving immoral behavior increases one\u2019s dishonesty by social influence and learning processes. The neurocomputational mechanisms underlying such moral contagion remain unclear. We tested different m",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003889",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003889"
+  },
+  {
+    "type": "roundup",
+    "title": "Identity-specific reward expectations in orbitofrontal cortex guide goal-directed choices",
+    "text": "Identity-specific reward expectations in orbitofrontal cortex guide goal-directed choices \u2014 PLOS Biology. <p>by Phillip P. Witkowski, Noelle Henein, Nicole Moussa, Geoffrey Schoenbaum, Thorsten Kahnt</p>\n\nReal-life decisions are typically directed toward specific types of rewards (e.g., a slice of pizza or a bowl of pasta), but reward identity is often neglected in neuroeconomic theories of decision-mak",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003829",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003829"
+  },
+  {
+    "type": "roundup",
+    "title": "Dipteran flight diversity is shaped by aerodynamic constraints, scaling, and evolutionary trade-offs",
+    "text": "Dipteran flight diversity is shaped by aerodynamic constraints, scaling, and evolutionary trade-offs \u2014 PLOS Biology. <p>by Camille Le Roy, Ilam Bharathi, Thomas Engels, Florian T. Muijres</p>\n\nFlight has been a key innovation in insect evolution, yet the selective and mechanistic pressures shaping their flight motor systems remain poorly understood. Here, we present a comprehensive comparative analysis of flight i",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003473",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003473"
+  },
+  {
+    "type": "roundup",
+    "title": "Self-explaining artificial intelligence for the classification of B cell non-Hodgkin lymphoma: A diagnostic decision support study",
+    "text": "Self-explaining artificial intelligence for the classification of B cell non-Hodgkin lymphoma: A diagnostic decision support study \u2014 PLOS Medicine. <p>by Michael C. Thrun, J\u00f6rg Hoffmann, Stefan W. Krause, Peter Krawitz, Quirin Stier, Andreas Neubauer, Cornelia Brendel, Alfred Ultsch</p>\nBackground <p>Multiparameter flow cytometry is a cornerstone of B cell non-Hodgkin lymphoma (B-NHL) diagnostics, but interpretation requires substantial experti",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004889",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004889"
+  },
+  {
+    "type": "roundup",
+    "title": "Compression therapies for venous leg ulcers: The VENous Ulcer Study 6 (VenUS 6), an open, multicentre, randomised clinical trial",
+    "text": "Compression therapies for venous leg ulcers: The VENous Ulcer Study 6 (VenUS 6), an open, multicentre, randomised clinical trial \u2014 PLOS Medicine. <p>by Catherine Arundel, Charlie Welch, Luke Strachan, Charlie Peck, Ross Atkinson, Una Adderley, Ian Chetter, Nicky Cullum, Tom Davill, Jane Griffiths, Catherine Hewitt, Charlotte Hirst, Katherine Jones, Maartje Kletter, Julie Mullings, Han Phung, Gareth Roberts, Pedro Saramago, Brigid Smart, Marta",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005154",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005154"
+  },
+  {
+    "type": "roundup",
+    "title": "The association of socioeconomic status and response to pediatric health behavior and lifestyle obesity treatment in Germany and Sweden: A multiyear, two-cohort observational study",
+    "text": "The association of socioeconomic status and response to pediatric health behavior and lifestyle obesity treatment in Germany and Sweden: A multiyear, two-cohort observational study \u2014 PLOS Medicine. <p>by Marie Auzanneau, Resthie R. Putri, Martin Wannack, Pernilla Danielsson, Stephanie Brandt-Heunemann, Claude Marcus, Susann Weihrauch-Bl\u00fcher, Stefanie Lanzinger, Emilia Hagman</p>\nBackground <p>Whether socioeconomic status (SES) influences obesity treatment response among children remains unclea",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004909",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004909"
+  },
+  {
+    "type": "roundup",
+    "title": "Genetic and sociodemographic factors associated with trajectories of physical and mental health multimorbidity in a South Asian cohort in the UK: A multistate modelling analysis",
+    "text": "Genetic and sociodemographic factors associated with trajectories of physical and mental health multimorbidity in a South Asian cohort in the UK: A multistate modelling analysis \u2014 PLOS Medicine. <p>by Daniel Stow, Ruby S. M. Tsang, Ioanna K. Katzourou, Qinqin Huang, Miriam Samuel, Megan L. Wood, Jack F. G. Underwood, Genes and Health Research Team, The LIfespaN multimorbidity research Collaborative (LINC) , Rupert A. Payne, James T. R. Walters, Nicholas J. Timpson, In\u00eas Barroso, Hilary C. M",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004844",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004844"
+  },
+  {
+    "type": "roundup",
+    "title": "Optimization of low-carbon multi-temperature joint distribution for fresh agricultural products under 3D loading constraints",
+    "text": "Optimization of low-carbon multi-temperature joint distribution for fresh agricultural products under 3D loading constraints \u2014 PLOS ONE. <p>by Juping Shao, Fan Gao, Yanan Sun</p>\n\nWith the growing demand for fresh agricultural products, improving the efficiency and sustainability of cold-chain distribution has become increasingly important. Multi-temperature joint distribution provides an effective solution for serving products with",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353789",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353789"
+  },
+  {
+    "type": "roundup",
+    "title": "Red blood cell distribution width to albumin ratio and systemic immune-inflammatory index as predictors of mortality in severe pneumonia: A retrospective cohort analysis",
+    "text": "Red blood cell distribution width to albumin ratio and systemic immune-inflammatory index as predictors of mortality in severe pneumonia: A retrospective cohort analysis \u2014 PLOS ONE. <p>by Lijia Shao, Rui Gong, Lihong Shen</p>\nObjective <p>Severe pneumonia carries a high risk of mortality. There is a need for readily available prognostic biomarkers to improve risk stratification. This study evaluated the prognostic value of two novel composite indices, the red blood cell distrib",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353695",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353695"
+  },
+  {
+    "type": "roundup",
+    "title": "Why do Canadians host refugees? A sequential explanatory mixed-methods study protocol",
+    "text": "Why do Canadians host refugees? A sequential explanatory mixed-methods study protocol \u2014 PLOS ONE. <p>by Areej Al-Hamad, Yasin Yasin, Kateryna Metersky, Aryan Karimi, Sepali Guruge, Maher El-Masri, Riham Al-Saadi</p>\n\nRefugee homestay hosting, in which private citizens or permanent residents provide temporary accommodation and informal support to refugees and displaced persons, is increasingly us",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353551",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353551"
+  },
+  {
+    "type": "roundup",
+    "title": "Strategies for implementing genomic selection in a public soybean breeding program",
+    "text": "Strategies for implementing genomic selection in a public soybean breeding program \u2014 PLOS ONE. <p>by Leonardo De Azevedo Peixoto, Eliana Monteverde Dominguez, Andrew Scaboo, Reka Howard, Asheesh K. Singh</p>\n\nImproving selection accuracy in soybean breeding programs is crucial for reducing costs and shortening the time required to develop new varieties. Genomic selection (GS) is a promising t",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353481",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353481"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

@@ -1,0 +1,134 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Human cerebellum and ventral tegmental area interact during extinction of learned fear
+============================================================
+Human cerebellum and ventral tegmental area interact during extinction of learned fear — eLife. The key elements for fear extinction learning are unexpected omissions of expected aversive events, which are considered to be rewarding. Given its reception of reward information, we tested the hypothesis that the cerebellum contributes to reward-like prediction error processing driving extinction
+
+============================================================
+[ROUNDUP] The targeted cytosolic degradation of class I histone deacetylases is essential for efficient alphaherpesvirus replication
+============================================================
+The targeted cytosolic degradation of class I histone deacetylases is essential for efficient alphaherpesvirus replication — eLife. Viral infection triggers a robust DNA damage response (DDR), reshaping the host chromatin landscape to facilitate viral replication. Here, we uncover a novel mechanism by which alphaherpesviruses exploit the DDR pathway. We demonstrated that herpes simplex virus 1 (HSV-1) and pseudorabies virus (PRV
+
+============================================================
+[ROUNDUP] LARES-2 satellite measures frame-dragging effect around the Earth
+============================================================
+LARES-2 satellite measures frame-dragging effect around the Earth — Nature News. <p>Nature, Published online: 08 July 2026; <a href="https://www.nature.com/articles/s41586-026-10715-0">doi:10.1038/s41586-026-10715-0</a></p>Using LARES-2, LAGEOS and GRACE satellites, researchers measured Earth’s frame-dragging with unprecedented precision, strongly confirming general relativity,
+
+============================================================
+[ROUNDUP] In vivo feasibility study of humanoid robots in surgery
+============================================================
+In vivo feasibility study of humanoid robots in surgery — Nature News. <p>Nature, Published online: 08 July 2026; <a href="https://www.nature.com/articles/s41586-026-10796-x">doi:10.1038/s41586-026-10796-x</a></p>A systematic evaluation shows that contemporary humanoid robots can perform laparoscopic surgical tasks through teleoperation, highlighting both their promise
+
+============================================================
+[ROUNDUP] Computational approaches and the future of urban crime research
+============================================================
+Computational approaches and the future of urban crime research — Nature News. <p>Nature, Published online: 08 July 2026; <a href="https://www.nature.com/articles/s41586-026-10622-4">doi:10.1038/s41586-026-10622-4</a></p>This Review examines the opportunities and challenges introduced by new datasets and computational techniques in urban crime research, and outlines future dir
+
+============================================================
+[ROUNDUP] Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep
+============================================================
+Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep — Nature News. <p>Nature, Published online: 10 July 2026; <a href="https://www.nature.com/articles/d41586-026-02185-1">doi:10.1038/d41586-026-02185-1</a></p>Nature staff discuss the landmark moment when a mammal was first cloned from an adult cell — plus, the first direct observation of ocean-floor crust being cre
+
+============================================================
+[ROUNDUP] Cytoplasmic circular dsDNA is a key constituent of stress granules
+============================================================
+Cytoplasmic circular dsDNA is a key constituent of stress granules — eLife. Stress granules are large cytoplasmic bodies formed in response to environmental insults by eukaryotic cells. Stress granule formation is key for post-stress recovery, and many diseases and infections are characterized by dysregulation of these membraneless organelles. How specific and non-specific
+
+============================================================
+[ROUNDUP] Heterozygote advantage cannot explain MHC diversity, but MHC diversity can explain heterozygote advantage
+============================================================
+Heterozygote advantage cannot explain MHC diversity, but MHC diversity can explain heterozygote advantage — eLife. Several theoretical studies have concluded that heterozygote advantage makes at most a minor contribution to MHC diversity. Siljestam and Rueffler (2024) recently presented models in which heterozygote advantage alone can lead to realistically high diversity. Here I argue that heterozygote advantage
+
+============================================================
+[ROUNDUP] Meis1 isoform diversity orchestrates neural progenitor differentiation by regulating ATOH1 degradation at distinct subcellular compartments
+============================================================
+Meis1 isoform diversity orchestrates neural progenitor differentiation by regulating ATOH1 degradation at distinct subcellular compartments — PLOS Biology. <p>by Tomoo Owa, Toma Adachi, Ryo Shiraishi, Kentaro Ichijo, Kaiyuan Ji, Minami Mizuno, Kyoka Suyama, Kayo Nishitani, Ikuko Hasegawa, Masaki Sone, Daisuke Kawauchi, Tomoki Nishioka, Shinichiro Taya, Yutaka Suzuki, Kozo Kaibuchi, Satoshi Miyashita, Mikio Hoshino</p>
+
+The development of the complex ne
+
+============================================================
+[ROUNDUP] Social learning dynamically shapes moral decision-making by biasing subjective valuation
+============================================================
+Social learning dynamically shapes moral decision-making by biasing subjective valuation — PLOS Biology. <p>by Julien Benistant, Valentin Guigon, Alain Nicolas, Edmund Derrington, Jean-Claude Dreher</p>
+
+Observing immoral behavior increases one’s dishonesty by social influence and learning processes. The neurocomputational mechanisms underlying such moral contagion remain unclear. We tested different m
+
+============================================================
+[ROUNDUP] Identity-specific reward expectations in orbitofrontal cortex guide goal-directed choices
+============================================================
+Identity-specific reward expectations in orbitofrontal cortex guide goal-directed choices — PLOS Biology. <p>by Phillip P. Witkowski, Noelle Henein, Nicole Moussa, Geoffrey Schoenbaum, Thorsten Kahnt</p>
+
+Real-life decisions are typically directed toward specific types of rewards (e.g., a slice of pizza or a bowl of pasta), but reward identity is often neglected in neuroeconomic theories of decision-mak
+
+============================================================
+[ROUNDUP] Dipteran flight diversity is shaped by aerodynamic constraints, scaling, and evolutionary trade-offs
+============================================================
+Dipteran flight diversity is shaped by aerodynamic constraints, scaling, and evolutionary trade-offs — PLOS Biology. <p>by Camille Le Roy, Ilam Bharathi, Thomas Engels, Florian T. Muijres</p>
+
+Flight has been a key innovation in insect evolution, yet the selective and mechanistic pressures shaping their flight motor systems remain poorly understood. Here, we present a comprehensive comparative analysis of flight i
+
+============================================================
+[ROUNDUP] Self-explaining artificial intelligence for the classification of B cell non-Hodgkin lymphoma: A diagnostic decision support study
+============================================================
+Self-explaining artificial intelligence for the classification of B cell non-Hodgkin lymphoma: A diagnostic decision support study — PLOS Medicine. <p>by Michael C. Thrun, Jörg Hoffmann, Stefan W. Krause, Peter Krawitz, Quirin Stier, Andreas Neubauer, Cornelia Brendel, Alfred Ultsch</p>
+Background <p>Multiparameter flow cytometry is a cornerstone of B cell non-Hodgkin lymphoma (B-NHL) diagnostics, but interpretation requires substantial experti
+
+============================================================
+[ROUNDUP] Compression therapies for venous leg ulcers: The VENous Ulcer Study 6 (VenUS 6), an open, multicentre, randomised clinical trial
+============================================================
+Compression therapies for venous leg ulcers: The VENous Ulcer Study 6 (VenUS 6), an open, multicentre, randomised clinical trial — PLOS Medicine. <p>by Catherine Arundel, Charlie Welch, Luke Strachan, Charlie Peck, Ross Atkinson, Una Adderley, Ian Chetter, Nicky Cullum, Tom Davill, Jane Griffiths, Catherine Hewitt, Charlotte Hirst, Katherine Jones, Maartje Kletter, Julie Mullings, Han Phung, Gareth Roberts, Pedro Saramago, Brigid Smart, Marta
+
+============================================================
+[ROUNDUP] The association of socioeconomic status and response to pediatric health behavior and lifestyle obesity treatment in Germany and Sweden: A multiyear, two-cohort observational study
+============================================================
+The association of socioeconomic status and response to pediatric health behavior and lifestyle obesity treatment in Germany and Sweden: A multiyear, two-cohort observational study — PLOS Medicine. <p>by Marie Auzanneau, Resthie R. Putri, Martin Wannack, Pernilla Danielsson, Stephanie Brandt-Heunemann, Claude Marcus, Susann Weihrauch-Blüher, Stefanie Lanzinger, Emilia Hagman</p>
+Background <p>Whether socioeconomic status (SES) influences obesity treatment response among children remains unclea
+
+============================================================
+[ROUNDUP] Genetic and sociodemographic factors associated with trajectories of physical and mental health multimorbidity in a South Asian cohort in the UK: A multistate modelling analysis
+============================================================
+Genetic and sociodemographic factors associated with trajectories of physical and mental health multimorbidity in a South Asian cohort in the UK: A multistate modelling analysis — PLOS Medicine. <p>by Daniel Stow, Ruby S. M. Tsang, Ioanna K. Katzourou, Qinqin Huang, Miriam Samuel, Megan L. Wood, Jack F. G. Underwood, Genes and Health Research Team, The LIfespaN multimorbidity research Collaborative (LINC) , Rupert A. Payne, James T. R. Walters, Nicholas J. Timpson, Inês Barroso, Hilary C. M
+
+============================================================
+[ROUNDUP] Optimization of low-carbon multi-temperature joint distribution for fresh agricultural products under 3D loading constraints
+============================================================
+Optimization of low-carbon multi-temperature joint distribution for fresh agricultural products under 3D loading constraints — PLOS ONE. <p>by Juping Shao, Fan Gao, Yanan Sun</p>
+
+With the growing demand for fresh agricultural products, improving the efficiency and sustainability of cold-chain distribution has become increasingly important. Multi-temperature joint distribution provides an effective solution for serving products with
+
+============================================================
+[ROUNDUP] Red blood cell distribution width to albumin ratio and systemic immune-inflammatory index as predictors of mortality in severe pneumonia: A retrospective cohort analysis
+============================================================
+Red blood cell distribution width to albumin ratio and systemic immune-inflammatory index as predictors of mortality in severe pneumonia: A retrospective cohort analysis — PLOS ONE. <p>by Lijia Shao, Rui Gong, Lihong Shen</p>
+Objective <p>Severe pneumonia carries a high risk of mortality. There is a need for readily available prognostic biomarkers to improve risk stratification. This study evaluated the prognostic value of two novel composite indices, the red blood cell distrib
+
+============================================================
+[ROUNDUP] Why do Canadians host refugees? A sequential explanatory mixed-methods study protocol
+============================================================
+Why do Canadians host refugees? A sequential explanatory mixed-methods study protocol — PLOS ONE. <p>by Areej Al-Hamad, Yasin Yasin, Kateryna Metersky, Aryan Karimi, Sepali Guruge, Maher El-Masri, Riham Al-Saadi</p>
+
+Refugee homestay hosting, in which private citizens or permanent residents provide temporary accommodation and informal support to refugees and displaced persons, is increasingly us
+
+============================================================
+[ROUNDUP] Strategies for implementing genomic selection in a public soybean breeding program
+============================================================
+Strategies for implementing genomic selection in a public soybean breeding program — PLOS ONE. <p>by Leonardo De Azevedo Peixoto, Eliana Monteverde Dominguez, Andrew Scaboo, Reka Howard, Asheesh K. Singh</p>
+
+Improving selection accuracy in soybean breeding programs is crucial for reducing costs and shortening the time required to develop new varieties. Genomic selection (GS) is a promising t
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
