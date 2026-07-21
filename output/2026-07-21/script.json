@@ -1,0 +1,191 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Cluster size determines internal structure of transcription factories in human cells",
+    "text": "Cluster size determines internal structure of transcription factories in human cells \u2014 eLife. Transcription is a fundamental cellular process and the first step of gene expression. In human cells, it depends on the binding to chromatin of various proteins, including RNA polymerases and numerous transcription factors (TFs). Observations indicate that these proteins tend to form macromolecular",
+    "paper_id": "https://elifesciences.org/articles/103955",
+    "journal": "eLife",
+    "score": 2.0,
+    "url": "https://elifesciences.org/articles/103955"
+  },
+  {
+    "type": "roundup",
+    "title": "Peroxisomal import is circadian in glia and regulates sleep and lipid metabolism",
+    "text": "Peroxisomal import is circadian in glia and regulates sleep and lipid metabolism \u2014 PLOS Biology. <p>by Anurag Das, Irma Magaly Rivas-Serna, Ankur Kumar, Lakpa Sherpa, Kerui Huang, Hia Kalita, Marlene Dorneich-Hayes, Ruiqi Liu, Vera C. Mazurak, John P. Vaughen, Hua Bai</p>\n\nPeroxisomes are critical organelles that detoxify cellular waste while also catabolizing and anabolizing lipids. How peroxi",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003901",
+    "journal": "PLOS Biology",
+    "score": 2.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003901"
+  },
+  {
+    "type": "roundup",
+    "title": "Flexible and high-throughput simultaneous profiling of gene expression and chromatin accessibility in single cells",
+    "text": "Flexible and high-throughput simultaneous profiling of gene expression and chromatin accessibility in single cells \u2014 eLife. Gene regulation underpins development and is an intricate biological process involving transcription, typically at promoters within accessible chromatin. To understand cell-type-specific regulatory networks, the ability to capture both transcription and chromatin accessibility simultaneously is cruc",
+    "paper_id": "https://elifesciences.org/articles/110034",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/110034"
+  },
+  {
+    "type": "roundup",
+    "title": "Enhanced processivity and collective force production of kinesin-1 at low radial forces",
+    "text": "Enhanced processivity and collective force production of kinesin-1 at low radial forces \u2014 eLife. Kinesin-1 is a robust motor that carries intracellular cargos toward the plus ends of microtubules. However, optical trapping studies reported that kinesin-1 is a slippery motor that quickly detaches from the microtubule, and multiple kinesins are incapable of teaming up to generate large collective",
+    "paper_id": "https://elifesciences.org/articles/109012",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/109012"
+  },
+  {
+    "type": "roundup",
+    "title": "Automated concrete crack detection enhanced by deep learning and generative adversarial networks",
+    "text": "Automated concrete crack detection enhanced by deep learning and generative adversarial networks \u2014 PLOS ONE. <p>by Yue Chang</p>\n\nCracks on the surface of concrete structures are an obvious indication of their condition. However, traditional visual inspection methods are significantly influenced by human factors. They are accurate for larger cracks. However, they introduce subjective judgment when detectin",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354018",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354018"
+  },
+  {
+    "type": "roundup",
+    "title": "Multi-spatial resolution hyperspectral image change detection network integrating feature difference structure",
+    "text": "Multi-spatial resolution hyperspectral image change detection network integrating feature difference structure \u2014 PLOS ONE. <p>by Yanhua Xiao, Shuixiang Yu, Wenfeng Li, Huafei Xiao, Yiling Chen, Huayan Zhou, Long Yang</p>\n\nChange detection (CD) can detect changes in the earth\u2019s surface. However, the existing Siamese network-based CD methods usually calculate the Euclidean distance (ED) between two branches to obtain diff",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353888",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353888"
+  },
+  {
+    "type": "roundup",
+    "title": "PAC1 receptor agonist maxadilan alleviates corneal inflammation in a murine model of LPS-induced ocular inflammation",
+    "text": "PAC1 receptor agonist maxadilan alleviates corneal inflammation in a murine model of LPS-induced ocular inflammation \u2014 PLOS ONE. <p>by Andras Dobos, Balazs Meresz, Inez Bosnyak, Dorottya Molitor, Bela Kocsis, Edina Szabo, Dora Reglodi, Ildiko Vajda, Tamas Atlasz, Alexandra Vaczy</p>\n\nOcular inflammation is a leading cause of visual impairment and blindness worldwide. Systemic bacterial infections can spread hematogenously, re",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353866",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353866"
+  },
+  {
+    "type": "roundup",
+    "title": "Face validity of a dyslexia screening instrument for secondary students",
+    "text": "Face validity of a dyslexia screening instrument for secondary students \u2014 PLOS ONE. <p>by Nik Zatul-Iffah N. Mohd Nabil, Mohd Effendi Ewan Mohd Matore, Mohd Syazwan Zainal</p>\n\nDyslexia is a specific learning difficulty marked by persistent challenges in reading accuracy, fluency, and word recognition despite adequate intelligence and instruction. In secondary schools, many cases r",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353781",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353781"
+  },
+  {
+    "type": "roundup",
+    "title": "Progress and promise of CAR-T cell treatment in autoimmune diseases",
+    "text": "Progress and promise of CAR-T cell treatment in autoimmune diseases \u2014 PLOS Medicine. <p>by Jule Bachl, Melanie Hagen, Georg Schett</p>\n\nChimeric antigen receptor (CAR)-expressing cells bear a great potential for the treatment of autoimmune diseases. While numerous challenges persist, recent technological developments have demonstrated the potential for CAR cells to reset dysfunction",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005179",
+    "journal": "PLOS Medicine",
+    "score": 1.345,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005179"
+  },
+  {
+    "type": "roundup",
+    "title": "The simple chemical that lets queen naked mole-rats 'rule'",
+    "text": "The simple chemical that lets queen naked mole-rats 'rule' \u2014 Nature News. <p>Nature, Published online: 15 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02186-0\">doi:10.1038/d41586-026-02186-0</a></p>The mechanism behind these strange mammals' extreme social structure has been a long-standing puzzle.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02186-0",
+    "journal": "Nature News",
+    "score": 1.121,
+    "url": "https://www.nature.com/articles/d41586-026-02186-0"
+  },
+  {
+    "type": "roundup",
+    "title": "Serotonergic modulation of motor subspace dynamics drives a sleep-independent quiescent state",
+    "text": "Serotonergic modulation of motor subspace dynamics drives a sleep-independent quiescent state \u2014 eLife. The dorsal raphe nucleus (DRN) serotonergic (5-HT) system has been implicated in regulating sleep and motor control; however, its specific role remains controversial. In this study, we found that optogenetic activation of DRN 5-HT neurons in larval zebrafish induced a quiescent state and a reduced r",
+    "paper_id": "https://elifesciences.org/articles/110370",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/110370"
+  },
+  {
+    "type": "roundup",
+    "title": "Noise-invariant representations of sound emerge along the canonical cortical hierarchy",
+    "text": "Noise-invariant representations of sound emerge along the canonical cortical hierarchy \u2014 PLOS Biology. <p>by Tomas Suarez Omedas, Ross S. Williamson</p>\n\nNeurons in the auditory system must represent behaviorally relevant sounds in the presence of background noise (BN) to support noise-invariant perception and behavior. Although the primary auditory cortex (ACtx) has been implicated in constructing n",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003915",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003915"
+  },
+  {
+    "type": "roundup",
+    "title": "Comparative single-nucleus transcriptomics reveals asymmetric evolution of the <i>Drosophila</i> male and female germlines",
+    "text": "Comparative single-nucleus transcriptomics reveals asymmetric evolution of the <i>Drosophila</i> male and female germlines \u2014 PLOS Biology. <p>by Imtiyaz E. Hariyani, Sudeshna Das, Emma M. Le, Carmen Gamero-Castano, Tina Soroudi, Joshua Choi, Spring Momeni, Justin C. Kim, Rongying Lu, Vivek Swarup, Jos\u00e9 M. Ranz</p>\n\nReproductive organs vary widely across species yet share conserved cell types that produce gametes, sustaining species\u2019 pe",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003869",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003869"
+  },
+  {
+    "type": "roundup",
+    "title": "Retrosplenial cortical reorganization during late adolescence introduces instability of contextual memory circuits",
+    "text": "Retrosplenial cortical reorganization during late adolescence introduces instability of contextual memory circuits \u2014 PLOS Biology. <p>by Hui Zhang, Zorica Petrovic, Elizabeth M. Wood, Ana Cicvaric, Maayan Krispil-Alon, Vladimir Jovasevic, Kendra Parker, Thomas E. Bassett, Anna Carboncino, Anita L. Guedea, Pengfei Yi, Gal Richter-Levin, J. Tiago Gon\u00e7alves, Jelena Radulovic</p>\n\nHippocampal and cortical memory circuits, which ena",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003908",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003908"
+  },
+  {
+    "type": "roundup",
+    "title": "Work-family conflict and mental health: A systematic review and meta-analysis",
+    "text": "Work-family conflict and mental health: A systematic review and meta-analysis \u2014 PLOS Medicine. <p>by Dongyu Liu, Yanyan Ni, Tiffany S. W. Ma, Xiaoyan Fan, Yongle Zhan, Ivan H. L. Lam, Matthew C. L. Lui, Tarani Chandola, Ichiro Kawachi, Pim Cuijpers, Michael Y. Ni</p>\nBackground <p>Work-family conflict, defined as a type of inter-role conflict where demands from work and family roles are incom",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005162",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005162"
+  },
+  {
+    "type": "roundup",
+    "title": "Long-term neurodevelopmental outcomes after vacuum-assisted delivery: A population-based cohort study",
+    "text": "Long-term neurodevelopmental outcomes after vacuum-assisted delivery: A population-based cohort study \u2014 PLOS Medicine. <p>by Ida Bj\u00f6rk, Jenny Bolk, Gunilla Ajne, \u00c4ngla Mantel</p>\nBackground <p>Vacuum-assisted delivery (VAD) is widely used in obstetric care, yet concerns remain regarding potential long-term neurodevelopmental sequelae in offspring, particularly after procedures performed at higher fetal head stations",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004825",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004825"
+  },
+  {
+    "type": "roundup",
+    "title": "Rethinking future flood hazard: Hourly data challenge daily flood projections in Alpine catchments",
+    "text": "Rethinking future flood hazard: Hourly data challenge daily flood projections in Alpine catchments \u2014 Science Advances. Science Advances, Volume 12, Issue 29, July 2026. <br />",
+    "paper_id": "https://www.science.org/doi/abs/10.1126/sciadv.aed6012?af=R",
+    "journal": "Science Advances",
+    "score": 0.528,
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed6012?af=R"
+  },
+  {
+    "type": "roundup",
+    "title": "Focused ultrasound blood-brain barrier opening reveals a paradoxical remote metabolic response in the primate brain",
+    "text": "Focused ultrasound blood-brain barrier opening reveals a paradoxical remote metabolic response in the primate brain \u2014 Science Advances. Science Advances, Volume 12, Issue 29, July 2026. <br />",
+    "paper_id": "https://www.science.org/doi/abs/10.1126/sciadv.aed4944?af=R",
+    "journal": "Science Advances",
+    "score": 0.528,
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4944?af=R"
+  },
+  {
+    "type": "roundup",
+    "title": "Assessing spatial transmission risk of respiratory infectious diseases across cities of different socioeconomic tiers in China: A modelling study",
+    "text": "Assessing spatial transmission risk of respiratory infectious diseases across cities of different socioeconomic tiers in China: A modelling study \u2014 PLOS Medicine. <p>by Wenjie Li, Wei Yang, Yang Liu, Ye Yao</p>\nBackground <p>Understanding how respiratory infectious diseases spread across cities of different socioeconomic tiers is crucial for regionally targeted interventions. However, most spatial prediction frameworks neglect the combined influence of urban",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005172",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005172"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

@@ -1,0 +1,133 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Cluster size determines internal structure of transcription factories in human cells
+============================================================
+Cluster size determines internal structure of transcription factories in human cells — eLife. Transcription is a fundamental cellular process and the first step of gene expression. In human cells, it depends on the binding to chromatin of various proteins, including RNA polymerases and numerous transcription factors (TFs). Observations indicate that these proteins tend to form macromolecular
+
+============================================================
+[ROUNDUP] Peroxisomal import is circadian in glia and regulates sleep and lipid metabolism
+============================================================
+Peroxisomal import is circadian in glia and regulates sleep and lipid metabolism — PLOS Biology. <p>by Anurag Das, Irma Magaly Rivas-Serna, Ankur Kumar, Lakpa Sherpa, Kerui Huang, Hia Kalita, Marlene Dorneich-Hayes, Ruiqi Liu, Vera C. Mazurak, John P. Vaughen, Hua Bai</p>
+
+Peroxisomes are critical organelles that detoxify cellular waste while also catabolizing and anabolizing lipids. How peroxi
+
+============================================================
+[ROUNDUP] Flexible and high-throughput simultaneous profiling of gene expression and chromatin accessibility in single cells
+============================================================
+Flexible and high-throughput simultaneous profiling of gene expression and chromatin accessibility in single cells — eLife. Gene regulation underpins development and is an intricate biological process involving transcription, typically at promoters within accessible chromatin. To understand cell-type-specific regulatory networks, the ability to capture both transcription and chromatin accessibility simultaneously is cruc
+
+============================================================
+[ROUNDUP] Enhanced processivity and collective force production of kinesin-1 at low radial forces
+============================================================
+Enhanced processivity and collective force production of kinesin-1 at low radial forces — eLife. Kinesin-1 is a robust motor that carries intracellular cargos toward the plus ends of microtubules. However, optical trapping studies reported that kinesin-1 is a slippery motor that quickly detaches from the microtubule, and multiple kinesins are incapable of teaming up to generate large collective
+
+============================================================
+[ROUNDUP] Automated concrete crack detection enhanced by deep learning and generative adversarial networks
+============================================================
+Automated concrete crack detection enhanced by deep learning and generative adversarial networks — PLOS ONE. <p>by Yue Chang</p>
+
+Cracks on the surface of concrete structures are an obvious indication of their condition. However, traditional visual inspection methods are significantly influenced by human factors. They are accurate for larger cracks. However, they introduce subjective judgment when detectin
+
+============================================================
+[ROUNDUP] Multi-spatial resolution hyperspectral image change detection network integrating feature difference structure
+============================================================
+Multi-spatial resolution hyperspectral image change detection network integrating feature difference structure — PLOS ONE. <p>by Yanhua Xiao, Shuixiang Yu, Wenfeng Li, Huafei Xiao, Yiling Chen, Huayan Zhou, Long Yang</p>
+
+Change detection (CD) can detect changes in the earth’s surface. However, the existing Siamese network-based CD methods usually calculate the Euclidean distance (ED) between two branches to obtain diff
+
+============================================================
+[ROUNDUP] PAC1 receptor agonist maxadilan alleviates corneal inflammation in a murine model of LPS-induced ocular inflammation
+============================================================
+PAC1 receptor agonist maxadilan alleviates corneal inflammation in a murine model of LPS-induced ocular inflammation — PLOS ONE. <p>by Andras Dobos, Balazs Meresz, Inez Bosnyak, Dorottya Molitor, Bela Kocsis, Edina Szabo, Dora Reglodi, Ildiko Vajda, Tamas Atlasz, Alexandra Vaczy</p>
+
+Ocular inflammation is a leading cause of visual impairment and blindness worldwide. Systemic bacterial infections can spread hematogenously, re
+
+============================================================
+[ROUNDUP] Face validity of a dyslexia screening instrument for secondary students
+============================================================
+Face validity of a dyslexia screening instrument for secondary students — PLOS ONE. <p>by Nik Zatul-Iffah N. Mohd Nabil, Mohd Effendi Ewan Mohd Matore, Mohd Syazwan Zainal</p>
+
+Dyslexia is a specific learning difficulty marked by persistent challenges in reading accuracy, fluency, and word recognition despite adequate intelligence and instruction. In secondary schools, many cases r
+
+============================================================
+[ROUNDUP] Progress and promise of CAR-T cell treatment in autoimmune diseases
+============================================================
+Progress and promise of CAR-T cell treatment in autoimmune diseases — PLOS Medicine. <p>by Jule Bachl, Melanie Hagen, Georg Schett</p>
+
+Chimeric antigen receptor (CAR)-expressing cells bear a great potential for the treatment of autoimmune diseases. While numerous challenges persist, recent technological developments have demonstrated the potential for CAR cells to reset dysfunction
+
+============================================================
+[ROUNDUP] The simple chemical that lets queen naked mole-rats 'rule'
+============================================================
+The simple chemical that lets queen naked mole-rats 'rule' — Nature News. <p>Nature, Published online: 15 July 2026; <a href="https://www.nature.com/articles/d41586-026-02186-0">doi:10.1038/d41586-026-02186-0</a></p>The mechanism behind these strange mammals' extreme social structure has been a long-standing puzzle.
+
+============================================================
+[ROUNDUP] Serotonergic modulation of motor subspace dynamics drives a sleep-independent quiescent state
+============================================================
+Serotonergic modulation of motor subspace dynamics drives a sleep-independent quiescent state — eLife. The dorsal raphe nucleus (DRN) serotonergic (5-HT) system has been implicated in regulating sleep and motor control; however, its specific role remains controversial. In this study, we found that optogenetic activation of DRN 5-HT neurons in larval zebrafish induced a quiescent state and a reduced r
+
+============================================================
+[ROUNDUP] Noise-invariant representations of sound emerge along the canonical cortical hierarchy
+============================================================
+Noise-invariant representations of sound emerge along the canonical cortical hierarchy — PLOS Biology. <p>by Tomas Suarez Omedas, Ross S. Williamson</p>
+
+Neurons in the auditory system must represent behaviorally relevant sounds in the presence of background noise (BN) to support noise-invariant perception and behavior. Although the primary auditory cortex (ACtx) has been implicated in constructing n
+
+============================================================
+[ROUNDUP] Comparative single-nucleus transcriptomics reveals asymmetric evolution of the <i>Drosophila</i> male and female germlines
+============================================================
+Comparative single-nucleus transcriptomics reveals asymmetric evolution of the <i>Drosophila</i> male and female germlines — PLOS Biology. <p>by Imtiyaz E. Hariyani, Sudeshna Das, Emma M. Le, Carmen Gamero-Castano, Tina Soroudi, Joshua Choi, Spring Momeni, Justin C. Kim, Rongying Lu, Vivek Swarup, José M. Ranz</p>
+
+Reproductive organs vary widely across species yet share conserved cell types that produce gametes, sustaining species’ pe
+
+============================================================
+[ROUNDUP] Retrosplenial cortical reorganization during late adolescence introduces instability of contextual memory circuits
+============================================================
+Retrosplenial cortical reorganization during late adolescence introduces instability of contextual memory circuits — PLOS Biology. <p>by Hui Zhang, Zorica Petrovic, Elizabeth M. Wood, Ana Cicvaric, Maayan Krispil-Alon, Vladimir Jovasevic, Kendra Parker, Thomas E. Bassett, Anna Carboncino, Anita L. Guedea, Pengfei Yi, Gal Richter-Levin, J. Tiago Gonçalves, Jelena Radulovic</p>
+
+Hippocampal and cortical memory circuits, which ena
+
+============================================================
+[ROUNDUP] Work-family conflict and mental health: A systematic review and meta-analysis
+============================================================
+Work-family conflict and mental health: A systematic review and meta-analysis — PLOS Medicine. <p>by Dongyu Liu, Yanyan Ni, Tiffany S. W. Ma, Xiaoyan Fan, Yongle Zhan, Ivan H. L. Lam, Matthew C. L. Lui, Tarani Chandola, Ichiro Kawachi, Pim Cuijpers, Michael Y. Ni</p>
+Background <p>Work-family conflict, defined as a type of inter-role conflict where demands from work and family roles are incom
+
+============================================================
+[ROUNDUP] Long-term neurodevelopmental outcomes after vacuum-assisted delivery: A population-based cohort study
+============================================================
+Long-term neurodevelopmental outcomes after vacuum-assisted delivery: A population-based cohort study — PLOS Medicine. <p>by Ida Björk, Jenny Bolk, Gunilla Ajne, Ängla Mantel</p>
+Background <p>Vacuum-assisted delivery (VAD) is widely used in obstetric care, yet concerns remain regarding potential long-term neurodevelopmental sequelae in offspring, particularly after procedures performed at higher fetal head stations
+
+============================================================
+[ROUNDUP] Rethinking future flood hazard: Hourly data challenge daily flood projections in Alpine catchments
+============================================================
+Rethinking future flood hazard: Hourly data challenge daily flood projections in Alpine catchments — Science Advances. Science Advances, Volume 12, Issue 29, July 2026. <br />
+
+============================================================
+[ROUNDUP] Focused ultrasound blood-brain barrier opening reveals a paradoxical remote metabolic response in the primate brain
+============================================================
+Focused ultrasound blood-brain barrier opening reveals a paradoxical remote metabolic response in the primate brain — Science Advances. Science Advances, Volume 12, Issue 29, July 2026. <br />
+
+============================================================
+[ROUNDUP] Assessing spatial transmission risk of respiratory infectious diseases across cities of different socioeconomic tiers in China: A modelling study
+============================================================
+Assessing spatial transmission risk of respiratory infectious diseases across cities of different socioeconomic tiers in China: A modelling study — PLOS Medicine. <p>by Wenjie Li, Wei Yang, Yang Liu, Ye Yao</p>
+Background <p>Understanding how respiratory infectious diseases spread across cities of different socioeconomic tiers is crucial for regionally targeted interventions. However, most spatial prediction frameworks neglect the combined influence of urban
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

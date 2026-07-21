@@ -1,0 +1,205 @@
+{
+  "date": "2026-07-21",
+  "mp3": "output/2026-07-21/podcast_2026-07-21.mp3",
+  "paper_count": 19,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Cluster size determines internal structure of transcription factories in human cells",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/103955",
+      "score": 2.0,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Peroxisomal import is circadian in glia and regulates sleep and lipid metabolism",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003901",
+      "score": 2.0,
+      "timestamp_sec": 51.57599999999999
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Flexible and high-throughput simultaneous profiling of gene expression and chromatin accessibility in single cells",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110034",
+      "score": 1.5,
+      "timestamp_sec": 79.63199999999999
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Enhanced processivity and collective force production of kinesin-1 at low radial forces",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109012",
+      "score": 1.5,
+      "timestamp_sec": 104.136
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Automated concrete crack detection enhanced by deep learning and generative adversarial networks",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354018",
+      "score": 1.5,
+      "timestamp_sec": 127.752
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Multi-spatial resolution hyperspectral image change detection network integrating feature difference structure",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353888",
+      "score": 1.5,
+      "timestamp_sec": 152.39999999999998
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "PAC1 receptor agonist maxadilan alleviates corneal inflammation in a murine model of LPS-induced ocular inflammation",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353866",
+      "score": 1.5,
+      "timestamp_sec": 180.11999999999998
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Face validity of a dyslexia screening instrument for secondary students",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0353781",
+      "score": 1.5,
+      "timestamp_sec": 208.72799999999995
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Progress and promise of CAR-T cell treatment in autoimmune diseases",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005179",
+      "score": 1.345,
+      "timestamp_sec": 232.34399999999994
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "The simple chemical that lets queen naked mole-rats 'rule'",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02186-0",
+      "score": 1.121,
+      "timestamp_sec": 255.7199999999999
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Serotonergic modulation of motor subspace dynamics drives a sleep-independent quiescent state",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110370",
+      "score": 1.0,
+      "timestamp_sec": 271.8479999999999
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Noise-invariant representations of sound emerge along the canonical cortical hierarchy",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003915",
+      "score": 1.0,
+      "timestamp_sec": 298.07999999999987
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Comparative single-nucleus transcriptomics reveals asymmetric evolution of the <i>Drosophila</i> male and female germlines",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003869",
+      "score": 1.0,
+      "timestamp_sec": 323.01599999999985
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Retrosplenial cortical reorganization during late adolescence introduces instability of contextual memory circuits",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003908",
+      "score": 1.0,
+      "timestamp_sec": 352.58399999999983
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Work-family conflict and mental health: A systematic review and meta-analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005162",
+      "score": 1.0,
+      "timestamp_sec": 381.5999999999998
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Long-term neurodevelopmental outcomes after vacuum-assisted delivery: A population-based cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004825",
+      "score": 1.0,
+      "timestamp_sec": 409.4879999999998
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Rethinking future flood hazard: Hourly data challenge daily flood projections in Alpine catchments",
+      "journal": "Science Advances",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed6012?af=R",
+      "score": 0.528,
+      "timestamp_sec": 435.5039999999998
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Focused ultrasound blood-brain barrier opening reveals a paradoxical remote metabolic response in the primate brain",
+      "journal": "Science Advances",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aed4944?af=R",
+      "score": 0.528,
+      "timestamp_sec": 450.9359999999998
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Assessing spatial transmission risk of respiratory infectious diseases across cities of different socioeconomic tiers in China: A modelling study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005172",
+      "score": 0.5,
+      "timestamp_sec": 466.9919999999998
+    },
+    {
+      "index": 21,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 494.83199999999977
+    }
+  ]
+}
