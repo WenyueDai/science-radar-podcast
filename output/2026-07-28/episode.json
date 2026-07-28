@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-28",
+  "mp3": "output/2026-07-28/podcast_2026-07-28.mp3",
+  "paper_count": 22,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Public parks utilization and citizen satisfaction in Bangkok Metropolitan: An integrated theoretical model for tropical urban health",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354172",
+      "score": 1.5,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Whose fears count? Legitimacy, trust and viral outbreak responses after COVID-19",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005184",
+      "score": 1.391,
+      "timestamp_sec": 53.279999999999994
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Why biology must prioritize data reanalysis in the era of artificial intelligence",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003888",
+      "score": 1.333,
+      "timestamp_sec": 79.32000000000001
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "The cancer survivorship paradox in the digital era",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005174",
+      "score": 1.185,
+      "timestamp_sec": 105.33600000000001
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Active dendrites enable robust spiking computations despite timing jitter",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/89629",
+      "score": 1.0,
+      "timestamp_sec": 128.256
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Reprogramming of host energy metabolism mediated by the TNF-iNOS-HIF-1\u03b1 axis plays a key role in host resistance to <i>Plasmodium</i> infection",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/97759",
+      "score": 1.0,
+      "timestamp_sec": 151.32
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "In-cell cryo-electron tomography reveals differential effects of type I and type II kinase inhibitors on LRRK2 filament formation and microtubule association",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/111075",
+      "score": 1.0,
+      "timestamp_sec": 179.51999999999998
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "An abundant merozoite surface protein of <i>Plasmodium falciparum</i> modulates susceptibility to inhibitory antibodies",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/107603",
+      "score": 1.0,
+      "timestamp_sec": 209.61599999999999
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Competing value signals impair reward-learning via dopaminergic mechanisms and increase exploration",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003922",
+      "score": 1.0,
+      "timestamp_sec": 235.48799999999997
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Leveraging free-text clinical records for heart disease classification through structured feature mapping",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354916",
+      "score": 1.0,
+      "timestamp_sec": 262.24799999999993
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "A standardized imaging and analysis workflow for quantitative evaluation of cutaneous neurofibromas in <i>Nf1</i>-KO mice",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354818",
+      "score": 1.0,
+      "timestamp_sec": 288.07199999999995
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Model-free predictive control for PMSM based on a nonlinear autoregressive exogenous model and an adaptive recursive least squares algorithm",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354803",
+      "score": 1.0,
+      "timestamp_sec": 316.82399999999996
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Interacting non-Hermitian edge and cluster bursts on a digital quantum processor",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-75904-x",
+      "score": 0.774,
+      "timestamp_sec": 343.87199999999996
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Fields and Abacus Medals 2026",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/fields-and-abacus-medals-2026-20260723/",
+      "score": 0.751,
+      "timestamp_sec": 365.61599999999993
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "A radical approach to making C-glycoside molecules",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02237-6",
+      "score": 0.74,
+      "timestamp_sec": 387.8879999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Geomagnetic storms caused by solar wind might be more extreme than previously thought",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02245-6",
+      "score": 0.737,
+      "timestamp_sec": 407.5439999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Insights into the mechanisms of NH<sub>3</sub> inhibition on Cu-CHA SCR catalysts",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-72879-7",
+      "score": 0.731,
+      "timestamp_sec": 428.66399999999993
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Background genetics and new mutations interact to direct cancer evolution",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02155-7",
+      "score": 0.728,
+      "timestamp_sec": 453.4079999999999
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Cell type-specific Ca<sup>2+</sup> signals govern mouse seminiferous tubule physiology",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003910",
+      "score": 0.5,
+      "timestamp_sec": 473.6639999999999
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "A desynchrony mechanism between events triggers a compensatory delay during <i>Caenorhabditis elegans</i> development",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003867",
+      "score": 0.5,
+      "timestamp_sec": 501.69599999999986
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "Exploring parental prenatal influences on child health: A multicohort study and data visualisation tool",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005153",
+      "score": 0.5,
+      "timestamp_sec": 529.4399999999998
+    },
+    {
+      "index": 23,
+      "type": "roundup",
+      "title": "Optimising scale-up of injectable lenacapavir for HIV pre-exposure prophylaxis in South Africa: A modelling study and economic evaluation",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004882",
+      "score": 0.5,
+      "timestamp_sec": 558.0959999999998
+    },
+    {
+      "index": 24,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 588.0719999999998
+    }
+  ]
+}

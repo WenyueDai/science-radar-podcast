@@ -1,0 +1,150 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Public parks utilization and citizen satisfaction in Bangkok Metropolitan: An integrated theoretical model for tropical urban health
+============================================================
+Public parks utilization and citizen satisfaction in Bangkok Metropolitan: An integrated theoretical model for tropical urban health — PLOS ONE. <p>by Wichian Chanthanet</p>
+Background <p>Tropical megacities face escalating non-communicable disease burdens requiring innovative urban health solutions. Despite public parks’ critical role as health infrastructure, limited research exists on utilization patterns and satisfaction in tropical urba
+
+============================================================
+[ROUNDUP] Whose fears count? Legitimacy, trust and viral outbreak responses after COVID-19
+============================================================
+Whose fears count? Legitimacy, trust and viral outbreak responses after COVID-19 — PLOS Medicine. <p>by Rebecca F. Grais</p>
+
+COVID-19 transformed viral outbreak response from a predominantly public health challenge into a political and security concern. Recent responses to Ebola, mpox, and other emerging infections suggest that preparedness is increasingly shaped by whose fears are prioritized
+
+============================================================
+[ROUNDUP] Why biology must prioritize data reanalysis in the era of artificial intelligence
+============================================================
+Why biology must prioritize data reanalysis in the era of artificial intelligence — PLOS Biology. <p>by Daniel Ghaderi, Ali Sahimi, Benjamin Esser, Kelly V. Ruggles, Roy Maimon</p>
+
+New technologies have generated huge volumes of biological data, much of which is underutilized. AI-assisted data reanalysis could drive the next era of biological discovery, but realizing its full potential requires
+
+============================================================
+[ROUNDUP] The cancer survivorship paradox in the digital era
+============================================================
+The cancer survivorship paradox in the digital era — PLOS Medicine. <p>by Josephine Hegarty, Ismail Toygar, Maria Inês Clara, Ewa Pawlowska</p>
+
+Many assumptions around patient needs and support guide current oncology practice and cancer survivorship care in the digital era. Addressing these assumptions and providing smarter, holistic, tech-enabled follow-up models
+
+============================================================
+[ROUNDUP] Active dendrites enable robust spiking computations despite timing jitter
+============================================================
+Active dendrites enable robust spiking computations despite timing jitter — eLife. Dendritic action potentials exhibit long plateaus of many tens of milliseconds, outliving axonal spikes by an order of magnitude. The computational role of these slow events seems at odds with the need to rapidly integrate and relay information throughout large nervous systems. We propose that the t
+
+============================================================
+[ROUNDUP] Reprogramming of host energy metabolism mediated by the TNF-iNOS-HIF-1α axis plays a key role in host resistance to <i>Plasmodium</i> infection
+============================================================
+Reprogramming of host energy metabolism mediated by the TNF-iNOS-HIF-1α axis plays a key role in host resistance to <i>Plasmodium</i> infection — eLife. TNF has a dual effect in <i>Plasmodium</i> infection, bolstering the host's immune defense while also inducing sickness behavior. Here, we confirm that TNF signaling hampers physical activity, food intake, and energy expenditure while enhancing glucose uptake by the liver and spleen, as well as cont
+
+============================================================
+[ROUNDUP] In-cell cryo-electron tomography reveals differential effects of type I and type II kinase inhibitors on LRRK2 filament formation and microtubule association
+============================================================
+In-cell cryo-electron tomography reveals differential effects of type I and type II kinase inhibitors on LRRK2 filament formation and microtubule association — eLife. Mutations in leucine-rich repeat kinase 2 (LRRK2) are a leading contributor to developing familial and idiopathic Parkinson’s disease (PD). Most PD-causing LRRK2 mutations increase the kinase activity, leading to increased phosphorylation of Rab GTPases, disrupting vesicular trafficking, cytoskeleta
+
+============================================================
+[ROUNDUP] An abundant merozoite surface protein of <i>Plasmodium falciparum</i> modulates susceptibility to inhibitory antibodies
+============================================================
+An abundant merozoite surface protein of <i>Plasmodium falciparum</i> modulates susceptibility to inhibitory antibodies — eLife. Malaria merozoite surface proteins (MSPs) are thought to have important roles in red blood cell (RBC) invasion and their exposure on the parasite surface makes them attractive vaccine candidates. However, their role in invasion has not been directly demonstrated and their biological functions remain
+
+============================================================
+[ROUNDUP] Competing value signals impair reward-learning via dopaminergic mechanisms and increase exploration
+============================================================
+Competing value signals impair reward-learning via dopaminergic mechanisms and increase exploration — PLOS Biology. <p>by Wen-Wei Lin, Pei-Yu Lee, Hsin-Yun Tsai, Yi-Hsuan Lin, Min-Min Lin, Zheng-Liang Lu, Mei-Yu Yeh, Ming-Tsung Tseng</p>
+
+Effective reinforcement learning requires balancing exploration of uncertain options with exploitation of known outcomes. In real-world contexts, the same action may yield rewar
+
+============================================================
+[ROUNDUP] Leveraging free-text clinical records for heart disease classification through structured feature mapping
+============================================================
+Leveraging free-text clinical records for heart disease classification through structured feature mapping — PLOS ONE. <p>by Noha Alnazzawi</p>
+
+Hypertension and diabetes are major risk factors for heart disease, which remains among the leading causes of morbidity and mortality worldwide. Heart disease includes heart failure, myocardial infarction, stroke, and atherosclerosis. The identification and monitoring of th
+
+============================================================
+[ROUNDUP] A standardized imaging and analysis workflow for quantitative evaluation of cutaneous neurofibromas in <i>Nf1</i>-KO mice
+============================================================
+A standardized imaging and analysis workflow for quantitative evaluation of cutaneous neurofibromas in <i>Nf1</i>-KO mice — PLOS ONE. <p>by Laura Fertitta, Fanny Coulpier, Layna Oubrou, Xavier Decrouy, Etienne Audureau, Nicolas Ortonne, Pierre Wolkenstein, Piotr Topilko</p>
+
+Neurofibromatosis type 1 (NF1) is an autosomal dominant disorder in which cutaneous neurofibromas (cNFs) represent one of the most common and burdensome manif
+
+============================================================
+[ROUNDUP] Model-free predictive control for PMSM based on a nonlinear autoregressive exogenous model and an adaptive recursive least squares algorithm
+============================================================
+Model-free predictive control for PMSM based on a nonlinear autoregressive exogenous model and an adaptive recursive least squares algorithm — PLOS ONE. <p>by Xiaolei Shi</p>
+
+This paper proposes a novel nonlinear autoregressive with exogenous input-based adaptive recursive least squares model-free predictive control (NARX-ARLS-MFPC) strategy for permanent magnet synchronous motor (PMSM) drives. The core challenge addressed is the performance degrad
+
+============================================================
+[ROUNDUP] Interacting non-Hermitian edge and cluster bursts on a digital quantum processor
+============================================================
+Interacting non-Hermitian edge and cluster bursts on a digital quantum processor — Nature Communications. <p>Nature Communications, Published online: 28 July 2026; <a href="https://www.nature.com/articles/s41467-026-75904-x">doi:10.1038/s41467-026-75904-x</a></p>Using digital quantum simulators to study non-Hermitian physics requires realizing non-unitary time-evolution on unitary gate-based hardware. H
+
+============================================================
+[ROUNDUP] Fields and Abacus Medals 2026
+============================================================
+Fields and Abacus Medals 2026 — Quanta Magazine. Every four years, the math world’s preeminent awards are given to the finest minds of a generation. The young winners — all under 40 on the first day of the year — have reshaped mathematics and theoretical computer science. Here are their stories.
+
+            <p>The post <a href="https://www.quanta
+
+============================================================
+[ROUNDUP] A radical approach to making C-glycoside molecules
+============================================================
+A radical approach to making C-glycoside molecules — Nature News. <p>Nature, Published online: 22 July 2026; <a href="https://www.nature.com/articles/d41586-026-02237-6">doi:10.1038/d41586-026-02237-6</a></p>A platform for synthesizing highly desirable C-glycoside molecules from sugar has been developed that uses glycosyl sulfonyl hydrazides as readily accessible
+
+============================================================
+[ROUNDUP] Geomagnetic storms caused by solar wind might be more extreme than previously thought
+============================================================
+Geomagnetic storms caused by solar wind might be more extreme than previously thought — Nature News. <p>Nature, Published online: 22 July 2026; <a href="https://www.nature.com/articles/d41586-026-02245-6">doi:10.1038/d41586-026-02245-6</a></p>The severity of geomagnetic storms — magnetic disturbances in Earth’s outer atmosphere — is widely understood to reach an upper limit as the strength of the s
+
+============================================================
+[ROUNDUP] Insights into the mechanisms of NH<sub>3</sub> inhibition on Cu-CHA SCR catalysts
+============================================================
+Insights into the mechanisms of NH<sub>3</sub> inhibition on Cu-CHA SCR catalysts — Nature Communications. <p>Nature Communications, Published online: 28 July 2026; <a href="https://www.nature.com/articles/s41467-026-72879-7">doi:10.1038/s41467-026-72879-7</a></p>Selective catalytic reduction (SCR) of nitrogen oxides (NOₓ) using ammonia (NH₃) over small-pore Cu-zeolites is a key technology for mitigating
+
+============================================================
+[ROUNDUP] Background genetics and new mutations interact to direct cancer evolution
+============================================================
+Background genetics and new mutations interact to direct cancer evolution — Nature News. <p>Nature, Published online: 22 July 2026; <a href="https://www.nature.com/articles/d41586-026-02155-7">doi:10.1038/d41586-026-02155-7</a></p>Rerunning tumour evolution in mice shows how cancer develops after DNA damage and reveals that background genetics and acquired mutations interact to shape ge
+
+============================================================
+[ROUNDUP] Cell type-specific Ca<sup>2+</sup> signals govern mouse seminiferous tubule physiology
+============================================================
+Cell type-specific Ca<sup>2+</sup> signals govern mouse seminiferous tubule physiology — PLOS Biology. <p>by Justine A. Fischoeder, David Fleck, Jerome Schröer, Christopher Wiesbrock, Lina Kenzler, Christoph Weber-Hamacher, Ilian Schröder, Melissa Franke, Stefanie Kurth, Martin Strauch, Guiscard Seebohm, Dorit Merhof, Johannes Stegmaier, Naofumi Uesaka, Jennifer Spehr, Marc Spehr</p>
+
+Spermatogenesis
+
+============================================================
+[ROUNDUP] A desynchrony mechanism between events triggers a compensatory delay during <i>Caenorhabditis elegans</i> development
+============================================================
+A desynchrony mechanism between events triggers a compensatory delay during <i>Caenorhabditis elegans</i> development — PLOS Biology. <p>by Francisco Javier Romero-Expósito, Almudena Moreno-Rivero, Marta Muñoz-Barrera, Nicola Gritti, Francesca Sartor, Martha Merrow, Jeroen S. van Zon, Alejandro Mata-Cabana, María Olmedo</p>
+
+In multicellular organisms, development entails the progression of diverse cellular processes that need to
+
+============================================================
+[ROUNDUP] Exploring parental prenatal influences on child health: A multicohort study and data visualisation tool
+============================================================
+Exploring parental prenatal influences on child health: A multicohort study and data visualisation tool — PLOS Medicine. <p>by Gemma C. Sharp, Deborah A. Lawlor, Kayleigh E. Easey, Sampurna Kundu, Ahmed Elhakeem, Edward Hone, Rosemary R. C. McEachan, Maria C. Magnus, Alexandra Havdahl, Caroline L. Relton</p>
+Background <p>The Developmental Origins of Health and Disease (DOHaD) hypothesis suggests that early life envir
+
+============================================================
+[ROUNDUP] Optimising scale-up of injectable lenacapavir for HIV pre-exposure prophylaxis in South Africa: A modelling study and economic evaluation
+============================================================
+Optimising scale-up of injectable lenacapavir for HIV pre-exposure prophylaxis in South Africa: A modelling study and economic evaluation — PLOS Medicine. <p>by Lise Jamieson, Leigh F. Johnson, Jeffrey W. Imai-Eaton, Hasina Subedar, Linda-Gail Bekker, Gesine Meyer-Rath</p>
+Background <p>South Africa accounts for 20% of global HIV infections. Six-monthly injectable lenacapavir (LEN) for HIV pre-exposure prophylaxis (PrEP) has superior efficacy to oral
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
