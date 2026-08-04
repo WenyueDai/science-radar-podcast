@@ -1,0 +1,232 @@
+{
+  "date": "2026-08-04",
+  "mp3": "output/2026-08-04/podcast_2026-08-04.mp3",
+  "paper_count": 22,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Adherence to medications, lifestyle advice, and self-monitoring for type 2 diabetes and hypertension in sub-Saharan Africa: A systematic review, meta-analysis, and interactive network analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005189",
+      "score": 1.5,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Enhancing low contrast color images via pythagorean interval-valued fuzzy sets and CLAHE",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354362",
+      "score": 1.5,
+      "timestamp_sec": 60.864
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "How silicon-chip technology is being re-engineered for quantum computing",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02124-0",
+      "score": 1.135,
+      "timestamp_sec": 86.184
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Retraction: Research on anomaly detection and operational status evaluation methods for smart electricity meters based on hybrid deep learning",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355030",
+      "score": 1.015,
+      "timestamp_sec": 104.376
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "An end-to-end deep learning image compression method for satellite images based on entropy model",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355234",
+      "score": 1.0,
+      "timestamp_sec": 117.864
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "MLE-YOLOv11n: Multi-scale layer aggregation and context-aware feature fusion for insulator defect detection in aerial imagery",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0354898",
+      "score": 1.0,
+      "timestamp_sec": 141.408
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Gene dosage imbalance disrupts systemic metabolism in the Dp16 Down syndrome mouse model",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110476",
+      "score": 1.0,
+      "timestamp_sec": 169.248
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Repurposed small molecule toxin inhibitors neutralise a diversity of venoms from the Neotropical viperid snake genus <i>Bothrops</i>",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110419",
+      "score": 1.0,
+      "timestamp_sec": 195.21599999999998
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Decoupling AMPK from fatty acid synthesis allows maintenance of fitness late in life",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/111611",
+      "score": 1.0,
+      "timestamp_sec": 222.57599999999996
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "ATP-driven conformational dynamics reveal hidden intermediates in a heterodimeric ABC transporter",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110967",
+      "score": 1.0,
+      "timestamp_sec": 245.25599999999997
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Endogenous auditory and motor brain rhythms predict individual speech tracking",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003924",
+      "score": 1.0,
+      "timestamp_sec": 271.152
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "siRNA-guided DNA-methylation at a sucrose transporter gene potentially contributes to climatic plant adaptation",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003919",
+      "score": 1.0,
+      "timestamp_sec": 295.44
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Structural basis for substrate recognition and inhibition of human glucose-6-phosphate transporter SLC37A4",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003833",
+      "score": 1.0,
+      "timestamp_sec": 321.768
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Maternal congenital heart disease: Implications for the next generation",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005191",
+      "score": 0.873,
+      "timestamp_sec": 351.19199999999995
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Relatively few Black people benefited in the 1930s and 1940s from mortgages backed by the US government",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02246-5",
+      "score": 0.811,
+      "timestamp_sec": 375.6959999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Amazonian earthwork survey indicates ancient population was much larger than thought",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02321-x",
+      "score": 0.779,
+      "timestamp_sec": 399.9359999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Why the Legendary Erd\u0151s Problems Are Falling to AI",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "score": 0.768,
+      "timestamp_sec": 422.2799999999999
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "The first known cephalopod was only a millimetre long and lived about 520 million years ago",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02319-5",
+      "score": 0.742,
+      "timestamp_sec": 443.8559999999999
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don\u2019t Add Up.",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
+      "score": 0.735,
+      "timestamp_sec": 465.3599999999999
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "The subthalamic nucleus-ventral pallidum projection targeting cholinergic circuits modulates chronic pain",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003923",
+      "score": 0.5,
+      "timestamp_sec": 487.2959999999999
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "Trajectories of physical function, depressive symptoms, and cognitive performance before and after falls in older adults: A matched multicohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005083",
+      "score": 0.5,
+      "timestamp_sec": 515.1359999999999
+    },
+    {
+      "index": 23,
+      "type": "roundup",
+      "title": "Expanding the Developmental Origins of Health and Disease beyond maternal behaviors",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005208",
+      "score": 0.397,
+      "timestamp_sec": 543.8159999999998
+    },
+    {
+      "index": 24,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 569.0159999999998
+    }
+  ]
+}

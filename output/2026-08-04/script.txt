@@ -1,0 +1,147 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Adherence to medications, lifestyle advice, and self-monitoring for type 2 diabetes and hypertension in sub-Saharan Africa: A systematic review, meta-analysis, and interactive network analysis
+============================================================
+Adherence to medications, lifestyle advice, and self-monitoring for type 2 diabetes and hypertension in sub-Saharan Africa: A systematic review, meta-analysis, and interactive network analysis — PLOS Medicine. <p>by Angeliki Apostolou, Reuben Simfukwe, Adrias Saint, Bridget Mushani, Hannah Chekhchar, Pearl Aovare, Kouamivi M. Agboyibor, Karlijn A. C. Meeks, George F. Mkoma, Charles Agyemang, Felix P. Chilunga</p>
+Background <p>Type 2 diabetes and hypertension are major public health challenges in sub-Saha
+
+============================================================
+[ROUNDUP] Enhancing low contrast color images via pythagorean interval-valued fuzzy sets and CLAHE
+============================================================
+Enhancing low contrast color images via pythagorean interval-valued fuzzy sets and CLAHE — PLOS ONE. <p>by Uma Maheswari S, Jagatheswari S</p>
+
+This study presents a pythagorean fuzzy set-based framework combined with contrast-limited adaptive histogram equalization (CLAHE) for low-light color image enhancement. Low-light color images often suffer from poor contrast, reduced visibility, and brightn
+
+============================================================
+[ROUNDUP] How silicon-chip technology is being re-engineered for quantum computing
+============================================================
+How silicon-chip technology is being re-engineered for quantum computing — Nature News. <p>Nature, Published online: 29 July 2026; <a href="https://www.nature.com/articles/d41586-026-02124-0">doi:10.1038/d41586-026-02124-0</a></p>Two demonstrations of silicon-based quantum processors tackle the engineering challenges of building scalable quantum computers.
+
+============================================================
+[ROUNDUP] Retraction: Research on anomaly detection and operational status evaluation methods for smart electricity meters based on hybrid deep learning
+============================================================
+Retraction: Research on anomaly detection and operational status evaluation methods for smart electricity meters based on hybrid deep learning — PLOS ONE. <p>by The PLOS One Editors </p>
+
+============================================================
+[ROUNDUP] An end-to-end deep learning image compression method for satellite images based on entropy model
+============================================================
+An end-to-end deep learning image compression method for satellite images based on entropy model — PLOS ONE. <p>by Yanlong Gao, Haiming Xu, Wei Huang, Hao Bai, Boer Peng, Heyang Xu</p>
+
+With the extensive applications of satellite image data in environmental monitoring and geographic surveying and mapping, the amount of data has increased rapidly, which brings great challenges for transmitting and storing
+
+============================================================
+[ROUNDUP] MLE-YOLOv11n: Multi-scale layer aggregation and context-aware feature fusion for insulator defect detection in aerial imagery
+============================================================
+MLE-YOLOv11n: Multi-scale layer aggregation and context-aware feature fusion for insulator defect detection in aerial imagery — PLOS ONE. <p>by Yuan Wang, Hanzhi Cui, Jinxian Li, Zongxiu Duan, Qiqi Wei</p>
+
+Power transmission insulators develop defects from sustained high-voltage stress, thermal cycling, and environmental contamination, with undetected degradation progressively leading to self-explosion, flashover, and mechanical fail
+
+============================================================
+[ROUNDUP] Gene dosage imbalance disrupts systemic metabolism in the Dp16 Down syndrome mouse model
+============================================================
+Gene dosage imbalance disrupts systemic metabolism in the Dp16 Down syndrome mouse model — eLife. Gene dosage imbalance resulting from an extra copy of human chromosome 21 (Hsa21) contributes to numerous clinical features in Down syndrome (DS). While dysregulated metabolism has long been noted in DS, the underlying cause is poorly understood and vastly understudied. To fill this critical knowled
+
+============================================================
+[ROUNDUP] Repurposed small molecule toxin inhibitors neutralise a diversity of venoms from the Neotropical viperid snake genus <i>Bothrops</i>
+============================================================
+Repurposed small molecule toxin inhibitors neutralise a diversity of venoms from the Neotropical viperid snake genus <i>Bothrops</i> — eLife. Snakebite globally claims more than 100,000 lives per year and results in morbidity for 400,000 survivors. Current treatment uses antibody-based antivenoms which are constrained by their efficacy, safety, and cost. In this study we evaluated the efficacy of previously described repurposed drugs agai
+
+============================================================
+[ROUNDUP] Decoupling AMPK from fatty acid synthesis allows maintenance of fitness late in life
+============================================================
+Decoupling AMPK from fatty acid synthesis allows maintenance of fitness late in life — eLife. Although lifespan has long been the focus of ageing research, preventing functional decline late in life is a more pressing societal need. Here, we investigate the basis of senescence and declining fitness during replicative ageing in budding yeast, and describe a metabolic perturbation that preserv
+
+============================================================
+[ROUNDUP] ATP-driven conformational dynamics reveal hidden intermediates in a heterodimeric ABC transporter
+============================================================
+ATP-driven conformational dynamics reveal hidden intermediates in a heterodimeric ABC transporter — eLife. ATP-binding cassette (ABC) transporters are essential molecular machines whose conformational dynamics have largely been inferred from ensemble-averaged measurements. Resolving dynamic heterogeneity and transient intermediates, however, requires single-molecule approaches. Here, we use single-molecu
+
+============================================================
+[ROUNDUP] Endogenous auditory and motor brain rhythms predict individual speech tracking
+============================================================
+Endogenous auditory and motor brain rhythms predict individual speech tracking — PLOS Biology. <p>by Christina Lubinus, Anne Keitel, Jonas Obleser, David Poeppel, Johanna M. Rimmele</p>
+
+Slow, endogenous brain rhythms in the auditory cortex are hypothesized to track acoustic amplitude modulations during speech comprehension. Temporal predictions from the motor system are thought to enhance th
+
+============================================================
+[ROUNDUP] siRNA-guided DNA-methylation at a sucrose transporter gene potentially contributes to climatic plant adaptation
+============================================================
+siRNA-guided DNA-methylation at a sucrose transporter gene potentially contributes to climatic plant adaptation — PLOS Biology. <p>by Jianqiu Li, Min Song, Qiyu Xu, Yunjia Tang, Johannes Liesche</p>
+
+Climatic adaptation of plants involves the adjustment of carbon transport to achieve an optimal balance between carbon assimilation and carbon utilization. This study describes a potential molecular mechanism of this adjustment
+
+============================================================
+[ROUNDUP] Structural basis for substrate recognition and inhibition of human glucose-6-phosphate transporter SLC37A4
+============================================================
+Structural basis for substrate recognition and inhibition of human glucose-6-phosphate transporter SLC37A4 — PLOS Biology. <p>by Hui Li, Xiaomin Peng, Yuwen Huang, Wencheng Wu, Nan Li, Ziqi Cheng, Xuepeng Wei</p>
+
+Glucose 6 phosphate (G6P) homeostasis is essential for maintaining blood glucose levels and coordinating anabolic and catabolic pathways. A key step in this process is the delivery of G6P into the endoplasmic
+
+============================================================
+[ROUNDUP] Maternal congenital heart disease: Implications for the next generation
+============================================================
+Maternal congenital heart disease: Implications for the next generation — PLOS Medicine. <p>by Elisabeth Leirgul, Gottfried Greve</p>
+
+Advances in medical and surgical treatment of congenital heart disease (CHD) now allows most affected individuals to reach adulthood and parenthood. While maternal CHD is associated with pregnancy complications, emerging evidence suggests a possible incr
+
+============================================================
+[ROUNDUP] Relatively few Black people benefited in the 1930s and 1940s from mortgages backed by the US government
+============================================================
+Relatively few Black people benefited in the 1930s and 1940s from mortgages backed by the US government — Nature News. <p>Nature, Published online: 29 July 2026; <a href="https://www.nature.com/articles/d41586-026-02246-5">doi:10.1038/d41586-026-02246-5</a></p>Newly digitized mortgage records from 38 US states reveal the profound racial inequality of two mortgage programmes during the 1930s and 1940s. These loans, s
+
+============================================================
+[ROUNDUP] Amazonian earthwork survey indicates ancient population was much larger than thought
+============================================================
+Amazonian earthwork survey indicates ancient population was much larger than thought — Nature News. <p>Nature, Published online: 29 July 2026; <a href="https://www.nature.com/articles/d41586-026-02321-x">doi:10.1038/d41586-026-02321-x</a></p>Aerial laser-scanning data reveal that, from ad 100 to ad 300, an area spanning less than 3% of the Greater Amazonia region probably supported between 1.25 mi
+
+============================================================
+[ROUNDUP] Why the Legendary Erdős Problems Are Falling to AI
+============================================================
+Why the Legendary Erdős Problems Are Falling to AI — Quanta Magazine. AI’s greatest mathematical successes have come from answers to problems posed by a mid-20th century iconoclast. By examining what makes the Erdős problems unique, mathematicians are trying to understand how AI might change the rest of math.            <p>The post <a href="https://www.quantamagazine.
+
+============================================================
+[ROUNDUP] The first known cephalopod was only a millimetre long and lived about 520 million years ago
+============================================================
+The first known cephalopod was only a millimetre long and lived about 520 million years ago — Nature News. <p>Nature, Published online: 29 July 2026; <a href="https://www.nature.com/articles/d41586-026-02319-5">doi:10.1038/d41586-026-02319-5</a></p>The locomotion of modern cephalopods, such as squid and cuttlefish, relies on buoyancy control achieved mainly by a specialized structure called a siphuncle.
+
+============================================================
+[ROUNDUP] Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up.
+============================================================
+Physicists Solve a Big Quantum Mystery. Now, Old Results Don’t Add Up. — Quanta Magazine. New calculations seem to have put a 25-year-old particle physics puzzle to rest. But they’ve also created a clash with other experimental results.            <p>The post <a href="https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/" target="_blank">Phy
+
+============================================================
+[ROUNDUP] The subthalamic nucleus-ventral pallidum projection targeting cholinergic circuits modulates chronic pain
+============================================================
+The subthalamic nucleus-ventral pallidum projection targeting cholinergic circuits modulates chronic pain — PLOS Biology. <p>by Ya-Wei Ji, Xiang-Ying Xu, Qiang-Qiang Zhou, Yin-Nan Cao, Xing-Jie Zhao, Kai-Ran Zhang, Yu Han, Su Liu, Yong Niu, Chun Yang, Chunyi Zhou, Cheng Xiao</p>
+
+The cholinergic system shows promise for pain management. Although cholinergic neurons in the ventral pallidum (VP) are involved in neuropath
+
+============================================================
+[ROUNDUP] Trajectories of physical function, depressive symptoms, and cognitive performance before and after falls in older adults: A matched multicohort study
+============================================================
+Trajectories of physical function, depressive symptoms, and cognitive performance before and after falls in older adults: A matched multicohort study — PLOS Medicine. <p>by Junjie Lin, Mika Kivimäki, Zifan Zhang, Hui Wang, Yangyang Cheng, Xiaolin Xu</p>
+Background <p>Impairments in physical, psychological, and cognitive functioning are associated with an increased risk of falls. However, how these functional domains change longitudinally before and after fall eve
+
+============================================================
+[ROUNDUP] Expanding the Developmental Origins of Health and Disease beyond maternal behaviors
+============================================================
+Expanding the Developmental Origins of Health and Disease beyond maternal behaviors — PLOS Medicine. <p>by Alice Rhiannon Lee, Daniel B. Hawcutt, Jennifer K. Quint, Ian P. Sinha</p>
+
+Developmental Origins of Health and Disease (DOHaD) research has long emphasized maternal pregnancy behaviors as key determinants of child health. New evidence recently published in PLOS Medicine suggests the greatest
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
