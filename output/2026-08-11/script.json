@@ -1,0 +1,209 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Translational reading frame predicts the pathogenicity of C-terminal frameshift deletions in MeCP2",
+    "text": "Translational reading frame predicts the pathogenicity of C-terminal frameshift deletions in MeCP2 \u2014 eLife. Mutations in the <i>MECP2</i> gene cause the severe neurological disorder Rett syndrome. A cluster of frameshift-causing C-terminal deletions (CTDs) removes ~100 amino acids and accounts for approximately 10% of RTT-causing mutations. Their pathogenicity is unexpected because this C-terminal domain",
+    "paper_id": "https://elifesciences.org/articles/109170",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/109170"
+  },
+  {
+    "type": "roundup",
+    "title": "Cascaded YOLO-based approach for Bangladeshi license plate identification and number recognition",
+    "text": "Cascaded YOLO-based approach for Bangladeshi license plate identification and number recognition \u2014 PLOS ONE. <p>by Proshenjit Sarker, S. M. Shamsul Alam</p>\n\nAutomatic vehicle license plate detection and recognition has become an important component in intelligent transportation systems, traffic monitoring, and law enforcement applications. However, existing approaches for Bangladeshi license plates often",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355858",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355858"
+  },
+  {
+    "type": "roundup",
+    "title": "FedMamba-IoMT: Federated state space models with differential privacy and byzantine resilience for privacy-preserving intrusion detection in Internet of Medical Things",
+    "text": "FedMamba-IoMT: Federated state space models with differential privacy and byzantine resilience for privacy-preserving intrusion detection in Internet of Medical Things \u2014 PLOS ONE. <p>by Yasser Mohammad Al-Sharo, Mohammed Tawfik, Ali Mansour Almadani, Amr H. Abdelhaliem, Islam S. Fathi, Gaber Hassan</p>\n\nThe proliferation of Internet of Medical Things (IoMT) devices has created critical cybersecurity challenges demanding intrusion detection systems that achieve high accuracy a",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355601",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355601"
+  },
+  {
+    "type": "roundup",
+    "title": "An updated view of glucose pathways in cyanobacteria",
+    "text": "An updated view of glucose pathways in cyanobacteria \u2014 eLife. Contrary to previous belief, the cyanobacterium <i>Synechocystis</i> lacks the Entner-Doudoroff pathway for glucose metabolism.",
+    "paper_id": "https://elifesciences.org/articles/112405",
+    "journal": "eLife",
+    "score": 1.063,
+    "url": "https://elifesciences.org/articles/112405"
+  },
+  {
+    "type": "roundup",
+    "title": "Why are the implementation of and access to child developmental assessment within routine healthcare so difficult in Ethiopia? A descriptive qualitative study",
+    "text": "Why are the implementation of and access to child developmental assessment within routine healthcare so difficult in Ethiopia? A descriptive qualitative study \u2014 PLOS ONE. <p>by Selamawit Gebeyehu, Monique Mommers, Sultan Hussen, Mark Spigt</p>\nIntroduction <p>Developmental delays in early childhood present significant long\u2013term challenges, making early developmental assessment crucial for effective intervention. Despite this, such assessments are not routinely implem",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355686",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355686"
+  },
+  {
+    "type": "roundup",
+    "title": "Structured approaches to improving outcomes of oral exam in medical and paramedical education: A systematic review and evidence-based framework",
+    "text": "Structured approaches to improving outcomes of oral exam in medical and paramedical education: A systematic review and evidence-based framework \u2014 PLOS ONE. <p>by Amir Torab-Miandoab, Mansour Ghafourifard, Sogand Habibi-Chenaran, Saeideh Ghaffarifar</p>\nIntroduction <p>Oral examinations are central to medical and paramedical education for assessing reasoning, communication, and professional competencies, but remain challenged by issues of reliability, b",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355461",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355461"
+  },
+  {
+    "type": "roundup",
+    "title": "A unifying model of T-cell signaling protein condensates in reconstitution experiments",
+    "text": "A unifying model of T-cell signaling protein condensates in reconstitution experiments \u2014 eLife. The formation of condensates by the Linker for the Activation of T-cells (LAT) is a key signal gating and amplification step in the T-cell receptor signaling pathway. LAT condensation is challenging to study in-vivo and is therefore often investigated using reconstitution experiments. While these ex",
+    "paper_id": "https://elifesciences.org/articles/109567",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/109567"
+  },
+  {
+    "type": "roundup",
+    "title": "Functional specialization of mPFC-BLA and mPFC-NAc pathways in affective state representation",
+    "text": "Functional specialization of mPFC-BLA and mPFC-NAc pathways in affective state representation \u2014 eLife. Effective emotional processing, crucial for adaptive behavior, is mediated by the medial prefrontal cortex (mPFC) via connections to the basolateral amygdala (BLA), and nucleus accumbens (NAc), traditionally considered functionally similar in modulating reward and aversion responses. However, the fu",
+    "paper_id": "https://elifesciences.org/articles/105528",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/105528"
+  },
+  {
+    "type": "roundup",
+    "title": "Lateralised neural mechanisms facilitate auditory self-other distinction and coordination in human dyads",
+    "text": "Lateralised neural mechanisms facilitate auditory self-other distinction and coordination in human dyads \u2014 PLOS Biology. <p>by Manuel Varlet, Tomas Lenc, Sylvie Nozaradan, David Poeppel, Peter E. Keller</p>\n\nCoordinating actions with others is essential for successful social interaction. Such coordination, as in sports and musical performances, often relies on sound, requiring the brain to process and integrate acoust",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003935",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003935"
+  },
+  {
+    "type": "roundup",
+    "title": "Asymmetric chromatin accessibility underlies anterior-posterior axis specification in moth fly embryos",
+    "text": "Asymmetric chromatin accessibility underlies anterior-posterior axis specification in moth fly embryos \u2014 PLOS Biology. <p>by Ezra E. Amiri, Muzi Li, Ayse Tenger-Trolander, Maxwell Devine, Alexander T. Julian, Koray Kasan, Sheri A. Sanders, Shelby A. Blythe, Urs Schmidt-Ott</p>\n\nEstablishing the anterior-posterior (AP) body axis is a fundamental process during embryogenesis, and the fruit fly, <i>Drosophila melanogas",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003896",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003896"
+  },
+  {
+    "type": "roundup",
+    "title": "Meal timing entrains circadian rhythms in the dorsal vagal complex, a brainstem satiety centre",
+    "text": "Meal timing entrains circadian rhythms in the dorsal vagal complex, a brainstem satiety centre \u2014 PLOS Biology. <p>by Lukasz Chrobok, Charlotte Muir, Tanya Chonkria Kaur, Emily Birt, Iliana Veneri, Jingyi Kathy Li, Timna Hitrec, Michael Ambler, Anthony Edward Pickering, Hugh David Piggins</p>\n\nThe dorsal vagal complex (DVC) includes a multi-component brainstem satiety centre which has gained attention as a ke",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003936",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003936"
+  },
+  {
+    "type": "roundup",
+    "title": "Time trends in stroke incidence and modifiable risk factor prevalence in England (2018\u20132024): A record linkage population-based study",
+    "text": "Time trends in stroke incidence and modifiable risk factor prevalence in England (2018\u20132024): A record linkage population-based study \u2014 PLOS Medicine. <p>by Joseph Kamtchum-Tatuene, James Farrell, John Nolan, Sarah Lessels, William N. Whiteley, Linxin Li, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium </p>\nBackground <p>The incidence of stroke at younger ages appears to be increasing, whilst it is falling at older ages. We aimed to determin",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004999",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004999"
+  },
+  {
+    "type": "roundup",
+    "title": "Cost-effectiveness of pirfenidone for patients with cancer and grade 2 or grade 3 radiation-induced lung injury: A modeling study",
+    "text": "Cost-effectiveness of pirfenidone for patients with cancer and grade 2 or grade 3 radiation-induced lung injury: A modeling study \u2014 PLOS Medicine. <p>by Qiu-Yi Pan, Ya-Xue Wang, Xue-Ying Tang, Zan Hou, Bai-Qiang Dong, Qi-Wen Li, Bao-Qing Chen, Shou-Min Bai, Chen-Fei Wu, Ming Chen</p>\nBackground <p>The cost-effective treatment strategy for radiation-induced lung injury (RILI) remains unclear. Our recent phase II randomized clinical trial has pr",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004817",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004817"
+  },
+  {
+    "type": "roundup",
+    "title": "Surgical palliative care: A multidisciplinary perspective on where we stand and how we need to evolve",
+    "text": "Surgical palliative care: A multidisciplinary perspective on where we stand and how we need to evolve \u2014 PLOS Medicine. <p>by Samuel M. Miller, Paige DeGoursey, Kevin G. Billingsley</p>\n\nSurgical palliative care (SPC) integrates the principles of symptom-based care and relief of suffering into traditional surgical practice. From the perspectives of a bedside nurse, surgical critical care fellow, and surgical oncologi",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005188",
+    "journal": "PLOS Medicine",
+    "score": 0.888,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005188"
+  },
+  {
+    "type": "roundup",
+    "title": "Heart rate control by listening to light",
+    "text": "Heart rate control by listening to light \u2014 Nature Communications. <p>Nature Communications, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76695-x\">doi:10.1038/s41467-026-76695-x</a></p>The auditory-cardiac interplay allows sound to influence cardiac rhythm, but precise control is limited by acoustic wave propagation. Here, t",
+    "paper_id": "https://www.nature.com/articles/s41467-026-76695-x",
+    "journal": "Nature Communications",
+    "score": 0.766,
+    "url": "https://www.nature.com/articles/s41467-026-76695-x"
+  },
+  {
+    "type": "roundup",
+    "title": "Uncovering the mechanism of female restitution in sugarcane hybrids",
+    "text": "Uncovering the mechanism of female restitution in sugarcane hybrids \u2014 Nature News. <p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10863-3\">doi:10.1038/s41586-026-10863-3</a></p>Female restitution in interspecific sugarcane hybrids between Saccharum officinarum and Saccharum spontaneum arises from second division restitution, as hap",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10863-3",
+    "journal": "Nature News",
+    "score": 0.762,
+    "url": "https://www.nature.com/articles/s41586-026-10863-3"
+  },
+  {
+    "type": "roundup",
+    "title": "Switching off the <i>FNIP1</i> gene protects against metabolic disease",
+    "text": "Switching off the <i>FNIP1</i> gene protects against metabolic disease \u2014 Nature News. <p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02391-x\">doi:10.1038/d41586-026-02391-x</a></p>A study of more than one million people shows that rare genetic variants that disrupt the FNIP1 gene are associated with a favourable metabolic profile and",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02391-x",
+    "journal": "Nature News",
+    "score": 0.762,
+    "url": "https://www.nature.com/articles/d41586-026-02391-x"
+  },
+  {
+    "type": "roundup",
+    "title": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle",
+    "text": "Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle \u2014 Quanta Magazine. A global constellation of neutrino detectors is creating a never-before-seen view of the radioactive elements that power Earth\u2019s tectonic heat engine.            <p>The post <a href=\"https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/\" target",
+    "paper_id": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+    "journal": "Quanta Magazine",
+    "score": 0.74,
+    "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/"
+  },
+  {
+    "type": "roundup",
+    "title": "How Does Touch Lead To Pain Or Pleasure?",
+    "text": "How Does Touch Lead To Pain Or Pleasure? \u2014 Quanta Magazine. Neuroscientist Ishmail Abdus-Saboor discusses efforts to understand how skin contact can be painful or pleasurable, and what touch-obsessed naked mole rats might teach us about human social behavior.            <p>The post <a href=\"https://www.quantamagazine.org/how-does-touch-lead-to-pain-or-pleasu",
+    "paper_id": "https://www.quantamagazine.org/how-does-touch-lead-to-pain-or-pleasure-20260806/",
+    "journal": "Quanta Magazine",
+    "score": 0.736,
+    "url": "https://www.quantamagazine.org/how-does-touch-lead-to-pain-or-pleasure-20260806/"
+  },
+  {
+    "type": "roundup",
+    "title": "Neural encoding of pain is robust within but unstable between individuals",
+    "text": "Neural encoding of pain is robust within but unstable between individuals \u2014 PLOS Biology. <p>by Laura Tiemann, Felix S. Bott, Elisabeth S. May, Moritz M. Nickel, Vanessa D. Hohn, Cristina Gil \u00c1vila, Nicol\u00f2 Bruna, Paul Theo Zebhauser, Markus Ploner</p>\n\nThe perception of pain varies both within and between individuals, even when sensory input remains constant. Understanding how the brain",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003948",
+    "journal": "PLOS Biology",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003948"
+  },
+  {
+    "type": "roundup",
+    "title": "Risk stratification for significant acute traumatic intracranial hemorrhage in older adults after a ground-level fall: A prospective multicentre cohort study",
+    "text": "Risk stratification for significant acute traumatic intracranial hemorrhage in older adults after a ground-level fall: A prospective multicentre cohort study \u2014 PLOS Medicine. <p>by Xavier Dubucs, Cassandre Even, Jemery Guenezan, Margaux Lagache, Barbara Villoing, Lorraine Pouzet, Mari\u00e1n Sedl\u00e1k, Radoslav Morochovi\u010d, Yann-\u00c9rick Claessens, Fr\u00e9d\u00e9ric Balen, Val\u00e9rie Boucher, Sandrine Charpentier, \u00c9ric Mercier, Marcel \u00c9mond</p>\nBackground <p>Falls among older adults are now the",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004935",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004935"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

@@ -1,0 +1,141 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Translational reading frame predicts the pathogenicity of C-terminal frameshift deletions in MeCP2
+============================================================
+Translational reading frame predicts the pathogenicity of C-terminal frameshift deletions in MeCP2 — eLife. Mutations in the <i>MECP2</i> gene cause the severe neurological disorder Rett syndrome. A cluster of frameshift-causing C-terminal deletions (CTDs) removes ~100 amino acids and accounts for approximately 10% of RTT-causing mutations. Their pathogenicity is unexpected because this C-terminal domain
+
+============================================================
+[ROUNDUP] Cascaded YOLO-based approach for Bangladeshi license plate identification and number recognition
+============================================================
+Cascaded YOLO-based approach for Bangladeshi license plate identification and number recognition — PLOS ONE. <p>by Proshenjit Sarker, S. M. Shamsul Alam</p>
+
+Automatic vehicle license plate detection and recognition has become an important component in intelligent transportation systems, traffic monitoring, and law enforcement applications. However, existing approaches for Bangladeshi license plates often
+
+============================================================
+[ROUNDUP] FedMamba-IoMT: Federated state space models with differential privacy and byzantine resilience for privacy-preserving intrusion detection in Internet of Medical Things
+============================================================
+FedMamba-IoMT: Federated state space models with differential privacy and byzantine resilience for privacy-preserving intrusion detection in Internet of Medical Things — PLOS ONE. <p>by Yasser Mohammad Al-Sharo, Mohammed Tawfik, Ali Mansour Almadani, Amr H. Abdelhaliem, Islam S. Fathi, Gaber Hassan</p>
+
+The proliferation of Internet of Medical Things (IoMT) devices has created critical cybersecurity challenges demanding intrusion detection systems that achieve high accuracy a
+
+============================================================
+[ROUNDUP] An updated view of glucose pathways in cyanobacteria
+============================================================
+An updated view of glucose pathways in cyanobacteria — eLife. Contrary to previous belief, the cyanobacterium <i>Synechocystis</i> lacks the Entner-Doudoroff pathway for glucose metabolism.
+
+============================================================
+[ROUNDUP] Why are the implementation of and access to child developmental assessment within routine healthcare so difficult in Ethiopia? A descriptive qualitative study
+============================================================
+Why are the implementation of and access to child developmental assessment within routine healthcare so difficult in Ethiopia? A descriptive qualitative study — PLOS ONE. <p>by Selamawit Gebeyehu, Monique Mommers, Sultan Hussen, Mark Spigt</p>
+Introduction <p>Developmental delays in early childhood present significant long–term challenges, making early developmental assessment crucial for effective intervention. Despite this, such assessments are not routinely implem
+
+============================================================
+[ROUNDUP] Structured approaches to improving outcomes of oral exam in medical and paramedical education: A systematic review and evidence-based framework
+============================================================
+Structured approaches to improving outcomes of oral exam in medical and paramedical education: A systematic review and evidence-based framework — PLOS ONE. <p>by Amir Torab-Miandoab, Mansour Ghafourifard, Sogand Habibi-Chenaran, Saeideh Ghaffarifar</p>
+Introduction <p>Oral examinations are central to medical and paramedical education for assessing reasoning, communication, and professional competencies, but remain challenged by issues of reliability, b
+
+============================================================
+[ROUNDUP] A unifying model of T-cell signaling protein condensates in reconstitution experiments
+============================================================
+A unifying model of T-cell signaling protein condensates in reconstitution experiments — eLife. The formation of condensates by the Linker for the Activation of T-cells (LAT) is a key signal gating and amplification step in the T-cell receptor signaling pathway. LAT condensation is challenging to study in-vivo and is therefore often investigated using reconstitution experiments. While these ex
+
+============================================================
+[ROUNDUP] Functional specialization of mPFC-BLA and mPFC-NAc pathways in affective state representation
+============================================================
+Functional specialization of mPFC-BLA and mPFC-NAc pathways in affective state representation — eLife. Effective emotional processing, crucial for adaptive behavior, is mediated by the medial prefrontal cortex (mPFC) via connections to the basolateral amygdala (BLA), and nucleus accumbens (NAc), traditionally considered functionally similar in modulating reward and aversion responses. However, the fu
+
+============================================================
+[ROUNDUP] Lateralised neural mechanisms facilitate auditory self-other distinction and coordination in human dyads
+============================================================
+Lateralised neural mechanisms facilitate auditory self-other distinction and coordination in human dyads — PLOS Biology. <p>by Manuel Varlet, Tomas Lenc, Sylvie Nozaradan, David Poeppel, Peter E. Keller</p>
+
+Coordinating actions with others is essential for successful social interaction. Such coordination, as in sports and musical performances, often relies on sound, requiring the brain to process and integrate acoust
+
+============================================================
+[ROUNDUP] Asymmetric chromatin accessibility underlies anterior-posterior axis specification in moth fly embryos
+============================================================
+Asymmetric chromatin accessibility underlies anterior-posterior axis specification in moth fly embryos — PLOS Biology. <p>by Ezra E. Amiri, Muzi Li, Ayse Tenger-Trolander, Maxwell Devine, Alexander T. Julian, Koray Kasan, Sheri A. Sanders, Shelby A. Blythe, Urs Schmidt-Ott</p>
+
+Establishing the anterior-posterior (AP) body axis is a fundamental process during embryogenesis, and the fruit fly, <i>Drosophila melanogas
+
+============================================================
+[ROUNDUP] Meal timing entrains circadian rhythms in the dorsal vagal complex, a brainstem satiety centre
+============================================================
+Meal timing entrains circadian rhythms in the dorsal vagal complex, a brainstem satiety centre — PLOS Biology. <p>by Lukasz Chrobok, Charlotte Muir, Tanya Chonkria Kaur, Emily Birt, Iliana Veneri, Jingyi Kathy Li, Timna Hitrec, Michael Ambler, Anthony Edward Pickering, Hugh David Piggins</p>
+
+The dorsal vagal complex (DVC) includes a multi-component brainstem satiety centre which has gained attention as a ke
+
+============================================================
+[ROUNDUP] Time trends in stroke incidence and modifiable risk factor prevalence in England (2018–2024): A record linkage population-based study
+============================================================
+Time trends in stroke incidence and modifiable risk factor prevalence in England (2018–2024): A record linkage population-based study — PLOS Medicine. <p>by Joseph Kamtchum-Tatuene, James Farrell, John Nolan, Sarah Lessels, William N. Whiteley, Linxin Li, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium </p>
+Background <p>The incidence of stroke at younger ages appears to be increasing, whilst it is falling at older ages. We aimed to determin
+
+============================================================
+[ROUNDUP] Cost-effectiveness of pirfenidone for patients with cancer and grade 2 or grade 3 radiation-induced lung injury: A modeling study
+============================================================
+Cost-effectiveness of pirfenidone for patients with cancer and grade 2 or grade 3 radiation-induced lung injury: A modeling study — PLOS Medicine. <p>by Qiu-Yi Pan, Ya-Xue Wang, Xue-Ying Tang, Zan Hou, Bai-Qiang Dong, Qi-Wen Li, Bao-Qing Chen, Shou-Min Bai, Chen-Fei Wu, Ming Chen</p>
+Background <p>The cost-effective treatment strategy for radiation-induced lung injury (RILI) remains unclear. Our recent phase II randomized clinical trial has pr
+
+============================================================
+[ROUNDUP] Surgical palliative care: A multidisciplinary perspective on where we stand and how we need to evolve
+============================================================
+Surgical palliative care: A multidisciplinary perspective on where we stand and how we need to evolve — PLOS Medicine. <p>by Samuel M. Miller, Paige DeGoursey, Kevin G. Billingsley</p>
+
+Surgical palliative care (SPC) integrates the principles of symptom-based care and relief of suffering into traditional surgical practice. From the perspectives of a bedside nurse, surgical critical care fellow, and surgical oncologi
+
+============================================================
+[ROUNDUP] Heart rate control by listening to light
+============================================================
+Heart rate control by listening to light — Nature Communications. <p>Nature Communications, Published online: 11 August 2026; <a href="https://www.nature.com/articles/s41467-026-76695-x">doi:10.1038/s41467-026-76695-x</a></p>The auditory-cardiac interplay allows sound to influence cardiac rhythm, but precise control is limited by acoustic wave propagation. Here, t
+
+============================================================
+[ROUNDUP] Uncovering the mechanism of female restitution in sugarcane hybrids
+============================================================
+Uncovering the mechanism of female restitution in sugarcane hybrids — Nature News. <p>Nature, Published online: 05 August 2026; <a href="https://www.nature.com/articles/s41586-026-10863-3">doi:10.1038/s41586-026-10863-3</a></p>Female restitution in interspecific sugarcane hybrids between Saccharum officinarum and Saccharum spontaneum arises from second division restitution, as hap
+
+============================================================
+[ROUNDUP] Switching off the <i>FNIP1</i> gene protects against metabolic disease
+============================================================
+Switching off the <i>FNIP1</i> gene protects against metabolic disease — Nature News. <p>Nature, Published online: 05 August 2026; <a href="https://www.nature.com/articles/d41586-026-02391-x">doi:10.1038/d41586-026-02391-x</a></p>A study of more than one million people shows that rare genetic variants that disrupt the FNIP1 gene are associated with a favourable metabolic profile and
+
+============================================================
+[ROUNDUP] Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle
+============================================================
+Neutrinos From Deep Inside Earth Provide a New Picture of the Mantle — Quanta Magazine. A global constellation of neutrino detectors is creating a never-before-seen view of the radioactive elements that power Earth’s tectonic heat engine.            <p>The post <a href="https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/" target
+
+============================================================
+[ROUNDUP] How Does Touch Lead To Pain Or Pleasure?
+============================================================
+How Does Touch Lead To Pain Or Pleasure? — Quanta Magazine. Neuroscientist Ishmail Abdus-Saboor discusses efforts to understand how skin contact can be painful or pleasurable, and what touch-obsessed naked mole rats might teach us about human social behavior.            <p>The post <a href="https://www.quantamagazine.org/how-does-touch-lead-to-pain-or-pleasu
+
+============================================================
+[ROUNDUP] Neural encoding of pain is robust within but unstable between individuals
+============================================================
+Neural encoding of pain is robust within but unstable between individuals — PLOS Biology. <p>by Laura Tiemann, Felix S. Bott, Elisabeth S. May, Moritz M. Nickel, Vanessa D. Hohn, Cristina Gil Ávila, Nicolò Bruna, Paul Theo Zebhauser, Markus Ploner</p>
+
+The perception of pain varies both within and between individuals, even when sensory input remains constant. Understanding how the brain
+
+============================================================
+[ROUNDUP] Risk stratification for significant acute traumatic intracranial hemorrhage in older adults after a ground-level fall: A prospective multicentre cohort study
+============================================================
+Risk stratification for significant acute traumatic intracranial hemorrhage in older adults after a ground-level fall: A prospective multicentre cohort study — PLOS Medicine. <p>by Xavier Dubucs, Cassandre Even, Jemery Guenezan, Margaux Lagache, Barbara Villoing, Lorraine Pouzet, Marián Sedlák, Radoslav Morochovič, Yann-Érick Claessens, Frédéric Balen, Valérie Boucher, Sandrine Charpentier, Éric Mercier, Marcel Émond</p>
+Background <p>Falls among older adults are now the
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
