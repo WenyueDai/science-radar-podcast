@@ -1,0 +1,277 @@
+{
+  "date": "2026-08-18",
+  "mp3": "output/2026-08-18/podcast_2026-08-18.mp3",
+  "paper_count": 27,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Nucleation-dependent propagation of Polycomb modifications emerges during the <i>Drosophila</i> maternal to zygotic transition",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108371",
+      "score": 2.0,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Retrofitting fiscal policies to reduce the double burden of malnutrition in Peru: A system dynamics modelling study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005167",
+      "score": 1.5,
+      "timestamp_sec": 55.51199999999999
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Macroscopic aspergillus recognition using YOLO-CSM",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356242",
+      "score": 1.0,
+      "timestamp_sec": 83.928
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "A public generalizable AI tool for automated segmentation of coronal brain tissue slabs for 3D neuropathology",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355740",
+      "score": 1.0,
+      "timestamp_sec": 108.36
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "A behavioral architecture for realistic simulations of <i>Drosophila</i> larva locomotion and foraging",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/104262",
+      "score": 1.0,
+      "timestamp_sec": 136.84799999999998
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Probing relaxed myosin states in hypertrophic cardiomyopathy by second harmonic-generation microscopy",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/107730",
+      "score": 1.0,
+      "timestamp_sec": 160.58399999999997
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Sibling chimerism among microglia in marmosets",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/93640",
+      "score": 1.0,
+      "timestamp_sec": 186.86399999999998
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Stress granules formed during infections with RNA viruses have significant virus-specific differences in generation and composition",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003363",
+      "score": 1.0,
+      "timestamp_sec": 209.47199999999998
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Effectiveness of a scalable, remotely delivered stepped-care intervention for psychological distress among Polish migrant workers in the Netherlands: The RESPOND randomised controlled trial",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005197",
+      "score": 1.0,
+      "timestamp_sec": 237.09599999999998
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Socioeconomic inequalities in functional ageing trajectories in England and Canada: A comparative longitudinal cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004833",
+      "score": 1.0,
+      "timestamp_sec": 271.056
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Short-term risk of falls among initiators of controlled-release tapentadol versus oxycodone in New South Wales between 2014 and 2020: A population-based retrospective cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004950",
+      "score": 1.0,
+      "timestamp_sec": 297.768
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Exploring fashion designers\u2019 acceptance of AIGC: A dual-pathway analysis from the stimulus\u2013organism\u2013response perspective",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356536",
+      "score": 1.0,
+      "timestamp_sec": 330.57599999999996
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Serum periostin levels in myocardial infarction: Findings from forensic autopsy cases",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356533",
+      "score": 1.0,
+      "timestamp_sec": 357.768
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Thermal-feedback modality switchable hydrogel with thermoelectric self-modulation for stage-adaptive repair of infected diabetic wound",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-76553-w",
+      "score": 0.877,
+      "timestamp_sec": 383.85599999999994
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Towards a research renaissance: Empowering early career researchers through mentored AI use",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003917",
+      "score": 0.82,
+      "timestamp_sec": 407.4719999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Reconfigurable multibeam engineering of Marangoni convection for programmable optofluidic steering",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-76930-5",
+      "score": 0.772,
+      "timestamp_sec": 432.6719999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Global genomic surveillance uncovers emergence and spatiotemporal patterns of World Health Organization priority antibiotic resistance in invasive <i>Salmonella</i>",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-76354-1",
+      "score": 0.752,
+      "timestamp_sec": 454.0799999999999
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Bow shocks reveal how a dying star returns matter to interstellar space",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02159-3",
+      "score": 0.748,
+      "timestamp_sec": 478.39199999999994
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Ultrafast temporal engineering of optical properties using terahertz light",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02478-5",
+      "score": 0.74,
+      "timestamp_sec": 498.9359999999999
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "Human brain stimulation engages different gene programs in different cell types",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02473-w",
+      "score": 0.738,
+      "timestamp_sec": 519.5519999999999
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "Neural basis of compositional control",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10896-8",
+      "score": 0.736,
+      "timestamp_sec": 539.8799999999999
+    },
+    {
+      "index": 23,
+      "type": "roundup",
+      "title": "Why Aging May Be a Program, Not a Breakdown",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+      "score": 0.729,
+      "timestamp_sec": 557.9279999999999
+    },
+    {
+      "index": 24,
+      "type": "roundup",
+      "title": "Theory of Fluids Enters the 21st Century",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-20260817/",
+      "score": 0.728,
+      "timestamp_sec": 575.8559999999999
+    },
+    {
+      "index": 25,
+      "type": "roundup",
+      "title": "Graduate Student Proves a Quantum Uncertainty Principle for Fractals",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+      "score": 0.726,
+      "timestamp_sec": 595.3919999999998
+    },
+    {
+      "index": 26,
+      "type": "roundup",
+      "title": "High-precision integrated diffractive optical networks enabling regression analysis",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-76933-2",
+      "score": 0.724,
+      "timestamp_sec": 614.8319999999998
+    },
+    {
+      "index": 27,
+      "type": "roundup",
+      "title": "A single-cell transcriptomic atlas reveals the emergence of medusa-specific cell states in the <i>Aurelia coerulea</i> scyphozoan",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003931",
+      "score": 0.5,
+      "timestamp_sec": 635.5919999999998
+    },
+    {
+      "index": 28,
+      "type": "roundup",
+      "title": "A nutrient-sensitive enterokine coordinates developmental plasticity through inter-organ signaling",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003911",
+      "score": 0.5,
+      "timestamp_sec": 663.8639999999998
+    },
+    {
+      "index": 29,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 689.4239999999998
+    }
+  ]
+}
