@@ -1,0 +1,245 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Crickets evade bats via olfaction beyond acoustic cues",
+    "text": "Crickets evade bats via olfaction beyond acoustic cues \u2014 eLife. The evolutionary arms race between insectivorous bats and their insect prey is a classic paradigm of acoustic predation and evasion, with insects having evolved sophisticated auditory countermeasures. Both bats and insects also rely heavily on olfaction for key behaviors, such as social communicatio",
+    "paper_id": "https://elifesciences.org/articles/110936",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/110936"
+  },
+  {
+    "type": "roundup",
+    "title": "World Humanitarian Day: Why humanitarian settings need more research, not less",
+    "text": "World Humanitarian Day: Why humanitarian settings need more research, not less \u2014 PLOS Medicine. <p>by Akihiro Seita</p>\n\nHumanitarian crises are among the defining global health challenges of our time, yet medical research from these settings remains underrepresented. Medical journals should recognize that while conventional study designs are often not possible in humanitarian settings, this d",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005220",
+    "journal": "PLOS Medicine",
+    "score": 1.353,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005220"
+  },
+  {
+    "type": "roundup",
+    "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
+    "text": "Researcher, heal thyself: meet the scientists studying their own diseases \u2014 Nature News. <p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02455-y\">doi:10.1038/d41586-026-02455-y</a></p>Studying a condition after being diagnosed with it can be rewarding but also presents some ethical and psychological challenges.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02455-y",
+    "journal": "Nature News",
+    "score": 1.136,
+    "url": "https://www.nature.com/articles/d41586-026-02455-y"
+  },
+  {
+    "type": "roundup",
+    "title": "Optimising the tilt increment for in situ cryo-electron tomography",
+    "text": "Optimising the tilt increment for in situ cryo-electron tomography \u2014 eLife. Cryo-electron tomography (cryo-ET) enables high-resolution, three-dimensional imaging of cellular structures in their native, frozen state. However, image quality is limited by a trade-off between angular sampling and radiation damage. Therefore, the choice of the angular increment during data colle",
+    "paper_id": "https://elifesciences.org/articles/111639",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/111639"
+  },
+  {
+    "type": "roundup",
+    "title": "Visuomotor mismatch EEG responses over occipital cortex of freely moving human subjects",
+    "text": "Visuomotor mismatch EEG responses over occipital cortex of freely moving human subjects \u2014 eLife. Likely the strongest predictor of visual feedback is self-motion. In mice, the coupling between movement and visual feedback is learned with first visual experience of the world, and brief perturbations of the coupling result in strong visuomotor mismatch responses in visual cortex that possibly ref",
+    "paper_id": "https://elifesciences.org/articles/108941",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/108941"
+  },
+  {
+    "type": "roundup",
+    "title": "Viral commitment to infection depends on host metabolism",
+    "text": "Viral commitment to infection depends on host metabolism \u2014 eLife. Viral infection begins with attachment to host surface structures such as receptors, pili, or porins. While prior research has focused on structural compatibility and recognition, the role of host physiology, particularly metabolic state, on viral commitment to infection remains underexplored. Here,",
+    "paper_id": "https://elifesciences.org/articles/107825",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/107825"
+  },
+  {
+    "type": "roundup",
+    "title": "Microsaccadic eye movement generation is sufficient to enhance peripheral visual sensitivity",
+    "text": "Microsaccadic eye movement generation is sufficient to enhance peripheral visual sensitivity \u2014 PLOS Biology. <p>by Tong Zhang, Xiaoguang Tian, Tatiana Malevich, Matthias P. Baumann, Ziad M. Hafed</p>\n\nMicrosaccades have been convincingly linked to extrafoveal covert attention shifts for more than two decades. However, the direction of causality between individual microsaccade generation and an alteration i",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003968",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003968"
+  },
+  {
+    "type": "roundup",
+    "title": "Caveolin 1 is a conserved host factor mediating <i>Bacillus cereus</i> hemolysin BL toxin cytolytic toxicity",
+    "text": "Caveolin 1 is a conserved host factor mediating <i>Bacillus cereus</i> hemolysin BL toxin cytolytic toxicity \u2014 PLOS Biology. <p>by Yingying Lu, Jie Liu, Chengyu Liu, Zehua Zuo, Michael Ewing, Hang Chen, Toren Finkel, Stephen H. Leppla, Shihui Liu</p>\n\nHemolysin BL (HBL) is a tripartite \u03b1\u2011pore\u2011forming toxin and a major <i>Bacillus cereus</i> virulence factor. Although LITAF and its homolog CDIP1 were previously identified",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003957",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003957"
+  },
+  {
+    "type": "roundup",
+    "title": "Social interactions between people of same and different generations shape longitudinal changes in interpersonal neural synchrony, loneliness, and social connection",
+    "text": "Social interactions between people of same and different generations shape longitudinal changes in interpersonal neural synchrony, loneliness, and social connection \u2014 PLOS Biology. <p>by Ryssa Moffat, Guillaume Dumas, Emily S. Cross</p>\n\nLoneliness is globally acknowledged as a severe and burgeoning health risk, fueling interest in helping people of all ages form meaningful social connections. One promising approach consists of intergenerational social programs. While behavior",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003899",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003899"
+  },
+  {
+    "type": "roundup",
+    "title": "Incomplete functional divergence drives MADS-box gene synergy during floral development in tomato",
+    "text": "Incomplete functional divergence drives MADS-box gene synergy during floral development in tomato \u2014 PLOS Biology. <p>by Natalia Gaarslev, Ying Xu, El\u00e9onore Liz\u00e9, Irene Julca, Natasha Glover, Sebastian Soyk</p>\n\nGenetic synergy arises from interactions between functionally related genes that control complex traits in plants and animals. Synergy occurs when the combined effect of multiple genes exceeds the additi",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003946",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003946"
+  },
+  {
+    "type": "roundup",
+    "title": "Effect of food swap recommendations on the healthfulness and carbon footprint of grocery purchases in a naturalistic online store: A randomized parallel trial",
+    "text": "Effect of food swap recommendations on the healthfulness and carbon footprint of grocery purchases in a naturalistic online store: A randomized parallel trial \u2014 PLOS Medicine. <p>by Anna H. Grummon, Kevin O\u2019Sullivan, Amanda B. Zeitlin, Lindsey Smith Taillie, Cristina J. Y. Lee, Ashe J. Walker, Verena Tiefenbeck, Elgar Fleisch, Clayton Ulm, Thomas N. Robinson</p>\nBackground <p>Modeling studies suggest that simple dietary \u201cswaps\u201d in which just one food is replaced with anot",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004847",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004847"
+  },
+  {
+    "type": "roundup",
+    "title": "Effect of a digital intervention on mental health symptoms in adults with chronic conditions: A three-arm randomized controlled trial",
+    "text": "Effect of a digital intervention on mental health symptoms in adults with chronic conditions: A three-arm randomized controlled trial \u2014 PLOS Medicine. <p>by Emily Johnson, Ashley Hyde, Shaina Corrick, Serena Isley, Gail Wright, Justin Ezekowitz, Yinggan Zheng, Dayna Lee-Baggley, Jude Spiers, John C. Spence, Margaret L. McNeely, Stephanie Thompson, Kathleen Ismond, Sarah Tymchuk, Puneeta Tandon</p>\nBackground <p>Anxiety, depression, and fatigue aff",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005198",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005198"
+  },
+  {
+    "type": "roundup",
+    "title": "Associations of solution building and resilience with school refusal behavior among elementary school students",
+    "text": "Associations of solution building and resilience with school refusal behavior among elementary school students \u2014 PLOS ONE. <p>by Takefumi Yoshida, Koubun Wakashima, Gen Takagi, Mayumi Sakuraba, Sara Smock Jordan, Kazuma Sakamoto, Ranno Haruyama</p>\n\nThis study examined the effects of solution building and resilience on school refusal behavior. The participants were 587 elementary school students (280 boys, 306 girls, an",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356881",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356881"
+  },
+  {
+    "type": "roundup",
+    "title": "Hetero-deformation induced stress and its microstructural morphology dependence in a near-alpha titanium alloy",
+    "text": "Hetero-deformation induced stress and its microstructural morphology dependence in a near-alpha titanium alloy \u2014 PLOS ONE. <p>by Lin Xie, Jialian Li, Yuan Xing, Yuhui Wang</p>\n\nHetero-deformation induced (HDI) stress and the effect of microstructural morphology on it were investigated in a near-alpha titanium alloy featuring lamellar and equiaxed initial microstructures. The development of HDI stresses were confirmed in",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356747",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356747"
+  },
+  {
+    "type": "roundup",
+    "title": "Bridging the gaps in innovation research: A bibliometric analysis and multi-level framework integrating meso-perspectives and well-being",
+    "text": "Bridging the gaps in innovation research: A bibliometric analysis and multi-level framework integrating meso-perspectives and well-being \u2014 PLOS ONE. <p>by Yousif Elsamani, Cristian Mejia, Yuya Kajikawa</p>\n\nInnovation and innovativeness frameworks are crucial for guiding progress, yet often remain fragmented, failing to connect individual behaviors, organizational ecosystems, and systemic goals, and frequently overlooking well-being. This study",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356731",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356731"
+  },
+  {
+    "type": "roundup",
+    "title": "Percutaneous transhepatic cholangioscopy-guided holmium laser lithotripsy for bile duct stones in elderly patients",
+    "text": "Percutaneous transhepatic cholangioscopy-guided holmium laser lithotripsy for bile duct stones in elderly patients \u2014 PLOS ONE. <p>by Nhan Hien Phan, Dang Khanh Do, Hong Canh Pham, Thai Binh Nguyen</p>\nPurpose <p>To evaluate the safety and efficacy of percutaneous transhepatic endoscopic holmium laser lithotripsy (PTEHL) for bile duct stones in elderly patients aged \u226580 years.</p> Materials and methods <p>This retrospective",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356488",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356488"
+  },
+  {
+    "type": "roundup",
+    "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
+    "text": "Building a Quantum Computer, One Fragile Qubit at a Time \u2014 Quanta Magazine. No one yet knows which technology will power the quantum computers of the future, but the race to create them has already produced some of science\u2019s most intricate machinery.            <p>The post <a href=\"https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-202608",
+    "paper_id": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/",
+    "journal": "Quanta Magazine",
+    "score": 0.74,
+    "url": "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/"
+  },
+  {
+    "type": "roundup",
+    "title": "Are We Thinking Correctly About AI Intelligence?",
+    "text": "Are We Thinking Correctly About AI Intelligence? \u2014 Quanta Magazine. Computer scientist Melanie Mitchell discusses why artificial intelligence doesn\u2019t \u201cthink\u201d or \u201creason\u201d like humans, and how we can create better methods for measuring machine cognition.            <p>The post <a href=\"https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-2026",
+    "paper_id": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+    "journal": "Quanta Magazine",
+    "score": 0.737,
+    "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/"
+  },
+  {
+    "type": "roundup",
+    "title": "A New Framework for How the Brain Compresses Our Noisy World",
+    "text": "A New Framework for How the Brain Compresses Our Noisy World \u2014 Quanta Magazine. An updated view of categorization reflects the modern understanding that the nervous system is more of a prediction engine than a filing cabinet.            <p>The post <a href=\"https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/\" target=\"_blank\">A N",
+    "paper_id": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/",
+    "journal": "Quanta Magazine",
+    "score": 0.73,
+    "url": "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/"
+  },
+  {
+    "type": "roundup",
+    "title": "Protein entanglement misfolding influences whether proteins undergo proteasomal degradation or persist in near-native misfolded states",
+    "text": "Protein entanglement misfolding influences whether proteins undergo proteasomal degradation or persist in near-native misfolded states \u2014 Nature Communications. <p>Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76875-9\">doi:10.1038/s41467-026-76875-9</a></p>Protein entanglements can generate long-lived misfolded states, but their cellular fate is poorly understood. Here, the authors combine prote",
+    "paper_id": "https://www.nature.com/articles/s41467-026-76875-9",
+    "journal": "Nature Communications",
+    "score": 0.729,
+    "url": "https://www.nature.com/articles/s41467-026-76875-9"
+  },
+  {
+    "type": "roundup",
+    "title": "Combinatorial group testing for efficient scaling across biological applications",
+    "text": "Combinatorial group testing for efficient scaling across biological applications \u2014 Nature Communications. <p>Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77055-5\">doi:10.1038/s41467-026-77055-5</a></p>Combinatorial group testing can reduce experimental costs but remains challenging to apply due to its complexity and the lack of implementati",
+    "paper_id": "https://www.nature.com/articles/s41467-026-77055-5",
+    "journal": "Nature Communications",
+    "score": 0.727,
+    "url": "https://www.nature.com/articles/s41467-026-77055-5"
+  },
+  {
+    "type": "roundup",
+    "title": "Psychedelics align brain activity with context",
+    "text": "Psychedelics align brain activity with context \u2014 Nature News. <p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10910-z\">doi:10.1038/s41586-026-10910-z</a></p>The psychedelic psilocybin reorganizes brain activity into structured, context-aligned patterns that integrate internal and external processing, providing a",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10910-z",
+    "journal": "Nature News",
+    "score": 0.719,
+    "url": "https://www.nature.com/articles/s41586-026-10910-z"
+  },
+  {
+    "type": "roundup",
+    "title": "Virus deploys a \u2018loose cannon\u2019 enzyme to overpower bacterial defences",
+    "text": "Virus deploys a \u2018loose cannon\u2019 enzyme to overpower bacterial defences \u2014 Nature News. <p>Nature, Published online: 19 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02537-x\">doi:10.1038/d41586-026-02537-x</a></p>Viruses that infect bacteria must either evade or counter the defence systems of their host. The viral kinase enzyme T7K has been found to phosphorylate nea",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02537-x",
+    "journal": "Nature News",
+    "score": 0.719,
+    "url": "https://www.nature.com/articles/d41586-026-02537-x"
+  },
+  {
+    "type": "roundup",
+    "title": "Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments",
+    "text": "Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments \u2014 Nature Communications. <p>Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77249-x\">doi:10.1038/s41467-026-77249-x</a></p>Understanding how microbes survive in the crushing pressure and nutrient-poor conditions of the deepest ocean has remained a major challenge.",
+    "paper_id": "https://www.nature.com/articles/s41467-026-77249-x",
+    "journal": "Nature Communications",
+    "score": 0.718,
+    "url": "https://www.nature.com/articles/s41467-026-77249-x"
+  },
+  {
+    "type": "roundup",
+    "title": "Trends of stillbirth, early neonatal and perinatal mortality rates and sociodemographic differentials of perinatal mortality rates in 17 low- and middle-income countries: A modeling study",
+    "text": "Trends of stillbirth, early neonatal and perinatal mortality rates and sociodemographic differentials of perinatal mortality rates in 17 low- and middle-income countries: A modeling study \u2014 PLOS Medicine. <p>by Mohamed M. Ali, Luca Cegolon, Saverio Bellizzi</p>\nBackground <p>Stillbirths and early neonatal deaths account for a substantial proportion of global child mortality. Reliable measurement of these outcomes remains challenging in settings where civil registration systems are incomplete and hous",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004791",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004791"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

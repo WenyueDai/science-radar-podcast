@@ -1,0 +1,162 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Crickets evade bats via olfaction beyond acoustic cues
+============================================================
+Crickets evade bats via olfaction beyond acoustic cues — eLife. The evolutionary arms race between insectivorous bats and their insect prey is a classic paradigm of acoustic predation and evasion, with insects having evolved sophisticated auditory countermeasures. Both bats and insects also rely heavily on olfaction for key behaviors, such as social communicatio
+
+============================================================
+[ROUNDUP] World Humanitarian Day: Why humanitarian settings need more research, not less
+============================================================
+World Humanitarian Day: Why humanitarian settings need more research, not less — PLOS Medicine. <p>by Akihiro Seita</p>
+
+Humanitarian crises are among the defining global health challenges of our time, yet medical research from these settings remains underrepresented. Medical journals should recognize that while conventional study designs are often not possible in humanitarian settings, this d
+
+============================================================
+[ROUNDUP] Researcher, heal thyself: meet the scientists studying their own diseases
+============================================================
+Researcher, heal thyself: meet the scientists studying their own diseases — Nature News. <p>Nature, Published online: 20 August 2026; <a href="https://www.nature.com/articles/d41586-026-02455-y">doi:10.1038/d41586-026-02455-y</a></p>Studying a condition after being diagnosed with it can be rewarding but also presents some ethical and psychological challenges.
+
+============================================================
+[ROUNDUP] Optimising the tilt increment for in situ cryo-electron tomography
+============================================================
+Optimising the tilt increment for in situ cryo-electron tomography — eLife. Cryo-electron tomography (cryo-ET) enables high-resolution, three-dimensional imaging of cellular structures in their native, frozen state. However, image quality is limited by a trade-off between angular sampling and radiation damage. Therefore, the choice of the angular increment during data colle
+
+============================================================
+[ROUNDUP] Visuomotor mismatch EEG responses over occipital cortex of freely moving human subjects
+============================================================
+Visuomotor mismatch EEG responses over occipital cortex of freely moving human subjects — eLife. Likely the strongest predictor of visual feedback is self-motion. In mice, the coupling between movement and visual feedback is learned with first visual experience of the world, and brief perturbations of the coupling result in strong visuomotor mismatch responses in visual cortex that possibly ref
+
+============================================================
+[ROUNDUP] Viral commitment to infection depends on host metabolism
+============================================================
+Viral commitment to infection depends on host metabolism — eLife. Viral infection begins with attachment to host surface structures such as receptors, pili, or porins. While prior research has focused on structural compatibility and recognition, the role of host physiology, particularly metabolic state, on viral commitment to infection remains underexplored. Here,
+
+============================================================
+[ROUNDUP] Microsaccadic eye movement generation is sufficient to enhance peripheral visual sensitivity
+============================================================
+Microsaccadic eye movement generation is sufficient to enhance peripheral visual sensitivity — PLOS Biology. <p>by Tong Zhang, Xiaoguang Tian, Tatiana Malevich, Matthias P. Baumann, Ziad M. Hafed</p>
+
+Microsaccades have been convincingly linked to extrafoveal covert attention shifts for more than two decades. However, the direction of causality between individual microsaccade generation and an alteration i
+
+============================================================
+[ROUNDUP] Caveolin 1 is a conserved host factor mediating <i>Bacillus cereus</i> hemolysin BL toxin cytolytic toxicity
+============================================================
+Caveolin 1 is a conserved host factor mediating <i>Bacillus cereus</i> hemolysin BL toxin cytolytic toxicity — PLOS Biology. <p>by Yingying Lu, Jie Liu, Chengyu Liu, Zehua Zuo, Michael Ewing, Hang Chen, Toren Finkel, Stephen H. Leppla, Shihui Liu</p>
+
+Hemolysin BL (HBL) is a tripartite α‑pore‑forming toxin and a major <i>Bacillus cereus</i> virulence factor. Although LITAF and its homolog CDIP1 were previously identified
+
+============================================================
+[ROUNDUP] Social interactions between people of same and different generations shape longitudinal changes in interpersonal neural synchrony, loneliness, and social connection
+============================================================
+Social interactions between people of same and different generations shape longitudinal changes in interpersonal neural synchrony, loneliness, and social connection — PLOS Biology. <p>by Ryssa Moffat, Guillaume Dumas, Emily S. Cross</p>
+
+Loneliness is globally acknowledged as a severe and burgeoning health risk, fueling interest in helping people of all ages form meaningful social connections. One promising approach consists of intergenerational social programs. While behavior
+
+============================================================
+[ROUNDUP] Incomplete functional divergence drives MADS-box gene synergy during floral development in tomato
+============================================================
+Incomplete functional divergence drives MADS-box gene synergy during floral development in tomato — PLOS Biology. <p>by Natalia Gaarslev, Ying Xu, Eléonore Lizé, Irene Julca, Natasha Glover, Sebastian Soyk</p>
+
+Genetic synergy arises from interactions between functionally related genes that control complex traits in plants and animals. Synergy occurs when the combined effect of multiple genes exceeds the additi
+
+============================================================
+[ROUNDUP] Effect of food swap recommendations on the healthfulness and carbon footprint of grocery purchases in a naturalistic online store: A randomized parallel trial
+============================================================
+Effect of food swap recommendations on the healthfulness and carbon footprint of grocery purchases in a naturalistic online store: A randomized parallel trial — PLOS Medicine. <p>by Anna H. Grummon, Kevin O’Sullivan, Amanda B. Zeitlin, Lindsey Smith Taillie, Cristina J. Y. Lee, Ashe J. Walker, Verena Tiefenbeck, Elgar Fleisch, Clayton Ulm, Thomas N. Robinson</p>
+Background <p>Modeling studies suggest that simple dietary “swaps” in which just one food is replaced with anot
+
+============================================================
+[ROUNDUP] Effect of a digital intervention on mental health symptoms in adults with chronic conditions: A three-arm randomized controlled trial
+============================================================
+Effect of a digital intervention on mental health symptoms in adults with chronic conditions: A three-arm randomized controlled trial — PLOS Medicine. <p>by Emily Johnson, Ashley Hyde, Shaina Corrick, Serena Isley, Gail Wright, Justin Ezekowitz, Yinggan Zheng, Dayna Lee-Baggley, Jude Spiers, John C. Spence, Margaret L. McNeely, Stephanie Thompson, Kathleen Ismond, Sarah Tymchuk, Puneeta Tandon</p>
+Background <p>Anxiety, depression, and fatigue aff
+
+============================================================
+[ROUNDUP] Associations of solution building and resilience with school refusal behavior among elementary school students
+============================================================
+Associations of solution building and resilience with school refusal behavior among elementary school students — PLOS ONE. <p>by Takefumi Yoshida, Koubun Wakashima, Gen Takagi, Mayumi Sakuraba, Sara Smock Jordan, Kazuma Sakamoto, Ranno Haruyama</p>
+
+This study examined the effects of solution building and resilience on school refusal behavior. The participants were 587 elementary school students (280 boys, 306 girls, an
+
+============================================================
+[ROUNDUP] Hetero-deformation induced stress and its microstructural morphology dependence in a near-alpha titanium alloy
+============================================================
+Hetero-deformation induced stress and its microstructural morphology dependence in a near-alpha titanium alloy — PLOS ONE. <p>by Lin Xie, Jialian Li, Yuan Xing, Yuhui Wang</p>
+
+Hetero-deformation induced (HDI) stress and the effect of microstructural morphology on it were investigated in a near-alpha titanium alloy featuring lamellar and equiaxed initial microstructures. The development of HDI stresses were confirmed in
+
+============================================================
+[ROUNDUP] Bridging the gaps in innovation research: A bibliometric analysis and multi-level framework integrating meso-perspectives and well-being
+============================================================
+Bridging the gaps in innovation research: A bibliometric analysis and multi-level framework integrating meso-perspectives and well-being — PLOS ONE. <p>by Yousif Elsamani, Cristian Mejia, Yuya Kajikawa</p>
+
+Innovation and innovativeness frameworks are crucial for guiding progress, yet often remain fragmented, failing to connect individual behaviors, organizational ecosystems, and systemic goals, and frequently overlooking well-being. This study
+
+============================================================
+[ROUNDUP] Percutaneous transhepatic cholangioscopy-guided holmium laser lithotripsy for bile duct stones in elderly patients
+============================================================
+Percutaneous transhepatic cholangioscopy-guided holmium laser lithotripsy for bile duct stones in elderly patients — PLOS ONE. <p>by Nhan Hien Phan, Dang Khanh Do, Hong Canh Pham, Thai Binh Nguyen</p>
+Purpose <p>To evaluate the safety and efficacy of percutaneous transhepatic endoscopic holmium laser lithotripsy (PTEHL) for bile duct stones in elderly patients aged ≥80 years.</p> Materials and methods <p>This retrospective
+
+============================================================
+[ROUNDUP] Building a Quantum Computer, One Fragile Qubit at a Time
+============================================================
+Building a Quantum Computer, One Fragile Qubit at a Time — Quanta Magazine. No one yet knows which technology will power the quantum computers of the future, but the race to create them has already produced some of science’s most intricate machinery.            <p>The post <a href="https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-202608
+
+============================================================
+[ROUNDUP] Are We Thinking Correctly About AI Intelligence?
+============================================================
+Are We Thinking Correctly About AI Intelligence? — Quanta Magazine. Computer scientist Melanie Mitchell discusses why artificial intelligence doesn’t “think” or “reason” like humans, and how we can create better methods for measuring machine cognition.            <p>The post <a href="https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-2026
+
+============================================================
+[ROUNDUP] A New Framework for How the Brain Compresses Our Noisy World
+============================================================
+A New Framework for How the Brain Compresses Our Noisy World — Quanta Magazine. An updated view of categorization reflects the modern understanding that the nervous system is more of a prediction engine than a filing cabinet.            <p>The post <a href="https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compresses-our-noisy-world-20260824/" target="_blank">A N
+
+============================================================
+[ROUNDUP] Protein entanglement misfolding influences whether proteins undergo proteasomal degradation or persist in near-native misfolded states
+============================================================
+Protein entanglement misfolding influences whether proteins undergo proteasomal degradation or persist in near-native misfolded states — Nature Communications. <p>Nature Communications, Published online: 25 August 2026; <a href="https://www.nature.com/articles/s41467-026-76875-9">doi:10.1038/s41467-026-76875-9</a></p>Protein entanglements can generate long-lived misfolded states, but their cellular fate is poorly understood. Here, the authors combine prote
+
+============================================================
+[ROUNDUP] Combinatorial group testing for efficient scaling across biological applications
+============================================================
+Combinatorial group testing for efficient scaling across biological applications — Nature Communications. <p>Nature Communications, Published online: 25 August 2026; <a href="https://www.nature.com/articles/s41467-026-77055-5">doi:10.1038/s41467-026-77055-5</a></p>Combinatorial group testing can reduce experimental costs but remains challenging to apply due to its complexity and the lack of implementati
+
+============================================================
+[ROUNDUP] Psychedelics align brain activity with context
+============================================================
+Psychedelics align brain activity with context — Nature News. <p>Nature, Published online: 19 August 2026; <a href="https://www.nature.com/articles/s41586-026-10910-z">doi:10.1038/s41586-026-10910-z</a></p>The psychedelic psilocybin reorganizes brain activity into structured, context-aligned patterns that integrate internal and external processing, providing a
+
+============================================================
+[ROUNDUP] Virus deploys a ‘loose cannon’ enzyme to overpower bacterial defences
+============================================================
+Virus deploys a ‘loose cannon’ enzyme to overpower bacterial defences — Nature News. <p>Nature, Published online: 19 August 2026; <a href="https://www.nature.com/articles/d41586-026-02537-x">doi:10.1038/d41586-026-02537-x</a></p>Viruses that infect bacteria must either evade or counter the defence systems of their host. The viral kinase enzyme T7K has been found to phosphorylate nea
+
+============================================================
+[ROUNDUP] Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments
+============================================================
+Redox-stratified macromolecule degradation supports microbial survival in the oligotrophic Kermadec Trench sediments — Nature Communications. <p>Nature Communications, Published online: 25 August 2026; <a href="https://www.nature.com/articles/s41467-026-77249-x">doi:10.1038/s41467-026-77249-x</a></p>Understanding how microbes survive in the crushing pressure and nutrient-poor conditions of the deepest ocean has remained a major challenge.
+
+============================================================
+[ROUNDUP] Trends of stillbirth, early neonatal and perinatal mortality rates and sociodemographic differentials of perinatal mortality rates in 17 low- and middle-income countries: A modeling study
+============================================================
+Trends of stillbirth, early neonatal and perinatal mortality rates and sociodemographic differentials of perinatal mortality rates in 17 low- and middle-income countries: A modeling study — PLOS Medicine. <p>by Mohamed M. Ali, Luca Cegolon, Saverio Bellizzi</p>
+Background <p>Stillbirths and early neonatal deaths account for a substantial proportion of global child mortality. Reliable measurement of these outcomes remains challenging in settings where civil registration systems are incomplete and hous
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
