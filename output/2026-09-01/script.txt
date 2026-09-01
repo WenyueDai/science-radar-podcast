@@ -1,0 +1,136 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] <i>Mycodnaviridae are</i> a clade of giant viruses that persistently infect zoosporic fungi
+============================================================
+<i>Mycodnaviridae are</i> a clade of giant viruses that persistently infect zoosporic fungi — PLOS Biology. <p>by Jillian M. Myers, Frederik Schulz, Saleh Rahimlou, Vikas Yadav, Kevin R. Amses, D. Rabern Simmons, Sheng Sun, Michelle Orozco-Quime, Joseph Heitman, Jason E. Stajich, Timothy Y. James</p>
+
+Giant viruses of the phylum <i>Nucleocytoviricota</i> have emerged as particularly notable due to their i
+
+============================================================
+[ROUNDUP] A whole-animal phenotypic drug screen identifies suppressors of atherogenic lipoproteins
+============================================================
+A whole-animal phenotypic drug screen identifies suppressors of atherogenic lipoproteins — eLife. Lipoproteins are essential for lipid transport in all bilaterians. A single Apolipoprotein B (ApoB) molecule is the inseparable structural scaffold of each ApoB-containing lipoprotein (B-lps), which are responsible for transporting lipids to peripheral tissues. The cellular mechanisms that regulate
+
+============================================================
+[ROUNDUP] Dynamic Landscape Analysis of cell fate decisions provides predictive models of neural development from single-cell data
+============================================================
+Dynamic Landscape Analysis of cell fate decisions provides predictive models of neural development from single-cell data — PLOS Biology. <p>by Marine Fontaine, M. Joaquina Delás, Meritxell Sáez, Rory J. Maizels, Elizabeth Finnie, James Briscoe, David A. Rand</p>
+
+Building a mechanistic understanding of cell fate decisions remains a fundamental goal of developmental biology, with implications for stem cell therapies, regenerative medi
+
+============================================================
+[ROUNDUP] Tidal tomography reveals a thermal anomaly beneath Mars’s crustal dichotomy
+============================================================
+Tidal tomography reveals a thermal anomaly beneath Mars’s crustal dichotomy — Nature News. <p>Nature, Published online: 26 August 2026; <a href="https://www.nature.com/articles/s41586-026-10893-x">doi:10.1038/s41586-026-10893-x</a></p>Analysis of tracking data from Mars orbiters reveals time-variable gravity field behaviour reflecting the structure underlying the Martian crustal dichotomy
+
+============================================================
+[ROUNDUP] Evolutionary mystery revealed by structures of a key enzyme in the synthesis of glycolipids
+============================================================
+Evolutionary mystery revealed by structures of a key enzyme in the synthesis of glycolipids — Nature News. <p>Nature, Published online: 26 August 2026; <a href="https://www.nature.com/articles/d41586-026-02378-8">doi:10.1038/d41586-026-02378-8</a></p>Structures of a protein used to make crucial sugar-carrying lipids uncover a surprising reaction mechanism and a built-in brake that emerged during primate
+
+============================================================
+[ROUNDUP] Systems vaccinology and the architecture of human immunity
+============================================================
+Systems vaccinology and the architecture of human immunity — Nature News. <p>Nature, Published online: 26 August 2026; <a href="https://www.nature.com/articles/s41586-026-10753-8">doi:10.1038/s41586-026-10753-8</a></p>A review of the current state of the field of systems vaccinology discusses the challenges in translating insights into clinical and regulatory practice.
+
+============================================================
+[ROUNDUP] A solution to the mystery of the missing neutrinos
+============================================================
+A solution to the mystery of the missing neutrinos — Nature News. <p>Nature, Published online: 27 August 2026; <a href="https://www.nature.com/articles/d41586-026-02628-9">doi:10.1038/d41586-026-02628-9</a></p>Lecture preparations prompt a scientist to poke holes in the ‘gallium anomaly’.
+
+============================================================
+[ROUNDUP] Socio-economic and financial characteristics of companion animal clinics in Ankara Province, Türkiye: A cluster-based classification
+============================================================
+Socio-economic and financial characteristics of companion animal clinics in Ankara Province, Türkiye: A cluster-based classification — PLOS ONE. <p>by Arzu Peker, Lorenzo Serva, Yılmaz Aral, Şükrü Orkan, Oğuz Altın, Luisa Magrin</p>
+
+Companion animal clinics are an integral part of urban veterinary practice. Yet such clinics face several challenges, including rising operational costs, intense market competition, and shifting pet owners’ expe
+
+============================================================
+[ROUNDUP] Mortality and health outcomes associated with non-communicable disease risk factors: Protocol for the IRAN-STEPS Follow-Up Cohort (ISFUC) based on the 2021 national survey
+============================================================
+Mortality and health outcomes associated with non-communicable disease risk factors: Protocol for the IRAN-STEPS Follow-Up Cohort (ISFUC) based on the 2021 national survey — PLOS ONE. <p>by Hosein Ataei-Goujani, Sarmad Salehi, Pardis Zarepour, Ozra Tabatabaei-Malazy, Nazila Rezaei, Mina Mirzad, Anis Gharajeh, Samaneh Akbarpour, Yosra Azizpour</p>
+
+Non-communicable diseases (NCDs) account for more than 81% of all deaths in Iran and impose a substantial burden on the national healt
+
+============================================================
+[ROUNDUP] Noradrenergic infraslow rhythm during sleep is the critical link between heart-rate dynamics and memory consolidation
+============================================================
+Noradrenergic infraslow rhythm during sleep is the critical link between heart-rate dynamics and memory consolidation — eLife. Recent work shows that the brain’s arousal system remains active during sleep, with rhythmic locus coeruleus (LC) activity shaping sleep architecture and supporting memory consolidation. The LC releases norepinephrine (NE) in infraslow (~0.02 Hz) bouts that gate NREM sleep spindles. Here, we demonst
+
+============================================================
+[ROUNDUP] Dynamic fMRI networks of human emotion
+============================================================
+Dynamic fMRI networks of human emotion — eLife. The experience of emotions is that of dynamic, time-changing processes. Yet, many functional MRI (fMRI) studies of emotion average across time to focus on maps of static activations, overlooking the temporal dimension of emotional responses. In this study, we used time-resolved fMRI, group spatial i
+
+============================================================
+[ROUNDUP] Pre-Cambrian origin of <i>envelope</i>-carrying retrotransposons in metazoans
+============================================================
+Pre-Cambrian origin of <i>envelope</i>-carrying retrotransposons in metazoans — eLife. Retrotransposons or endogenous retroviruses (ERVs) essentially carry open reading frames of <i>gag</i> and <i>pol</i>, which are utilized to selfishly replicate themselves in the host germline genome. One rare example of ERVs that additionally carry <i>envelope</i> genes is <i>Ty3/gypsy</i> errantiv
+
+============================================================
+[ROUNDUP] Visual motion does not bias gravity-referenced vestibular coding in the primate cerebellar nodulus and uvula
+============================================================
+Visual motion does not bias gravity-referenced vestibular coding in the primate cerebellar nodulus and uvula — PLOS Biology. <p>by Lex J. Gómez, Robyn L. Mildren, Faisal Karmali, Kathleen E. Cullen</p>
+
+Visual motion is known to influence perceptions of tilt, verticality, and translation, suggesting that optic flow is combined with vestibular cues to estimate orientation relative to gravity. The cerebellar nodulus and ven
+
+============================================================
+[ROUNDUP] Ecological theory sheds light on plasmid diversity and dynamics
+============================================================
+Ecological theory sheds light on plasmid diversity and dynamics — PLOS Biology. <p>by Rémi Tuffet, Emma Acacia, Charles Coluzzi, Xavier Charpentier, Thomas Koffel, Samuel Venner</p>
+
+Bacterial genomes are remarkably dynamic, shaped by horizontal gene transfer. Plasmids are key actors in this process, fueling rapid bacterial adaptation to stresses such as antibiotics. Yet, plasm
+
+============================================================
+[ROUNDUP] A clinical decision support tool for accurate hip fracture prediction: A nationwide cohort study
+============================================================
+A clinical decision support tool for accurate hip fracture prediction: A nationwide cohort study — PLOS Medicine. <p>by Kristian F. Axelsson, Henrik Litsne, Konstantinos Konstantinou, Hussnain Khalid, Aldina Pivodic, Mattias Lorentzon</p>
+Background <p>Although hip fractures are commonly associated with functional decline, increased morbidity, and mortality, accurate models for both short- and long-term predict
+
+============================================================
+[ROUNDUP] Sex differences in trajectories to cardio-renal and mental health outcomes following the onset of type 2 diabetes: An observational cohort study using multi-state analysis in the UK Clinical Practice Research Datalink
+============================================================
+Sex differences in trajectories to cardio-renal and mental health outcomes following the onset of type 2 diabetes: An observational cohort study using multi-state analysis in the UK Clinical Practice Research Datalink — PLOS Medicine. <p>by Fabiola Eto, Miriam Samuel, Daniel Stow, Rafael Henkin, Alisha Angdembe, Michael R. Barnes, Sarah Finer, Rohini Mathur</p>
+Background <p>Type 2 diabetes (T2D) presents a significant global health challenge, and its prevalence is expected to rise. T2D is associated with diverse complications, i
+
+============================================================
+[ROUNDUP] Integrated computational analysis prioritizes candidate targets and pathways linking ochratoxin A exposure to hepatocellular carcinoma
+============================================================
+Integrated computational analysis prioritizes candidate targets and pathways linking ochratoxin A exposure to hepatocellular carcinoma — PLOS ONE. <p>by Shili Yang, Huaiquan Liu, Haiyang Kou, Lingyan Lai, Xinyan Zhang, Yunling Xu, Yu Sun, Bo Chen</p>
+
+Ochratoxin A (OTA), a food-borne mycotoxin, has been implicated in hepatotoxicity and potential carcinogenic processes, yet the molecular links between OTA exposure and hepatocellular carcinoma (
+
+============================================================
+[ROUNDUP] Incorporating husband’s influence in estimating unmet need for contraception using modified revised algorithm
+============================================================
+Incorporating husband’s influence in estimating unmet need for contraception using modified revised algorithm — PLOS ONE. <p>by Gerald Mbuthia Mahuro, Murungaru Kimani, Andrew Kyalo Mutuku</p>
+
+Unmet need for contraception is defined as the proportion of exposed fecund reproductive age women desiring to limit fertility but who are contraceptive nonusers, and it has invaluable contributions to population dynamics polici
+
+============================================================
+[ROUNDUP] Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial
+============================================================
+Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial — PLOS Medicine. <p>by Vilada Chansamouth, Danoy Chommanam, Sue J. Lee, Susath Vongphachanh, Manivanh Vongsouvath, Sommay Keomany, Viladeth Paphasiri, Chanthala Phamisith, Siho Sengsavang, Phouvieng Douangdala, Khamsay Detleuxay, Sommana Rattana, Bandith Soumphonphakdy, Valy Keoluangkhot, Mavuto Mukaka, Nicholas P.
+
+============================================================
+[ROUNDUP] Estimates of global burden of snakebite: A literature review and geostatistical modelling study
+============================================================
+Estimates of global burden of snakebite: A literature review and geostatistical modelling study — PLOS Medicine. <p>by Dileepa Senajith Ediriweera, Anuradhani Kasturiratne, Arunasalam Pathmeswaran, Ymkje Stienstra, Gerardo Martín, Takuya Iwamura, Kris A. Murray, Hithanadura Janaka de Silva, Peter John Diggle, David Griffith Lalloo</p>
+Background <p>Snake envenoming (SE) remains an important public health probl
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

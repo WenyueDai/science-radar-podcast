@@ -1,0 +1,200 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "<i>Mycodnaviridae are</i> a clade of giant viruses that persistently infect zoosporic fungi",
+    "text": "<i>Mycodnaviridae are</i> a clade of giant viruses that persistently infect zoosporic fungi \u2014 PLOS Biology. <p>by Jillian M. Myers, Frederik Schulz, Saleh Rahimlou, Vikas Yadav, Kevin R. Amses, D. Rabern Simmons, Sheng Sun, Michelle Orozco-Quime, Joseph Heitman, Jason E. Stajich, Timothy Y. James</p>\n\nGiant viruses of the phylum <i>Nucleocytoviricota</i> have emerged as particularly notable due to their i",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003937",
+    "journal": "PLOS Biology",
+    "score": 2.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003937"
+  },
+  {
+    "type": "roundup",
+    "title": "A whole-animal phenotypic drug screen identifies suppressors of atherogenic lipoproteins",
+    "text": "A whole-animal phenotypic drug screen identifies suppressors of atherogenic lipoproteins \u2014 eLife. Lipoproteins are essential for lipid transport in all bilaterians. A single Apolipoprotein B (ApoB) molecule is the inseparable structural scaffold of each ApoB-containing lipoprotein (B-lps), which are responsible for transporting lipids to peripheral tissues. The cellular mechanisms that regulate",
+    "paper_id": "https://elifesciences.org/articles/105314",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/105314"
+  },
+  {
+    "type": "roundup",
+    "title": "Dynamic Landscape Analysis of cell fate decisions provides predictive models of neural development from single-cell data",
+    "text": "Dynamic Landscape Analysis of cell fate decisions provides predictive models of neural development from single-cell data \u2014 PLOS Biology. <p>by Marine Fontaine, M. Joaquina Del\u00e1s, Meritxell S\u00e1ez, Rory J. Maizels, Elizabeth Finnie, James Briscoe, David A. Rand</p>\n\nBuilding a mechanistic understanding of cell fate decisions remains a fundamental goal of developmental biology, with implications for stem cell therapies, regenerative medi",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003953",
+    "journal": "PLOS Biology",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003953"
+  },
+  {
+    "type": "roundup",
+    "title": "Tidal tomography reveals a thermal anomaly beneath Mars\u2019s crustal dichotomy",
+    "text": "Tidal tomography reveals a thermal anomaly beneath Mars\u2019s crustal dichotomy \u2014 Nature News. <p>Nature, Published online: 26 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10893-x\">doi:10.1038/s41586-026-10893-x</a></p>Analysis of tracking data from Mars orbiters reveals time-variable gravity field behaviour reflecting the structure underlying the Martian crustal dichotomy",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10893-x",
+    "journal": "Nature News",
+    "score": 1.21,
+    "url": "https://www.nature.com/articles/s41586-026-10893-x"
+  },
+  {
+    "type": "roundup",
+    "title": "Evolutionary mystery revealed by structures of a key enzyme in the synthesis of glycolipids",
+    "text": "Evolutionary mystery revealed by structures of a key enzyme in the synthesis of glycolipids \u2014 Nature News. <p>Nature, Published online: 26 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02378-8\">doi:10.1038/d41586-026-02378-8</a></p>Structures of a protein used to make crucial sugar-carrying lipids uncover a surprising reaction mechanism and a built-in brake that emerged during primate",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02378-8",
+    "journal": "Nature News",
+    "score": 1.155,
+    "url": "https://www.nature.com/articles/d41586-026-02378-8"
+  },
+  {
+    "type": "roundup",
+    "title": "Systems vaccinology and the architecture of human immunity",
+    "text": "Systems vaccinology and the architecture of human immunity \u2014 Nature News. <p>Nature, Published online: 26 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10753-8\">doi:10.1038/s41586-026-10753-8</a></p>A review of the current state of the field of systems vaccinology discusses the challenges in translating insights into clinical and regulatory practice.",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10753-8",
+    "journal": "Nature News",
+    "score": 1.148,
+    "url": "https://www.nature.com/articles/s41586-026-10753-8"
+  },
+  {
+    "type": "roundup",
+    "title": "A solution to the mystery of the missing neutrinos",
+    "text": "A solution to the mystery of the missing neutrinos \u2014 Nature News. <p>Nature, Published online: 27 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02628-9\">doi:10.1038/d41586-026-02628-9</a></p>Lecture preparations prompt a scientist to poke holes in the \u2018gallium anomaly\u2019.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02628-9",
+    "journal": "Nature News",
+    "score": 1.111,
+    "url": "https://www.nature.com/articles/d41586-026-02628-9"
+  },
+  {
+    "type": "roundup",
+    "title": "Socio-economic and financial characteristics of companion animal clinics in Ankara Province, T\u00fcrkiye: A cluster-based classification",
+    "text": "Socio-economic and financial characteristics of companion animal clinics in Ankara Province, T\u00fcrkiye: A cluster-based classification \u2014 PLOS ONE. <p>by Arzu Peker, Lorenzo Serva, Y\u0131lmaz Aral, \u015e\u00fckr\u00fc Orkan, O\u011fuz Alt\u0131n, Luisa Magrin</p>\n\nCompanion animal clinics are an integral part of urban veterinary practice. Yet such clinics face several challenges, including rising operational costs, intense market competition, and shifting pet owners\u2019 expe",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357364",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357364"
+  },
+  {
+    "type": "roundup",
+    "title": "Mortality and health outcomes associated with non-communicable disease risk factors: Protocol for the IRAN-STEPS Follow-Up Cohort (ISFUC) based on the 2021 national survey",
+    "text": "Mortality and health outcomes associated with non-communicable disease risk factors: Protocol for the IRAN-STEPS Follow-Up Cohort (ISFUC) based on the 2021 national survey \u2014 PLOS ONE. <p>by Hosein Ataei-Goujani, Sarmad Salehi, Pardis Zarepour, Ozra Tabatabaei-Malazy, Nazila Rezaei, Mina Mirzad, Anis Gharajeh, Samaneh Akbarpour, Yosra Azizpour</p>\n\nNon-communicable diseases (NCDs) account for more than 81% of all deaths in Iran and impose a substantial burden on the national healt",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356802",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356802"
+  },
+  {
+    "type": "roundup",
+    "title": "Noradrenergic infraslow rhythm during sleep is the critical link between heart-rate dynamics and memory consolidation",
+    "text": "Noradrenergic infraslow rhythm during sleep is the critical link between heart-rate dynamics and memory consolidation \u2014 eLife. Recent work shows that the brain\u2019s arousal system remains active during sleep, with rhythmic locus coeruleus (LC) activity shaping sleep architecture and supporting memory consolidation. The LC releases norepinephrine (NE) in infraslow (~0.02 Hz) bouts that gate NREM sleep spindles. Here, we demonst",
+    "paper_id": "https://elifesciences.org/articles/110252",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/110252"
+  },
+  {
+    "type": "roundup",
+    "title": "Dynamic fMRI networks of human emotion",
+    "text": "Dynamic fMRI networks of human emotion \u2014 eLife. The experience of emotions is that of dynamic, time-changing processes. Yet, many functional MRI (fMRI) studies of emotion average across time to focus on maps of static activations, overlooking the temporal dimension of emotional responses. In this study, we used time-resolved fMRI, group spatial i",
+    "paper_id": "https://elifesciences.org/articles/106070",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/106070"
+  },
+  {
+    "type": "roundup",
+    "title": "Pre-Cambrian origin of <i>envelope</i>-carrying retrotransposons in metazoans",
+    "text": "Pre-Cambrian origin of <i>envelope</i>-carrying retrotransposons in metazoans \u2014 eLife. Retrotransposons or endogenous retroviruses (ERVs) essentially carry open reading frames of <i>gag</i> and <i>pol</i>, which are utilized to selfishly replicate themselves in the host germline genome. One rare example of ERVs that additionally carry <i>envelope</i> genes is <i>Ty3/gypsy</i> errantiv",
+    "paper_id": "https://elifesciences.org/articles/108449",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/108449"
+  },
+  {
+    "type": "roundup",
+    "title": "Visual motion does not bias gravity-referenced vestibular coding in the primate cerebellar nodulus and uvula",
+    "text": "Visual motion does not bias gravity-referenced vestibular coding in the primate cerebellar nodulus and uvula \u2014 PLOS Biology. <p>by Lex J. G\u00f3mez, Robyn L. Mildren, Faisal Karmali, Kathleen E. Cullen</p>\n\nVisual motion is known to influence perceptions of tilt, verticality, and translation, suggesting that optic flow is combined with vestibular cues to estimate orientation relative to gravity. The cerebellar nodulus and ven",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003972",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003972"
+  },
+  {
+    "type": "roundup",
+    "title": "Ecological theory sheds light on plasmid diversity and dynamics",
+    "text": "Ecological theory sheds light on plasmid diversity and dynamics \u2014 PLOS Biology. <p>by R\u00e9mi Tuffet, Emma Acacia, Charles Coluzzi, Xavier Charpentier, Thomas Koffel, Samuel Venner</p>\n\nBacterial genomes are remarkably dynamic, shaped by horizontal gene transfer. Plasmids are key actors in this process, fueling rapid bacterial adaptation to stresses such as antibiotics. Yet, plasm",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003918",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003918"
+  },
+  {
+    "type": "roundup",
+    "title": "A clinical decision support tool for accurate hip fracture prediction: A nationwide cohort study",
+    "text": "A clinical decision support tool for accurate hip fracture prediction: A nationwide cohort study \u2014 PLOS Medicine. <p>by Kristian F. Axelsson, Henrik Litsne, Konstantinos Konstantinou, Hussnain Khalid, Aldina Pivodic, Mattias Lorentzon</p>\nBackground <p>Although hip fractures are commonly associated with functional decline, increased morbidity, and mortality, accurate models for both short- and long-term predict",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005190",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005190"
+  },
+  {
+    "type": "roundup",
+    "title": "Sex differences in trajectories to cardio-renal and mental health outcomes following the onset of type 2 diabetes: An observational cohort study using multi-state analysis in the UK Clinical Practice Research Datalink",
+    "text": "Sex differences in trajectories to cardio-renal and mental health outcomes following the onset of type 2 diabetes: An observational cohort study using multi-state analysis in the UK Clinical Practice Research Datalink \u2014 PLOS Medicine. <p>by Fabiola Eto, Miriam Samuel, Daniel Stow, Rafael Henkin, Alisha Angdembe, Michael R. Barnes, Sarah Finer, Rohini Mathur</p>\nBackground <p>Type 2 diabetes (T2D) presents a significant global health challenge, and its prevalence is expected to rise. T2D is associated with diverse complications, i",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005196",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005196"
+  },
+  {
+    "type": "roundup",
+    "title": "Integrated computational analysis prioritizes candidate targets and pathways linking ochratoxin A exposure to hepatocellular carcinoma",
+    "text": "Integrated computational analysis prioritizes candidate targets and pathways linking ochratoxin A exposure to hepatocellular carcinoma \u2014 PLOS ONE. <p>by Shili Yang, Huaiquan Liu, Haiyang Kou, Lingyan Lai, Xinyan Zhang, Yunling Xu, Yu Sun, Bo Chen</p>\n\nOchratoxin A (OTA), a food-borne mycotoxin, has been implicated in hepatotoxicity and potential carcinogenic processes, yet the molecular links between OTA exposure and hepatocellular carcinoma (",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357594",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357594"
+  },
+  {
+    "type": "roundup",
+    "title": "Incorporating husband\u2019s influence in estimating unmet need for contraception using modified revised algorithm",
+    "text": "Incorporating husband\u2019s influence in estimating unmet need for contraception using modified revised algorithm \u2014 PLOS ONE. <p>by Gerald Mbuthia Mahuro, Murungaru Kimani, Andrew Kyalo Mutuku</p>\n\nUnmet need for contraception is defined as the proportion of exposed fecund reproductive age women desiring to limit fertility but who are contraceptive nonusers, and it has invaluable contributions to population dynamics polici",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357392",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357392"
+  },
+  {
+    "type": "roundup",
+    "title": "Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial",
+    "text": "Adherence to smartphone-delivered antimicrobial prescribing guidelines in hospitals in Lao PDR: A stepped-wedge cluster randomized controlled trial \u2014 PLOS Medicine. <p>by Vilada Chansamouth, Danoy Chommanam, Sue J. Lee, Susath Vongphachanh, Manivanh Vongsouvath, Sommay Keomany, Viladeth Paphasiri, Chanthala Phamisith, Siho Sengsavang, Phouvieng Douangdala, Khamsay Detleuxay, Sommana Rattana, Bandith Soumphonphakdy, Valy Keoluangkhot, Mavuto Mukaka, Nicholas P.",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005205",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005205"
+  },
+  {
+    "type": "roundup",
+    "title": "Estimates of global burden of snakebite: A literature review and geostatistical modelling study",
+    "text": "Estimates of global burden of snakebite: A literature review and geostatistical modelling study \u2014 PLOS Medicine. <p>by Dileepa Senajith Ediriweera, Anuradhani Kasturiratne, Arunasalam Pathmeswaran, Ymkje Stienstra, Gerardo Mart\u00edn, Takuya Iwamura, Kris A. Murray, Hithanadura Janaka de Silva, Peter John Diggle, David Griffith Lalloo</p>\nBackground <p>Snake envenoming (SE) remains an important public health probl",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005201",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005201"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]
