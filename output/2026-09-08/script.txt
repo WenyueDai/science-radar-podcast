@@ -1,0 +1,120 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Squidly harnesses enzyme functional hierarchy and contrastive learning to efficiently predict catalytic residues from sequence
+============================================================
+Squidly harnesses enzyme functional hierarchy and contrastive learning to efficiently predict catalytic residues from sequence — eLife. Enzymes present a sustainable alternative to traditional chemical industries, drug synthesis, and bioremediation applications. Because catalytic residues are the key amino acids that drive enzyme function, their accurate prediction facilitates enzyme function prediction. Sequence similarity-based ap
+
+============================================================
+[ROUNDUP] <i>In extracto</i> cryo-EM reveals eEF2 as a major hibernation factor on 60S and 80S particles
+============================================================
+<i>In extracto</i> cryo-EM reveals eEF2 as a major hibernation factor on 60S and 80S particles — eLife. Cryogenic electron microscopy (cryo-EM) made impressive progress in resolving cellular macromolecules and their detailed interactions. Single-particle cryo-EM traditionally relies on purified macromolecules and lacks the complexity of cellular environments, whereas <i>in situ</i> cryo-EM and cryogen
+
+============================================================
+[ROUNDUP] Cardiolipin deficiency disrupts electron transport chain and drives steatohepatitis
+============================================================
+Cardiolipin deficiency disrupts electron transport chain and drives steatohepatitis — eLife. Metabolic dysfunction-associated steatotic liver disease (MASLD) is a progressive disorder marked by lipid accumulation, leading to metabolic dysfunction-associated steatohepatitis (MASH). A key feature of the transition to MASH involves oxidative stress resulting from defects in mitochondrial oxida
+
+============================================================
+[ROUNDUP] Rethinking fitspiration in social media: Experimental insights from young Chinese women
+============================================================
+Rethinking fitspiration in social media: Experimental insights from young Chinese women — PLOS ONE. <p>by Siyi Song, Jinfeng Du, Huangkun Wei, Muhamad Shamsul Ibrahim, Hamedi Mohd Adnan</p>
+
+As social media platforms increasingly influence contemporary understandings of health and the body, fitspiration—a blend of “fitness” and “inspiration”—has become a widespread visual genre that promotes exerc
+
+============================================================
+[ROUNDUP] Body parts used for ancient Egyptian artworks traced to surprising source
+============================================================
+Body parts used for ancient Egyptian artworks traced to surprising source — Nature News. <p>Nature, Published online: 04 September 2026; <a href="https://www.nature.com/articles/d41586-026-02739-3">doi:10.1038/d41586-026-02739-3</a></p>Coffin decorations and wall paintings were made with tissue from a broad range of organisms.
+
+============================================================
+[ROUNDUP] UN finally admits global warming will shoot past 1.5 ºC climate limit
+============================================================
+UN finally admits global warming will shoot past 1.5 ºC climate limit — Nature News. <p>Nature, Published online: 02 September 2026; <a href="https://www.nature.com/articles/d41586-026-02753-5">doi:10.1038/d41586-026-02753-5</a></p>Earth will breach a long-standing target before the end of the decade, report says.
+
+============================================================
+[ROUNDUP] Efficacy of different doses of oliceridine for Patient-Controlled Intravenous Analgesia in patients undergoing Total Laparoscopic Hysterectomy
+============================================================
+Efficacy of different doses of oliceridine for Patient-Controlled Intravenous Analgesia in patients undergoing Total Laparoscopic Hysterectomy — PLOS ONE. <p>by Jiaojiao Deng, Baobao Ma, Kaihua Wei, Tao Wei, Liping Xie, Hong Zhang, Changxu Wang</p>
+Objective <p>To evaluate the efficacy and safety of three oliceridine different doses for oliceridine for patient-controlled analgesia (PCIA) in patients undergoing during total laparoscopic hysterectomy, f
+
+============================================================
+[ROUNDUP] The American dream: Election night dreams predict overnight change in feelings about the election and the future
+============================================================
+The American dream: Election night dreams predict overnight change in feelings about the election and the future — PLOS ONE. <p>by William H. Livingston, Adam L. Putnam, Erin J. Wamsley</p>
+
+Real-life experiences are often incorporated into our dreams. Does dreaming about those experiences affect how we feel about them? Prior studies have suggested that dreaming may attenuate emotional reactivity overnight, with participa
+
+============================================================
+[ROUNDUP] Stage-specific threats reveal the inadequacy of adult-centered conservation
+============================================================
+Stage-specific threats reveal the inadequacy of adult-centered conservation — eLife. In an era of severe global biodiversity threats, understanding the link between species’ traits and their endangerment helps uncover causes of risk and infer threats to understudied species. Most animals have complex life cycles with distinct stages that may face stage-specific threats. Current cons
+
+============================================================
+[ROUNDUP] Impaired midfrontal‑motor theta phase synchronization characterizes maladaptive motivational behavior in people with obsessive‑compulsive disorder
+============================================================
+Impaired midfrontal‑motor theta phase synchronization characterizes maladaptive motivational behavior in people with obsessive‑compulsive disorder — PLOS Biology. <p>by Yu Pang, Dongsheng Zhou, Ziwen Peng, Wanting Liu, Ruojie Huang, Carol A. Seger, Qi Chen</p>
+
+Obsessive‑compulsive disorder (OCD) is characterized by an insight‑action dissociation, in which people with OCD recognize that their behavior is irrational but still struggle to inhibit habitual respo
+
+============================================================
+[ROUNDUP] Outbreaks of fluconazole-resistant <i>Candida parapsilosis</i> are driven by low-biofilm-producing isolates that emerge under host selection
+============================================================
+Outbreaks of fluconazole-resistant <i>Candida parapsilosis</i> are driven by low-biofilm-producing isolates that emerge under host selection — PLOS Biology. <p>by Farnaz Daneshnia, Deepika Gunasekaran, Sean Bergin, Lisa Lombardi, Austin M. Perry, Liuyang Cai, Louise A. Walker, Tibor Nemeth, Süleyha Hilmioglu-Polat, Letal I. Salzberg, Arefeh Ebadati, Tobias Köhler, Gabriel Braune, João N. de Almeida, Giuseppina Caggiano, Julianne V. Kus, Pegah Mosharaf G
+
+============================================================
+[ROUNDUP] The 100 Diatom Genomes Project
+============================================================
+The 100 Diatom Genomes Project — PLOS Biology. <p>by Thomas Mock, Gust Bilcke, Eliott Flaum, Shunan Fu, Lilian Hoch, Kevin Moog, Nadine Rijsdijk, Elizabeth C. Ruck, Ian W. Bishop, Carole Duchene, Reuben Gilbertson, Amanda Hopes, Christopher Johns, Francesco Manfellotto, Wade R. Roberts, Nigel Belshaw, Udita Chandola, Peter Chaerle, Olga Chepurno
+
+============================================================
+[ROUNDUP] Neutralising antibodies and protection from progression to severe COVID-19: A meta-analysis
+============================================================
+Neutralising antibodies and protection from progression to severe COVID-19: A meta-analysis — PLOS Medicine. <p>by Karen M. Elias, Ainslie Mitchell, Eva Stadler, Timothy E. Schlub, Shanchita R. Khan, Claire Xue, Stephen J. Kent, Deborah Cromer, Miles P. Davenport, David S. Khoury</p>
+Background <p>Vaccine-induced neutralising antibodies are a well-established correlate of protection against acquisition of
+
+============================================================
+[ROUNDUP] Effect of a person-centered care intervention on return and sustained reengagement after treatment interruptions from HIV care in Zambia: A post-hoc analysis of a stepped-wedged cluster randomized trial
+============================================================
+Effect of a person-centered care intervention on return and sustained reengagement after treatment interruptions from HIV care in Zambia: A post-hoc analysis of a stepped-wedged cluster randomized trial — PLOS Medicine. <p>by Aaloke Mody, Kombatende Sikombe, Sandra Simbeza, Njekwa Mukamba, Laura K. Beres, Jake M. Pry, Anjali Sharma, Jacob Mutale, Alida Zulu Dube, Musunge Mulabe, Lloyd Mulenga, Suilanji Sivile, April Ratliff, Charles W. Goss, Charles B. Holmes, Carolyn Bolton Moore, Izukanji Sikazwe, Elvin H. Geng</
+
+============================================================
+[ROUNDUP] Evaluation of the FI-Lab, a laboratory-based, automated frailty index for acute care: A multicohort study
+============================================================
+Evaluation of the FI-Lab, a laboratory-based, automated frailty index for acute care: A multicohort study — PLOS Medicine. <p>by Hugh Logan Ellis, Peter Hanlon, Liam Dunnell, Martin Whyte, Daniel H. J. Davis, Josephine Bates, Adeel Jafri, Diana Shamsutdinova, James T. Teo, Zina Ibrahim, Kenneth Rockwood</p>
+Background <p>Laboratory-based frailty indices (FI-Lab) have shown promise in geriatric medicine research. We aime
+
+============================================================
+[ROUNDUP] Post-occupancy evaluation of former residences of celebrities in Yangzhou based on the comparison of online reviews and questionnaire data
+============================================================
+Post-occupancy evaluation of former residences of celebrities in Yangzhou based on the comparison of online reviews and questionnaire data — PLOS ONE. <p>by Kexin Wei, Ziyang Wang, Xinyu Duan, Wei Liu, Yueling Xiao, Rong Zhu</p>
+
+Online review data and traditional questionnaire data are common data sources in the current field of cultural heritage research. The former features a large data volume yet suffers from obvious limitations such as incomp
+
+============================================================
+[ROUNDUP] Hyperglycemic stress aggravates diabetic retinopathy and nephropathy by promoting cilium disassembly via a deacetylation- and methylation-mediated regulatory mechanism
+============================================================
+Hyperglycemic stress aggravates diabetic retinopathy and nephropathy by promoting cilium disassembly via a deacetylation- and methylation-mediated regulatory mechanism — PLOS Biology. <p>by Jie Ran, Changfeng Wei, Yang Yang, Yufei Zhang, Guizhi Guo, Nan Ma, Long Yin, Hongjun Fan, Jingrui Li, Heng Guo, Renshuai Zhang, Runa Wang, Dengwen Li, Min Liu</p>
+
+Primary cilia are essential microtubule-based sensory organelles, and their dysfunction has been increasingly linked to metabolic
+
+============================================================
+[ROUNDUP] Association between nirsevimab coverage and pediatric emergency department visits for bronchiolitis in 12 European countries: An interrupted time-series analysis
+============================================================
+Association between nirsevimab coverage and pediatric emergency department visits for bronchiolitis in 12 European countries: An interrupted time-series analysis — PLOS Medicine. <p>by Léa Lenglart, Luigi Titomanlio, Ilaria Alberti, Laura Almeida, Camille Aupiais, Esra Akyüz Özkan, Michael Barrett, Romain Basmaci, Ahmet Birbilen, Dorine Borensztajn, Catarina Braz Schönenberger, Silvia Bressan, Danilo Buonsenso, Teresa Campos, Susana Castanhinha, Antonio Chiaretti, Gemma Clar
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

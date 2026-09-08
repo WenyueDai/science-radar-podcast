@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-08",
+  "mp3": "output/2026-09-08/podcast_2026-09-08.mp3",
+  "paper_count": 18,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Squidly harnesses enzyme functional hierarchy and contrastive learning to efficiently predict catalytic residues from sequence",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108186",
+      "score": 1.5,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "<i>In extracto</i> cryo-EM reveals eEF2 as a major hibernation factor on 60S and 80S particles",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110114",
+      "score": 1.5,
+      "timestamp_sec": 53.135999999999996
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Cardiolipin deficiency disrupts electron transport chain and drives steatohepatitis",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/106976",
+      "score": 1.5,
+      "timestamp_sec": 80.784
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Rethinking fitspiration in social media: Experimental insights from young Chinese women",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357611",
+      "score": 1.5,
+      "timestamp_sec": 105.26400000000001
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Body parts used for ancient Egyptian artworks traced to surprising source",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02739-3",
+      "score": 1.119,
+      "timestamp_sec": 129.936
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "UN finally admits global warming will shoot past 1.5 \u00baC climate limit",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02753-5",
+      "score": 1.115,
+      "timestamp_sec": 146.424
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Efficacy of different doses of oliceridine for Patient-Controlled Intravenous Analgesia in patients undergoing Total Laparoscopic Hysterectomy",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357372",
+      "score": 1.0,
+      "timestamp_sec": 163.992
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "The American dream: Election night dreams predict overnight change in feelings about the election and the future",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357370",
+      "score": 1.0,
+      "timestamp_sec": 192.26399999999998
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Stage-specific threats reveal the inadequacy of adult-centered conservation",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110823",
+      "score": 1.0,
+      "timestamp_sec": 217.77599999999998
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Impaired midfrontal\u2011motor theta phase synchronization characterizes maladaptive motivational behavior in people with obsessive\u2011compulsive disorder",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003979",
+      "score": 1.0,
+      "timestamp_sec": 240.95999999999998
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Outbreaks of fluconazole-resistant <i>Candida parapsilosis</i> are driven by low-biofilm-producing isolates that emerge under host selection",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003973",
+      "score": 1.0,
+      "timestamp_sec": 269.4
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "The 100 Diatom Genomes Project",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003947",
+      "score": 1.0,
+      "timestamp_sec": 301.84799999999996
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Neutralising antibodies and protection from progression to severe COVID-19: A meta-analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005230",
+      "score": 1.0,
+      "timestamp_sec": 328.55999999999995
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Effect of a person-centered care intervention on return and sustained reengagement after treatment interruptions from HIV care in Zambia: A post-hoc analysis of a stepped-wedged cluster randomized trial",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005052",
+      "score": 1.0,
+      "timestamp_sec": 355.24799999999993
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Evaluation of the FI-Lab, a laboratory-based, automated frailty index for acute care: A multicohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005004",
+      "score": 1.0,
+      "timestamp_sec": 389.4959999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Post-occupancy evaluation of former residences of celebrities in Yangzhou based on the comparison of online reviews and questionnaire data",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357793",
+      "score": 1.0,
+      "timestamp_sec": 420.0959999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Hyperglycemic stress aggravates diabetic retinopathy and nephropathy by promoting cilium disassembly via a deacetylation- and methylation-mediated regulatory mechanism",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003975",
+      "score": 0.5,
+      "timestamp_sec": 446.27999999999986
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Association between nirsevimab coverage and pediatric emergency department visits for bronchiolitis in 12 European countries: An interrupted time-series analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005223",
+      "score": 0.5,
+      "timestamp_sec": 477.40799999999984
+    },
+    {
+      "index": 20,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 509.32799999999986
+    }
+  ]
+}
