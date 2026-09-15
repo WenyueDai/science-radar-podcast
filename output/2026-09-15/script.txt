@@ -1,0 +1,164 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Sarcomere dynamic instability and stochastic heterogeneity drive robust cardiomyocyte contraction
+============================================================
+Sarcomere dynamic instability and stochastic heterogeneity drive robust cardiomyocyte contraction — eLife. Cardiac contraction is driven by the collective action of cardiomyocytes (CMs) that contain parallel bundles of myofibrils consisting of linear chains of sarcomeres, the basic force-generating units. The dynamics of individual sarcomeres within intact CMs remain incompletely understood. While most m
+
+============================================================
+[ROUNDUP] Rivers deliver unexpectedly high loads of microplastics to the sea
+============================================================
+Rivers deliver unexpectedly high loads of microplastics to the sea — Nature News. <p>Nature, Published online: 10 September 2026; <a href="https://www.nature.com/articles/d41586-026-02866-x">doi:10.1038/d41586-026-02866-x</a></p>Intense rains coupled with poor waste management cause big spikes in pollution.
+
+============================================================
+[ROUNDUP] PRRT2 as an auxiliary regulator of Nav channel slow inactivation
+============================================================
+PRRT2 as an auxiliary regulator of Nav channel slow inactivation — eLife. During sustained activity, voltage-gated sodium (Nav) channels enter a slow-inactivated state to limit cellular hyperexcitability. Disruption of this regulatory process has been implicated in skeletal, cardiac, and neurological disorders. While the kinetics of this process are well characterized, it
+
+============================================================
+[ROUNDUP] In vitro sexual dimorphism establishment in schistosomes
+============================================================
+In vitro sexual dimorphism establishment in schistosomes — eLife. Schistosomes are parasitic flatworms that cause Schistosomiasis, a major neglected tropical disease that affects more than 250 million people worldwide. With two distinct sexes, a heterogametic female (ZW) and a homogametic male (ZZ), schistosomes are an exception among flatworms, which are largely
+
+============================================================
+[ROUNDUP] Cross-sensor domain adaptation multi-point monitoring network for mechanical fault diagnosis
+============================================================
+Cross-sensor domain adaptation multi-point monitoring network for mechanical fault diagnosis — PLOS ONE. <p>by Zhijie Zhou, Jiao Lu, Yu Ren, Songbin Li</p>
+
+In recent years, mechanical fault diagnosis systems based on multi-point sensor data fusion have achieved remarkable advancements. However, they still face several critical challenges: substantial data distribution discrepancies across monitoring p
+
+============================================================
+[ROUNDUP] Dual-domain self-supervised feature alignment via spectral–spatial representation learning for deepfake anomaly detection
+============================================================
+Dual-domain self-supervised feature alignment via spectral–spatial representation learning for deepfake anomaly detection — PLOS ONE. <p>by Yi He</p>
+
+Deepfake anomaly detection has become increasingly critical in visual security applications. However, many existing methods rely heavily on large-scale supervised forgery annotations and often struggle to capture subtle manipulation traces distributed across both spatial and frequen
+
+============================================================
+[ROUNDUP] ISD-YOLO: A lightweight and efficient feature extraction network for invoice seal detection
+============================================================
+ISD-YOLO: A lightweight and efficient feature extraction network for invoice seal detection — PLOS ONE. <p>by Xiaosi Song, Xiaohong Zhao, Caihua Ma, Wenpei Xu, Peng Shen</p>
+
+Invoice seal detection plays an important role in intelligent invoice processing by improving review efficiency and reducing potential financial risks. However, existing methods still face challenges in multi-scale feature repres
+
+============================================================
+[ROUNDUP] Clonal stochasticity in early NK cell response to mouse cytomegalovirus is generated by mature subsets of varying proliferative ability
+============================================================
+Clonal stochasticity in early NK cell response to mouse cytomegalovirus is generated by mature subsets of varying proliferative ability — eLife. Natural killer (NK) cells are classically defined as innate immune cells, but experiments show that mouse cytomegalovirus (MCMV) infection in C57BL/6 mice can cause NK cells to undergo antigen-specific proliferation and memory formation, similar to adaptive CD8+ T cells. One shared behavior between
+
+============================================================
+[ROUNDUP] Recurrent synapses between CO<sub>2</sub>-sensitive olfactory sensory neurons enable robust CO<sub>2</sub> detection in <i>Aedes aegypti</i> mosquitoes
+============================================================
+Recurrent synapses between CO<sub>2</sub>-sensitive olfactory sensory neurons enable robust CO<sub>2</sub> detection in <i>Aedes aegypti</i> mosquitoes — PLOS Biology. <p>by Jialu Bao, Wesley Alford, Avinash Khandelwal, Laurel Walsh, George Lantz, Santiago Poncio, Laia Serratosa Capdevila, Yervand Azatian, Brian DePasquale, David G. C. Hildebrand, Meg A. Younger, Wei-Chung Allen Lee</p>
+
+The mosquito <i>Aedes aegypti</i>’s human host-seeking behavior depends on th
+
+============================================================
+[ROUNDUP] Brain structural and functional connectivity converge prenatally but diverge after birth
+============================================================
+Brain structural and functional connectivity converge prenatally but diverge after birth — PLOS Biology. <p>by Ruoke Zhao, Mingyang Li, Yuqi Zhang, Ruike Chen, Chenglin Ning, Zhiyong Zhao, Zhihan Yan, Meihao Wang, Dan Wu</p>
+
+Brain anatomical architecture supports its functional activity and complex cognitive processes. However, how the structure–function (SF) relationship establishes and develops duri
+
+============================================================
+[ROUNDUP] The longitudinal care cascade for hypertension in people with and without HIV in South Africa: A clinic-based observational study
+============================================================
+The longitudinal care cascade for hypertension in people with and without HIV in South Africa: A clinic-based observational study — PLOS Medicine. <p>by Siphamandla Bonga Gumede, Jennifer Manne-Goehler, Elizabeth Kelechi Oladimeji, Nicola Bulled, Alana T. Brennan, Samanta Tresha Lalla-Edward</p>
+Background <p>Hypertension (HTN) constitutes a major and growing public health challenge in South Africa, a setting where HIV prevalence also remains
+
+============================================================
+[ROUNDUP] Protein mediators of chronic kidney disease in Type 2 diabetes: A mendelian randomization study
+============================================================
+Protein mediators of chronic kidney disease in Type 2 diabetes: A mendelian randomization study — PLOS Medicine. <p>by Kevin Y. H. Liang, Thomas M. Zheng, Dandan Tan, Takayoshi Sasako, Yann Ilboudo, Yiheng Chen, Guillaume Butler-Laporte, Satoshi Yoshiji, J. Brent Richards</p>
+Background <p>Chronic kidney disease (CKD) occurs in 20–50% of the people living with Type 2 diabetes (T2D) and is the leading cause of
+
+============================================================
+[ROUNDUP] HIV diagnosis and treatment status in individuals dying from HIV in Zimbabwe, Malawi, and South Africa: A model comparison analysis
+============================================================
+HIV diagnosis and treatment status in individuals dying from HIV in Zimbabwe, Malawi, and South Africa: A model comparison analysis — PLOS Medicine. <p>by Loveleen Bansi-Matharu, Daniel T. Citron, Rowan Martin-Hughes, Haroon Moolla, John Stover, Michael Pickles, Tara Mangal, Jenny Smith, Owen Mugurungi, Mmatlou Simeon Kubyana, Isaac Taramusi, Valentina Cambiano, Amon Mpofu, Debra ten Brink, Edinah Mudimu, Tsitsi Apollo, Anna Bershteyn, Linley Ch
+
+============================================================
+[ROUNDUP] Multimodal protective and susceptibility clusters in paediatric atopic dermatitis: A machine learning-based, data-driven observational study
+============================================================
+Multimodal protective and susceptibility clusters in paediatric atopic dermatitis: A machine learning-based, data-driven observational study — PLOS Medicine. <p>by Damir Zhakparov, Nonhlanhla Lunjani, Marco Schmid, Kathleen Moriarty, Damian Roquero, Anita Dreher, Jeannette I. Heldstab-Kast, Kari C. Nadeau, Cezmi Akdis, Michael Levin, Carol Hlela, Milena Sokolowska, Liam O’Mahony, Katja Baerenfaller</p>
+Background <p>Atopic dermatitis (AD) is a chronic in
+
+============================================================
+[ROUNDUP] Levofloxacin-associated tendon disorders: Sex-, age-, and route-specific disproportionality analysis using FAERS and JADER
+============================================================
+Levofloxacin-associated tendon disorders: Sex-, age-, and route-specific disproportionality analysis using FAERS and JADER — PLOS ONE. <p>by Toshihisa Nakashima, Yoshihiro Noguchi, Rikuto Masuda, Tomoaki Yoshimura</p>
+
+This study evaluated the association between individual fluoroquinolones and tendon disorders in Japan using two spontaneous reporting systems: the Food and Drug Administration Adverse Event Reporting System (FAERS)
+
+============================================================
+[ROUNDUP] Phone-call tutorials improve learning cost-effectively during education emergencies
+============================================================
+Phone-call tutorials improve learning cost-effectively during education emergencies — Nature News. <p>Nature, Published online: 09 September 2026; <a href="https://www.nature.com/articles/d41586-026-02700-4">doi:10.1038/d41586-026-02700-4</a></p>Across five randomized trials in India, Kenya, Nepal, the Philippines and Uganda, weekly 20-minute mobile-phone-call tutorials produced large learning ga
+
+============================================================
+[ROUNDUP] Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’
+============================================================
+Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope’s ‘Little Red Dots.’ — Quanta Magazine. The James Webb Space Telescope spots mysterious “little red dots” everywhere. A bold new theory suggests they’re suns dozens of times larger than our entire solar system.             <p>The post <a href="https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telesc
+
+============================================================
+[ROUNDUP] Family-based analyses show how children’s genetics shape key traits
+============================================================
+Family-based analyses show how children’s genetics shape key traits — Nature News. <p>Nature, Published online: 09 September 2026; <a href="https://www.nature.com/articles/d41586-026-02689-w">doi:10.1038/d41586-026-02689-w</a></p>The Norwegian Mother, Father and Child Cohort Study, called MoBa, includes genetic data from around 230,000 parents and children. Using about 44,000 fath
+
+============================================================
+[ROUNDUP] Difunctionalization of unsaturated hydrocarbons via EDA complexes to access pentafluorosulfanyl thioethers
+============================================================
+Difunctionalization of unsaturated hydrocarbons via EDA complexes to access pentafluorosulfanyl thioethers — Nature Communications. <p>Nature Communications, Published online: 14 September 2026; <a href="https://www.nature.com/articles/s41467-026-77739-y">doi:10.1038/s41467-026-77739-y</a></p>The pentafluorosulfanyl group is prized in medicinal chemistry for improving physicochemical properties of small molecules, yet its genera
+
+============================================================
+[ROUNDUP] Antagonistic roles of histone H3 lysine methyltransferases dictate tumor immune surveillance
+============================================================
+Antagonistic roles of histone H3 lysine methyltransferases dictate tumor immune surveillance — Nature Communications. <p>Nature Communications, Published online: 14 September 2026; <a href="https://www.nature.com/articles/s41467-026-76657-3">doi:10.1038/s41467-026-76657-3</a></p>Histone H3K36 methyltransferases are frequently altered in cancer, yet the distinct roles of H3K36 methylation states in tumorigenesis and
+
+============================================================
+[ROUNDUP] Uniform film formation helps tandem solar cells work better for longer
+============================================================
+Uniform film formation helps tandem solar cells work better for longer — Nature News. <p>Nature, Published online: 09 September 2026; <a href="https://www.nature.com/articles/d41586-026-02709-9">doi:10.1038/d41586-026-02709-9</a></p>When making mixed-halide perovskite films for use in solar cells, bromide-rich domains crystallize faster than iodide-rich ones do, leading to defects. A
+
+============================================================
+[ROUNDUP] Built-in electric field-boosted attomolar Pb²⁺ sensing on carboxylated black phosphorene
+============================================================
+Built-in electric field-boosted attomolar Pb²⁺ sensing on carboxylated black phosphorene — Nature Communications. <p>Nature Communications, Published online: 14 September 2026; <a href="https://www.nature.com/articles/s41467-026-77793-6">doi:10.1038/s41467-026-77793-6</a></p>Lead ion (Pb²⁺) contamination remains a threat to environmental safety and human health, requiring sensitive detectors. Here, the authors
+
+============================================================
+[ROUNDUP] AI Has Solved One of Math’s $1 Million Millennium Prize Problems
+============================================================
+AI Has Solved One of Math’s $1 Million Millennium Prize Problems — Quanta Magazine. Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes “blow up.” But the massive result is not without controversy.            <p>The post <a href="https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-
+
+============================================================
+[ROUNDUP] What Is Math’s Mysterious Langlands Program Really About?
+============================================================
+What Is Math’s Mysterious Langlands Program Really About? — Quanta Magazine. Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean.             <p>The post <a href="https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-2026090
+
+============================================================
+[ROUNDUP] Growth-rate coordination across the width of a leaf preserves its flatness
+============================================================
+Growth-rate coordination across the width of a leaf preserves its flatness — PLOS Biology. <p>by Kate Harline, Brendan Lane, Maura J. Zimmermann, Antoine Fruleux, Gabriella Mosca, Sören Strauss, Nik Tavakolian, James W. Satterlee, Chun-Biu Li, Abhyudai Singh, Arezki Boudaoud, Richard S. Smith, Adrienne H. K. Roeder</p>
+
+The growth and division of cells in plant leaves is highly dynamic in
+
+============================================================
+[ROUNDUP] Discovery Stack Pilot demonstrates the feasibility and outcomes of a scientist-designed peer-review model that separates quality and impact
+============================================================
+Discovery Stack Pilot demonstrates the feasibility and outcomes of a scientist-designed peer-review model that separates quality and impact — PLOS Biology. <p>by Maureen A. McGargill, Beiyun C. Liu, Michael S. Kuhns, Daniel Mucida, Isabella Rauch, Lauren B. Rodda, Meghan A. Koch, Hugo Gonzalez Velozo, Ken Cadwell, Tanya S. Freedman, Tiffany C. Scharschmidt, Richard Sever, Jose Ordovas-Montanes, Sara Suliman, Andrew Oberst, Brooke Runnette, Matthew F. K
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

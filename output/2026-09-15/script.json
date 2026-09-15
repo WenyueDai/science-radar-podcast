@@ -1,0 +1,254 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Sarcomere dynamic instability and stochastic heterogeneity drive robust cardiomyocyte contraction",
+    "text": "Sarcomere dynamic instability and stochastic heterogeneity drive robust cardiomyocyte contraction \u2014 eLife. Cardiac contraction is driven by the collective action of cardiomyocytes (CMs) that contain parallel bundles of myofibrils consisting of linear chains of sarcomeres, the basic force-generating units. The dynamics of individual sarcomeres within intact CMs remain incompletely understood. While most m",
+    "paper_id": "https://elifesciences.org/articles/97321",
+    "journal": "eLife",
+    "score": 2.5,
+    "url": "https://elifesciences.org/articles/97321"
+  },
+  {
+    "type": "roundup",
+    "title": "Rivers deliver unexpectedly high loads of microplastics to the sea",
+    "text": "Rivers deliver unexpectedly high loads of microplastics to the sea \u2014 Nature News. <p>Nature, Published online: 10 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02866-x\">doi:10.1038/d41586-026-02866-x</a></p>Intense rains coupled with poor waste management cause big spikes in pollution.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02866-x",
+    "journal": "Nature News",
+    "score": 1.613,
+    "url": "https://www.nature.com/articles/d41586-026-02866-x"
+  },
+  {
+    "type": "roundup",
+    "title": "PRRT2 as an auxiliary regulator of Nav channel slow inactivation",
+    "text": "PRRT2 as an auxiliary regulator of Nav channel slow inactivation \u2014 eLife. During sustained activity, voltage-gated sodium (Nav) channels enter a slow-inactivated state to limit cellular hyperexcitability. Disruption of this regulatory process has been implicated in skeletal, cardiac, and neurological disorders. While the kinetics of this process are well characterized, it",
+    "paper_id": "https://elifesciences.org/articles/109327",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/109327"
+  },
+  {
+    "type": "roundup",
+    "title": "In vitro sexual dimorphism establishment in schistosomes",
+    "text": "In vitro sexual dimorphism establishment in schistosomes \u2014 eLife. Schistosomes are parasitic flatworms that cause Schistosomiasis, a major neglected tropical disease that affects more than 250 million people worldwide. With two distinct sexes, a heterogametic female (ZW) and a homogametic male (ZZ), schistosomes are an exception among flatworms, which are largely",
+    "paper_id": "https://elifesciences.org/articles/111066",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/111066"
+  },
+  {
+    "type": "roundup",
+    "title": "Cross-sensor domain adaptation multi-point monitoring network for mechanical fault diagnosis",
+    "text": "Cross-sensor domain adaptation multi-point monitoring network for mechanical fault diagnosis \u2014 PLOS ONE. <p>by Zhijie Zhou, Jiao Lu, Yu Ren, Songbin Li</p>\n\nIn recent years, mechanical fault diagnosis systems based on multi-point sensor data fusion have achieved remarkable advancements. However, they still face several critical challenges: substantial data distribution discrepancies across monitoring p",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358240",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358240"
+  },
+  {
+    "type": "roundup",
+    "title": "Dual-domain self-supervised feature alignment via spectral\u2013spatial representation learning for deepfake anomaly detection",
+    "text": "Dual-domain self-supervised feature alignment via spectral\u2013spatial representation learning for deepfake anomaly detection \u2014 PLOS ONE. <p>by Yi He</p>\n\nDeepfake anomaly detection has become increasingly critical in visual security applications. However, many existing methods rely heavily on large-scale supervised forgery annotations and often struggle to capture subtle manipulation traces distributed across both spatial and frequen",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358049",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358049"
+  },
+  {
+    "type": "roundup",
+    "title": "ISD-YOLO: A lightweight and efficient feature extraction network for invoice seal detection",
+    "text": "ISD-YOLO: A lightweight and efficient feature extraction network for invoice seal detection \u2014 PLOS ONE. <p>by Xiaosi Song, Xiaohong Zhao, Caihua Ma, Wenpei Xu, Peng Shen</p>\n\nInvoice seal detection plays an important role in intelligent invoice processing by improving review efficiency and reducing potential financial risks. However, existing methods still face challenges in multi-scale feature repres",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358190",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358190"
+  },
+  {
+    "type": "roundup",
+    "title": "Clonal stochasticity in early NK cell response to mouse cytomegalovirus is generated by mature subsets of varying proliferative ability",
+    "text": "Clonal stochasticity in early NK cell response to mouse cytomegalovirus is generated by mature subsets of varying proliferative ability \u2014 eLife. Natural killer (NK) cells are classically defined as innate immune cells, but experiments show that mouse cytomegalovirus (MCMV) infection in C57BL/6 mice can cause NK cells to undergo antigen-specific proliferation and memory formation, similar to adaptive CD8+ T cells. One shared behavior between",
+    "paper_id": "https://elifesciences.org/articles/104951",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/104951"
+  },
+  {
+    "type": "roundup",
+    "title": "Recurrent synapses between CO<sub>2</sub>-sensitive olfactory sensory neurons enable robust CO<sub>2</sub> detection in <i>Aedes aegypti</i> mosquitoes",
+    "text": "Recurrent synapses between CO<sub>2</sub>-sensitive olfactory sensory neurons enable robust CO<sub>2</sub> detection in <i>Aedes aegypti</i> mosquitoes \u2014 PLOS Biology. <p>by Jialu Bao, Wesley Alford, Avinash Khandelwal, Laurel Walsh, George Lantz, Santiago Poncio, Laia Serratosa Capdevila, Yervand Azatian, Brian DePasquale, David G. C. Hildebrand, Meg A. Younger, Wei-Chung Allen Lee</p>\n\nThe mosquito <i>Aedes aegypti</i>\u2019s human host-seeking behavior depends on th",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003959",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003959"
+  },
+  {
+    "type": "roundup",
+    "title": "Brain structural and functional connectivity converge prenatally but diverge after birth",
+    "text": "Brain structural and functional connectivity converge prenatally but diverge after birth \u2014 PLOS Biology. <p>by Ruoke Zhao, Mingyang Li, Yuqi Zhang, Ruike Chen, Chenglin Ning, Zhiyong Zhao, Zhihan Yan, Meihao Wang, Dan Wu</p>\n\nBrain anatomical architecture supports its functional activity and complex cognitive processes. However, how the structure\u2013function (SF) relationship establishes and develops duri",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003927",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003927"
+  },
+  {
+    "type": "roundup",
+    "title": "The longitudinal care cascade for hypertension in people with and without HIV in South Africa: A clinic-based observational study",
+    "text": "The longitudinal care cascade for hypertension in people with and without HIV in South Africa: A clinic-based observational study \u2014 PLOS Medicine. <p>by Siphamandla Bonga Gumede, Jennifer Manne-Goehler, Elizabeth Kelechi Oladimeji, Nicola Bulled, Alana T. Brennan, Samanta Tresha Lalla-Edward</p>\nBackground <p>Hypertension (HTN) constitutes a major and growing public health challenge in South Africa, a setting where HIV prevalence also remains",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004957",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004957"
+  },
+  {
+    "type": "roundup",
+    "title": "Protein mediators of chronic kidney disease in Type 2 diabetes: A mendelian randomization study",
+    "text": "Protein mediators of chronic kidney disease in Type 2 diabetes: A mendelian randomization study \u2014 PLOS Medicine. <p>by Kevin Y. H. Liang, Thomas M. Zheng, Dandan Tan, Takayoshi Sasako, Yann Ilboudo, Yiheng Chen, Guillaume Butler-Laporte, Satoshi Yoshiji, J. Brent Richards</p>\nBackground <p>Chronic kidney disease (CKD) occurs in 20\u201350% of the people living with Type 2 diabetes (T2D) and is the leading cause of",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004802",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004802"
+  },
+  {
+    "type": "roundup",
+    "title": "HIV diagnosis and treatment status in individuals dying from HIV in Zimbabwe, Malawi, and South Africa: A model comparison analysis",
+    "text": "HIV diagnosis and treatment status in individuals dying from HIV in Zimbabwe, Malawi, and South Africa: A model comparison analysis \u2014 PLOS Medicine. <p>by Loveleen Bansi-Matharu, Daniel T. Citron, Rowan Martin-Hughes, Haroon Moolla, John Stover, Michael Pickles, Tara Mangal, Jenny Smith, Owen Mugurungi, Mmatlou Simeon Kubyana, Isaac Taramusi, Valentina Cambiano, Amon Mpofu, Debra ten Brink, Edinah Mudimu, Tsitsi Apollo, Anna Bershteyn, Linley Ch",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004864",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004864"
+  },
+  {
+    "type": "roundup",
+    "title": "Multimodal protective and susceptibility clusters in paediatric atopic dermatitis: A machine learning-based, data-driven observational study",
+    "text": "Multimodal protective and susceptibility clusters in paediatric atopic dermatitis: A machine learning-based, data-driven observational study \u2014 PLOS Medicine. <p>by Damir Zhakparov, Nonhlanhla Lunjani, Marco Schmid, Kathleen Moriarty, Damian Roquero, Anita Dreher, Jeannette I. Heldstab-Kast, Kari C. Nadeau, Cezmi Akdis, Michael Levin, Carol Hlela, Milena Sokolowska, Liam O\u2019Mahony, Katja Baerenfaller</p>\nBackground <p>Atopic dermatitis (AD) is a chronic in",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004917",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004917"
+  },
+  {
+    "type": "roundup",
+    "title": "Levofloxacin-associated tendon disorders: Sex-, age-, and route-specific disproportionality analysis using FAERS and JADER",
+    "text": "Levofloxacin-associated tendon disorders: Sex-, age-, and route-specific disproportionality analysis using FAERS and JADER \u2014 PLOS ONE. <p>by Toshihisa Nakashima, Yoshihiro Noguchi, Rikuto Masuda, Tomoaki Yoshimura</p>\n\nThis study evaluated the association between individual fluoroquinolones and tendon disorders in Japan using two spontaneous reporting systems: the Food and Drug Administration Adverse Event Reporting System (FAERS)",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358427",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358427"
+  },
+  {
+    "type": "roundup",
+    "title": "Phone-call tutorials improve learning cost-effectively during education emergencies",
+    "text": "Phone-call tutorials improve learning cost-effectively during education emergencies \u2014 Nature News. <p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02700-4\">doi:10.1038/d41586-026-02700-4</a></p>Across five randomized trials in India, Kenya, Nepal, the Philippines and Uganda, weekly 20-minute mobile-phone-call tutorials produced large learning ga",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02700-4",
+    "journal": "Nature News",
+    "score": 0.8,
+    "url": "https://www.nature.com/articles/d41586-026-02700-4"
+  },
+  {
+    "type": "roundup",
+    "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope\u2019s \u2018Little Red Dots.\u2019",
+    "text": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope\u2019s \u2018Little Red Dots.\u2019 \u2014 Quanta Magazine. The James Webb Space Telescope spots mysterious \u201clittle red dots\u201d everywhere. A bold new theory suggests they\u2019re suns dozens of times larger than our entire solar system.             <p>The post <a href=\"https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telesc",
+    "paper_id": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
+    "journal": "Quanta Magazine",
+    "score": 0.77,
+    "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/"
+  },
+  {
+    "type": "roundup",
+    "title": "Family-based analyses show how children\u2019s genetics shape key traits",
+    "text": "Family-based analyses show how children\u2019s genetics shape key traits \u2014 Nature News. <p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02689-w\">doi:10.1038/d41586-026-02689-w</a></p>The Norwegian Mother, Father and Child Cohort Study, called MoBa, includes genetic data from around 230,000 parents and children. Using about 44,000 fath",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02689-w",
+    "journal": "Nature News",
+    "score": 0.76,
+    "url": "https://www.nature.com/articles/d41586-026-02689-w"
+  },
+  {
+    "type": "roundup",
+    "title": "Difunctionalization of unsaturated hydrocarbons via EDA complexes to access pentafluorosulfanyl thioethers",
+    "text": "Difunctionalization of unsaturated hydrocarbons via EDA complexes to access pentafluorosulfanyl thioethers \u2014 Nature Communications. <p>Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77739-y\">doi:10.1038/s41467-026-77739-y</a></p>The pentafluorosulfanyl group is prized in medicinal chemistry for improving physicochemical properties of small molecules, yet its genera",
+    "paper_id": "https://www.nature.com/articles/s41467-026-77739-y",
+    "journal": "Nature Communications",
+    "score": 0.754,
+    "url": "https://www.nature.com/articles/s41467-026-77739-y"
+  },
+  {
+    "type": "roundup",
+    "title": "Antagonistic roles of histone H3 lysine methyltransferases dictate tumor immune surveillance",
+    "text": "Antagonistic roles of histone H3 lysine methyltransferases dictate tumor immune surveillance \u2014 Nature Communications. <p>Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-76657-3\">doi:10.1038/s41467-026-76657-3</a></p>Histone H3K36 methyltransferases are frequently altered in cancer, yet the distinct roles of H3K36 methylation states in tumorigenesis and",
+    "paper_id": "https://www.nature.com/articles/s41467-026-76657-3",
+    "journal": "Nature Communications",
+    "score": 0.754,
+    "url": "https://www.nature.com/articles/s41467-026-76657-3"
+  },
+  {
+    "type": "roundup",
+    "title": "Uniform film formation helps tandem solar cells work better for longer",
+    "text": "Uniform film formation helps tandem solar cells work better for longer \u2014 Nature News. <p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02709-9\">doi:10.1038/d41586-026-02709-9</a></p>When making mixed-halide perovskite films for use in solar cells, bromide-rich domains crystallize faster than iodide-rich ones do, leading to defects. A",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02709-9",
+    "journal": "Nature News",
+    "score": 0.752,
+    "url": "https://www.nature.com/articles/d41586-026-02709-9"
+  },
+  {
+    "type": "roundup",
+    "title": "Built-in electric field-boosted attomolar Pb\u00b2\u207a sensing on carboxylated black phosphorene",
+    "text": "Built-in electric field-boosted attomolar Pb\u00b2\u207a sensing on carboxylated black phosphorene \u2014 Nature Communications. <p>Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77793-6\">doi:10.1038/s41467-026-77793-6</a></p>Lead ion (Pb\u00b2\u207a) contamination remains a threat to environmental safety and human health, requiring sensitive detectors. Here, the authors",
+    "paper_id": "https://www.nature.com/articles/s41467-026-77793-6",
+    "journal": "Nature Communications",
+    "score": 0.747,
+    "url": "https://www.nature.com/articles/s41467-026-77793-6"
+  },
+  {
+    "type": "roundup",
+    "title": "AI Has Solved One of Math\u2019s $1 Million Millennium Prize Problems",
+    "text": "AI Has Solved One of Math\u2019s $1 Million Millennium Prize Problems \u2014 Quanta Magazine. Mathematicians at OpenAI showed that the Navier-Stokes equations, which describe how fluids flow, can sometimes \u201cblow up.\u201d But the massive result is not without controversy.            <p>The post <a href=\"https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-",
+    "paper_id": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+    "journal": "Quanta Magazine",
+    "score": 0.747,
+    "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/"
+  },
+  {
+    "type": "roundup",
+    "title": "What Is Math\u2019s Mysterious Langlands Program Really About?",
+    "text": "What Is Math\u2019s Mysterious Langlands Program Really About? \u2014 Quanta Magazine. Hidden correspondences hint at a deeper structure to the mathematical universe. Our columnist unpacks one of those connections and asks mathematicians what they might mean.             <p>The post <a href=\"https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-2026090",
+    "paper_id": "https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/",
+    "journal": "Quanta Magazine",
+    "score": 0.74,
+    "url": "https://www.quantamagazine.org/what-is-maths-mysterious-langlands-program-really-about-20260909/"
+  },
+  {
+    "type": "roundup",
+    "title": "Growth-rate coordination across the width of a leaf preserves its flatness",
+    "text": "Growth-rate coordination across the width of a leaf preserves its flatness \u2014 PLOS Biology. <p>by Kate Harline, Brendan Lane, Maura J. Zimmermann, Antoine Fruleux, Gabriella Mosca, S\u00f6ren Strauss, Nik Tavakolian, James W. Satterlee, Chun-Biu Li, Abhyudai Singh, Arezki Boudaoud, Richard S. Smith, Adrienne H. K. Roeder</p>\n\nThe growth and division of cells in plant leaves is highly dynamic in",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003993",
+    "journal": "PLOS Biology",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003993"
+  },
+  {
+    "type": "roundup",
+    "title": "Discovery Stack Pilot demonstrates the feasibility and outcomes of a scientist-designed peer-review model that separates quality and impact",
+    "text": "Discovery Stack Pilot demonstrates the feasibility and outcomes of a scientist-designed peer-review model that separates quality and impact \u2014 PLOS Biology. <p>by Maureen A. McGargill, Beiyun C. Liu, Michael S. Kuhns, Daniel Mucida, Isabella Rauch, Lauren B. Rodda, Meghan A. Koch, Hugo Gonzalez Velozo, Ken Cadwell, Tanya S. Freedman, Tiffany C. Scharschmidt, Richard Sever, Jose Ordovas-Montanes, Sara Suliman, Andrew Oberst, Brooke Runnette, Matthew F. K",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003986",
+    "journal": "PLOS Biology",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003986"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]
