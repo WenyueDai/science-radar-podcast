@@ -1,0 +1,173 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Overmassive black holes and little red dots naturally form in simulations",
+    "text": "Overmassive black holes and little red dots naturally form in simulations \u2014 Nature News. <p>Nature, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10985-8\">doi:10.1038/s41586-026-10985-8</a></p>Observations from the JWST reveal an unexpectedly abundant population of little red dots and overmassive black holes in the early Universe, which are con",
+    "paper_id": "https://www.nature.com/articles/s41586-026-10985-8",
+    "journal": "Nature News",
+    "score": 1.692,
+    "url": "https://www.nature.com/articles/s41586-026-10985-8"
+  },
+  {
+    "type": "roundup",
+    "title": "SpaMOAL is a deep learning method that enables accurate spatial domain identification from multi-omics data",
+    "text": "SpaMOAL is a deep learning method that enables accurate spatial domain identification from multi-omics data \u2014 PLOS Biology. <p>by Jinxia Wang, Yuying Huo, Rui Zhao, Yan Pan, Jianqiang Wu, Han Wang, Xiangyu Li</p>\n\nRecent advances in spatial multi-omics technologies have opened new avenues for characterizing tissue architecture and function in situ, by simultaneously providing multimodal and complementary information\u2014such",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003690",
+    "journal": "PLOS Biology",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003690"
+  },
+  {
+    "type": "roundup",
+    "title": "Blood test trend versus single threshold abnormality to discriminate cancer from non-cancer in patients with unexpected weight loss: A retrospective cohort study",
+    "text": "Blood test trend versus single threshold abnormality to discriminate cancer from non-cancer in patients with unexpected weight loss: A retrospective cohort study \u2014 PLOS Medicine. <p>by Brian D. Nicholson, Clare R. Bankhead, Sufen Zhu, Jason Lee Oke, Cynthia Wright Drakesmith, Rafael Perera, Frederick D. Richard Hobbs, Pradeep S. Virdee</p>\nBackground <p>Unexpected weight loss (UWL) is a non-specific cancer symptom. Abnormalities in the most recent blood test contribute to ca",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004956",
+    "journal": "PLOS Medicine",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004956"
+  },
+  {
+    "type": "roundup",
+    "title": "Experimental study on the engineering performance of LSP stabilized expansive soil under cyclic drying-wetting condition",
+    "text": "Experimental study on the engineering performance of LSP stabilized expansive soil under cyclic drying-wetting condition \u2014 PLOS ONE. <p>by Lin Qin, Jie Li, Fusheng Zha, Long Xu, Bo Kang</p>\n\nConventional binders to treat expansive soil commonly present challenges of high cost and significant environmental burdens. To address these limitations, this study proposes an environmentally sustainable binder termed LSP (lime-sodium silic",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358749",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358749"
+  },
+  {
+    "type": "roundup",
+    "title": "Flora-YOLO: A lightweight framework for real-time rose grading on edge devices via structural optimization and feature refinement",
+    "text": "Flora-YOLO: A lightweight framework for real-time rose grading on edge devices via structural optimization and feature refinement \u2014 PLOS ONE. <p>by Wenwei Liu, Jinyu Xu, Guoao Wang, Shuo Ding, Yuanbo Zhang, Runze Tian, Zejiang Li, Yuanzhe Ji, Li Zhang</p>\n\nPrecise flower grading in modern agriculture is critical for determining market value but remains hindered by inefficient manual labor and the computational constraints of edge devices.",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358742",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358742"
+  },
+  {
+    "type": "roundup",
+    "title": "Gene flow drives periods of both evolutionary stasis and change in a wild bird population",
+    "text": "Gene flow drives periods of both evolutionary stasis and change in a wild bird population \u2014 PLOS Biology. <p>by Simon Robin Evans, Henri Bouwmeester, Arie J. van Noordwijk, Marcel E. Visser, Erik Postma</p>\n\nThe struggle to explain the absence of evolutionary change in heritable, fitness-related traits of free-living populations has become emblematic of our ignorance of the evolutionary process in the w",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004004",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004004"
+  },
+  {
+    "type": "roundup",
+    "title": "The awareness-distress paradox: Traffic-related air pollution awareness and psychological distress among the parents of urban schoolchildren in a northeastern province, Thailand",
+    "text": "The awareness-distress paradox: Traffic-related air pollution awareness and psychological distress among the parents of urban schoolchildren in a northeastern province, Thailand \u2014 PLOS ONE. <p>by Rajitra Nawawonganun, Kittipong Sornlorm, Roshan Kumar Mahato</p>\n\nUrban air pollution is increasingly recognized as a mental-health risk, yet its impact on parents of schoolchildren remains understudied, particularly in rapidly urbanizing Southeast Asian cities. This study examined the preval",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358849",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358849"
+  },
+  {
+    "type": "roundup",
+    "title": "Mental health in academia: A national survey on risk and protective factors in the Indonesian context",
+    "text": "Mental health in academia: A national survey on risk and protective factors in the Indonesian context \u2014 PLOS ONE. <p>by Fitri Ariyanti Abidin, Evi Eliyanah, Fredrick Dermawan Purba, Anissa Lestari Kadiyono, Grace Natasha Sunardy, Syipa Husni Fadilah, Joeri K. Tijdink</p>\n\nUniversity academics are central to advancing higher education through teaching, research, and community engagement. However, mental-health c",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358652",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358652"
+  },
+  {
+    "type": "roundup",
+    "title": "Asymmetric introgression and thermal advantage jointly drive climate-mediated lineage turnover in a mixed-ploidy reed",
+    "text": "Asymmetric introgression and thermal advantage jointly drive climate-mediated lineage turnover in a mixed-ploidy reed \u2014 eLife. Species distribution forecasts often ignore intraspecific genetic variation, potentially missing climate-driven lineage shifts within native ranges. We integrated population genomics (495 individuals), common-garden experiments across four sites, and species distribution modeling (837 records) for t",
+    "paper_id": "https://elifesciences.org/articles/112160",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/112160"
+  },
+  {
+    "type": "roundup",
+    "title": "Enhanced tactile coding in rat neocortex under darkness",
+    "text": "Enhanced tactile coding in rat neocortex under darkness \u2014 eLife. Sensory systems are known for their adaptability, responding dynamically to changes in environmental conditions. A key example of this adaptability is the enhancement of tactile perception in the absence of visual input. Despite behavioral studies showing visual deprivation can improve tactile discr",
+    "paper_id": "https://elifesciences.org/articles/106554",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/106554"
+  },
+  {
+    "type": "roundup",
+    "title": "Infants at high and low likelihood for autism show different EEG developmental trajectories in speech tracking and statistical learning",
+    "text": "Infants at high and low likelihood for autism show different EEG developmental trajectories in speech tracking and statistical learning \u2014 eLife. Delayed onset of canonical babbling and first words is often reported in infants later diagnosed with autism spectrum disorder. Identifying the neural mechanisms underlying language acquisition in autism is therefore critical to inform early diagnosis, prognosis, and intervention strategies. In this",
+    "paper_id": "https://elifesciences.org/articles/109901",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/109901"
+  },
+  {
+    "type": "roundup",
+    "title": "MATR3 is essential for oocyte growth and maturation quality through a dual molecular mechanism",
+    "text": "MATR3 is essential for oocyte growth and maturation quality through a dual molecular mechanism \u2014 eLife. The molecular mechanisms governing mRNA accumulation during oocyte growth, essential for developmental competence, remain poorly understood. This study investigates the role of Matrin-3 (MATR3), a highly expressed RNA-binding protein in growing oocytes (GOs), using oocyte-specific knockout mouse mod",
+    "paper_id": "https://elifesciences.org/articles/110703",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/110703"
+  },
+  {
+    "type": "roundup",
+    "title": "AlloPool is a deep learning framework that infers protein allostery from molecular dynamics simulations",
+    "text": "AlloPool is a deep learning framework that infers protein allostery from molecular dynamics simulations \u2014 PLOS Biology. <p>by Matthieu Marfoglia, Miguel A. Pedraza-Joya, Lucas Guirardel, Aisima Chatzi Souleiman, Patrick Barth</p>\n\nRecent advances in artificial intelligence have transformed protein structure prediction and design. However, protein function is governed not only by static structures but also by the conf",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004002",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004002"
+  },
+  {
+    "type": "roundup",
+    "title": "Regional signaling controls stem cell-mediated regeneration in an invertebrate chordate",
+    "text": "Regional signaling controls stem cell-mediated regeneration in an invertebrate chordate \u2014 PLOS Biology. <p>by Tal Gordon, Tom Levy, Chester Jiamu Yu, Benyamin Rosental, Lauren Lubeck, Lucia Manni, Irving L. Weissman, Ayelet Voskoboynik</p>\n\nMany tissues harbor quiescent stem cells that activate after injury, yet how local signals regulate this transition is not well understood. The solitary ascidian <",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004000",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004000"
+  },
+  {
+    "type": "roundup",
+    "title": "Association of a multiple risk factor assessment and intervention program with risk of diabetes: A population-based matched cohort study",
+    "text": "Association of a multiple risk factor assessment and intervention program with risk of diabetes: A population-based matched cohort study \u2014 PLOS Medicine. <p>by Ernst Bergman, Anna Nordstr\u00f6m, Lars Nyberg, Peter Nordstr\u00f6m</p>\nBackground <p>Type 2 diabetes incidence remains high among older adults and contributes substantially to morbidity and healthcare burden. Most evidence supporting diabetes prevention derives from intensive lifestyle interventions",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005043",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005043"
+  },
+  {
+    "type": "roundup",
+    "title": "Accelerometer-derived real-world sleep stages and risk of incident diseases: A UK Biobank cohort study and phenome-wide association analysis",
+    "text": "Accelerometer-derived real-world sleep stages and risk of incident diseases: A UK Biobank cohort study and phenome-wide association analysis \u2014 PLOS Medicine. <p>by Jingsong Luo, Ruiyi Liu, Jie Yin, Wangnan Cao, Shengzhi Sun, Rui Chen</p>\nBackground <p>Previous studies utilizing self-reported data or polysomnography have found that poor sleep quality is associated with increased risk of morbidity and mortality. However, the association between real-world",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005213",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005213"
+  },
+  {
+    "type": "roundup",
+    "title": "HIV self-testing and the global diagnostic gap: Addressing a decade of missed opportunity",
+    "text": "HIV self-testing and the global diagnostic gap: Addressing a decade of missed opportunity \u2014 PLOS Medicine. <p>by Reuben Granich, Somya Gupta, Isabelle Munyangaju, Mike Ruffner</p>\nSummary points <p>In 2015, a survey-based analysis across 16 sub-Saharan African countries estimated that nearly half of people living with HIV were undiagnosed, implying ~11 million people in the region were outside the treatm",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005241",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005241"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

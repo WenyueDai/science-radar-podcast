@@ -1,0 +1,187 @@
+{
+  "date": "2026-09-22",
+  "mp3": "output/2026-09-22/podcast_2026-09-22.mp3",
+  "paper_count": 17,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Overmassive black holes and little red dots naturally form in simulations",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-10985-8",
+      "score": 1.692,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "SpaMOAL is a deep learning method that enables accurate spatial domain identification from multi-omics data",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003690",
+      "score": 1.5,
+      "timestamp_sec": 47.016
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Blood test trend versus single threshold abnormality to discriminate cancer from non-cancer in patients with unexpected weight loss: A retrospective cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004956",
+      "score": 1.5,
+      "timestamp_sec": 73.68
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Experimental study on the engineering performance of LSP stabilized expansive soil under cyclic drying-wetting condition",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358749",
+      "score": 1.5,
+      "timestamp_sec": 105.02400000000002
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Flora-YOLO: A lightweight framework for real-time rose grading on edge devices via structural optimization and feature refinement",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358742",
+      "score": 1.5,
+      "timestamp_sec": 131.4
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Gene flow drives periods of both evolutionary stasis and change in a wild bird population",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004004",
+      "score": 1.0,
+      "timestamp_sec": 158.184
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "The awareness-distress paradox: Traffic-related air pollution awareness and psychological distress among the parents of urban schoolchildren in a northeastern province, Thailand",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358849",
+      "score": 1.0,
+      "timestamp_sec": 182.30399999999997
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Mental health in academia: A national survey on risk and protective factors in the Indonesian context",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0358652",
+      "score": 1.0,
+      "timestamp_sec": 210.11999999999998
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Asymmetric introgression and thermal advantage jointly drive climate-mediated lineage turnover in a mixed-ploidy reed",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/112160",
+      "score": 1.0,
+      "timestamp_sec": 237.04799999999997
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Enhanced tactile coding in rat neocortex under darkness",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/106554",
+      "score": 1.0,
+      "timestamp_sec": 264.888
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Infants at high and low likelihood for autism show different EEG developmental trajectories in speech tracking and statistical learning",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109901",
+      "score": 1.0,
+      "timestamp_sec": 287.568
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "MATR3 is essential for oocyte growth and maturation quality through a dual molecular mechanism",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110703",
+      "score": 1.0,
+      "timestamp_sec": 313.63199999999995
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "AlloPool is a deep learning framework that infers protein allostery from molecular dynamics simulations",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004002",
+      "score": 1.0,
+      "timestamp_sec": 339.14399999999995
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Regional signaling controls stem cell-mediated regeneration in an invertebrate chordate",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004000",
+      "score": 1.0,
+      "timestamp_sec": 364.48799999999994
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Association of a multiple risk factor assessment and intervention program with risk of diabetes: A population-based matched cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005043",
+      "score": 1.0,
+      "timestamp_sec": 390.5279999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Accelerometer-derived real-world sleep stages and risk of incident diseases: A UK Biobank cohort study and phenome-wide association analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005213",
+      "score": 1.0,
+      "timestamp_sec": 417.5519999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "HIV self-testing and the global diagnostic gap: Addressing a decade of missed opportunity",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005241",
+      "score": 1.0,
+      "timestamp_sec": 446.4479999999999
+    },
+    {
+      "index": 19,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 471.2399999999999
+    }
+  ]
+}
