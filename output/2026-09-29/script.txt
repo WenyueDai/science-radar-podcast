@@ -1,0 +1,150 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] HADD: A hierarchy-aware disentangled diffusion framework with spatio-temporal denoising for 3D human pose estimation
+============================================================
+HADD: A hierarchy-aware disentangled diffusion framework with spatio-temporal denoising for 3D human pose estimation — PLOS ONE. <p>by Jinze Jiang, Zhongheng Jian, Hualing Zheng, Minsi Liang, Yuxing Shi, Liming Zhang</p>
+
+Monocular 3D Human Pose Estimation (3D HPE) is a core task in computer vision, which provides critical technical support for applications including VR/AR, immersive human-computer interaction, digital human
+
+============================================================
+[ROUNDUP] A widespread agricultural practice is an unexpected CO<sub>2</sub> sink
+============================================================
+A widespread agricultural practice is an unexpected CO<sub>2</sub> sink — Nature News. <p>Nature, Published online: 23 September 2026; <a href="https://www.nature.com/articles/d41586-026-02646-7">doi:10.1038/d41586-026-02646-7</a></p>‘Liming’ to reduce soil acidity has long been considered a carbon dioxide source, but in North America’s largest river basin, it has resulted in net capt
+
+============================================================
+[ROUNDUP] Surprising protein links dietary restriction to increased lifespan in flies
+============================================================
+Surprising protein links dietary restriction to increased lifespan in flies — Nature News. <p>Nature, Published online: 23 September 2026; <a href="https://www.nature.com/articles/d41586-026-02774-0">doi:10.1038/d41586-026-02774-0</a></p>A fruit-fly protein thought only to store amino acids in fact responds to nutritional deficiency in both development and adulthood, resulting in lifespan
+
+============================================================
+[ROUNDUP] Identifying a novel mechanism of L-leucine uptake in <i>Mycobacterium tuberculosis</i> using a chemical genomic approach
+============================================================
+Identifying a novel mechanism of L-leucine uptake in <i>Mycobacterium tuberculosis</i> using a chemical genomic approach — eLife. Amino acid biosynthesis is vital for <i>Mycobacterium tuberculosis</i> (Mtb) proliferation and tuberculosis (TB) pathogenesis. However, it is not clear how amino acids are transported in Mtb, particularly the branched-chain amino acids (BCAAs) that contribute to the production of the cell-wall lipid
+
+============================================================
+[ROUNDUP] Whole-organ single-cell mapping defines growth dynamics and clonal organization in developing and adult zebrafish livers
+============================================================
+Whole-organ single-cell mapping defines growth dynamics and clonal organization in developing and adult zebrafish livers — PLOS Biology. <p>by Hsiao-Yuh Roan, Xuejiao Tian, Wei-Chen Chu, Chia-Ming Lee, Hsin Chen, Fiorency Santoso, Chung-Han Wang, Yu-Hsiu Liu, Uday Kumar, He-Yun Hsiao, Chiou-Hwa Yuh, Bi-Chang Chen, Chen-Hui Chen</p>
+
+Vertebrate organs undergo massive growth during the post-embryonic period. Yet, our understanding of h
+
+============================================================
+[ROUNDUP] Pathogen subversion of neuro-epidermal signaling impairs lysosomal function to disrupt collagen homeostasis in <i>Caenorhabditis elegans</i>
+============================================================
+Pathogen subversion of neuro-epidermal signaling impairs lysosomal function to disrupt collagen homeostasis in <i>Caenorhabditis elegans</i> — PLOS Biology. <p>by Qian Li, Yating Liu, Hanyi Chen, Weilie Xiao, Bin Qi</p>
+
+The epidermis relies on collagen-rich extracellular matrices (ECMs) to maintain barrier integrity against pathogens. Lysosomes regulate cuticle collagen turnover, yet how neuronal signaling modulates epidermal lysosomal function and col
+
+============================================================
+[ROUNDUP] The inverted pyramid of care in modern-day obstetrics
+============================================================
+The inverted pyramid of care in modern-day obstetrics — PLOS Medicine. <p>by Laura A. Magee, Peter von Dadelszen, Kypros H. Nicolaides</p>
+Summary points <p>
+
+Traditional antenatal care consists of an accelerating frequency of visits with advancing gestational age, as the bulk of pregnancy complications occur in late pregnancy.
+
+
+The ‘inverted pyramid of care’ concept
+
+============================================================
+[ROUNDUP] Encampment sweeps and persistent homelessness among unhoused people who use drugs in Vancouver, Canada: A prospective cohort study
+============================================================
+Encampment sweeps and persistent homelessness among unhoused people who use drugs in Vancouver, Canada: A prospective cohort study — PLOS Medicine. <p>by Kanna Hayashi, Eric C. Sayre, Jennifer McDermid, Samona Marsh, Caitlin Shane, Michael-John Sheridan Milloy, P.O.W.E.R. , Thomas Kerr</p>
+Background <p>Housing is a key determinant of health. In response to increasingly visible homelessness amid a growing housing crisis, many jurisdictions in N
+
+============================================================
+[ROUNDUP] Evaluation of the tuberculosis notification impact from an intermediary-facilitated public–private mix intervention in Viet Nam: A population-level quasi-experimental study
+============================================================
+Evaluation of the tuberculosis notification impact from an intermediary-facilitated public–private mix intervention in Viet Nam: A population-level quasi-experimental study — PLOS Medicine. <p>by Luan Nguyen Quang Vo, Thuy Thi Thu Dong, Huy Ba Huynh, Binh Anh Luong, Huong Thi Lan Mo, Andrew James Codlin, Rachel Forse, Thuy Doan To Mai, Lan Phuong Nguyen, Jacob Creswell, Luong Van Dinh, Hoa Binh Nguyen, Phu Xuan Vu, Tuan Dinh Nguyen, Lan Huu Nguyen, Thi Minh Ha Dang, Son Van Luu, Nam Ho
+
+============================================================
+[ROUNDUP] The effect of lifestyle interventions in women with polyendocrine metabolic ovarian syndrome: A systematic review and meta-analysis
+============================================================
+The effect of lifestyle interventions in women with polyendocrine metabolic ovarian syndrome: A systematic review and meta-analysis — PLOS Medicine. <p>by Oladipupo Olalere, Min-Dee Koh, Katie Crabb, Olanike Ajijola, Saba Tariq, Chau Thien Tay, Aya Mousa, Soha Sobhy, Lynne Robinson, Rima Dhillon-Smith, Kathy Hoeger, Lisa Moran, Helena Teede, Shakila Thangaratinam</p>
+Background <p>Lifestyle interventions are recommended as first-line treatment i
+
+============================================================
+[ROUNDUP] Non-ablative dermal remodeling lasers in acquired dermal macular hyperpigmentation: A scoping review
+============================================================
+Non-ablative dermal remodeling lasers in acquired dermal macular hyperpigmentation: A scoping review — PLOS ONE. <p>by Virgilio Blandon, Halyma Gomez, Erick Correa, Miguel Borge, Maria-Jose Altamirano, Alessandro Alvarado, Taylys Leyton</p>
+Background <p>Acquired dermal macular hyperpigmentation (ADMH) encompasses a group of challenging pigmentary disorders characterized by dermal melanophages and variable lic
+
+============================================================
+[ROUNDUP] Technical-tactical indicators associated with winning in elite amateur boxing: A matched-pair analysis
+============================================================
+Technical-tactical indicators associated with winning in elite amateur boxing: A matched-pair analysis — PLOS ONE. <p>by Xuguang Chen, Mohamad Nizam Mohamed Shapie, Wenyao Chen</p>
+
+Identifying technical-tactical indicators associated with winning in elite amateur boxing remains challenging because each bout contains a naturally dependent winner-loser pair. Using a matched-pair notational design, we analysed 108
+
+============================================================
+[ROUNDUP] The perceived facilitators and barriers to the potential adoption of teledentistry among dental care providers in Saudi Arabia: A systematic review
+============================================================
+The perceived facilitators and barriers to the potential adoption of teledentistry among dental care providers in Saudi Arabia: A systematic review — PLOS ONE. <p>by Amjad Hakami, Sarika Mohan</p>
+
+Teledentistry has emerged as a tool that holds great potential to enhance access, efficiency, and continuity of oral healthcare delivery. In Saudi Arabia, its adoption is important in the context of the health transformation programme and Vision 2030, particular
+
+============================================================
+[ROUNDUP] Bifunctional architecture enables substrate catalysis and channeling in <i>Paracoccus</i> TMAO demethylase
+============================================================
+Bifunctional architecture enables substrate catalysis and channeling in <i>Paracoccus</i> TMAO demethylase — eLife. Substrate channeling enhances efficiency and prevents toxicity by directing unstable intermediates between active sites. Trimethylamine N-oxide demethylase (TDM) degrades trimethylamine N-oxide (TMAO) to dimethylamine and formaldehyde (HCHO), but the fate of HCHO has remained unclear. We report cryo
+
+============================================================
+[ROUNDUP] Building-block synthesis as a determinant of antibiotic persistence
+============================================================
+Building-block synthesis as a determinant of antibiotic persistence — Nature Communications. <p>Nature Communications, Published online: 28 September 2026; <a href="https://www.nature.com/articles/s41467-026-78277-3">doi:10.1038/s41467-026-78277-3</a></p>Reduced antibiotic target activity is a major driver of antibiotic treatment failure. While this has mostly been linked to the presence of
+
+============================================================
+[ROUNDUP] Efficient yet stable large perovskite solar modules made using surface treatment
+============================================================
+Efficient yet stable large perovskite solar modules made using surface treatment — Nature News. <p>Nature, Published online: 23 September 2026; <a href="https://www.nature.com/articles/d41586-026-02937-z">doi:10.1038/d41586-026-02937-z</a></p>Non-uniformities in the layer of passivator molecules, which are used to fix defects and protect the surface of perovskite material in solar cells, can l
+
+============================================================
+[ROUNDUP] A plant that reproduces sexually but has clone-like offspring
+============================================================
+A plant that reproduces sexually but has clone-like offspring — Nature News. <p>Nature, Published online: 23 September 2026; <a href="https://www.nature.com/articles/d41586-026-02789-7">doi:10.1038/d41586-026-02789-7</a></p>The plant Rhynchospora tenuis has no exchange of DNA between parental chromosomes during the production of male and female sex cells. Even so, it still t
+
+============================================================
+[ROUNDUP] Gravity Seems Holographic. What Does That Mean for Reality?
+============================================================
+Gravity Seems Holographic. What Does That Mean for Reality? — Quanta Magazine. The biggest breakthrough in modern theoretical physics is the discovery that gravity can collapse the dimensions of space. Physicists don’t yet understand the implications.            <p>The post <a href="https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-202609
+
+============================================================
+[ROUNDUP] Tau hyperphosphorylation impairs cooperative binding to microtubules and perturbs organelle trafficking in neurons
+============================================================
+Tau hyperphosphorylation impairs cooperative binding to microtubules and perturbs organelle trafficking in neurons — eLife. Tau, a neuronal microtubule-associated protein (MAP), organizes the axonal cytoskeleton, and regulates intracellular transport. Tau hyperphosphorylation is linked to neurodegeneration in tauopathies, including Alzheimer’s disease. Tau binds microtubules cooperatively to form cohesive envelopes, whic
+
+============================================================
+[ROUNDUP] Selective lifelong suppression of an odor processing channel in response to critical period experience
+============================================================
+Selective lifelong suppression of an odor processing channel in response to critical period experience — eLife. Sensory circuits undergo experience-dependent plasticity during early-life critical periods, attuning the nervous system to levels of key environmental stimuli. During a critical period in the <i>Drosophila</i> olfactory system, we found that exposure to ethyl butyrate (EB) induces glial phagocytosi
+
+============================================================
+[ROUNDUP] Epistasis and pleiotropy constrain the evolution of cross-reactive breadth in a broadly neutralizing influenza antibody
+============================================================
+Epistasis and pleiotropy constrain the evolution of cross-reactive breadth in a broadly neutralizing influenza antibody — PLOS Biology. <p>by Katrine E. Dailey, Yiquan Wang, Qi Wen Teo, Chaoyang Wang, Huibin Lv, Ruipeng Lei, Meixuan Tong, Lucia A. Rodriguez, Letianchu Wang, Nicholas C. Wu</p>
+
+The highly conserved influenza virus hemagglutinin (HA) stem domain is a major target for broadly neutralizing antibodies (bnAbs). However, d
+
+============================================================
+[ROUNDUP] A developmental single-cell atlas of the <i>Drosophila</i> visual system glia reveals cell type diversification and subcellular mRNA compartmentalization
+============================================================
+A developmental single-cell atlas of the <i>Drosophila</i> visual system glia reveals cell type diversification and subcellular mRNA compartmentalization — PLOS Biology. <p>by Amanda A. G. Ferreira, Sergio Córdoba, Raghuvanshi Rajesh, Ben Jiwon Choi, Claude Desplan</p>
+
+Glial cells are essential for proper nervous system development and function. To understand glial development and function, we comprehensively annotated the glial cells from two large single-cell mRN
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

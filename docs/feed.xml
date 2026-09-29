@@ -4,8 +4,15 @@
   <title>Science Radar</title>
   <description>Weekly deep-dives into surprising, frontier, and cross-disciplinary science</description>
   <language>en</language>
-  <lastBuildDate>Tue, 22 Sep 2026 06:06:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 06:51:02 +0000</lastBuildDate>
   
+  <item>
+    <title>Science Radar — 2026-09-29</title>
+    <description>22 papers analyzed</description>
+    <pubDate>Tue, 29 Sep 2026 04:00:00 +0000</pubDate>
+    <guid isPermaLink="false">episode-2026-09-29</guid>
+    <enclosure url='https://github.com/WenyueDai/science-radar-podcast/releases/download/episode-2026-09-29/podcast_2026-09-29.mp3' type='audio/mpeg'/>
+  </item>
   <item>
     <title>Science Radar — 2026-09-22</title>
     <description>17 papers analyzed</description>
@@ -138,13 +145,6 @@
     <pubDate>Tue, 05 May 2026 04:00:00 +0000</pubDate>
     <guid isPermaLink="false">episode-2026-05-05</guid>
     <enclosure url='https://github.com/WenyueDai/science-radar-podcast/releases/download/episode-2026-05-05/podcast_2026-05-05.mp3' type='audio/mpeg'/>
-  </item>
-  <item>
-    <title>Science Radar — 2026-04-28</title>
-    <description>25 papers analyzed</description>
-    <pubDate>Tue, 28 Apr 2026 04:00:00 +0000</pubDate>
-    <guid isPermaLink="false">episode-2026-04-28</guid>
-    <enclosure url='https://github.com/WenyueDai/science-radar-podcast/releases/download/episode-2026-04-28/podcast_2026-04-28.mp3' type='audio/mpeg'/>
   </item>
 </channel>
 </rss>
