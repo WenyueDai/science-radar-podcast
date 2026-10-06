@@ -1,0 +1,121 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Surprisingly Complex Waves Reveal the Brain’s Inner Workings
+============================================================
+Surprisingly Complex Waves Reveal the Brain’s Inner Workings — Quanta Magazine. Unexpected patterns traveling across the human brain may be reorganizing its activity in real time.            <p>The post <a href="https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/" target="_blank">Surprisingly Complex Waves Reveal the Brain’s Inne
+
+============================================================
+[ROUNDUP] Associating <i>Mycobacterium tuberculosis</i> genomic variants with minimum inhibitory concentrations to delamanid and pretomanid
+============================================================
+Associating <i>Mycobacterium tuberculosis</i> genomic variants with minimum inhibitory concentrations to delamanid and pretomanid — PLOS ONE. <p>by Ana Tsutsunava, Nestani Tukvadze, Zaza Avaliani, Galo A. Goig, Levan Jugheli, Sebastien Gagneux, Russell R. Kempker, Nino Maghradze</p>
+
+Emerging resistance to delamanid (DLM) and pretomanid (Pa) threatens drug-resistant tuberculosis (DR-TB) treatment outcomes. The lack of rapid molecular diag
+
+============================================================
+[ROUNDUP] Integrated multi-omics analysis reveals the molecular landscape and therapeutic strategies in Chinese cervical cancer patients
+============================================================
+Integrated multi-omics analysis reveals the molecular landscape and therapeutic strategies in Chinese cervical cancer patients — PLOS Biology. <p>by Tao Pan, Xucui Zhuang, Ya Zhang, Jiyu Guo, Si Li, Can Zhang, Lili Han, Fuxia Li, Yueying Gao, Jinyang Yu, Yongsheng Li, Chaoyang Sun</p>
+
+Genomic or transcriptomic sequencing guides the precision of cervical cancer (CC) diagnosis; however, the molecular profile of Asian patients remains poorly
+
+============================================================
+[ROUNDUP] Moral and perceptual conflict processing are implemented by distinct brain activation and functional connectivity patterns
+============================================================
+Moral and perceptual conflict processing are implemented by distinct brain activation and functional connectivity patterns — PLOS Biology. <p>by Ruida Zhu, Marcus Grueschow, Marius Moisa, Chao Liu, Christian C. Ruff</p>
+
+While humans resemble other primates in terms of motor and perceptual abilities, our behavior is uniquely characterized by morality—the ability to choose our actions based on specific ethical values. The evolutionary o
+
+============================================================
+[ROUNDUP] Targeting of conserved spike epitopes enables broad antibody neutralisation of diverse bat sarbecoviruses
+============================================================
+Targeting of conserved spike epitopes enables broad antibody neutralisation of diverse bat sarbecoviruses — PLOS Biology. <p>by Ayush Upadhyay, Jeffrey Seow, Yilmaz Alguel, Joseph Newman, Nazia Thakur, Abigail L. Hay, Jerry C. H. Tam, Andrea Nans, Richard J. Orton, Dalan Bailey, Peter Cherepanov, Katie J. Doores</p>
+
+The continuing evolution of SARS-CoV-2 variants of concern, and the increasing spillover potential of s
+
+============================================================
+[ROUNDUP] Adaptive introgression between two <i>Drosophila</i> species enhances heat tolerance despite barriers to gene flow
+============================================================
+Adaptive introgression between two <i>Drosophila</i> species enhances heat tolerance despite barriers to gene flow — PLOS Biology. <p>by Noora Poikela, Rhonda R. Snook, Jonna Kulmuni, Michael G. Ritchie</p>
+
+As global temperatures rise and heat waves become more frequent, populations must adapt rapidly to avoid local extinctions. Adaptive introgression allows species to quickly acquire adaptive genetic material from close relat
+
+============================================================
+[ROUNDUP] The association between disability and mortality among children and adolescents: A systematic review and meta-analysis
+============================================================
+The association between disability and mortality among children and adolescents: A systematic review and meta-analysis — PLOS Medicine. <p>by Maureen Moyo-Chilufya, Arthemon Nguweneza, Sara Rotenberg, Hannah Kuper, Tracey Smythe</p>
+Background <p>Mortality is a fundamental marker of population health and equity. Despite major global declines in mortality over recent decades, disparities in survival persist across childhood and adole
+
+============================================================
+[ROUNDUP] Selective serotonin reuptake inhibitors and immune checkpoint blockade in solid tumors: A target trial emulation with pan-cancer transcriptomic analyses
+============================================================
+Selective serotonin reuptake inhibitors and immune checkpoint blockade in solid tumors: A target trial emulation with pan-cancer transcriptomic analyses — PLOS Medicine. <p>by Po-Huang Chen, Ming-Shen Dai, Mao-Hsuan Huang, Hsin-Yu Chen, Li-Ting Kao, Tina Yi-Jin Hsieh, Hong-Jie Jhou, Cho-Hao Lee</p>
+Background <p>Preclinical evidence identifies the serotonin transporter (SERT, encoded by SLC6A4) as an immune checkpoint on CD8+ T cells, with selective serotonin reupta
+
+============================================================
+[ROUNDUP] Assessing a multicomponent quality improvement strategy for chronic care of cardiovascular diseases in India: The C-QIP randomized feasibility trial
+============================================================
+Assessing a multicomponent quality improvement strategy for chronic care of cardiovascular diseases in India: The C-QIP randomized feasibility trial — PLOS Medicine. <p>by Kavita Singh, Ambuj Roy, Dimple Kondal, Kalyani Nikhare, Mareesha Gandral, Satish G. Patil, Kiran Aithal, M. P. Girish, Mohit Gupta, Kushal Madan, J. P. S. Sawhney, Kamar Ali, Meetushi Jain, Savitesh Kushwaha, Devraj Jindal, Emily Mendenhall, Shivani A. Patel, K. M. Venkat Narayan, Nikhil Tand
+
+============================================================
+[ROUNDUP] Prenatal exposure to maternal depression and antidepressants and neurodevelopmental outcomes: A population cohort study
+============================================================
+Prenatal exposure to maternal depression and antidepressants and neurodevelopmental outcomes: A population cohort study — PLOS Medicine. <p>by Saraid McIlvride, Neha Rao, Sarjit Singh, Scott M. Nelson, Jill P. Pell, Michael Fleming</p>
+Background <p>The long-term effects of antidepressant use in pregnancy on child neurodevelopment are unclear; meanwhile antidepressant use in pregnancy is increasing. We aimed to clarify associations b
+
+============================================================
+[ROUNDUP] Assessing community-acquired acute infection in an irish emergency department: A retrospective observational study protocol
+============================================================
+Assessing community-acquired acute infection in an irish emergency department: A retrospective observational study protocol — PLOS ONE. <p>by Nandakumar Ravichandran, Etimbuk Umana, Tomas Breslin, Aoife Cotter, Walter Cullen</p>
+
+Sepsis is a life-threatening condition associated with substantial morbidity and mortality worldwide. In Ireland, the majority of sepsis cases are community-acquired; however, patients presenting to emergen
+
+============================================================
+[ROUNDUP] Network toxicology, molecular docking and molecular dynamics simulations for bisphenol A neurotoxicity in depression pathogenesis
+============================================================
+Network toxicology, molecular docking and molecular dynamics simulations for bisphenol A neurotoxicity in depression pathogenesis — PLOS ONE. <p>by Jinlian Zhang, Yuanhao Ma, Miguo Lu, Xiaohuan Jiang, Qingmi Zhong, Yan Zhang, Yan Xiong, Qiliang Wu, Lina Chen, Ruikang Pang</p>
+
+Bisphenol A (BPA), a widespread environmental endocrine disruptor, can cross the blood-brain barrier and exert neurotoxic effects closely associated with depression
+
+============================================================
+[ROUNDUP] Fracture propagation and permeability enhancement mechanisms induced by near-roof hydraulic fracturing in soft coal seams
+============================================================
+Fracture propagation and permeability enhancement mechanisms induced by near-roof hydraulic fracturing in soft coal seams — PLOS ONE. <p>by Yunheng Zhu, Xionggang Xie, Shujin Zhang, Peng Zhang, Huaiqian Liu, Deheng Jia</p>
+
+Soft and low-permeability coal seams are prone to borehole collapse, unstable gas-extraction pathways, and a restricted stimulation range when conventional in-seam fracturing is applied. To overcome these limit
+
+============================================================
+[ROUNDUP] A high-throughput assay for the measurement of Ca<sup>2+</sup> oscillations and insulin release from uniformly sized <i>mouse β-cell (MIN6</i>) spheroids
+============================================================
+A high-throughput assay for the measurement of Ca<sup>2+</sup> oscillations and insulin release from uniformly sized <i>mouse β-cell (MIN6</i>) spheroids — eLife. Diabetes mellitus is a rapidly growing global health challenge, necessitating the development of more effective anti-diabetic therapies, including drugs that improve insulin release from pancreatic β-cells. Traditional high-throughput screening methods typically rely on 2D β-cell cultures, but such
+
+============================================================
+[ROUNDUP] Human CD1c-autoreactive T-cells recognise <i>Mycobacterium tuberculosis</i>-infected antigen-presenting cells and display cytotoxic effector programmes
+============================================================
+Human CD1c-autoreactive T-cells recognise <i>Mycobacterium tuberculosis</i>-infected antigen-presenting cells and display cytotoxic effector programmes — eLife. Tuberculosis (TB), caused by <i>Mycobacterium tuberculosis</i> (Mtb), remains the leading cause of death from infection globally yet the contribution of non-classical T-cell pathways to human immunity remains poorly defined. CD1c-autoreactive T-cells, which recognise self-lipids presented by the ant
+
+============================================================
+[ROUNDUP] NK2R signaling governs intestinal lipid mobilization and mucosal inflammation
+============================================================
+NK2R signaling governs intestinal lipid mobilization and mucosal inflammation — eLife. Neuropeptidergic control of lipid metabolism is conserved and increasingly implicated in metabolic diseases, but receptor-level mechanisms remain unclear. Here, we identify the neurokinin-2 receptor (NK2R) as a central node linking tachykinin signals to intestinal lipid mobilization, epithelial comp
+
+============================================================
+[ROUNDUP] Distinct allosteric remodeling of HIV-1 Env dynamics on virions by gp41-directed antibodies reveals two modes of neutralization
+============================================================
+Distinct allosteric remodeling of HIV-1 Env dynamics on virions by gp41-directed antibodies reveals two modes of neutralization — eLife. HIV-1 envelope glycoprotein (Env), a gp120–gp41 trimer, undergoes coordinated conformational changes that drive membrane fusion and allow immune evasion by transiently concealing neutralization-sensitive epitopes. Most broadly neutralizing antibodies (bNAbs) target gp120, whereas a distinct subset r
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

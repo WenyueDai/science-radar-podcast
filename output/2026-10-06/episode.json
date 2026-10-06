@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-06",
+  "mp3": "output/2026-10-06/podcast_2026-10-06.mp3",
+  "paper_count": 17,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 20.616
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Surprisingly Complex Waves Reveal the Brain\u2019s Inner Workings",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "score": 2.207,
+      "timestamp_sec": 27.095999999999997
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Associating <i>Mycobacterium tuberculosis</i> genomic variants with minimum inhibitory concentrations to delamanid and pretomanid",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359717",
+      "score": 1.0,
+      "timestamp_sec": 45.71999999999999
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Integrated multi-omics analysis reveals the molecular landscape and therapeutic strategies in Chinese cervical cancer patients",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004029",
+      "score": 1.0,
+      "timestamp_sec": 76.032
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Moral and perceptual conflict processing are implemented by distinct brain activation and functional connectivity patterns",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004025",
+      "score": 1.0,
+      "timestamp_sec": 105.864
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Targeting of conserved spike epitopes enables broad antibody neutralisation of diverse bat sarbecoviruses",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003882",
+      "score": 1.0,
+      "timestamp_sec": 133.10399999999998
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Adaptive introgression between two <i>Drosophila</i> species enhances heat tolerance despite barriers to gene flow",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004028",
+      "score": 1.0,
+      "timestamp_sec": 162.76799999999997
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "The association between disability and mortality among children and adolescents: A systematic review and meta-analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004947",
+      "score": 1.0,
+      "timestamp_sec": 189.71999999999997
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Selective serotonin reuptake inhibitors and immune checkpoint blockade in solid tumors: A target trial emulation with pan-cancer transcriptomic analyses",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005262",
+      "score": 1.0,
+      "timestamp_sec": 217.07999999999996
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Assessing a multicomponent quality improvement strategy for chronic care of cardiovascular diseases in India: The C-QIP randomized feasibility trial",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004932",
+      "score": 1.0,
+      "timestamp_sec": 248.80799999999994
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Prenatal exposure to maternal depression and antidepressants and neurodevelopmental outcomes: A population cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004658",
+      "score": 1.0,
+      "timestamp_sec": 281.83199999999994
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Assessing community-acquired acute infection in an irish emergency department: A retrospective observational study protocol",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359954",
+      "score": 1.0,
+      "timestamp_sec": 309.8879999999999
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Network toxicology, molecular docking and molecular dynamics simulations for bisphenol A neurotoxicity in depression pathogenesis",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359940",
+      "score": 1.0,
+      "timestamp_sec": 336.3119999999999
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Fracture propagation and permeability enhancement mechanisms induced by near-roof hydraulic fracturing in soft coal seams",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359936",
+      "score": 1.0,
+      "timestamp_sec": 365.6879999999999
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "A high-throughput assay for the measurement of Ca<sup>2+</sup> oscillations and insulin release from uniformly sized <i>mouse \u03b2-cell (MIN6</i>) spheroids",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110428",
+      "score": 0.5,
+      "timestamp_sec": 392.47199999999987
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Human CD1c-autoreactive T-cells recognise <i>Mycobacterium tuberculosis</i>-infected antigen-presenting cells and display cytotoxic effector programmes",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110341",
+      "score": 0.5,
+      "timestamp_sec": 419.9519999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "NK2R signaling governs intestinal lipid mobilization and mucosal inflammation",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109903",
+      "score": 0.5,
+      "timestamp_sec": 450.74399999999986
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Distinct allosteric remodeling of HIV-1 Env dynamics on virions by gp41-directed antibodies reveals two modes of neutralization",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110887",
+      "score": 0.5,
+      "timestamp_sec": 476.9279999999998
+    },
+    {
+      "index": 19,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 506.7359999999998
+    }
+  ]
+}

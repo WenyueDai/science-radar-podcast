@@ -1,0 +1,173 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Surprisingly Complex Waves Reveal the Brain\u2019s Inner Workings",
+    "text": "Surprisingly Complex Waves Reveal the Brain\u2019s Inner Workings \u2014 Quanta Magazine. Unexpected patterns traveling across the human brain may be reorganizing its activity in real time.            <p>The post <a href=\"https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/\" target=\"_blank\">Surprisingly Complex Waves Reveal the Brain\u2019s Inne",
+    "paper_id": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "journal": "Quanta Magazine",
+    "score": 2.207,
+    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/"
+  },
+  {
+    "type": "roundup",
+    "title": "Associating <i>Mycobacterium tuberculosis</i> genomic variants with minimum inhibitory concentrations to delamanid and pretomanid",
+    "text": "Associating <i>Mycobacterium tuberculosis</i> genomic variants with minimum inhibitory concentrations to delamanid and pretomanid \u2014 PLOS ONE. <p>by Ana Tsutsunava, Nestani Tukvadze, Zaza Avaliani, Galo A. Goig, Levan Jugheli, Sebastien Gagneux, Russell R. Kempker, Nino Maghradze</p>\n\nEmerging resistance to delamanid (DLM) and pretomanid (Pa) threatens drug-resistant tuberculosis (DR-TB) treatment outcomes. The lack of rapid molecular diag",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359717",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359717"
+  },
+  {
+    "type": "roundup",
+    "title": "Integrated multi-omics analysis reveals the molecular landscape and therapeutic strategies in Chinese cervical cancer patients",
+    "text": "Integrated multi-omics analysis reveals the molecular landscape and therapeutic strategies in Chinese cervical cancer patients \u2014 PLOS Biology. <p>by Tao Pan, Xucui Zhuang, Ya Zhang, Jiyu Guo, Si Li, Can Zhang, Lili Han, Fuxia Li, Yueying Gao, Jinyang Yu, Yongsheng Li, Chaoyang Sun</p>\n\nGenomic or transcriptomic sequencing guides the precision of cervical cancer (CC) diagnosis; however, the molecular profile of Asian patients remains poorly",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004029",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004029"
+  },
+  {
+    "type": "roundup",
+    "title": "Moral and perceptual conflict processing are implemented by distinct brain activation and functional connectivity patterns",
+    "text": "Moral and perceptual conflict processing are implemented by distinct brain activation and functional connectivity patterns \u2014 PLOS Biology. <p>by Ruida Zhu, Marcus Grueschow, Marius Moisa, Chao Liu, Christian C. Ruff</p>\n\nWhile humans resemble other primates in terms of motor and perceptual abilities, our behavior is uniquely characterized by morality\u2014the ability to choose our actions based on specific ethical values. The evolutionary o",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004025",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004025"
+  },
+  {
+    "type": "roundup",
+    "title": "Targeting of conserved spike epitopes enables broad antibody neutralisation of diverse bat sarbecoviruses",
+    "text": "Targeting of conserved spike epitopes enables broad antibody neutralisation of diverse bat sarbecoviruses \u2014 PLOS Biology. <p>by Ayush Upadhyay, Jeffrey Seow, Yilmaz Alguel, Joseph Newman, Nazia Thakur, Abigail L. Hay, Jerry C. H. Tam, Andrea Nans, Richard J. Orton, Dalan Bailey, Peter Cherepanov, Katie J. Doores</p>\n\nThe continuing evolution of SARS-CoV-2 variants of concern, and the increasing spillover potential of s",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003882",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003882"
+  },
+  {
+    "type": "roundup",
+    "title": "Adaptive introgression between two <i>Drosophila</i> species enhances heat tolerance despite barriers to gene flow",
+    "text": "Adaptive introgression between two <i>Drosophila</i> species enhances heat tolerance despite barriers to gene flow \u2014 PLOS Biology. <p>by Noora Poikela, Rhonda R. Snook, Jonna Kulmuni, Michael G. Ritchie</p>\n\nAs global temperatures rise and heat waves become more frequent, populations must adapt rapidly to avoid local extinctions. Adaptive introgression allows species to quickly acquire adaptive genetic material from close relat",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004028",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004028"
+  },
+  {
+    "type": "roundup",
+    "title": "The association between disability and mortality among children and adolescents: A systematic review and meta-analysis",
+    "text": "The association between disability and mortality among children and adolescents: A systematic review and meta-analysis \u2014 PLOS Medicine. <p>by Maureen Moyo-Chilufya, Arthemon Nguweneza, Sara Rotenberg, Hannah Kuper, Tracey Smythe</p>\nBackground <p>Mortality is a fundamental marker of population health and equity. Despite major global declines in mortality over recent decades, disparities in survival persist across childhood and adole",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004947",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004947"
+  },
+  {
+    "type": "roundup",
+    "title": "Selective serotonin reuptake inhibitors and immune checkpoint blockade in solid tumors: A target trial emulation with pan-cancer transcriptomic analyses",
+    "text": "Selective serotonin reuptake inhibitors and immune checkpoint blockade in solid tumors: A target trial emulation with pan-cancer transcriptomic analyses \u2014 PLOS Medicine. <p>by Po-Huang Chen, Ming-Shen Dai, Mao-Hsuan Huang, Hsin-Yu Chen, Li-Ting Kao, Tina Yi-Jin Hsieh, Hong-Jie Jhou, Cho-Hao Lee</p>\nBackground <p>Preclinical evidence identifies the serotonin transporter (SERT, encoded by SLC6A4) as an immune checkpoint on CD8+\u2009T cells, with selective serotonin reupta",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005262",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005262"
+  },
+  {
+    "type": "roundup",
+    "title": "Assessing a multicomponent quality improvement strategy for chronic care of cardiovascular diseases in India: The C-QIP randomized feasibility trial",
+    "text": "Assessing a multicomponent quality improvement strategy for chronic care of cardiovascular diseases in India: The C-QIP randomized feasibility trial \u2014 PLOS Medicine. <p>by Kavita Singh, Ambuj Roy, Dimple Kondal, Kalyani Nikhare, Mareesha Gandral, Satish G. Patil, Kiran Aithal, M. P. Girish, Mohit Gupta, Kushal Madan, J. P. S. Sawhney, Kamar Ali, Meetushi Jain, Savitesh Kushwaha, Devraj Jindal, Emily Mendenhall, Shivani A. Patel, K. M. Venkat Narayan, Nikhil Tand",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004932",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004932"
+  },
+  {
+    "type": "roundup",
+    "title": "Prenatal exposure to maternal depression and antidepressants and neurodevelopmental outcomes: A population cohort study",
+    "text": "Prenatal exposure to maternal depression and antidepressants and neurodevelopmental outcomes: A population cohort study \u2014 PLOS Medicine. <p>by Saraid McIlvride, Neha Rao, Sarjit Singh, Scott M. Nelson, Jill P. Pell, Michael Fleming</p>\nBackground <p>The long-term effects of antidepressant use in pregnancy on child neurodevelopment are unclear; meanwhile antidepressant use in pregnancy is increasing. We aimed to clarify associations b",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004658",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004658"
+  },
+  {
+    "type": "roundup",
+    "title": "Assessing community-acquired acute infection in an irish emergency department: A retrospective observational study protocol",
+    "text": "Assessing community-acquired acute infection in an irish emergency department: A retrospective observational study protocol \u2014 PLOS ONE. <p>by Nandakumar Ravichandran, Etimbuk Umana, Tomas Breslin, Aoife Cotter, Walter Cullen</p>\n\nSepsis is a life-threatening condition associated with substantial morbidity and mortality worldwide. In Ireland, the majority of sepsis cases are community-acquired; however, patients presenting to emergen",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359954",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359954"
+  },
+  {
+    "type": "roundup",
+    "title": "Network toxicology, molecular docking and molecular dynamics simulations for bisphenol A neurotoxicity in depression pathogenesis",
+    "text": "Network toxicology, molecular docking and molecular dynamics simulations for bisphenol A neurotoxicity in depression pathogenesis \u2014 PLOS ONE. <p>by Jinlian Zhang, Yuanhao Ma, Miguo Lu, Xiaohuan Jiang, Qingmi Zhong, Yan Zhang, Yan Xiong, Qiliang Wu, Lina Chen, Ruikang Pang</p>\n\nBisphenol A (BPA), a widespread environmental endocrine disruptor, can cross the blood-brain barrier and exert neurotoxic effects closely associated with depression",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359940",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359940"
+  },
+  {
+    "type": "roundup",
+    "title": "Fracture propagation and permeability enhancement mechanisms induced by near-roof hydraulic fracturing in soft coal seams",
+    "text": "Fracture propagation and permeability enhancement mechanisms induced by near-roof hydraulic fracturing in soft coal seams \u2014 PLOS ONE. <p>by Yunheng Zhu, Xionggang Xie, Shujin Zhang, Peng Zhang, Huaiqian Liu, Deheng Jia</p>\n\nSoft and low-permeability coal seams are prone to borehole collapse, unstable gas-extraction pathways, and a restricted stimulation range when conventional in-seam fracturing is applied. To overcome these limit",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359936",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359936"
+  },
+  {
+    "type": "roundup",
+    "title": "A high-throughput assay for the measurement of Ca<sup>2+</sup> oscillations and insulin release from uniformly sized <i>mouse \u03b2-cell (MIN6</i>) spheroids",
+    "text": "A high-throughput assay for the measurement of Ca<sup>2+</sup> oscillations and insulin release from uniformly sized <i>mouse \u03b2-cell (MIN6</i>) spheroids \u2014 eLife. Diabetes mellitus is a rapidly growing global health challenge, necessitating the development of more effective anti-diabetic therapies, including drugs that improve insulin release from pancreatic \u03b2-cells. Traditional high-throughput screening methods typically rely on 2D \u03b2-cell cultures, but such",
+    "paper_id": "https://elifesciences.org/articles/110428",
+    "journal": "eLife",
+    "score": 0.5,
+    "url": "https://elifesciences.org/articles/110428"
+  },
+  {
+    "type": "roundup",
+    "title": "Human CD1c-autoreactive T-cells recognise <i>Mycobacterium tuberculosis</i>-infected antigen-presenting cells and display cytotoxic effector programmes",
+    "text": "Human CD1c-autoreactive T-cells recognise <i>Mycobacterium tuberculosis</i>-infected antigen-presenting cells and display cytotoxic effector programmes \u2014 eLife. Tuberculosis (TB), caused by <i>Mycobacterium tuberculosis</i> (Mtb), remains the leading cause of death from infection globally yet the contribution of non-classical T-cell pathways to human immunity remains poorly defined. CD1c-autoreactive T-cells, which recognise self-lipids presented by the ant",
+    "paper_id": "https://elifesciences.org/articles/110341",
+    "journal": "eLife",
+    "score": 0.5,
+    "url": "https://elifesciences.org/articles/110341"
+  },
+  {
+    "type": "roundup",
+    "title": "NK2R signaling governs intestinal lipid mobilization and mucosal inflammation",
+    "text": "NK2R signaling governs intestinal lipid mobilization and mucosal inflammation \u2014 eLife. Neuropeptidergic control of lipid metabolism is conserved and increasingly implicated in metabolic diseases, but receptor-level mechanisms remain unclear. Here, we identify the neurokinin-2 receptor (NK2R) as a central node linking tachykinin signals to intestinal lipid mobilization, epithelial comp",
+    "paper_id": "https://elifesciences.org/articles/109903",
+    "journal": "eLife",
+    "score": 0.5,
+    "url": "https://elifesciences.org/articles/109903"
+  },
+  {
+    "type": "roundup",
+    "title": "Distinct allosteric remodeling of HIV-1 Env dynamics on virions by gp41-directed antibodies reveals two modes of neutralization",
+    "text": "Distinct allosteric remodeling of HIV-1 Env dynamics on virions by gp41-directed antibodies reveals two modes of neutralization \u2014 eLife. HIV-1 envelope glycoprotein (Env), a gp120\u2013gp41 trimer, undergoes coordinated conformational changes that drive membrane fusion and allow immune evasion by transiently concealing neutralization-sensitive epitopes. Most broadly neutralizing antibodies (bNAbs) target gp120, whereas a distinct subset r",
+    "paper_id": "https://elifesciences.org/articles/110887",
+    "journal": "eLife",
+    "score": 0.5,
+    "url": "https://elifesciences.org/articles/110887"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]
