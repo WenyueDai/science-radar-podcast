@@ -1,0 +1,122 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] A membrane-disruptive action of VBIT-4 challenges its role as a widely used VDAC1 oligomerization inhibitor
+============================================================
+A membrane-disruptive action of VBIT-4 challenges its role as a widely used VDAC1 oligomerization inhibitor — eLife. Voltage-dependent anion channel (VDAC) is the most abundant protein of the mitochondrial outer membrane and a key regulator of metabolite exchange and mitochondrial physiology. Its oligomerization has been proposed to control processes such as mitochondrial DNA release and membrane remodeling, yet t
+
+============================================================
+[ROUNDUP] Synaptic connectome of a neurosecretory network in the <i>Drosophila</i> brain
+============================================================
+Synaptic connectome of a neurosecretory network in the <i>Drosophila</i> brain — eLife. Hormones mediate inter-organ signaling, which is crucial in orchestrating diverse behaviors and physiological processes, including sleep and activity, feeding, growth, metabolism, and reproduction. The pars intercerebralis and pars lateralis in insects represent major hubs that contain neurosecretor
+
+============================================================
+[ROUNDUP] Barriers and enablers shaping kidney transplant care delivery: Insights from Iraqi pharmacists
+============================================================
+Barriers and enablers shaping kidney transplant care delivery: Insights from Iraqi pharmacists — PLOS ONE. <p>by Sarah M. Faisal, Samer Imad Mohammed</p>
+Background <p>Kidney transplant care in low-resource countries is often affected by multiple factors, including workforce constraints, fragmented communication, and medication access challenges. Given pharmacists’ involvement in medication management an
+
+============================================================
+[ROUNDUP] TAL-CGBR: A class-guided boundary regression approach for Temporal Action Localization
+============================================================
+TAL-CGBR: A class-guided boundary regression approach for Temporal Action Localization — PLOS ONE. <p>by Jinling Wei, Haolong Chai, Wenwu Hou, Hongwen Yuan, Xiao Huang, Sufen Huang</p>
+
+Temporal Action Localization (TAL) aims to identify all action categories along with their precise temporal boundaries in untrimmed videos. It serves as a fundamental task supporting various downstream application
+
+============================================================
+[ROUNDUP] Overcoming key challenges in the evolutionary transition to multicellularity
+============================================================
+Overcoming key challenges in the evolutionary transition to multicellularity — Nature News. <p>Nature, Published online: 07 October 2026; <a href="https://www.nature.com/articles/s41586-026-11038-w">doi:10.1038/s41586-026-11038-w</a></p>This Review synthesizes an evolutionary framework for understanding the key stages, challenges and microevolutionary processes through which single cells e
+
+============================================================
+[ROUNDUP] JAK-STAT pathway heterogeneity governs immunotherapy response in breast cancer
+============================================================
+JAK-STAT pathway heterogeneity governs immunotherapy response in breast cancer — eLife. The JAK-STAT pathway (JSP) is a well-known oncogenic cascade; however, recent clinical trials have detected JSP upregulation in breast cancer following anti-PD-1 immunotherapy. This paradoxical observation warrants further investigation into JSP’s intercellular heterogeneity, tumor dynamics, molecul
+
+============================================================
+[ROUNDUP] Large-scale prospective evaluation of co-folding across hundreds of Mac1–ligand complexes and three virtual screens
+============================================================
+Large-scale prospective evaluation of co-folding across hundreds of Mac1–ligand complexes and three virtual screens — eLife. Accurate prediction of ligand-bound protein complexes and ranking them by affinity are central problems in drug discovery. While deep-learning co-folding methods can help address these challenges, their evaluation has been hampered by the difficulties in assessing independence from training data and
+
+============================================================
+[ROUNDUP] Menstrual health challenges and associated barriers among tribal adolescent girls in India: A systematic review
+============================================================
+Menstrual health challenges and associated barriers among tribal adolescent girls in India: A systematic review — PLOS ONE. <p>by Rohit Raj, Jarina Begum, Syed Irfan Ali, Manasee Panda, Vani Lakshmi R</p>
+Introduction <p>Menstrual health is a critical yet neglected public health issue among tribal adolescent girls in India, influenced by socio-cultural, economic, and infrastructural determinants. This review aimed to exp
+
+============================================================
+[ROUNDUP] Recombination shapes the dynamics of selective constraint in global populations of human gut bacteria
+============================================================
+Recombination shapes the dynamics of selective constraint in global populations of human gut bacteria — PLOS Biology. <p>by Zhiru Liu, Benjamin H. Good</p>
+
+The ratio of nonsynonymous to synonymous substitutions (dN/dS) encodes important information about the selection pressures acting on protein-coding genes. In bacterial populations, dN/dS often declines with the sequence divergence between strains, but the mecha
+
+============================================================
+[ROUNDUP] The <i>Cryptococcus neoformans</i> titanide is a pathogenic cell type that arises from typical yeast cells in response to host conditions
+============================================================
+The <i>Cryptococcus neoformans</i> titanide is a pathogenic cell type that arises from typical yeast cells in response to host conditions — PLOS Biology. <p>by Abigail M. Potton, Iana Kalinina, Gordon D. Brown, Maria Makarova, Sandra Catania, Dora E. Corzo-Leon, Elizabeth R. Ballou</p>
+
+Fungal morphogenesis is a major driver of disease outcome. For the opportunistic fungal pathogen <i>Cryptococcus neoformans</i>, extreme morphological heterogeneity w
+
+============================================================
+[ROUNDUP] Implicit sensorimotor adaptation comprises distinct mechanisms for action selection and execution
+============================================================
+Implicit sensorimotor adaptation comprises distinct mechanisms for action selection and execution — PLOS Biology. <p>by Tianhe Wang, Tony Lam, Jordan A. Taylor, Richard B. Ivry</p>
+
+The sensorimotor system is continuously adjusted to minimize error. Current theories assume that this adaptation process entails the operation of multiple learning systems, with a key division between implicit and explicit component
+
+============================================================
+[ROUNDUP] FuChi is a cell cycle biosensor for tracking cell cycle dynamics during avian development
+============================================================
+FuChi is a cell cycle biosensor for tracking cell cycle dynamics during avian development — PLOS Biology. <p>by Zoe R. Sudderick, Tiernan Briggs, Shirooza Mubarak, Melinda Van Kerckvoorde, Ana R. Hernandez Rodriguez, Sudeepta K. Panda, Jon Riddell, Cameron Batho-Samblas, Lorna Taylor, Lynn McTeir, Dominique Meunier, Amy Findlay, Flossie S. Roberts, Anna Raper, Asako Sakaue-Sawano, Atsushi Miyawaki, Joe
+
+============================================================
+[ROUNDUP] Comparative effectiveness of amlodipine versus nifedipine prescribed at discharge in patients with ischemic stroke or transient ischemic attack: A nationwide 5-year follow-up registry study
+============================================================
+Comparative effectiveness of amlodipine versus nifedipine prescribed at discharge in patients with ischemic stroke or transient ischemic attack: A nationwide 5-year follow-up registry study — PLOS Medicine. <p>by Xinya Li, Xue Xia, Meng Gao, Qin Xu, Yijun Zhang, Jing Jing, Yi Zhai, Xia Meng, Anxin Wang</p>
+Background <p>Amlodipine and nifedipine are the most commonly prescribed calcium channel blockers (CCB) for patients suffering from ischemic stroke or transient ischemic attack (TIA). Nevertheless, t
+
+============================================================
+[ROUNDUP] Experiences and perspectives of Ayurvedic practitioners on non-communicable disease management in the UK: A qualitative study
+============================================================
+Experiences and perspectives of Ayurvedic practitioners on non-communicable disease management in the UK: A qualitative study — PLOS ONE. <p>by Patricia Egwumba, Manpreet Bains, Laura Nellums, Kaushik Chattopadhyay</p>
+Introduction <p>Non-communicable diseases (NCDs) are a major public health challenge in the United Kingdom (UK), placing strain on the National Health Service (NHS). While Western medicine dominates NCD care, the use of
+
+============================================================
+[ROUNDUP] Predicting regional gray swans via translocation: AI weather models and Dubai’s unprecedented 2024 rainfall
+============================================================
+Predicting regional gray swans via translocation: AI weather models and Dubai’s unprecedented 2024 rainfall — Science Advances. Science Advances, Volume 12, Issue 41, October 2026. <br />
+
+============================================================
+[ROUNDUP] Genotype-informed docosahexaenoic acid dosing based on the FADS Indel to reduce preterm and prolonged gestation: A secondary analysis of the ADORE randomized trial
+============================================================
+Genotype-informed docosahexaenoic acid dosing based on the FADS Indel to reduce preterm and prolonged gestation: A secondary analysis of the ADORE randomized trial — PLOS Medicine. <p>by Yan Ning Li, Kumar S. D. Kothapalli, Susan E. Carlson, Byron J. Gajewski, Emily A. DeFranco, J. Thomas Brenna</p>
+Background <p>Spontaneous early preterm birth (EPB < 34 weeks) is a major contributor to newborn morbidity and mortality; it depends on ancestry, and preventive measures are limite
+
+============================================================
+[ROUNDUP] Potential health impacts and costs of active case finding guided by <i>Mycobacterium tuberculosis</i> immunoreactivity survey results in Blantyre, Malawi: A mathematical modeling study
+============================================================
+Potential health impacts and costs of active case finding guided by <i>Mycobacterium tuberculosis</i> immunoreactivity survey results in Blantyre, Malawi: A mathematical modeling study — PLOS Medicine. <p>by Sun Kim, Melike Hazal Can, Hannah M. Rickman, Mphatso D. Phiri, Marriott Nliwasa, Tisungane E. Mwenyenkulu, Kuzani Mbendera, Stéphane Verguet, Marcia C. Castro, Elizabeth L. Corbett, Peter MacPherson, Ted Cohen, Nicolas A. Menzies</p>
+Background <p>Active case finding (ACF) for tuberculosis (T
+
+============================================================
+[ROUNDUP] A machine learning-derived aging index for risk stratification and mortality prediction in cardiovascular-kidney-metabolic syndrome: A retrospective cohort study
+============================================================
+A machine learning-derived aging index for risk stratification and mortality prediction in cardiovascular-kidney-metabolic syndrome: A retrospective cohort study — PLOS Medicine. <p>by Zhengyang Zhu, Kejun Ren, Dong Wang, Yong Lv, Hua Jin, Lei Zhang, Yiping Wang</p>
+Background <p>The cardiovascular‑kidney‑metabolic (CKM) syndrome shows substantial heterogeneity in progression, yet existing biological age indices are not tailored to CKM pathways. We developed an aging index (
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

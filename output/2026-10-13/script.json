@@ -1,0 +1,182 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "A membrane-disruptive action of VBIT-4 challenges its role as a widely used VDAC1 oligomerization inhibitor",
+    "text": "A membrane-disruptive action of VBIT-4 challenges its role as a widely used VDAC1 oligomerization inhibitor \u2014 eLife. Voltage-dependent anion channel (VDAC) is the most abundant protein of the mitochondrial outer membrane and a key regulator of metabolite exchange and mitochondrial physiology. Its oligomerization has been proposed to control processes such as mitochondrial DNA release and membrane remodeling, yet t",
+    "paper_id": "https://elifesciences.org/articles/111980",
+    "journal": "eLife",
+    "score": 2.0,
+    "url": "https://elifesciences.org/articles/111980"
+  },
+  {
+    "type": "roundup",
+    "title": "Synaptic connectome of a neurosecretory network in the <i>Drosophila</i> brain",
+    "text": "Synaptic connectome of a neurosecretory network in the <i>Drosophila</i> brain \u2014 eLife. Hormones mediate inter-organ signaling, which is crucial in orchestrating diverse behaviors and physiological processes, including sleep and activity, feeding, growth, metabolism, and reproduction. The pars intercerebralis and pars lateralis in insects represent major hubs that contain neurosecretor",
+    "paper_id": "https://elifesciences.org/articles/102684",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/102684"
+  },
+  {
+    "type": "roundup",
+    "title": "Barriers and enablers shaping kidney transplant care delivery: Insights from Iraqi pharmacists",
+    "text": "Barriers and enablers shaping kidney transplant care delivery: Insights from Iraqi pharmacists \u2014 PLOS ONE. <p>by Sarah M. Faisal, Samer Imad Mohammed</p>\nBackground <p>Kidney transplant care in low-resource countries is often affected by multiple factors, including workforce constraints, fragmented communication, and medication access challenges. Given pharmacists\u2019 involvement in medication management an",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360647",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360647"
+  },
+  {
+    "type": "roundup",
+    "title": "TAL-CGBR: A class-guided boundary regression approach for Temporal Action Localization",
+    "text": "TAL-CGBR: A class-guided boundary regression approach for Temporal Action Localization \u2014 PLOS ONE. <p>by Jinling Wei, Haolong Chai, Wenwu Hou, Hongwen Yuan, Xiao Huang, Sufen Huang</p>\n\nTemporal Action Localization (TAL) aims to identify all action categories along with their precise temporal boundaries in untrimmed videos. It serves as a fundamental task supporting various downstream application",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360160",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360160"
+  },
+  {
+    "type": "roundup",
+    "title": "Overcoming key challenges in the evolutionary transition to multicellularity",
+    "text": "Overcoming key challenges in the evolutionary transition to multicellularity \u2014 Nature News. <p>Nature, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11038-w\">doi:10.1038/s41586-026-11038-w</a></p>This Review synthesizes an evolutionary framework for understanding the key stages, challenges and microevolutionary processes through which single cells e",
+    "paper_id": "https://www.nature.com/articles/s41586-026-11038-w",
+    "journal": "Nature News",
+    "score": 1.179,
+    "url": "https://www.nature.com/articles/s41586-026-11038-w"
+  },
+  {
+    "type": "roundup",
+    "title": "JAK-STAT pathway heterogeneity governs immunotherapy response in breast cancer",
+    "text": "JAK-STAT pathway heterogeneity governs immunotherapy response in breast cancer \u2014 eLife. The JAK-STAT pathway (JSP) is a well-known oncogenic cascade; however, recent clinical trials have detected JSP upregulation in breast cancer following anti-PD-1 immunotherapy. This paradoxical observation warrants further investigation into JSP\u2019s intercellular heterogeneity, tumor dynamics, molecul",
+    "paper_id": "https://elifesciences.org/articles/110635",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/110635"
+  },
+  {
+    "type": "roundup",
+    "title": "Large-scale prospective evaluation of co-folding across hundreds of Mac1\u2013ligand complexes and three virtual screens",
+    "text": "Large-scale prospective evaluation of co-folding across hundreds of Mac1\u2013ligand complexes and three virtual screens \u2014 eLife. Accurate prediction of ligand-bound protein complexes and ranking them by affinity are central problems in drug discovery. While deep-learning co-folding methods can help address these challenges, their evaluation has been hampered by the difficulties in assessing independence from training data and",
+    "paper_id": "https://elifesciences.org/articles/110475",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/110475"
+  },
+  {
+    "type": "roundup",
+    "title": "Menstrual health challenges and associated barriers among tribal adolescent girls in India: A systematic review",
+    "text": "Menstrual health challenges and associated barriers among tribal adolescent girls in India: A systematic review \u2014 PLOS ONE. <p>by Rohit Raj, Jarina Begum, Syed Irfan Ali, Manasee Panda, Vani Lakshmi R</p>\nIntroduction <p>Menstrual health is a critical yet neglected public health issue among tribal adolescent girls in India, influenced by socio-cultural, economic, and infrastructural determinants. This review aimed to exp",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360401",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360401"
+  },
+  {
+    "type": "roundup",
+    "title": "Recombination shapes the dynamics of selective constraint in global populations of human gut bacteria",
+    "text": "Recombination shapes the dynamics of selective constraint in global populations of human gut bacteria \u2014 PLOS Biology. <p>by Zhiru Liu, Benjamin H. Good</p>\n\nThe ratio of nonsynonymous to synonymous substitutions (dN/dS) encodes important information about the selection pressures acting on protein-coding genes. In bacterial populations, dN/dS often declines with the sequence divergence between strains, but the mecha",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004052",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004052"
+  },
+  {
+    "type": "roundup",
+    "title": "The <i>Cryptococcus neoformans</i> titanide is a pathogenic cell type that arises from typical yeast cells in response to host conditions",
+    "text": "The <i>Cryptococcus neoformans</i> titanide is a pathogenic cell type that arises from typical yeast cells in response to host conditions \u2014 PLOS Biology. <p>by Abigail M. Potton, Iana Kalinina, Gordon D. Brown, Maria Makarova, Sandra Catania, Dora E. Corzo-Leon, Elizabeth R. Ballou</p>\n\nFungal morphogenesis is a major driver of disease outcome. For the opportunistic fungal pathogen <i>Cryptococcus neoformans</i>, extreme morphological heterogeneity w",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004031",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004031"
+  },
+  {
+    "type": "roundup",
+    "title": "Implicit sensorimotor adaptation comprises distinct mechanisms for action selection and execution",
+    "text": "Implicit sensorimotor adaptation comprises distinct mechanisms for action selection and execution \u2014 PLOS Biology. <p>by Tianhe Wang, Tony Lam, Jordan A. Taylor, Richard B. Ivry</p>\n\nThe sensorimotor system is continuously adjusted to minimize error. Current theories assume that this adaptation process entails the operation of multiple learning systems, with a key division between implicit and explicit component",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004057",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004057"
+  },
+  {
+    "type": "roundup",
+    "title": "FuChi is a cell cycle biosensor for tracking cell cycle dynamics during avian development",
+    "text": "FuChi is a cell cycle biosensor for tracking cell cycle dynamics during avian development \u2014 PLOS Biology. <p>by Zoe R. Sudderick, Tiernan Briggs, Shirooza Mubarak, Melinda Van Kerckvoorde, Ana R. Hernandez Rodriguez, Sudeepta K. Panda, Jon Riddell, Cameron Batho-Samblas, Lorna Taylor, Lynn McTeir, Dominique Meunier, Amy Findlay, Flossie S. Roberts, Anna Raper, Asako Sakaue-Sawano, Atsushi Miyawaki, Joe",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004036",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004036"
+  },
+  {
+    "type": "roundup",
+    "title": "Comparative effectiveness of amlodipine versus nifedipine prescribed at discharge in patients with ischemic stroke or transient ischemic attack: A nationwide 5-year follow-up registry study",
+    "text": "Comparative effectiveness of amlodipine versus nifedipine prescribed at discharge in patients with ischemic stroke or transient ischemic attack: A nationwide 5-year follow-up registry study \u2014 PLOS Medicine. <p>by Xinya Li, Xue Xia, Meng Gao, Qin Xu, Yijun Zhang, Jing Jing, Yi Zhai, Xia Meng, Anxin Wang</p>\nBackground <p>Amlodipine and nifedipine are the most commonly prescribed calcium channel blockers (CCB) for patients suffering from ischemic stroke or transient ischemic attack (TIA). Nevertheless, t",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005277",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005277"
+  },
+  {
+    "type": "roundup",
+    "title": "Experiences and perspectives of Ayurvedic practitioners on non-communicable disease management in the UK: A qualitative study",
+    "text": "Experiences and perspectives of Ayurvedic practitioners on non-communicable disease management in the UK: A qualitative study \u2014 PLOS ONE. <p>by Patricia Egwumba, Manpreet Bains, Laura Nellums, Kaushik Chattopadhyay</p>\nIntroduction <p>Non-communicable diseases (NCDs) are a major public health challenge in the United Kingdom (UK), placing strain on the National Health Service (NHS). While Western medicine dominates NCD care, the use of",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360754",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360754"
+  },
+  {
+    "type": "roundup",
+    "title": "Predicting regional gray swans via translocation: AI weather models and Dubai\u2019s unprecedented 2024 rainfall",
+    "text": "Predicting regional gray swans via translocation: AI weather models and Dubai\u2019s unprecedented 2024 rainfall \u2014 Science Advances. Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "paper_id": "https://www.science.org/doi/abs/10.1126/sciadv.ady9406?af=R",
+    "journal": "Science Advances",
+    "score": 0.529,
+    "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady9406?af=R"
+  },
+  {
+    "type": "roundup",
+    "title": "Genotype-informed docosahexaenoic acid dosing based on the FADS Indel to reduce preterm and prolonged gestation: A secondary analysis of the ADORE randomized trial",
+    "text": "Genotype-informed docosahexaenoic acid dosing based on the FADS Indel to reduce preterm and prolonged gestation: A secondary analysis of the ADORE randomized trial \u2014 PLOS Medicine. <p>by Yan Ning Li, Kumar S. D. Kothapalli, Susan E. Carlson, Byron J. Gajewski, Emily A. DeFranco, J. Thomas Brenna</p>\nBackground <p>Spontaneous early preterm birth (EPB\u2009<\u200934 weeks) is a major contributor to newborn morbidity and mortality; it depends on ancestry, and preventive measures are limite",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005274",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005274"
+  },
+  {
+    "type": "roundup",
+    "title": "Potential health impacts and costs of active case finding guided by <i>Mycobacterium tuberculosis</i> immunoreactivity survey results in Blantyre, Malawi: A mathematical modeling study",
+    "text": "Potential health impacts and costs of active case finding guided by <i>Mycobacterium tuberculosis</i> immunoreactivity survey results in Blantyre, Malawi: A mathematical modeling study \u2014 PLOS Medicine. <p>by Sun Kim, Melike Hazal Can, Hannah M. Rickman, Mphatso D. Phiri, Marriott Nliwasa, Tisungane E. Mwenyenkulu, Kuzani Mbendera, St\u00e9phane Verguet, Marcia C. Castro, Elizabeth L. Corbett, Peter MacPherson, Ted Cohen, Nicolas A. Menzies</p>\nBackground <p>Active case finding (ACF) for tuberculosis (T",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005272",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005272"
+  },
+  {
+    "type": "roundup",
+    "title": "A machine learning-derived aging index for risk stratification and mortality prediction in cardiovascular-kidney-metabolic syndrome: A retrospective cohort study",
+    "text": "A machine learning-derived aging index for risk stratification and mortality prediction in cardiovascular-kidney-metabolic syndrome: A retrospective cohort study \u2014 PLOS Medicine. <p>by Zhengyang Zhu, Kejun Ren, Dong Wang, Yong Lv, Hua Jin, Lei Zhang, Yiping Wang</p>\nBackground <p>The cardiovascular\u2011kidney\u2011metabolic (CKM) syndrome shows substantial heterogeneity in progression, yet existing biological age indices are not tailored to CKM pathways. We developed an aging index (",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005078",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005078"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

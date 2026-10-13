@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-13",
+  "mp3": "output/2026-10-13/podcast_2026-10-13.mp3",
+  "paper_count": 18,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 27.768
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "A membrane-disruptive action of VBIT-4 challenges its role as a widely used VDAC1 oligomerization inhibitor",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/111980",
+      "score": 2.0,
+      "timestamp_sec": 35.448
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Synaptic connectome of a neurosecretory network in the <i>Drosophila</i> brain",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/102684",
+      "score": 1.5,
+      "timestamp_sec": 73.08
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Barriers and enablers shaping kidney transplant care delivery: Insights from Iraqi pharmacists",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360647",
+      "score": 1.5,
+      "timestamp_sec": 109.2
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "TAL-CGBR: A class-guided boundary regression approach for Temporal Action Localization",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360160",
+      "score": 1.5,
+      "timestamp_sec": 147.35999999999999
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Overcoming key challenges in the evolutionary transition to multicellularity",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-11038-w",
+      "score": 1.179,
+      "timestamp_sec": 185.90399999999997
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "JAK-STAT pathway heterogeneity governs immunotherapy response in breast cancer",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110635",
+      "score": 1.0,
+      "timestamp_sec": 216.28799999999995
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Large-scale prospective evaluation of co-folding across hundreds of Mac1\u2013ligand complexes and three virtual screens",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110475",
+      "score": 1.0,
+      "timestamp_sec": 253.63199999999995
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Menstrual health challenges and associated barriers among tribal adolescent girls in India: A systematic review",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360401",
+      "score": 1.0,
+      "timestamp_sec": 287.2319999999999
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Recombination shapes the dynamics of selective constraint in global populations of human gut bacteria",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004052",
+      "score": 1.0,
+      "timestamp_sec": 328.8479999999999
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "The <i>Cryptococcus neoformans</i> titanide is a pathogenic cell type that arises from typical yeast cells in response to host conditions",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004031",
+      "score": 1.0,
+      "timestamp_sec": 371.7599999999999
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Implicit sensorimotor adaptation comprises distinct mechanisms for action selection and execution",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004057",
+      "score": 1.0,
+      "timestamp_sec": 421.84799999999984
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "FuChi is a cell cycle biosensor for tracking cell cycle dynamics during avian development",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004036",
+      "score": 1.0,
+      "timestamp_sec": 460.3439999999998
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Comparative effectiveness of amlodipine versus nifedipine prescribed at discharge in patients with ischemic stroke or transient ischemic attack: A nationwide 5-year follow-up registry study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005277",
+      "score": 1.0,
+      "timestamp_sec": 503.9519999999998
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Experiences and perspectives of Ayurvedic practitioners on non-communicable disease management in the UK: A qualitative study",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360754",
+      "score": 1.0,
+      "timestamp_sec": 554.5199999999999
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Predicting regional gray swans via translocation: AI weather models and Dubai\u2019s unprecedented 2024 rainfall",
+      "journal": "Science Advances",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.ady9406?af=R",
+      "score": 0.529,
+      "timestamp_sec": 598.4639999999998
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Genotype-informed docosahexaenoic acid dosing based on the FADS Indel to reduce preterm and prolonged gestation: A secondary analysis of the ADORE randomized trial",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005274",
+      "score": 0.5,
+      "timestamp_sec": 621.3839999999998
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Potential health impacts and costs of active case finding guided by <i>Mycobacterium tuberculosis</i> immunoreactivity survey results in Blantyre, Malawi: A mathematical modeling study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005272",
+      "score": 0.5,
+      "timestamp_sec": 671.8799999999998
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "A machine learning-derived aging index for risk stratification and mortality prediction in cardiovascular-kidney-metabolic syndrome: A retrospective cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005078",
+      "score": 0.5,
+      "timestamp_sec": 729.2879999999998
+    },
+    {
+      "index": 20,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 777.2879999999998
+    }
+  ]
+}
