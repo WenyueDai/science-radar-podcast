@@ -1,0 +1,155 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] The mechanosensitive channel TMEM63B contributes to noxious heat sensation in the dorsal root ganglia
+============================================================
+The mechanosensitive channel TMEM63B contributes to noxious heat sensation in the dorsal root ganglia — PLOS Biology. <p>by Chang Ye, Yan-Yu Zang, Gui-Fang Duan, Jiang Chen, Dan Wu, Dan Wang, Changlin Li, Yun Xu, Tianjiao Xia, Xiaoping Gu, Yun Stone Shi</p>
+
+In mammals, heat sensation is primarily mediated by thermosensitive channels, particularly transient receptor potential (TRP) channels, in dorsal root ganglion
+
+============================================================
+[ROUNDUP] How early tetrapods got their neck
+============================================================
+How early tetrapods got their neck — Nature News. <p>Nature, Published online: 14 October 2026; <a href="https://www.nature.com/articles/d41586-026-03061-8">doi:10.1038/d41586-026-03061-8</a></p>As fish evolved into four-limbed creatures, their skull separated from their shoulders to form a neck. Now we learn that this early neck was surprisingly r
+
+============================================================
+[ROUNDUP] PrimeStack editors enable efficient and site-specific integration of large multigene cargos in plants
+============================================================
+PrimeStack editors enable efficient and site-specific integration of large multigene cargos in plants — PLOS Biology. <p>by Edith Sánchez, Khalid Sedeek, Haroon Butt, Magdy Mahfouz</p>
+
+Precise, site-specific integration of large DNA sequences into plant genomes is a long-standing goal of crop biotechnology and synthetic biology, yet remains constrained by random insertion, inefficient homologous recombination, and
+
+============================================================
+[ROUNDUP] The hidden challenges of return migration: Linguistic and academic re-adaptation of Syrian students to the Arabic Education System
+============================================================
+The hidden challenges of return migration: Linguistic and academic re-adaptation of Syrian students to the Arabic Education System — PLOS ONE. <p>by Sevda Dolapcioglu, Yunus Emre Akbana, İlayda Uzun, Gülten Koşar</p>
+
+While extensive research has examined refugee students’ educational adaptation in host countries, the educational reintegration phase following voluntary return remains underexplored. This qualitative study investigates the l
+
+============================================================
+[ROUNDUP] The double-edged sword of human-AI collaboration on design students’ competence development: The mediating roles of challenge and hindrance appraisals and the asymmetric moderation of teacher AI leadership
+============================================================
+The double-edged sword of human-AI collaboration on design students’ competence development: The mediating roles of challenge and hindrance appraisals and the asymmetric moderation of teacher AI leadership — PLOS ONE. <p>by Xiang Wang, MingXing Li, Jia Du, YU Yao, Jiabei Jiang</p>
+
+The deepening integration of generative AI into design education is driving a paradigm shift in human-computer AI collaboration (HAIC) -from mere tool assistance toward intelligent synergy. However, its dual impact on the competency de
+
+============================================================
+[ROUNDUP] Unprecedented atlas explores mitochondria across the tree of life
+============================================================
+Unprecedented atlas explores mitochondria across the tree of life — Nature News. <p>Nature, Published online: 16 October 2026; <a href="https://www.nature.com/articles/d41586-026-03195-9">doi:10.1038/d41586-026-03195-9</a></p>The mitoproteomes of five parasites and a plant hold medical potential — and reignite the question of just when the mitochondrion evolved.
+
+============================================================
+[ROUNDUP] Overlooked brown fat in our bodies linked to wide range of health benefits
+============================================================
+Overlooked brown fat in our bodies linked to wide range of health benefits — Nature News. <p>Nature, Published online: 14 October 2026; <a href="https://www.nature.com/articles/d41586-026-03302-w">doi:10.1038/d41586-026-03302-w</a></p>Massive study of more than 100,000 people finds surprising connection between ‘good’ body fat and improved mental health.
+
+============================================================
+[ROUNDUP] A broad-host-range <i>Rhizobium rhizogenes</i> strain enables transient expression across diverse crop species
+============================================================
+A broad-host-range <i>Rhizobium rhizogenes</i> strain enables transient expression across diverse crop species — PLOS Biology. <p>by Freddie King, Juan Carlos Lopez-Agudelo, Christopher Stephens, May Htet Aung, Tarhan Ibrahim, Enoch Lok Him Yuen, Ao Chen, Nick Eilmann, Saskia Jenkins, Cristina Vuolo, Yueh-Ning Swee, Wei-Jia Liu, Samuel Bruty, AmirAli Toghani, Chih-Horng Kuo, Erh-Min Lai, Jiorgos Kourelis, Lida Derevnina, Ch
+
+============================================================
+[ROUNDUP] Deficiency of placental GDF15 causes fetal growth restriction by inhibiting fetal hepatic STAT3-IGF2 axis
+============================================================
+Deficiency of placental GDF15 causes fetal growth restriction by inhibiting fetal hepatic STAT3-IGF2 axis — PLOS Biology. <p>by Xiao Peng Liu, Xiao Zhang, Chun Xia Cai, Miao Miao Qin, Xiang Kai Leng, Jia Hao Chen, Yi Fan Han, Jun Ying Xiao, Jia He Huang, Jiang Wei Wu</p>
+
+Fetal growth restriction (FGR) is a major cause of perinatal morbidity and mortality, yet its underlying mechanism remains elusive. Here, we show tha
+
+============================================================
+[ROUNDUP] Associations of major congenital anomalies, long-term health conditions, and socioeconomic deprivation with educational attainment in Wales: A population-based data linkage study
+============================================================
+Associations of major congenital anomalies, long-term health conditions, and socioeconomic deprivation with educational attainment in Wales: A population-based data linkage study — PLOS Medicine. <p>by Ieuan Scanlon, Anna Rawlings, David Tucker, Daniel S. Thayer, Hywel T. Evans, Joanne Given, Sam Jones, Maria Loane, Chloe Morgan, Joan K. Morris, Sue Jordan</p>
+Background <p>Education outcomes are associated with life chances. However, deprivation, ill-health and disability are barriers to ac
+
+============================================================
+[ROUNDUP] Meta reinforcement learning for robust quadruped locomotion under joint failures
+============================================================
+Meta reinforcement learning for robust quadruped locomotion under joint failures — PLOS ONE. <p>by Likai Wu, Chee-Onn Chow, Wei Ru Wong, Joon Huang Chuah, Jeevan Kanesan, Meina Zhang</p>
+
+Joint failures can disrupt gait coordination, velocity tracking, and body stability in quadruped robots by reducing the available control authority. This study investigates faults in which joints remain lo
+
+============================================================
+[ROUNDUP] Rates of nonproliferative diabetic retinopathy (NPDR) regression among patients with very mild or mild NPDR in an Indian Health Service teleophthalmology program, 2015 – 2020
+============================================================
+Rates of nonproliferative diabetic retinopathy (NPDR) regression among patients with very mild or mild NPDR in an Indian Health Service teleophthalmology program, 2015 – 2020 — PLOS ONE. <p>by Sven-Erik Bursell, Stephanie J. Fonda, Kaitlynn Borik, Jeff Stainback, Dara Shahon</p>
+
+Diabetic retinopathy (DR) regression is not regularly reported; yet understanding of its prevalence in early-stage DR may impact strategies for eye care management. This study’s primary aim was to examine D
+
+============================================================
+[ROUNDUP] Strong field spectroscopy of many-body interactions in solids
+============================================================
+Strong field spectroscopy of many-body interactions in solids — Nature Communications. <p>Nature Communications, Published online: 20 October 2026; <a href="https://www.nature.com/articles/s41467-026-78716-1">doi:10.1038/s41467-026-78716-1</a></p>Despite numerous studies on solid-state high-harmonic generation (HHG), there is a lack of microscopic understanding of decoherence effects.
+
+============================================================
+[ROUNDUP] Divergent genomic evolution in astrocytomas and oligodendrogliomas
+============================================================
+Divergent genomic evolution in astrocytomas and oligodendrogliomas — Nature News. <p>Nature, Published online: 14 October 2026; <a href="https://www.nature.com/articles/s41586-026-11150-x">doi:10.1038/s41586-026-11150-x</a></p>Longitudinal genomic analyses in patients with astrocytoma or oligodendrioglioma suggest that these two types of tumour differ in the mechanisms by which t
+
+============================================================
+[ROUNDUP] He Wants AI Benchmarking To Be a Science, Not a Dark Art
+============================================================
+He Wants AI Benchmarking To Be a Science, Not a Dark Art — Quanta Magazine. Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable.            <p>The post <a href="https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/" target="_b
+
+============================================================
+[ROUNDUP] Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t
+============================================================
+Triplet of ‘Ghostly’ Galaxies Hints at What Dark Matter Is — and Isn’t — Quanta Magazine. A collision may have left these galaxies without dark matter. That spells trouble for alternative gravity theories.            <p>The post <a href="https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/" target="_blank">Triplet of ‘Ghostly’ Galaxie
+
+============================================================
+[ROUNDUP] Breaking the tetrahedral constraint of tetracoordination: Square-planar [ICl4] enables unprecedented birefringence in [C(NH2)3][ICl4]
+============================================================
+Breaking the tetrahedral constraint of tetracoordination: Square-planar [ICl4] enables unprecedented birefringence in [C(NH2)3][ICl4] — Science Advances. Science Advances, Volume 12, Issue 42, October 2026. <br />
+
+============================================================
+[ROUNDUP] Syntaxin11 deficiency inhibits CRAC channel priming to suppress cytotoxicity and gene expression in T lymphocytes independent of membrane trafficking
+============================================================
+Syntaxin11 deficiency inhibits CRAC channel priming to suppress cytotoxicity and gene expression in T lymphocytes independent of membrane trafficking — eLife. Mutations in Syntaxin11 (STX11), a Q-SNARE, result in a fatal immune disorder known as familial hemophagocytic lymphohistiocytosis 4 (FHLH4) in human patients. A key diagnostic feature of FHLH4 is defective T and natural killer cell cytotoxicity. Here, we show that STX11 directly binds and regulates
+
+============================================================
+[ROUNDUP] Bruce suppresses autophagy-regulated caspase activity and wing tissue growth in <i>Drosophila</i>
+============================================================
+Bruce suppresses autophagy-regulated caspase activity and wing tissue growth in <i>Drosophila</i> — eLife. Caspases are cysteine-aspartic proteases that mediate both lethal and non-lethal cellular outcomes, including the promotion of tissue growth. However, the mechanisms underlying the differential regulation of these activities remain unclear. We have previously shown that among the two <i>Drosophila</
+
+============================================================
+[ROUNDUP] Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends
+============================================================
+Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends — eLife. In many organisms, meiotic crossover recombination is suppressed near the extreme ends of chromosomes. Here, we show that multiple, often chromosome-specific, suppressive mechanisms with differing ranges contribute to the consistently low enrichment of recombination-promoting axis proteins and the d
+
+============================================================
+[ROUNDUP] Individual dopaminergic neurons induce unique, yet overlapping combinations of behavioural modulations, including safety learning, memory retrieval, and acute locomotion
+============================================================
+Individual dopaminergic neurons induce unique, yet overlapping combinations of behavioural modulations, including safety learning, memory retrieval, and acute locomotion — eLife. Two evolutionary highly conserved functions of dopamine are to carry ‘teaching’ signals during associative learning and to control movement. In mammals and humans, these functions are generally thought to be produced by different populations of neurons. Here, we investigated in the larva of <i>Droso
+
+============================================================
+[ROUNDUP] Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study
+============================================================
+Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study — PLOS Medicine. <p>by Leila Abar, Caitlin P. O’Connell, Hyokyoung G. Hong, Kirsten A. Herrick, Lisa Kahle, Jennifer L. Lerman, Linda M. Liao, Xuehong Zhang, Xinyuan Zhang, Longgang Zhao, Sémi Zouiouich, Rashmi Sinha, Neha Khandpur, Eurídice Martínez Steele, Erikka Loftfield</p>
+Background <p>Ultra-processed foods (
+
+============================================================
+[ROUNDUP] Evaluating the impact and cost-effectiveness of typhoid conjugate vaccine schedules across diverse settings: A multi-model comparison
+============================================================
+Evaluating the impact and cost-effectiveness of typhoid conjugate vaccine schedules across diverse settings: A multi-model comparison — PLOS Medicine. <p>by Catherine G. C. Wenger, Kyra H. Grantz, Tigist F. Menkir, Alina M. Muellenmeister, Zeaan Pithawala, Raymond Hutubessy, Vittal Mogasale, Alicia N. M. Kraay, Nick Scott, Romesh G. Abeysuriya, Jason R. Andrews, Jillian Gauld, Nathan C. Lo, Virginia E. Pitzer</p>
+Background <p>Given emerging evide
+
+============================================================
+[ROUNDUP] Maternal opioid prescriptions and subsequent risk of hospital admission in offspring in South Korea: A nationwide birth cohort study
+============================================================
+Maternal opioid prescriptions and subsequent risk of hospital admission in offspring in South Korea: A nationwide birth cohort study — PLOS Medicine. <p>by Hyeon Jin Kim, Yesol Yim, Christa J. Nehs, Jaeyu Park, Eun Soo Kim, Sung Joon Cho, Guillaume Fond, Laurent Boyer, Jiseung Kang, Dong Keon Yon</p>
+Background <p>Prenatal opioid exposure may disrupt infant development and immune system function, potentially increasing long-term susceptibility to
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

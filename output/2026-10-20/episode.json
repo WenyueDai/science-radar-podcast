@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-20",
+  "mp3": "output/2026-10-20/podcast_2026-10-20.mp3",
+  "paper_count": 24,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 27.768
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "The mechanosensitive channel TMEM63B contributes to noxious heat sensation in the dorsal root ganglia",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004060",
+      "score": 2.0,
+      "timestamp_sec": 35.448
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "How early tetrapods got their neck",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-03061-8",
+      "score": 1.653,
+      "timestamp_sec": 80.544
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "PrimeStack editors enable efficient and site-specific integration of large multigene cargos in plants",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003778",
+      "score": 1.5,
+      "timestamp_sec": 107.688
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "The hidden challenges of return migration: Linguistic and academic re-adaptation of Syrian students to the Arabic Education System",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361042",
+      "score": 1.5,
+      "timestamp_sec": 147.84
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "The double-edged sword of human-AI collaboration on design students\u2019 competence development: The mediating roles of challenge and hindrance appraisals and the asymmetric moderation of teacher AI leadership",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0360722",
+      "score": 1.5,
+      "timestamp_sec": 188.47199999999998
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Unprecedented atlas explores mitochondria across the tree of life",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-03195-9",
+      "score": 1.141,
+      "timestamp_sec": 234.55199999999996
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Overlooked brown fat in our bodies linked to wide range of health benefits",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-03302-w",
+      "score": 1.133,
+      "timestamp_sec": 262.96799999999996
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "A broad-host-range <i>Rhizobium rhizogenes</i> strain enables transient expression across diverse crop species",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004010",
+      "score": 1.0,
+      "timestamp_sec": 290.97599999999994
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Deficiency of placental GDF15 causes fetal growth restriction by inhibiting fetal hepatic STAT3-IGF2 axis",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004061",
+      "score": 1.0,
+      "timestamp_sec": 339.09599999999995
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Associations of major congenital anomalies, long-term health conditions, and socioeconomic deprivation with educational attainment in Wales: A population-based data linkage study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005050",
+      "score": 1.0,
+      "timestamp_sec": 385.89599999999996
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Meta reinforcement learning for robust quadruped locomotion under joint failures",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361099",
+      "score": 1.0,
+      "timestamp_sec": 437.01599999999996
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Rates of nonproliferative diabetic retinopathy (NPDR) regression among patients with very mild or mild NPDR in an Indian Health Service teleophthalmology program, 2015 \u2013 2020",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361052",
+      "score": 1.0,
+      "timestamp_sec": 475.1039999999999
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Strong field spectroscopy of many-body interactions in solids",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-78716-1",
+      "score": 0.778,
+      "timestamp_sec": 523.2719999999999
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Divergent genomic evolution in astrocytomas and oligodendrogliomas",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-11150-x",
+      "score": 0.74,
+      "timestamp_sec": 554.16
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "score": 0.733,
+      "timestamp_sec": 584.808
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Triplet of \u2018Ghostly\u2019 Galaxies Hints at What Dark Matter Is \u2014 and Isn\u2019t",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+      "score": 0.723,
+      "timestamp_sec": 612.528
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Breaking the tetrahedral constraint of tetracoordination: Square-planar [ICl4] enables unprecedented birefringence in [C(NH2)3][ICl4]",
+      "journal": "Science Advances",
+      "url": "https://www.science.org/doi/abs/10.1126/sciadv.aef7948?af=R",
+      "score": 0.529,
+      "timestamp_sec": 640.128
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Syntaxin11 deficiency inhibits CRAC channel priming to suppress cytotoxicity and gene expression in T lymphocytes independent of membrane trafficking",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/111335",
+      "score": 0.5,
+      "timestamp_sec": 670.056
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Bruce suppresses autophagy-regulated caspase activity and wing tissue growth in <i>Drosophila</i>",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109876",
+      "score": 0.5,
+      "timestamp_sec": 715.9440000000001
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110189",
+      "score": 0.5,
+      "timestamp_sec": 752.6880000000001
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "Individual dopaminergic neurons induce unique, yet overlapping combinations of behavioural modulations, including safety learning, memory retrieval, and acute locomotion",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/106148",
+      "score": 0.5,
+      "timestamp_sec": 787.6080000000001
+    },
+    {
+      "index": 23,
+      "type": "roundup",
+      "title": "Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005251",
+      "score": 0.5,
+      "timestamp_sec": 827.952
+    },
+    {
+      "index": 24,
+      "type": "roundup",
+      "title": "Evaluating the impact and cost-effectiveness of typhoid conjugate vaccine schedules across diverse settings: A multi-model comparison",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005280",
+      "score": 0.5,
+      "timestamp_sec": 878.016
+    },
+    {
+      "index": 25,
+      "type": "roundup",
+      "title": "Maternal opioid prescriptions and subsequent risk of hospital admission in offspring in South Korea: A nationwide birth cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004829",
+      "score": 0.5,
+      "timestamp_sec": 930.192
+    },
+    {
+      "index": 26,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 975.288
+    }
+  ]
+}
