@@ -1,0 +1,182 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Strong mnemonic prediction errors increase cognitive control, attention, and arousal",
+    "text": "Strong mnemonic prediction errors increase cognitive control, attention, and arousal \u2014 eLife. Ongoing experience is continuously processed in the context of past events. Divergence between current experience and memory-based predictions (i.e., a mnemonic prediction error; MPE) is theorized to be a signal that encoding, as opposed to retrieval, should be prioritized. We asked how MPEs place d",
+    "paper_id": "https://elifesciences.org/articles/109678",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/109678"
+  },
+  {
+    "type": "roundup",
+    "title": "How do we monitor doxy-PEP impact and when should we consider revisiting guidelines?",
+    "text": "How do we monitor doxy-PEP impact and when should we consider revisiting guidelines? \u2014 PLOS Medicine. <p>by Yonatan H. Grad, Rachel Mittelstaedt, Remco P. H. Peters</p>\nSummary points <p>The 2026 WHO guidelines recommending doxycycline post-exposure prophylaxis (doxy-PEP) represent the first global antibiotic prophylaxis recommendation for bacterial sexually transmitted infections (STIs), with provi",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005276",
+    "journal": "PLOS Medicine",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005276"
+  },
+  {
+    "type": "roundup",
+    "title": "The new paradox of women\u2019s health research",
+    "text": "The new paradox of women\u2019s health research \u2014 eLife. Women have long been underrepresented in biomedical research, prompting efforts to make research more sex inclusive. These advances are essential, but they can create an unintended tension when rigorous inclusion is interpreted as requiring extensive hormonal or reproductive characterization, even w",
+    "paper_id": "https://elifesciences.org/articles/113335",
+    "journal": "eLife",
+    "score": 1.413,
+    "url": "https://elifesciences.org/articles/113335"
+  },
+  {
+    "type": "roundup",
+    "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
+    "text": "See Inside Cells Like Never Before in These Vivid Microscopic Images \u2014 Quanta Magazine. Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life.            <p>The post <a href=\"https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/\" target=\"_blank\">See Inside Cells Like Ne",
+    "paper_id": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+    "journal": "Quanta Magazine",
+    "score": 1.224,
+    "url": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/"
+  },
+  {
+    "type": "roundup",
+    "title": "How Voting Is Like a Klein Bottle",
+    "text": "How Voting Is Like a Klein Bottle \u2014 Quanta Magazine. A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside.            <p>The post <a href=\"https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/\" target=\"_blank\">How Voting Is Like a Klein Bottle</a> first appeared on <a href",
+    "paper_id": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+    "journal": "Quanta Magazine",
+    "score": 1.187,
+    "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/"
+  },
+  {
+    "type": "roundup",
+    "title": "SARS-CoV-2 main protease inhibition through dimerization promotion by peptidomimetic inhibitors and disruption by ebselen",
+    "text": "SARS-CoV-2 main protease inhibition through dimerization promotion by peptidomimetic inhibitors and disruption by ebselen \u2014 eLife. The SARS-CoV-2 main protease (M<sup>pro</sup>) is a key antiviral target that equilibrates between an active dimer and inactive monomer, making the dimerization interface a promising therapeutic vulnerability. This study investigates M<sup>pro</sup> monomer-dimer equilibrium and conformational chang",
+    "paper_id": "https://elifesciences.org/articles/109956",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/109956"
+  },
+  {
+    "type": "roundup",
+    "title": "Small brown planthopper infestation enhances it reproduction and insecticide tolerance by manipulating glucose distribution and levels in rice",
+    "text": "Small brown planthopper infestation enhances it reproduction and insecticide tolerance by manipulating glucose distribution and levels in rice \u2014 eLife. The evolutionary arms race between plants and insects involves not only direct defense and counter-defense but also sophisticated resource manipulation. However, how herbivorous insects respond to host nutritional signals to modulate their fitness traits remains unclear. This study investigates how",
+    "paper_id": "https://elifesciences.org/articles/110514",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/110514"
+  },
+  {
+    "type": "roundup",
+    "title": "Tolerance measured at one developmental stage mispredicts climate resilience in an animal with a complex life cycle",
+    "text": "Tolerance measured at one developmental stage mispredicts climate resilience in an animal with a complex life cycle \u2014 PLOS Biology. <p>by Hao Song, Tingyu Shi, Meijie Yang, Xiaoyan Liu, Zhuoqing Li, Pu Shi, Yu Wu, Bassem Allam, Andrew Jeffs, Bradley Skelton, Tao Zhang</p>\n\nForecasts of whether marine species can evolve fast enough to survive climate change rely largely on single-stage tolerance assays, tacitly assuming that tole",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004079",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004079"
+  },
+  {
+    "type": "roundup",
+    "title": "High-resolution paleobiome reconstructions highlight ecological and historical dynamics underpinning global terrestrial vertebrate diversity",
+    "text": "High-resolution paleobiome reconstructions highlight ecological and historical dynamics underpinning global terrestrial vertebrate diversity \u2014 PLOS Biology. <p>by Alexander Skeels, Julian Rogger, Marcel Cardillo, Alexander Farnsworth, Daniel J. Lunt, Dirk Nikolaus Karger</p>\n\nPast climate change has repeatedly reshaped Earth\u2019s biomes, yet how their expansion and contraction influence biodiversity patterns through time remains unclear. Competing hypothes",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004077",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004077"
+  },
+  {
+    "type": "roundup",
+    "title": "A macrophage-targeted TIMD4 Peptide-Nanoparticle attenuates colitis symptoms and monocyte recruitment in a mouse model",
+    "text": "A macrophage-targeted TIMD4 Peptide-Nanoparticle attenuates colitis symptoms and monocyte recruitment in a mouse model \u2014 PLOS Biology. <p>by Huimin Liu, Yuzhen Wang, Ruiqing Yu, Kexin Liu, Dezhi Zheng, Bo Wang, Yuan Chang, Bing Liu, Xuetian Yue, Zhuanchang Wu, Chunyang Li, Xiaohong Liang, Chunhong Ma, Guohua Liu, Jianhua Li, Leiqi Xu, Lifen Gao</p>\n\nMacrophages play a pivotal role in the pathogenesis of inflammatory bowel disease (",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004056",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004056"
+  },
+  {
+    "type": "roundup",
+    "title": "Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study",
+    "text": "Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study \u2014 PLOS Medicine. <p>by Benjamin J. Singer, Alec Gleason, Isabella Impalli, Mikkel D. Nagorsen, Chungman Chae, Lauren C. Granskog, Philip C. Lee, Ramanan Laxminarayan, Joseph A. Lewnard</p>\nBackground <p>Human antibiotic use is widely believed to contribute to the evolution and maintenance of antimicrobial resistance",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140"
+  },
+  {
+    "type": "roundup",
+    "title": "Outcomes of home-based versus facility-based care for mild diphtheria during a large epidemic in Kano State, Nigeria: A retrospective matched cohort study",
+    "text": "Outcomes of home-based versus facility-based care for mild diphtheria during a large epidemic in Kano State, Nigeria: A retrospective matched cohort study \u2014 PLOS Medicine. <p>by Jonathan Polonsky, Suleiman Hudu, Khadidja Uthman, Yves Katuala, Philip Eghosa Evbuomwan, Hashim Juma Omer Osman, Abdulwahab Kabir Sulaiman, Ichola Ismael Adjaho, Cheick Oumar Doumbia, Etienne Gignoux, Franck Ale</p>\nBackground <p>During Nigeria\u2019s largest recorded diphtheria epidemic (first no",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005097",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005097"
+  },
+  {
+    "type": "roundup",
+    "title": "Guidance for defining outcomes in clinical trials",
+    "text": "Guidance for defining outcomes in clinical trials \u2014 PLOS Medicine. <p>by Xiangji Ying, Tianjing Li, Joanne E. McKenzie, Matthew J. Page, Kiran Ninan, Jean-Pierre Oberste, Colby J. Vorland, Andrew W. Brown, Riaz Qureshi, Nicholas J. DeVito, Ian J. Saldanha, Martin Offringa, Nancy J. Butcher, Sirui Zhang, Phi-Yen Nguyen, Joe Menke, Veronica Ka Wai Lai, Halil Kilicogl",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005275",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005275"
+  },
+  {
+    "type": "roundup",
+    "title": "From sounds to sentences: A longitudinal study of phonological and emergent literacy predictors of early writing in Turkish children",
+    "text": "From sounds to sentences: A longitudinal study of phonological and emergent literacy predictors of early writing in Turkish children \u2014 PLOS ONE. <p>by Aysel Ferah \u00d6zcan, Hilal \u0130lknur Tun\u00e7eli</p>\n\nThis longitudinal study examines how preschool\u00a0children\u2019s\u00a0phonological awareness and emergent literacy skills relate to their early writing performance in first grade. Conducted within the context of a transparent Turkish orthography, the study aims",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361638",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361638"
+  },
+  {
+    "type": "roundup",
+    "title": "The antibacterial and antifungal activity of honey and propolis from the Australian stingless bee <i>Tetragonula carbonaria</i>",
+    "text": "The antibacterial and antifungal activity of honey and propolis from the Australian stingless bee <i>Tetragonula carbonaria</i> \u2014 PLOS ONE. <p>by Jasmin Li, Rosalyn Gloag, Dee A. Carter, Kenya E. Fernandes</p>\n\nThe global rise of antimicrobial-resistant pathogens has increased interest in bee-derived natural products as sources of novel antimicrobials. While most research has focused on European honey bee (<i>Apis mellifera</i>) product",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361610",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361610"
+  },
+  {
+    "type": "roundup",
+    "title": "Single-cell analysis of COPD: Microenvironmental interactions driven by immune-fibrotic imbalance",
+    "text": "Single-cell analysis of COPD: Microenvironmental interactions driven by immune-fibrotic imbalance \u2014 PLOS ONE. <p>by Hong Jiang, Wenxing Wang, Lu Wang, Jiaojian Wu, Jianjiang Luo, Qi Yan, Xueli Gong, Jing Liang</p>\n\nChronic obstructive pulmonary disease (COPD) is a respiratory disease with a high degree of cellular heterogeneity and molecular complexity, characterized pathologically by persistent airflow lim",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361580",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361580"
+  },
+  {
+    "type": "roundup",
+    "title": "The combination of simethicone and N-acetylcysteine in lidocaine ice popsicle compared with lidocaine ice popsicle alone in patients undergoing unsedated esophagogastroduodenoscopy: A prospective double-blind randomized controlled trial",
+    "text": "The combination of simethicone and N-acetylcysteine in lidocaine ice popsicle compared with lidocaine ice popsicle alone in patients undergoing unsedated esophagogastroduodenoscopy: A prospective double-blind randomized controlled trial \u2014 PLOS ONE. <p>by Pailin Intarasangkhanawin, Saritphat Orrapin, Worapong Anuponganan, Neranchala Soonthornkes, Prasit Mahawongkajit</p>\nBackground <p>Optimal mucosal visualization is essential for high-quality esophagogastroduodenoscopy (EGD), particularly for the detection of subtle upper gastrointestinal lesi",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361495",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361495"
+  },
+  {
+    "type": "roundup",
+    "title": "Host\u2013virus interactions dominate fitness and conceal additive genetic variation",
+    "text": "Host\u2013virus interactions dominate fitness and conceal additive genetic variation \u2014 PLOS Biology. <p>by Aleksei Belyi, Yiyang Du, Alastair J. Wilson, Ben Longdon, Francis M. Jiggins</p>\n\nHost\u2013parasite coevolution is expected to generate strong selection for resistance and infectivity that has the potential to erode genetic variation. Despite this, natural populations often retain extensive genet",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003836",
+    "journal": "PLOS Biology",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003836"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

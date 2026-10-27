@@ -1,0 +1,125 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Strong mnemonic prediction errors increase cognitive control, attention, and arousal
+============================================================
+Strong mnemonic prediction errors increase cognitive control, attention, and arousal — eLife. Ongoing experience is continuously processed in the context of past events. Divergence between current experience and memory-based predictions (i.e., a mnemonic prediction error; MPE) is theorized to be a signal that encoding, as opposed to retrieval, should be prioritized. We asked how MPEs place d
+
+============================================================
+[ROUNDUP] How do we monitor doxy-PEP impact and when should we consider revisiting guidelines?
+============================================================
+How do we monitor doxy-PEP impact and when should we consider revisiting guidelines? — PLOS Medicine. <p>by Yonatan H. Grad, Rachel Mittelstaedt, Remco P. H. Peters</p>
+Summary points <p>The 2026 WHO guidelines recommending doxycycline post-exposure prophylaxis (doxy-PEP) represent the first global antibiotic prophylaxis recommendation for bacterial sexually transmitted infections (STIs), with provi
+
+============================================================
+[ROUNDUP] The new paradox of women’s health research
+============================================================
+The new paradox of women’s health research — eLife. Women have long been underrepresented in biomedical research, prompting efforts to make research more sex inclusive. These advances are essential, but they can create an unintended tension when rigorous inclusion is interpreted as requiring extensive hormonal or reproductive characterization, even w
+
+============================================================
+[ROUNDUP] See Inside Cells Like Never Before in These Vivid Microscopic Images
+============================================================
+See Inside Cells Like Never Before in These Vivid Microscopic Images — Quanta Magazine. Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life.            <p>The post <a href="https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/" target="_blank">See Inside Cells Like Ne
+
+============================================================
+[ROUNDUP] How Voting Is Like a Klein Bottle
+============================================================
+How Voting Is Like a Klein Bottle — Quanta Magazine. A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside.            <p>The post <a href="https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/" target="_blank">How Voting Is Like a Klein Bottle</a> first appeared on <a href
+
+============================================================
+[ROUNDUP] SARS-CoV-2 main protease inhibition through dimerization promotion by peptidomimetic inhibitors and disruption by ebselen
+============================================================
+SARS-CoV-2 main protease inhibition through dimerization promotion by peptidomimetic inhibitors and disruption by ebselen — eLife. The SARS-CoV-2 main protease (M<sup>pro</sup>) is a key antiviral target that equilibrates between an active dimer and inactive monomer, making the dimerization interface a promising therapeutic vulnerability. This study investigates M<sup>pro</sup> monomer-dimer equilibrium and conformational chang
+
+============================================================
+[ROUNDUP] Small brown planthopper infestation enhances it reproduction and insecticide tolerance by manipulating glucose distribution and levels in rice
+============================================================
+Small brown planthopper infestation enhances it reproduction and insecticide tolerance by manipulating glucose distribution and levels in rice — eLife. The evolutionary arms race between plants and insects involves not only direct defense and counter-defense but also sophisticated resource manipulation. However, how herbivorous insects respond to host nutritional signals to modulate their fitness traits remains unclear. This study investigates how
+
+============================================================
+[ROUNDUP] Tolerance measured at one developmental stage mispredicts climate resilience in an animal with a complex life cycle
+============================================================
+Tolerance measured at one developmental stage mispredicts climate resilience in an animal with a complex life cycle — PLOS Biology. <p>by Hao Song, Tingyu Shi, Meijie Yang, Xiaoyan Liu, Zhuoqing Li, Pu Shi, Yu Wu, Bassem Allam, Andrew Jeffs, Bradley Skelton, Tao Zhang</p>
+
+Forecasts of whether marine species can evolve fast enough to survive climate change rely largely on single-stage tolerance assays, tacitly assuming that tole
+
+============================================================
+[ROUNDUP] High-resolution paleobiome reconstructions highlight ecological and historical dynamics underpinning global terrestrial vertebrate diversity
+============================================================
+High-resolution paleobiome reconstructions highlight ecological and historical dynamics underpinning global terrestrial vertebrate diversity — PLOS Biology. <p>by Alexander Skeels, Julian Rogger, Marcel Cardillo, Alexander Farnsworth, Daniel J. Lunt, Dirk Nikolaus Karger</p>
+
+Past climate change has repeatedly reshaped Earth’s biomes, yet how their expansion and contraction influence biodiversity patterns through time remains unclear. Competing hypothes
+
+============================================================
+[ROUNDUP] A macrophage-targeted TIMD4 Peptide-Nanoparticle attenuates colitis symptoms and monocyte recruitment in a mouse model
+============================================================
+A macrophage-targeted TIMD4 Peptide-Nanoparticle attenuates colitis symptoms and monocyte recruitment in a mouse model — PLOS Biology. <p>by Huimin Liu, Yuzhen Wang, Ruiqing Yu, Kexin Liu, Dezhi Zheng, Bo Wang, Yuan Chang, Bing Liu, Xuetian Yue, Zhuanchang Wu, Chunyang Li, Xiaohong Liang, Chunhong Ma, Guohua Liu, Jianhua Li, Leiqi Xu, Lifen Gao</p>
+
+Macrophages play a pivotal role in the pathogenesis of inflammatory bowel disease (
+
+============================================================
+[ROUNDUP] Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study
+============================================================
+Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study — PLOS Medicine. <p>by Benjamin J. Singer, Alec Gleason, Isabella Impalli, Mikkel D. Nagorsen, Chungman Chae, Lauren C. Granskog, Philip C. Lee, Ramanan Laxminarayan, Joseph A. Lewnard</p>
+Background <p>Human antibiotic use is widely believed to contribute to the evolution and maintenance of antimicrobial resistance
+
+============================================================
+[ROUNDUP] Outcomes of home-based versus facility-based care for mild diphtheria during a large epidemic in Kano State, Nigeria: A retrospective matched cohort study
+============================================================
+Outcomes of home-based versus facility-based care for mild diphtheria during a large epidemic in Kano State, Nigeria: A retrospective matched cohort study — PLOS Medicine. <p>by Jonathan Polonsky, Suleiman Hudu, Khadidja Uthman, Yves Katuala, Philip Eghosa Evbuomwan, Hashim Juma Omer Osman, Abdulwahab Kabir Sulaiman, Ichola Ismael Adjaho, Cheick Oumar Doumbia, Etienne Gignoux, Franck Ale</p>
+Background <p>During Nigeria’s largest recorded diphtheria epidemic (first no
+
+============================================================
+[ROUNDUP] Guidance for defining outcomes in clinical trials
+============================================================
+Guidance for defining outcomes in clinical trials — PLOS Medicine. <p>by Xiangji Ying, Tianjing Li, Joanne E. McKenzie, Matthew J. Page, Kiran Ninan, Jean-Pierre Oberste, Colby J. Vorland, Andrew W. Brown, Riaz Qureshi, Nicholas J. DeVito, Ian J. Saldanha, Martin Offringa, Nancy J. Butcher, Sirui Zhang, Phi-Yen Nguyen, Joe Menke, Veronica Ka Wai Lai, Halil Kilicogl
+
+============================================================
+[ROUNDUP] From sounds to sentences: A longitudinal study of phonological and emergent literacy predictors of early writing in Turkish children
+============================================================
+From sounds to sentences: A longitudinal study of phonological and emergent literacy predictors of early writing in Turkish children — PLOS ONE. <p>by Aysel Ferah Özcan, Hilal İlknur Tunçeli</p>
+
+This longitudinal study examines how preschool children’s phonological awareness and emergent literacy skills relate to their early writing performance in first grade. Conducted within the context of a transparent Turkish orthography, the study aims
+
+============================================================
+[ROUNDUP] The antibacterial and antifungal activity of honey and propolis from the Australian stingless bee <i>Tetragonula carbonaria</i>
+============================================================
+The antibacterial and antifungal activity of honey and propolis from the Australian stingless bee <i>Tetragonula carbonaria</i> — PLOS ONE. <p>by Jasmin Li, Rosalyn Gloag, Dee A. Carter, Kenya E. Fernandes</p>
+
+The global rise of antimicrobial-resistant pathogens has increased interest in bee-derived natural products as sources of novel antimicrobials. While most research has focused on European honey bee (<i>Apis mellifera</i>) product
+
+============================================================
+[ROUNDUP] Single-cell analysis of COPD: Microenvironmental interactions driven by immune-fibrotic imbalance
+============================================================
+Single-cell analysis of COPD: Microenvironmental interactions driven by immune-fibrotic imbalance — PLOS ONE. <p>by Hong Jiang, Wenxing Wang, Lu Wang, Jiaojian Wu, Jianjiang Luo, Qi Yan, Xueli Gong, Jing Liang</p>
+
+Chronic obstructive pulmonary disease (COPD) is a respiratory disease with a high degree of cellular heterogeneity and molecular complexity, characterized pathologically by persistent airflow lim
+
+============================================================
+[ROUNDUP] The combination of simethicone and N-acetylcysteine in lidocaine ice popsicle compared with lidocaine ice popsicle alone in patients undergoing unsedated esophagogastroduodenoscopy: A prospective double-blind randomized controlled trial
+============================================================
+The combination of simethicone and N-acetylcysteine in lidocaine ice popsicle compared with lidocaine ice popsicle alone in patients undergoing unsedated esophagogastroduodenoscopy: A prospective double-blind randomized controlled trial — PLOS ONE. <p>by Pailin Intarasangkhanawin, Saritphat Orrapin, Worapong Anuponganan, Neranchala Soonthornkes, Prasit Mahawongkajit</p>
+Background <p>Optimal mucosal visualization is essential for high-quality esophagogastroduodenoscopy (EGD), particularly for the detection of subtle upper gastrointestinal lesi
+
+============================================================
+[ROUNDUP] Host–virus interactions dominate fitness and conceal additive genetic variation
+============================================================
+Host–virus interactions dominate fitness and conceal additive genetic variation — PLOS Biology. <p>by Aleksei Belyi, Yiyang Du, Alastair J. Wilson, Ben Longdon, Francis M. Jiggins</p>
+
+Host–parasite coevolution is expected to generate strong selection for resistance and infectivity that has the potential to erode genetic variation. Despite this, natural populations often retain extensive genet
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

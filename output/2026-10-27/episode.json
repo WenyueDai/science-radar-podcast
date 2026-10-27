@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-27",
+  "mp3": "output/2026-10-27/podcast_2026-10-27.mp3",
+  "paper_count": 18,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 27.768
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Strong mnemonic prediction errors increase cognitive control, attention, and arousal",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109678",
+      "score": 1.5,
+      "timestamp_sec": 35.448
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "How do we monitor doxy-PEP impact and when should we consider revisiting guidelines?",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005276",
+      "score": 1.5,
+      "timestamp_sec": 69.96000000000001
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "The new paradox of women\u2019s health research",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/113335",
+      "score": 1.413,
+      "timestamp_sec": 113.06400000000001
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+      "score": 1.224,
+      "timestamp_sec": 141.768
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "How Voting Is Like a Klein Bottle",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/",
+      "score": 1.187,
+      "timestamp_sec": 169.92
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "SARS-CoV-2 main protease inhibition through dimerization promotion by peptidomimetic inhibitors and disruption by ebselen",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109956",
+      "score": 1.0,
+      "timestamp_sec": 199.944
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Small brown planthopper infestation enhances it reproduction and insecticide tolerance by manipulating glucose distribution and levels in rice",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110514",
+      "score": 1.0,
+      "timestamp_sec": 242.56799999999998
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Tolerance measured at one developmental stage mispredicts climate resilience in an animal with a complex life cycle",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004079",
+      "score": 1.0,
+      "timestamp_sec": 279.864
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "High-resolution paleobiome reconstructions highlight ecological and historical dynamics underpinning global terrestrial vertebrate diversity",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004077",
+      "score": 1.0,
+      "timestamp_sec": 322.104
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "A macrophage-targeted TIMD4 Peptide-Nanoparticle attenuates colitis symptoms and monocyte recruitment in a mouse model",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004056",
+      "score": 1.0,
+      "timestamp_sec": 364.368
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: An observational study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005140",
+      "score": 1.0,
+      "timestamp_sec": 410.904
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Outcomes of home-based versus facility-based care for mild diphtheria during a large epidemic in Kano State, Nigeria: A retrospective matched cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005097",
+      "score": 1.0,
+      "timestamp_sec": 455.928
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Guidance for defining outcomes in clinical trials",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005275",
+      "score": 1.0,
+      "timestamp_sec": 503.28
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "From sounds to sentences: A longitudinal study of phonological and emergent literacy predictors of early writing in Turkish children",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361638",
+      "score": 1.0,
+      "timestamp_sec": 545.832
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "The antibacterial and antifungal activity of honey and propolis from the Australian stingless bee <i>Tetragonula carbonaria</i>",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361610",
+      "score": 1.0,
+      "timestamp_sec": 584.856
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Single-cell analysis of COPD: Microenvironmental interactions driven by immune-fibrotic imbalance",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361580",
+      "score": 1.0,
+      "timestamp_sec": 631.4879999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "The combination of simethicone and N-acetylcysteine in lidocaine ice popsicle compared with lidocaine ice popsicle alone in patients undergoing unsedated esophagogastroduodenoscopy: A prospective double-blind randomized controlled trial",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361495",
+      "score": 1.0,
+      "timestamp_sec": 673.632
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Host\u2013virus interactions dominate fitness and conceal additive genetic variation",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003836",
+      "score": 0.5,
+      "timestamp_sec": 724.3679999999999
+    },
+    {
+      "index": 20,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 762.8159999999999
+    }
+  ]
+}
