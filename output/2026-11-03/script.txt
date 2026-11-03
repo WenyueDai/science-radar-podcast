@@ -1,0 +1,138 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Pancreatic cancer: The RAS paradigm shift
+============================================================
+Pancreatic cancer: The RAS paradigm shift — PLOS Medicine. <p>by Samuel P. Soff, Eileen M. O’Reilly</p>
+
+Treatment approaches for pancreatic adenocarcinoma, an aggressive disease with poor prognosis, are evolving beyond cytotoxic chemotherapy. Recent advances in RAS targeting with small molecules are redefining therapeutic paradigms.
+
+Treatment approaches f
+
+============================================================
+[ROUNDUP] An unexpected function of a cell-cycle enzyme might explain the toxic effects of its inhibitors
+============================================================
+An unexpected function of a cell-cycle enzyme might explain the toxic effects of its inhibitors — Nature News. <p>Nature, Published online: 28 October 2026; <a href="https://www.nature.com/articles/d41586-026-03288-5">doi:10.1038/d41586-026-03288-5</a></p>A previously unknown mechanism required for cells to start proliferating has been identified. A combination of mathematical modelling and cell-based experi
+
+============================================================
+[ROUNDUP] Viral disease outcomes are indistinguishable between experimentally infected bats and rodents
+============================================================
+Viral disease outcomes are indistinguishable between experimentally infected bats and rodents — PLOS Biology. <p>by Maxwell J. Farrell, Samantha K. Tucker, Nardus Mollentze, Daniel G. Streicker</p>
+
+A common explanation for bats being a conspicuous source of zoonotic viruses is their purported ability to coexist with viruses without suffering overt disease. Widespread acceptance of the idea that bats have u
+
+============================================================
+[ROUNDUP] Out-of-balance growth enables cost-free synthesis of the flagellum and other proteins in a single bacterium
+============================================================
+Out-of-balance growth enables cost-free synthesis of the flagellum and other proteins in a single bacterium — eLife. The cost of expressing unnecessary genes on growth has been explained at the population level through balanced growth assumptions. However, due to the high degree of stochasticity in growth and gene regulation, it remains unclear how classical growth laws derived from bulk measurements manifest at t
+
+============================================================
+[ROUNDUP] Challenges and recommendations for implementation of oncology clinical practice guidelines in China
+============================================================
+Challenges and recommendations for implementation of oncology clinical practice guidelines in China — PLOS Medicine. <p>by Minzhi Lv, Duanduan Yuan, Yue Suo, Fang Ding, Lijuan Hu, Lei Cao, Yi Wang, Jing Lei, Shenglan Tang, Tianshu Liu</p>
+Summary points <p>As China’s cancer burden continues to rise and treatment becomes increasingly complex, clinical practice guidelines (CPGs) are crucial to standardising cancer c
+
+============================================================
+[ROUNDUP] Pre-service mathematics teachers’ integration of design thinking in STEM lesson plans: Insights from a qualitative case study
+============================================================
+Pre-service mathematics teachers’ integration of design thinking in STEM lesson plans: Insights from a qualitative case study — PLOS ONE. <p>by Rüveyda Karaman Dündar</p>
+
+Mathematics is foundational in science, technology, engineering, and mathematics (STEM) education. Mathematics can foster problem-solving, quantitative reasoning, modeling, and creativity across disciplines. This study explores how pre-service mathematics teachers (
+
+============================================================
+[ROUNDUP] A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy
+============================================================
+A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy — Quanta Magazine. For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.            <p>The post <a href="https://www.quantamagazine.org/a-new-map-of-empty-space-challenge
+
+============================================================
+[ROUNDUP] In Indonesia, PhD students blow the whistle on bad supervision
+============================================================
+In Indonesia, PhD students blow the whistle on bad supervision — Nature News. <p>Nature, Published online: 02 November 2026; <a href="https://www.nature.com/articles/d41586-026-02465-w">doi:10.1038/d41586-026-02465-w</a></p>The nation plans to boost the number of doctoral candidates, but some early-career researchers warn of systemic challenges, including poor-quality supervi
+
+============================================================
+[ROUNDUP] Five overlooked steps to identify new epidemics, fast
+============================================================
+Five overlooked steps to identify new epidemics, fast — Nature News. <p>Nature, Published online: 02 November 2026; <a href="https://www.nature.com/articles/d41586-026-03509-x">doi:10.1038/d41586-026-03509-x</a></p>Current measures to track emerging epidemics have a key limitation: they don’t work if the disease causes unusual or unexpected symptoms.
+
+============================================================
+[ROUNDUP] Behavioural and neurogenetic evidence for emotion primitives in the fruit fly <i>Drosophila</i> from an open field test
+============================================================
+Behavioural and neurogenetic evidence for emotion primitives in the fruit fly <i>Drosophila</i> from an open field test — eLife. Emotions are based on evolutionarily conserved building blocks (‘emotion primitives’) that are present across mammals. Whether these building blocks are found in insects is largely undefined. Here, we employ the open field test (OFT) in <i>Drosophila</i> and focus on wall-following and total walking
+
+============================================================
+[ROUNDUP] Simplifying principles underlying the highly complex peptide motif of the promiscuous chicken MHC class I molecule, BF2*21:01
+============================================================
+Simplifying principles underlying the highly complex peptide motif of the promiscuous chicken MHC class I molecule, BF2*21:01 — eLife. In chickens and humans, classical class I molecules of the major histocompatibility complex (MHC) have a spectrum of correlated properties, including cell surface expression and peptide repertoire. Understanding the impact of these promiscuous generalists and fastidious specialists is of considerabl
+
+============================================================
+[ROUNDUP] Knockdown of a regulatory barcode shifts macrophage polarization destination from M1 to M2 and increases pathogen burden upon <i>S. aureus</i> infection
+============================================================
+Knockdown of a regulatory barcode shifts macrophage polarization destination from M1 to M2 and increases pathogen burden upon <i>S. aureus</i> infection — eLife. Macrophages are driven to form distinct functional phenotypes in response to different immunological stimuli, in a process widely referred to as macrophage polarization. Transcriptional regulators that guide macrophage polarization in response to a given trigger remain largely unknown. In this study
+
+============================================================
+[ROUNDUP] LEM-3/ANKLE1 nuclease prevents the formation of abnormal syncytium to safeguard neuronal differentiation
+============================================================
+LEM-3/ANKLE1 nuclease prevents the formation of abnormal syncytium to safeguard neuronal differentiation — PLOS Biology. <p>by Siyu Deng, Chaogu Zheng</p>
+
+In animal development, cells exit the cell cycle after a final round of cell division to differentiate into specialized cell types. However, the impact of failed cytokinesis on the fate specification of postmitotic cells, especially neurons, remains poorly understo
+
+============================================================
+[ROUNDUP] Pollinator abundance shapes sexual selection in an angiosperm
+============================================================
+Pollinator abundance shapes sexual selection in an angiosperm — PLOS Biology. <p>by Estelle Barbot, Mathilde Dufaÿ, Tim Janicke, Benoit Lapeyre, Denis Orcel, François Rousset, Jeanne Tonnabel</p>
+
+Sexual selection is a central force in evolutionary biology that has been shown to shape phenotypes and population dynamics in animals. While this selective force is increasingly re
+
+============================================================
+[ROUNDUP] Cost-effectiveness of recommended interventions for managing low back pain: A systematic review
+============================================================
+Cost-effectiveness of recommended interventions for managing low back pain: A systematic review — PLOS Medicine. <p>by Stephanie Mathieson, Martin Underwood, Muhammad Ibrahim, Zhilin Hua, Zhaohua Zhu, Paulo H. Ferreira, Hema Mistry, Emily R. Atkins, Jocelyn L. Bowden, Jillian P. Eyles, Andrew M. Briggs, David J. Hunter, Manuela L. Ferreira</p>
+Background <p>Low back pain is the leading cause of disability worl
+
+============================================================
+[ROUNDUP] Co-exposure to planned power outages and wildfire PM<sub>2.5</sub> and acute healthcare utilization in California: A time-stratified case-crossover study
+============================================================
+Co-exposure to planned power outages and wildfire PM<sub>2.5</sub> and acute healthcare utilization in California: A time-stratified case-crossover study — PLOS Medicine. <p>by Lauren Blair Wilner, Caitlin G. Jones-Ngo, Chen Chen, Bethany Kwoka, Vivian Do, Joel D. Kaufman, Laura C. Myers, Tarik Benmahrnia, Joan A. Casey</p>
+Background <p>To prevent wildfires, electric utilities may preemptively de-energize power lines (public safety power shutoffs [PSPS]). These PSPS
+
+============================================================
+[ROUNDUP] Prognostic value of the systemic inflammation response index (SIRI) in glioma: A meta-analysis
+============================================================
+Prognostic value of the systemic inflammation response index (SIRI) in glioma: A meta-analysis — PLOS ONE. <p>by Lixia Guo, Xudong Cao, Lijun Yang, Xiaoyan Zhu, Lan Liu, Huandong Liu</p>
+Objective <p>To systematically evaluate the predictive value of systemic inflammation response index (SIRI) for the prognosis of glioma patients.</p> Methods <p>PubMed, Cochrane Library, EMBASE, and Web of Science databa
+
+============================================================
+[ROUNDUP] Chickpea flour (<i>Cicer arietinum</i> L) improves viability of potentially probiotics <i>Lactobacillus plantarum</i> S180.7 and <i>Lactobacillus plantarum</i> SBR64.7 in milk-based formulations
+============================================================
+Chickpea flour (<i>Cicer arietinum</i> L) improves viability of potentially probiotics <i>Lactobacillus plantarum</i> S180.7 and <i>Lactobacillus plantarum</i> SBR64.7 in milk-based formulations — PLOS ONE. <p>by Larissa dos Santos Freitas, Sandra Fernandes Arruda, Maria Carolina Mesquita, Thalyson Guirra Eneias, Marcio Antônio Mendonça</p>
+
+This study evaluated the effect of adding chickpea flour to milk-based formulations on physicochemical parameters, the survival, and viability of potentially probi
+
+============================================================
+[ROUNDUP] Machine learning for predicting mortality in patients with sepsis and its associated complications: A systematic review and meta-analysis
+============================================================
+Machine learning for predicting mortality in patients with sepsis and its associated complications: A systematic review and meta-analysis — PLOS ONE. <p>by Hanxi Lv, Yan Gao, Aiping Yu</p>
+Background <p>Sepsis remains a leading cause of death in intensive care units worldwide and may be accompanied by complex complications, including encephalopathy, coagulopathy, acute kidney injury, myocardial dysfunction, and delirium, each of which substantial
+
+============================================================
+[ROUNDUP] Rethinking neurodegeneration: Placing disease in its physiological context
+============================================================
+Rethinking neurodegeneration: Placing disease in its physiological context — PLOS Biology. <p>by Joanna Clarke, Sarah Jäkel</p>
+
+Research into neurodegeneration is often confined to a single disease, cell type or mechanism. A new collection of articles explores neurodegeneration within its physiological context, looking beyond diseased neurons to the surrounding tissue microenvironment.
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+

@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-03",
+  "mp3": "output/2026-11-03/podcast_2026-11-03.mp3",
+  "paper_count": 20,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 27.768
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Pancreatic cancer: The RAS paradigm shift",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005283",
+      "score": 1.81,
+      "timestamp_sec": 35.448
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "An unexpected function of a cell-cycle enzyme might explain the toxic effects of its inhibitors",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-03288-5",
+      "score": 1.747,
+      "timestamp_sec": 70.824
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Viral disease outcomes are indistinguishable between experimentally infected bats and rodents",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004053",
+      "score": 1.5,
+      "timestamp_sec": 102.336
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Out-of-balance growth enables cost-free synthesis of the flagellum and other proteins in a single bacterium",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110747",
+      "score": 1.5,
+      "timestamp_sec": 140.16
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Challenges and recommendations for implementation of oncology clinical practice guidelines in China",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005261",
+      "score": 1.5,
+      "timestamp_sec": 173.47199999999998
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Pre-service mathematics teachers\u2019 integration of design thinking in STEM lesson plans: Insights from a qualitative case study",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361875",
+      "score": 1.5,
+      "timestamp_sec": 216.76799999999997
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "A New Map of \u2018Empty\u2019 Space Challenges a Tranquil Picture of the Galaxy",
+      "journal": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+      "score": 1.274,
+      "timestamp_sec": 257.424
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "In Indonesia, PhD students blow the whistle on bad supervision",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-02465-w",
+      "score": 1.152,
+      "timestamp_sec": 287.928
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Five overlooked steps to identify new epidemics, fast",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-03509-x",
+      "score": 1.141,
+      "timestamp_sec": 317.64
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Behavioural and neurogenetic evidence for emotion primitives in the fruit fly <i>Drosophila</i> from an open field test",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/107110",
+      "score": 1.0,
+      "timestamp_sec": 345.38399999999996
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Simplifying principles underlying the highly complex peptide motif of the promiscuous chicken MHC class I molecule, BF2*21:01",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/111098",
+      "score": 1.0,
+      "timestamp_sec": 385.12799999999993
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Knockdown of a regulatory barcode shifts macrophage polarization destination from M1 to M2 and increases pathogen burden upon <i>S. aureus</i> infection",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/91547",
+      "score": 1.0,
+      "timestamp_sec": 425.5439999999999
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "LEM-3/ANKLE1 nuclease prevents the formation of abnormal syncytium to safeguard neuronal differentiation",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004099",
+      "score": 1.0,
+      "timestamp_sec": 467.3519999999999
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Pollinator abundance shapes sexual selection in an angiosperm",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003579",
+      "score": 1.0,
+      "timestamp_sec": 507.6959999999999
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "Cost-effectiveness of recommended interventions for managing low back pain: A systematic review",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005273",
+      "score": 1.0,
+      "timestamp_sec": 543.4079999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Co-exposure to planned power outages and wildfire PM<sub>2.5</sub> and acute healthcare utilization in California: A time-stratified case-crossover study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005270",
+      "score": 1.0,
+      "timestamp_sec": 588.1199999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Prognostic value of the systemic inflammation response index (SIRI) in glioma: A meta-analysis",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362113",
+      "score": 1.0,
+      "timestamp_sec": 641.7839999999999
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Chickpea flour (<i>Cicer arietinum</i> L) improves viability of potentially probiotics <i>Lactobacillus plantarum</i> S180.7 and <i>Lactobacillus plantarum</i> SBR64.7 in milk-based formulations",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362095",
+      "score": 1.0,
+      "timestamp_sec": 687.9119999999999
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Machine learning for predicting mortality in patients with sepsis and its associated complications: A systematic review and meta-analysis",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362057",
+      "score": 1.0,
+      "timestamp_sec": 745.944
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "Rethinking neurodegeneration: Placing disease in its physiological context",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004087",
+      "score": 0.795,
+      "timestamp_sec": 789.1199999999999
+    },
+    {
+      "index": 22,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 823.8239999999998
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Pancreatic cancer: The RAS paradigm shift",
+    "text": "Pancreatic cancer: The RAS paradigm shift \u2014 PLOS Medicine. <p>by Samuel P. Soff, Eileen M. O\u2019Reilly</p>\n\nTreatment approaches for pancreatic adenocarcinoma, an aggressive disease with poor prognosis, are evolving beyond cytotoxic chemotherapy. Recent advances in RAS targeting with small molecules are redefining therapeutic paradigms.\n\nTreatment approaches f",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005283",
+    "journal": "PLOS Medicine",
+    "score": 1.81,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005283"
+  },
+  {
+    "type": "roundup",
+    "title": "An unexpected function of a cell-cycle enzyme might explain the toxic effects of its inhibitors",
+    "text": "An unexpected function of a cell-cycle enzyme might explain the toxic effects of its inhibitors \u2014 Nature News. <p>Nature, Published online: 28 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03288-5\">doi:10.1038/d41586-026-03288-5</a></p>A previously unknown mechanism required for cells to start proliferating has been identified. A combination of mathematical modelling and cell-based experi",
+    "paper_id": "https://www.nature.com/articles/d41586-026-03288-5",
+    "journal": "Nature News",
+    "score": 1.747,
+    "url": "https://www.nature.com/articles/d41586-026-03288-5"
+  },
+  {
+    "type": "roundup",
+    "title": "Viral disease outcomes are indistinguishable between experimentally infected bats and rodents",
+    "text": "Viral disease outcomes are indistinguishable between experimentally infected bats and rodents \u2014 PLOS Biology. <p>by Maxwell J. Farrell, Samantha K. Tucker, Nardus Mollentze, Daniel G. Streicker</p>\n\nA common explanation for bats being a conspicuous source of zoonotic viruses is their purported ability to coexist with viruses without suffering overt disease. Widespread acceptance of the idea that bats have u",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004053",
+    "journal": "PLOS Biology",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004053"
+  },
+  {
+    "type": "roundup",
+    "title": "Out-of-balance growth enables cost-free synthesis of the flagellum and other proteins in a single bacterium",
+    "text": "Out-of-balance growth enables cost-free synthesis of the flagellum and other proteins in a single bacterium \u2014 eLife. The cost of expressing unnecessary genes on growth has been explained at the population level through balanced growth assumptions. However, due to the high degree of stochasticity in growth and gene regulation, it remains unclear how classical growth laws derived from bulk measurements manifest at t",
+    "paper_id": "https://elifesciences.org/articles/110747",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/110747"
+  },
+  {
+    "type": "roundup",
+    "title": "Challenges and recommendations for implementation of oncology clinical practice guidelines in China",
+    "text": "Challenges and recommendations for implementation of oncology clinical practice guidelines in China \u2014 PLOS Medicine. <p>by Minzhi Lv, Duanduan Yuan, Yue Suo, Fang Ding, Lijuan Hu, Lei Cao, Yi Wang, Jing Lei, Shenglan Tang, Tianshu Liu</p>\nSummary points <p>As China\u2019s cancer burden continues to rise and treatment becomes increasingly complex, clinical practice guidelines (CPGs) are crucial to standardising cancer c",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005261",
+    "journal": "PLOS Medicine",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005261"
+  },
+  {
+    "type": "roundup",
+    "title": "Pre-service mathematics teachers\u2019 integration of design thinking in STEM lesson plans: Insights from a qualitative case study",
+    "text": "Pre-service mathematics teachers\u2019 integration of design thinking in STEM lesson plans: Insights from a qualitative case study \u2014 PLOS ONE. <p>by R\u00fcveyda Karaman D\u00fcndar</p>\n\nMathematics is foundational in science, technology, engineering, and mathematics (STEM) education. Mathematics can foster problem-solving, quantitative reasoning, modeling, and creativity across disciplines. This study explores how pre-service mathematics teachers (",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361875",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361875"
+  },
+  {
+    "type": "roundup",
+    "title": "A New Map of \u2018Empty\u2019 Space Challenges a Tranquil Picture of the Galaxy",
+    "text": "A New Map of \u2018Empty\u2019 Space Challenges a Tranquil Picture of the Galaxy \u2014 Quanta Magazine. For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium\u2019s dynamic nature into focus.            <p>The post <a href=\"https://www.quantamagazine.org/a-new-map-of-empty-space-challenge",
+    "paper_id": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+    "journal": "Quanta Magazine",
+    "score": 1.274,
+    "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/"
+  },
+  {
+    "type": "roundup",
+    "title": "In Indonesia, PhD students blow the whistle on bad supervision",
+    "text": "In Indonesia, PhD students blow the whistle on bad supervision \u2014 Nature News. <p>Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-02465-w\">doi:10.1038/d41586-026-02465-w</a></p>The nation plans to boost the number of doctoral candidates, but some early-career researchers warn of systemic challenges, including poor-quality supervi",
+    "paper_id": "https://www.nature.com/articles/d41586-026-02465-w",
+    "journal": "Nature News",
+    "score": 1.152,
+    "url": "https://www.nature.com/articles/d41586-026-02465-w"
+  },
+  {
+    "type": "roundup",
+    "title": "Five overlooked steps to identify new epidemics, fast",
+    "text": "Five overlooked steps to identify new epidemics, fast \u2014 Nature News. <p>Nature, Published online: 02 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03509-x\">doi:10.1038/d41586-026-03509-x</a></p>Current measures to track emerging epidemics have a key limitation: they don\u2019t work if the disease causes unusual or unexpected symptoms.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-03509-x",
+    "journal": "Nature News",
+    "score": 1.141,
+    "url": "https://www.nature.com/articles/d41586-026-03509-x"
+  },
+  {
+    "type": "roundup",
+    "title": "Behavioural and neurogenetic evidence for emotion primitives in the fruit fly <i>Drosophila</i> from an open field test",
+    "text": "Behavioural and neurogenetic evidence for emotion primitives in the fruit fly <i>Drosophila</i> from an open field test \u2014 eLife. Emotions are based on evolutionarily conserved building blocks (\u2018emotion primitives\u2019) that are present across mammals. Whether these building blocks are found in insects is largely undefined. Here, we employ the open field test (OFT) in <i>Drosophila</i> and focus on wall-following and total walking",
+    "paper_id": "https://elifesciences.org/articles/107110",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/107110"
+  },
+  {
+    "type": "roundup",
+    "title": "Simplifying principles underlying the highly complex peptide motif of the promiscuous chicken MHC class I molecule, BF2*21:01",
+    "text": "Simplifying principles underlying the highly complex peptide motif of the promiscuous chicken MHC class I molecule, BF2*21:01 \u2014 eLife. In chickens and humans, classical class I molecules of the major histocompatibility complex (MHC) have a spectrum of correlated properties, including cell surface expression and peptide repertoire. Understanding the impact of these promiscuous generalists and fastidious specialists is of considerabl",
+    "paper_id": "https://elifesciences.org/articles/111098",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/111098"
+  },
+  {
+    "type": "roundup",
+    "title": "Knockdown of a regulatory barcode shifts macrophage polarization destination from M1 to M2 and increases pathogen burden upon <i>S. aureus</i> infection",
+    "text": "Knockdown of a regulatory barcode shifts macrophage polarization destination from M1 to M2 and increases pathogen burden upon <i>S. aureus</i> infection \u2014 eLife. Macrophages are driven to form distinct functional phenotypes in response to different immunological stimuli, in a process widely referred to as macrophage polarization. Transcriptional regulators that guide macrophage polarization in response to a given trigger remain largely unknown. In this study",
+    "paper_id": "https://elifesciences.org/articles/91547",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/91547"
+  },
+  {
+    "type": "roundup",
+    "title": "LEM-3/ANKLE1 nuclease prevents the formation of abnormal syncytium to safeguard neuronal differentiation",
+    "text": "LEM-3/ANKLE1 nuclease prevents the formation of abnormal syncytium to safeguard neuronal differentiation \u2014 PLOS Biology. <p>by Siyu Deng, Chaogu Zheng</p>\n\nIn animal development, cells exit the cell cycle after a final round of cell division to differentiate into specialized cell types. However, the impact of failed cytokinesis on the fate specification of postmitotic cells, especially neurons, remains poorly understo",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004099",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004099"
+  },
+  {
+    "type": "roundup",
+    "title": "Pollinator abundance shapes sexual selection in an angiosperm",
+    "text": "Pollinator abundance shapes sexual selection in an angiosperm \u2014 PLOS Biology. <p>by Estelle Barbot, Mathilde Dufa\u00ff, Tim Janicke, Benoit Lapeyre, Denis Orcel, Fran\u00e7ois Rousset, Jeanne Tonnabel</p>\n\nSexual selection is a central force in evolutionary biology that has been shown to shape phenotypes and population dynamics in animals. While this selective force is increasingly re",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003579",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003579"
+  },
+  {
+    "type": "roundup",
+    "title": "Cost-effectiveness of recommended interventions for managing low back pain: A systematic review",
+    "text": "Cost-effectiveness of recommended interventions for managing low back pain: A systematic review \u2014 PLOS Medicine. <p>by Stephanie Mathieson, Martin Underwood, Muhammad Ibrahim, Zhilin Hua, Zhaohua Zhu, Paulo H. Ferreira, Hema Mistry, Emily R. Atkins, Jocelyn L. Bowden, Jillian P. Eyles, Andrew M. Briggs, David J. Hunter, Manuela L. Ferreira</p>\nBackground <p>Low back pain is the leading cause of disability worl",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005273",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005273"
+  },
+  {
+    "type": "roundup",
+    "title": "Co-exposure to planned power outages and wildfire PM<sub>2.5</sub> and acute healthcare utilization in California: A time-stratified case-crossover study",
+    "text": "Co-exposure to planned power outages and wildfire PM<sub>2.5</sub> and acute healthcare utilization in California: A time-stratified case-crossover study \u2014 PLOS Medicine. <p>by Lauren Blair Wilner, Caitlin G. Jones-Ngo, Chen Chen, Bethany Kwoka, Vivian Do, Joel D. Kaufman, Laura C. Myers, Tarik Benmahrnia, Joan A. Casey</p>\nBackground <p>To prevent wildfires, electric utilities may preemptively de-energize power lines (public safety power shutoffs [PSPS]). These PSPS",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005270",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005270"
+  },
+  {
+    "type": "roundup",
+    "title": "Prognostic value of the systemic inflammation response index (SIRI) in glioma: A meta-analysis",
+    "text": "Prognostic value of the systemic inflammation response index (SIRI) in glioma: A meta-analysis \u2014 PLOS ONE. <p>by Lixia Guo, Xudong Cao, Lijun Yang, Xiaoyan Zhu, Lan Liu, Huandong Liu</p>\nObjective <p>To systematically evaluate the predictive value of systemic inflammation response index (SIRI) for the prognosis of glioma patients.</p> Methods <p>PubMed, Cochrane Library, EMBASE, and Web of Science databa",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362113",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362113"
+  },
+  {
+    "type": "roundup",
+    "title": "Chickpea flour (<i>Cicer arietinum</i> L) improves viability of potentially probiotics <i>Lactobacillus plantarum</i> S180.7 and <i>Lactobacillus plantarum</i> SBR64.7 in milk-based formulations",
+    "text": "Chickpea flour (<i>Cicer arietinum</i> L) improves viability of potentially probiotics <i>Lactobacillus plantarum</i> S180.7 and <i>Lactobacillus plantarum</i> SBR64.7 in milk-based formulations \u2014 PLOS ONE. <p>by Larissa dos Santos Freitas, Sandra Fernandes Arruda, Maria Carolina Mesquita, Thalyson Guirra Eneias, Marcio Ant\u00f4nio Mendon\u00e7a</p>\n\nThis study evaluated the effect of adding chickpea flour to milk-based formulations on physicochemical parameters, the survival, and viability of potentially probi",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362095",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362095"
+  },
+  {
+    "type": "roundup",
+    "title": "Machine learning for predicting mortality in patients with sepsis and its associated complications: A systematic review and meta-analysis",
+    "text": "Machine learning for predicting mortality in patients with sepsis and its associated complications: A systematic review and meta-analysis \u2014 PLOS ONE. <p>by Hanxi Lv, Yan Gao, Aiping Yu</p>\nBackground <p>Sepsis remains a leading cause of death in intensive care units worldwide and may be accompanied by complex complications, including encephalopathy, coagulopathy, acute kidney injury, myocardial dysfunction, and delirium, each of which substantial",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362057",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362057"
+  },
+  {
+    "type": "roundup",
+    "title": "Rethinking neurodegeneration: Placing disease in its physiological context",
+    "text": "Rethinking neurodegeneration: Placing disease in its physiological context \u2014 PLOS Biology. <p>by Joanna Clarke, Sarah J\u00e4kel</p>\n\nResearch into neurodegeneration is often confined to a single disease, cell type or mechanism. A new collection of articles explores neurodegeneration within its physiological context, looking beyond diseased neurons to the surrounding tissue microenvironment.",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004087",
+    "journal": "PLOS Biology",
+    "score": 0.795,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004087"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]
