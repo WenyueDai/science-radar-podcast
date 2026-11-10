@@ -1,0 +1,209 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Targeting tankyrase scaffolding in the \u03b2-catenin destruction complex by PROTAC overcomes the limitation of catalytic inhibitors in colorectal cancer",
+    "text": "Targeting tankyrase scaffolding in the \u03b2-catenin destruction complex by PROTAC overcomes the limitation of catalytic inhibitors in colorectal cancer \u2014 eLife. Aberrant WNT/\u03b2-catenin signaling drives tumorigenesis and metastasis in cancer. Although enzymatic inhibitors of tankyrase (TNKS) effectively block AXIN degradation and stabilize the \u03b2-catenin destruction complex (DC), they have demonstrated limited efficacy in various colorectal cancer (CRC) models",
+    "paper_id": "https://elifesciences.org/articles/109052",
+    "journal": "eLife",
+    "score": 2.0,
+    "url": "https://elifesciences.org/articles/109052"
+  },
+  {
+    "type": "roundup",
+    "title": "A novel mechanism for morphological change during bacterial sporulation based on programmed peptidoglycan degradation",
+    "text": "A novel mechanism for morphological change during bacterial sporulation based on programmed peptidoglycan degradation \u2014 eLife. Many bacteria form spores to endure unfavorable conditions. While <i>Firmicutes</i> generate endospores through cell division, sporulation in non-Firmicutes remains less understood. The Gram-negative bacterium <i>Myxococcus xanthus</i> undergoes sporulation through two distinct mechanisms: rapid spo",
+    "paper_id": "https://elifesciences.org/articles/108250",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/108250"
+  },
+  {
+    "type": "roundup",
+    "title": "Antibiotic stewardship challenges in Madagascar\u2019s poultry sector: informality, knowledge gaps, and market constraints",
+    "text": "Antibiotic stewardship challenges in Madagascar\u2019s poultry sector: informality, knowledge gaps, and market constraints \u2014 PLOS ONE. <p>by Sophie Molia, Ilo Tsimok\u2019Haja Ramahatafandry, Michel Rakotoharinome, Christian Lienhardt, Muriel Figui\u00e9, Alexandre Hobeika, Daouda Kassi\u00e9</p>\n\nAntibiotic resistance (ABR) is a major global public health threat, largely driven by the overuse and misuse of antibiotics. Tackling its animal health",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362299",
+    "journal": "PLOS ONE",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362299"
+  },
+  {
+    "type": "roundup",
+    "title": "Comprehensive mapping of essential-gene interactions in <i>M. tuberculosis</i>",
+    "text": "Comprehensive mapping of essential-gene interactions in <i>M. tuberculosis</i> \u2014 Nature News. <p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11212-0\">doi:10.1038/s41586-026-11212-0</a></p>A high-throughput CRISPR-interference platform allows the mapping of interactions between essential genes in Mycobacterium tuberculosis, revealing many pr",
+    "paper_id": "https://www.nature.com/articles/s41586-026-11212-0",
+    "journal": "Nature News",
+    "score": 1.238,
+    "url": "https://www.nature.com/articles/s41586-026-11212-0"
+  },
+  {
+    "type": "roundup",
+    "title": "A national baseline for methane sink habitats and methanotroph diversity",
+    "text": "A national baseline for methane sink habitats and methanotroph diversity \u2014 Nature Communications. <p>Nature Communications, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79316-9\">doi:10.1038/s41467-026-79316-9</a></p>In this study, the authors use metagenomics to map the diverse and previously unknown bacteria responsible for taking up methane across Den",
+    "paper_id": "https://www.nature.com/articles/s41467-026-79316-9",
+    "journal": "Nature Communications",
+    "score": 1.215,
+    "url": "https://www.nature.com/articles/s41467-026-79316-9"
+  },
+  {
+    "type": "roundup",
+    "title": "When humans disappear, biodiversity takes a surprising turn",
+    "text": "When humans disappear, biodiversity takes a surprising turn \u2014 Nature News. <p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03505-1\">doi:10.1038/d41586-026-03505-1</a></p>For decades, conservation has worried about the risks of too many people. In some places, depopulation is the real threat.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-03505-1",
+    "journal": "Nature News",
+    "score": 1.134,
+    "url": "https://www.nature.com/articles/d41586-026-03505-1"
+  },
+  {
+    "type": "roundup",
+    "title": "The surprising reason women in academia do more parenting than men",
+    "text": "The surprising reason women in academia do more parenting than men \u2014 Nature News. <p>Nature, Published online: 05 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03568-0\">doi:10.1038/d41586-026-03568-0</a></p>Policies designed to keep women in the workforce could be entrenching gendered parenting roles.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-03568-0",
+    "journal": "Nature News",
+    "score": 1.121,
+    "url": "https://www.nature.com/articles/d41586-026-03568-0"
+  },
+  {
+    "type": "roundup",
+    "title": "First-of-its-kind planetary wreckage holds clues to our Solar System\u2019s fate",
+    "text": "First-of-its-kind planetary wreckage holds clues to our Solar System\u2019s fate \u2014 Nature News. <p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03537-7\">doi:10.1038/d41586-026-03537-7</a></p>Astronomers spot an unprecedented double disk of debris around a dead star.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-03537-7",
+    "journal": "Nature News",
+    "score": 1.111,
+    "url": "https://www.nature.com/articles/d41586-026-03537-7"
+  },
+  {
+    "type": "roundup",
+    "title": "Harrowing experiences of vagina fistula victims in the Kpandai District of Ghana: A qualitative study",
+    "text": "Harrowing experiences of vagina fistula victims in the Kpandai District of Ghana: A qualitative study \u2014 PLOS ONE. <p>by Eric Elorm Ahorsu, Joshua Adeti, Ernest Kemevor Selasie, Mohammed Ibn Shamsudeen, Cynthia Akos Okumasi, Benjamin Amedume, Justice Wiston Amstrong Jonathan</p>\nBackground <p>Vaginal fistula (VF), particularly vesicovaginal fistula (VVF), remains a significant reproductive health challenge in ma",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362368",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362368"
+  },
+  {
+    "type": "roundup",
+    "title": "Epidemiological surveillance of bacterial pathogens in cultured European sea bass (<i>Dicentrarchus labrax</i>) along the Aegean coast of T\u00fcrkiye",
+    "text": "Epidemiological surveillance of bacterial pathogens in cultured European sea bass (<i>Dicentrarchus labrax</i>) along the Aegean coast of T\u00fcrkiye \u2014 PLOS ONE. <p>by P\u0131nar \u00c7elik, Vyron Georgalas, \u0130hsan \u00c7elik</p>\n\nIntensive aquaculture of European sea bass (<i>Dicentrarchus labrax</i>) along the Aegean coast of T\u00fcrkiye faces continuous production challenges from infectious diseases, yet comprehensive multi-year baseline data remain limited. This study prese",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362366",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362366"
+  },
+  {
+    "type": "roundup",
+    "title": "Midbrain somatostatin-expressing cells control pain-suppression during defensive states",
+    "text": "Midbrain somatostatin-expressing cells control pain-suppression during defensive states \u2014 eLife. In threatening situations, animals exhibit a broad range of behavioral and autonomic responses. As such, a crucial adaptive response is the inhibition of pain, which facilitates relevant defensive behaviors that promote survival. Whereas the structures and mechanisms involved in fear and pain behavi",
+    "paper_id": "https://elifesciences.org/articles/106826",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/106826"
+  },
+  {
+    "type": "roundup",
+    "title": "Virus-specific impacts on honey bee flight performance are mediated by the octopamine pathway",
+    "text": "Virus-specific impacts on honey bee flight performance are mediated by the octopamine pathway \u2014 eLife. High annual honey bee colony losses are associated with environmental and biological stressors, including virus infections. In insects, the octopamine (OA) pathway orchestrates the \u2018fight-or-flight\u2019 response, regulating energy mobilization, temperature, and flight. We determined that sacbrood virus",
+    "paper_id": "https://elifesciences.org/articles/111072",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/111072"
+  },
+  {
+    "type": "roundup",
+    "title": "Sperm phospholipase C signaling via PLC\u03b61 and PLC\u03b44 is essential for Ca<sup>2+</sup> oscillations and fertility in mice",
+    "text": "Sperm phospholipase C signaling via PLC\u03b61 and PLC\u03b44 is essential for Ca<sup>2+</sup> oscillations and fertility in mice \u2014 PLOS Biology. <p>by Neha Gupta, Lei Zhang, Hiroki Akizawa, Maria G. Gervasi, Darya A. Tourzani, Pablo E. Visconti, Ana Romarowski, Mariano Buffone, Wei Cui, Rafael A. Fissore</p>\n\nFertilization-induced calcium (Ca<sup>2+</sup>) oscillations are essential for egg activation and embryonic development in mammals. Th",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004098",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004098"
+  },
+  {
+    "type": "roundup",
+    "title": "A split nozzle and two-protein chain-like fibers define the tail architecture of <i>Pseudomonas aeruginosa</i> podophage A1002",
+    "text": "A split nozzle and two-protein chain-like fibers define the tail architecture of <i>Pseudomonas aeruginosa</i> podophage A1002 \u2014 PLOS Biology. <p>by Hao Pang, Yuan Chen, Zeng Peng, Hao Xiao, Wenyuan Chen, Xiaowu Li, Ping Chen, Jing Zheng, Hongrong Liu</p>\n\nPhage therapy offers unique advantages against antibiotic-resistant bacteria. However, high-resolution structural studies of phages targeting <i>Pseudomonas aeruginosa</i>\u2014a top-seven gl",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004081",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004081"
+  },
+  {
+    "type": "roundup",
+    "title": "A deep genetic structure phylogenomically frames the closest algal relatives of land plants",
+    "text": "A deep genetic structure phylogenomically frames the closest algal relatives of land plants \u2014 PLOS Biology. <p>by Maaike J. Bierenbroodspot, C\u00e4cilia F. Kunz, Elisa S. Goldbecker, Maike Lorenz, Iker Irisarri, Thomas Pr\u00f6schold, Tatyana Darienko, Jan de Vries</p>\n\nDiscerning the nature of the last common ancestor of land plants (embryophytes) and algae allows to retrace the adaptations that ushered in the co",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004005",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004005"
+  },
+  {
+    "type": "roundup",
+    "title": "Infant presence and mother-infant conflict predict fetal loss in wild mandrills",
+    "text": "Infant presence and mother-infant conflict predict fetal loss in wild mandrills \u2014 PLOS Biology. <p>by Nikolaos Smit, Berta Roura-Torres, Axelle Delaunay, Alice Baniel, Elise Huchard, Marie J. E. Charpentier</p>\n\nFemale fitness depends on reproductive pace and offspring survival, both of which are determined by the ability to balance resource allocation between current and future reproduction.",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003970",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003970"
+  },
+  {
+    "type": "roundup",
+    "title": "Risk of cardiovascular events and mortality associated with LDL and non-HDL cholesterol levels after statin initiation for primary prevention: A multiregional cohort study",
+    "text": "Risk of cardiovascular events and mortality associated with LDL and non-HDL cholesterol levels after statin initiation for primary prevention: A multiregional cohort study \u2014 PLOS Medicine. <p>by Joseph Edgar Blais, Ralph Kwame Akyea, William Harrison, Amy Hai Yan Chan, Wenfang Zhong, Stephen Franklin Weng, Kebede Abera Beyene, Wallis C. Y. Lau, Kenneth K. C. Man, Nadeem Qureshi, Esther Wai Yin Chan, Ian Chi Kei Wong, Jeff Harrison</p>\nBackground <p>The cardiovascular and mortality ben",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005012",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005012"
+  },
+  {
+    "type": "roundup",
+    "title": "Transforming pandemic influenza antiviral stockpiling using a capacity-based approach: A modeling study",
+    "text": "Transforming pandemic influenza antiviral stockpiling using a capacity-based approach: A modeling study \u2014 PLOS Medicine. <p>by Nir Gavish, Amit Huppert</p>\nBackground <p>Pandemic influenza preparedness in high-resource nations has traditionally relied on large antiviral stockpiles, typically targeting coverage for 25% of the population. This inventory-based benchmark focuses on cumulative disease burden but often over",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004992",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004992"
+  },
+  {
+    "type": "roundup",
+    "title": "Effects of vitamin D supplementation on vitamin D status and physical performance in football players: A systematic review and meta-analysis",
+    "text": "Effects of vitamin D supplementation on vitamin D status and physical performance in football players: A systematic review and meta-analysis \u2014 PLOS ONE. <p>by Jinfa Gu, Yu Zhang, Luhua Xiao</p>\nBackground/Objectives <p>Low vitamin D status is frequently reported among athletes, but whether vitamin D supplementation improves physical performance in football players remains uncertain. This systematic review and meta-analysis aimed to evaluate the effe",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362552",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362552"
+  },
+  {
+    "type": "roundup",
+    "title": "Global return-on-investment of COVID-19 vaccines in the first year of the vaccination programme: A model-based economic evaluation",
+    "text": "Global return-on-investment of COVID-19 vaccines in the first year of the vaccination programme: A model-based economic evaluation \u2014 PLOS Medicine. <p>by Hallie Benjamin, Gregory Barnsley, Oliver J. Watson, Mark Jit</p>\nBackground <p>COVID-19 vaccines played a critical role in reducing global health burden during the COVID-19 pandemic, but their rapid development required extraordinary effort. This study aims to evaluate their global return-on-",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004772",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004772"
+  },
+  {
+    "type": "roundup",
+    "title": "A metabolomic signature of weight-loss and its associations with BMI-linked diseases: A post-hoc analysis of two intervention trials and a mendelian randomisation study",
+    "text": "A metabolomic signature of weight-loss and its associations with BMI-linked diseases: A post-hoc analysis of two intervention trials and a mendelian randomisation study \u2014 PLOS Medicine. <p>by Nicholas Sunderland, Madeleine L. Smith, Alex McConnachie, Paul Welsh, Roy Taylor, Michael E. J. Lean, Chris A. Rogers, Jane M. Blazeby, Naveed Sattar, Lavinia Paternoster, R. Thomas Lumbers, Nicholas J. Timpson, Laura J. Corbin</p>\nBackground <p>Obesity is a major risk factor for a broad spec",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005290",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005290"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

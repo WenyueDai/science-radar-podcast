@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-10",
+  "mp3": "output/2026-11-10/podcast_2026-11-10.mp3",
+  "paper_count": 21,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 27.768
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Targeting tankyrase scaffolding in the \u03b2-catenin destruction complex by PROTAC overcomes the limitation of catalytic inhibitors in colorectal cancer",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/109052",
+      "score": 2.0,
+      "timestamp_sec": 35.448
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "A novel mechanism for morphological change during bacterial sporulation based on programmed peptidoglycan degradation",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/108250",
+      "score": 1.5,
+      "timestamp_sec": 78.48
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Antibiotic stewardship challenges in Madagascar\u2019s poultry sector: informality, knowledge gaps, and market constraints",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362299",
+      "score": 1.5,
+      "timestamp_sec": 119.44800000000001
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Comprehensive mapping of essential-gene interactions in <i>M. tuberculosis</i>",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-11212-0",
+      "score": 1.238,
+      "timestamp_sec": 161.688
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "A national baseline for methane sink habitats and methanotroph diversity",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-79316-9",
+      "score": 1.215,
+      "timestamp_sec": 196.03199999999998
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "When humans disappear, biodiversity takes a surprising turn",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-03505-1",
+      "score": 1.134,
+      "timestamp_sec": 227.44799999999998
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "The surprising reason women in academia do more parenting than men",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-03568-0",
+      "score": 1.121,
+      "timestamp_sec": 255.28799999999995
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "First-of-its-kind planetary wreckage holds clues to our Solar System\u2019s fate",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-03537-7",
+      "score": 1.111,
+      "timestamp_sec": 279.28799999999995
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Harrowing experiences of vagina fistula victims in the Kpandai District of Ghana: A qualitative study",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362368",
+      "score": 1.0,
+      "timestamp_sec": 303.21599999999995
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "Epidemiological surveillance of bacterial pathogens in cultured European sea bass (<i>Dicentrarchus labrax</i>) along the Aegean coast of T\u00fcrkiye",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362366",
+      "score": 1.0,
+      "timestamp_sec": 345.9359999999999
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "Midbrain somatostatin-expressing cells control pain-suppression during defensive states",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/106826",
+      "score": 1.0,
+      "timestamp_sec": 393.6959999999999
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Virus-specific impacts on honey bee flight performance are mediated by the octopamine pathway",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/111072",
+      "score": 1.0,
+      "timestamp_sec": 425.5439999999999
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Sperm phospholipase C signaling via PLC\u03b61 and PLC\u03b44 is essential for Ca<sup>2+</sup> oscillations and fertility in mice",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004098",
+      "score": 1.0,
+      "timestamp_sec": 460.8479999999999
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "A split nozzle and two-protein chain-like fibers define the tail architecture of <i>Pseudomonas aeruginosa</i> podophage A1002",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004081",
+      "score": 1.0,
+      "timestamp_sec": 516.5519999999999
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "A deep genetic structure phylogenomically frames the closest algal relatives of land plants",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004005",
+      "score": 1.0,
+      "timestamp_sec": 566.6639999999999
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Infant presence and mother-infant conflict predict fetal loss in wild mandrills",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003970",
+      "score": 1.0,
+      "timestamp_sec": 607.3199999999998
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Risk of cardiovascular events and mortality associated with LDL and non-HDL cholesterol levels after statin initiation for primary prevention: A multiregional cohort study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005012",
+      "score": 1.0,
+      "timestamp_sec": 644.4959999999999
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Transforming pandemic influenza antiviral stockpiling using a capacity-based approach: A modeling study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004992",
+      "score": 1.0,
+      "timestamp_sec": 696.2879999999999
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Effects of vitamin D supplementation on vitamin D status and physical performance in football players: A systematic review and meta-analysis",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362552",
+      "score": 1.0,
+      "timestamp_sec": 736.0079999999999
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "Global return-on-investment of COVID-19 vaccines in the first year of the vaccination programme: A model-based economic evaluation",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004772",
+      "score": 0.5,
+      "timestamp_sec": 778.992
+    },
+    {
+      "index": 22,
+      "type": "roundup",
+      "title": "A metabolomic signature of weight-loss and its associations with BMI-linked diseases: A post-hoc analysis of two intervention trials and a mendelian randomisation study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005290",
+      "score": 0.5,
+      "timestamp_sec": 820.728
+    },
+    {
+      "index": 23,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 872.112
+    }
+  ]
+}
