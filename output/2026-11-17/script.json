@@ -1,0 +1,209 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Engineering ATP import in yeast uncovers a synthetic route to extend cellular lifespan",
+    "text": "Engineering ATP import in yeast uncovers a synthetic route to extend cellular lifespan \u2014 eLife. Mitochondrial dysfunction and declining ATP production are common features of aging, yet whether ATP availability itself directly regulates cellular lifespan is unclear. However, the causal relationship between cellular ATP homeostasis and aging has not been established. Here, we developed a synthet",
+    "paper_id": "https://elifesciences.org/articles/109761",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/109761"
+  },
+  {
+    "type": "roundup",
+    "title": "Rethinking psychosocial rehabilitation in mental health",
+    "text": "Rethinking psychosocial rehabilitation in mental health \u2014 PLOS Medicine. <p>by Eleonora Prina, Laura Asher, Stefano Barlati, Sudipto Chatterjee, Ioana Alina Cristea, Sandra Ferreira, Charlotte Hanlon, Karli Montague-Cardoso, Parth Sharma, Marianna Purgato, Corrado Barbui</p>\nSummary points <p>\n\nPsychosocial rehabilitation is central to recovery-oriented mental health car",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005285",
+    "journal": "PLOS Medicine",
+    "score": 1.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005285"
+  },
+  {
+    "type": "roundup",
+    "title": "The Evolving Story of How Chemistry Became Biology",
+    "text": "The Evolving Story of How Chemistry Became Biology \u2014 Quanta Magazine. After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be.            <p>The post <a href=\"https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/\" target=\"_blank\">The Evolving Story o",
+    "paper_id": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+    "journal": "Quanta Magazine",
+    "score": 1.216,
+    "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/"
+  },
+  {
+    "type": "roundup",
+    "title": "AI\u2019s energy paradox: will the AI boom strain energy systems or be the source of solutions?",
+    "text": "AI\u2019s energy paradox: will the AI boom strain energy systems or be the source of solutions? \u2014 Nature News. <p>Nature, Published online: 11 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03412-5\">doi:10.1038/d41586-026-03412-5</a></p>Ginelle Greene-Dewasmes is leading a community of interdisciplinary specialists exploring how to make the energy use of artificial intelligence net-positi",
+    "paper_id": "https://www.nature.com/articles/d41586-026-03412-5",
+    "journal": "Nature News",
+    "score": 1.151,
+    "url": "https://www.nature.com/articles/d41586-026-03412-5"
+  },
+  {
+    "type": "roundup",
+    "title": "Retractions of old papers are on the rise: when should bad science be culled?",
+    "text": "Retractions of old papers are on the rise: when should bad science be culled? \u2014 Nature News. <p>Nature, Published online: 11 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03624-9\">doi:10.1038/d41586-026-03624-9</a></p>Decades-old papers are increasingly being pulled from the literature, bringing a host of challenges.",
+    "paper_id": "https://www.nature.com/articles/d41586-026-03624-9",
+    "journal": "Nature News",
+    "score": 1.123,
+    "url": "https://www.nature.com/articles/d41586-026-03624-9"
+  },
+  {
+    "type": "roundup",
+    "title": "Intelligent classification of medically and veterinary important mosquito vectors using self-distillation-enhanced supervised learning",
+    "text": "Intelligent classification of medically and veterinary important mosquito vectors using self-distillation-enhanced supervised learning \u2014 PLOS ONE. <p>by Santhad Chuwongin, Morakot Kaewthamasorn, Tanawat Chaiphongpachara, Sedthapong Laojun, Tawee Saiwichai, Naruchit Soiphet, Siridech Boonsang, Veerayuth Kittichai</p>\n\nMosquito-borne diseases remain a persistent global public health burden, with effective control strategies depending on the accu",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362945",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362945"
+  },
+  {
+    "type": "roundup",
+    "title": "Implementation of mental health screening tools among women refugees and asylum seekers in the United States: A systematic review",
+    "text": "Implementation of mental health screening tools among women refugees and asylum seekers in the United States: A systematic review \u2014 PLOS ONE. <p>by Pierre J. Amiel, Shalini Suresh, Abdulaziz Almuhanna, Pratik Chhetri, John Pate\u00f1a, Joyce Gyamfi, Dorice Vieira, Chukwuemeka Iloegbu, Emmanuel Peprah</p>\n\nGlobally, displaced populations face significant mental health challenges, with women refugees and asylum seekers experiencing greater risks",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362807",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362807"
+  },
+  {
+    "type": "roundup",
+    "title": "Life-cycle plasticity enables conditional asexual reproduction in a kelp",
+    "text": "Life-cycle plasticity enables conditional asexual reproduction in a kelp \u2014 PLOS Biology. <p>by Daniel Liesner, R\u00e9my Luthringer, Lineekela Kandjengo, John J. Bolton, Mark D. Rothman, Myriam Valero, Fabian B. Haas, Susana M. Coelho</p>\n\nMany organisms alternate between distinct life stages and can reproduce either sexually or asexually, yet the mechanisms coordinating these developmental",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004065",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004065"
+  },
+  {
+    "type": "roundup",
+    "title": "The single <i>Cryptosporidium</i> rhoptry sequentially drives invasion and host-parasite interface formation",
+    "text": "The single <i>Cryptosporidium</i> rhoptry sequentially drives invasion and host-parasite interface formation \u2014 PLOS Biology. <p>by Allison Cohen, Tim Bergner, Amandine Gu\u00e9rin, Maryse Lebrun, Michael Laue, Christian Klotz, Boris Striepen</p>\n\nThe apicomplexan parasite <i>Cryptosporidium</i> is a leading cause of diarrheal disease in young children. Within the intestinal epithelium, <i>Cryptosporidium</i> establishes a uniq",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003933",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003933"
+  },
+  {
+    "type": "roundup",
+    "title": "PhagoCyt enables isolation of <i>Salmonella</i>-containing phagosomes and mapping of host and bacteria remodelling of the intracellular niche",
+    "text": "PhagoCyt enables isolation of <i>Salmonella</i>-containing phagosomes and mapping of host and bacteria remodelling of the intracellular niche \u2014 PLOS Biology. <p>by Ritika Chatterjee, Jos\u00e9 Luis Marin-Rubio, Francesca Romana Cianfanelli, Andrew Michael Frey, Benjamin Bernard Armando Raymond, Abeer Dannoura, Camila Valenzuela, Meihan Meng, Tiaan Heunis, Mengchun Li, Frances Sidgwick, Jost Enninga, Andrew Filby, Matthias Trost</p>\n\nMacrophages engulf pathoge",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004073",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004073"
+  },
+  {
+    "type": "roundup",
+    "title": "Vertebrate paired fins are specified by an ancient dorso-ventral patterning system",
+    "text": "Vertebrate paired fins are specified by an ancient dorso-ventral patterning system \u2014 PLOS Biology. <p>by Rebecca E. Dale, Silke Berger, Sara Alaei, Marcus C. Davis, Frank J. Tulenko, Peter D. Currie</p>\n\nThe origin of paired fins was a major event in early vertebrate history that fueled the adaptive radiation of the gnathostome clade. Evidence for the conservation of ancient regulatory systems be",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004062",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004062"
+  },
+  {
+    "type": "roundup",
+    "title": "Association of food consumption patterns with height growth of children and adolescents: A population-based observational study over four decades of food transitions in China",
+    "text": "Association of food consumption patterns with height growth of children and adolescents: A population-based observational study over four decades of food transitions in China \u2014 PLOS Medicine. <p>by Tianze Li, Jiajia Dang, Yan Li, Wenhua Ling, Leah Li, Cunrui Huang, Yit Siew Chin, Yueqin Zhou, Shiyun Luo, Shan Cai, Peijin Hu, Jun Ma, Min Xia, Yanna Zhu, Yi Song</p>\nBackground <p>Height is a key marker of early-life nutrition and health. China\u2019s four-decade food transition provides an oppo",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004958",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004958"
+  },
+  {
+    "type": "roundup",
+    "title": "Analysis of antimicrobial resistance in the LAKANA trial of azithromycin administration in Mali: A sub-study of a cluster randomized clinical trial",
+    "text": "Analysis of antimicrobial resistance in the LAKANA trial of azithromycin administration in Mali: A sub-study of a cluster randomized clinical trial \u2014 PLOS Medicine. <p>by Jane Juma, Juho Luoma, Awa Traore, Aminata Sangare, Oumou Bouare, Fadima Cheick Haidara, Oumar Samak\u00e9, Laura Adubra, Rikhard Ihamuotila, Owen Martell, Tiia Haapaniemi, Kaisa Ylikruuvi, Camilla Ducker, Ulla Ashorn, Samba Sow, Per Ashorn, Yin Bun Cheung, Nigel Klein, Elaine Cloutman-Green, Yue-M",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005296",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005296"
+  },
+  {
+    "type": "roundup",
+    "title": "Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study",
+    "text": "Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study \u2014 PLOS Medicine. <p>by Kevin van Zandvoort, Mohamed O. Bobe, Abdirahman I. Hassan, Rachael Cummings, Abdihamid Warsame, Casey L. Pell, Mohamed Ismail Abdi, Saed Ibrahim, Catherine R. McGowan, E. Kim Mulholland, Catherine Satzke, Rosalind M. Eggo, Mohamed Abdi Hergeye, Francesco Checchi, Stefan Flasche</p>\nBackground",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004768",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004768"
+  },
+  {
+    "type": "roundup",
+    "title": "Communication-aware dynamic graph learning for V2X misbehavior detection using GAT\u2013BiLSTM and bagged trees",
+    "text": "Communication-aware dynamic graph learning for V2X misbehavior detection using GAT\u2013BiLSTM and bagged trees \u2014 PLOS ONE. <p>by Yuee Zhang, Ping Wang, Xinyu Wang, Xiao Zheng</p>\n\nVehicle-to-Everything (V2X) communication supports cooperative driving, which also makes the malicious vehicle-state reports influence nearby vehicles. Due to the isolated use of physical state and cross-time communication context, existing me",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362960",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362960"
+  },
+  {
+    "type": "roundup",
+    "title": "RGDfC-functionalized gold nanoclusters versus the clinical radiosensitizer sodium glycididazole in triple-negative breast cancer radiotherapy",
+    "text": "RGDfC-functionalized gold nanoclusters versus the clinical radiosensitizer sodium glycididazole in triple-negative breast cancer radiotherapy \u2014 PLOS ONE. <p>by Xiangchao Song, Lingwei Wang, Chunyin Li, Chengbin Qu, Jianyu Xiao</p>\n\nRadiotherapy for triple-negative breast cancer (TNBC) is often limited by intrinsic tumor radioresistance. The clinically approved radiosensitizer sodium glycididazole (CMNa) is restricted by its hypoxia-dependent activity",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362892",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0362892"
+  },
+  {
+    "type": "roundup",
+    "title": "Proposed approach for diagnosing obesity outperforms old method",
+    "text": "Proposed approach for diagnosing obesity outperforms old method \u2014 Nature News. <p>Nature, Published online: 11 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03425-0\">doi:10.1038/d41586-026-03425-0</a></p>A framework for diagnosing obesity that was proposed in 2025 incorporates waist circumference and related measures and distinguishes clinical from preclin",
+    "paper_id": "https://www.nature.com/articles/d41586-026-03425-0",
+    "journal": "Nature News",
+    "score": 0.774,
+    "url": "https://www.nature.com/articles/d41586-026-03425-0"
+  },
+  {
+    "type": "roundup",
+    "title": "Br\u00f8nsted/Lewis acid-catalyzed divergent cascade cyclization of alkoxyallene for the total synthesis of eburnane and aspidofractinine alkaloids",
+    "text": "Br\u00f8nsted/Lewis acid-catalyzed divergent cascade cyclization of alkoxyallene for the total synthesis of eburnane and aspidofractinine alkaloids \u2014 Nature Communications. <p>Nature Communications, Published online: 16 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79505-6\">doi:10.1038/s41467-026-79505-6</a></p>Eburnane and aspidofractinine alkaloids are biogenetically related yet structurally distinct polycyclic monoterpenoids, whose syntheses hav",
+    "paper_id": "https://www.nature.com/articles/s41467-026-79505-6",
+    "journal": "Nature Communications",
+    "score": 0.772,
+    "url": "https://www.nature.com/articles/s41467-026-79505-6"
+  },
+  {
+    "type": "roundup",
+    "title": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
+    "text": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain \u2014 eLife. The extraordinary complexity of the brain depends in part on the vast diversity of mRNA isoforms it expresses, often in a cell-type specific manner. In a recent study, we found that intronic transposable elements (TEs) are spliced into neural transcripts and diversify the splice isoform repertoire o",
+    "paper_id": "https://elifesciences.org/articles/110625",
+    "journal": "eLife",
+    "score": 0.5,
+    "url": "https://elifesciences.org/articles/110625"
+  },
+  {
+    "type": "roundup",
+    "title": "Endocardial TIE1 synergizes with TIE2 to regulate the atrial internal muscular network assembly",
+    "text": "Endocardial TIE1 synergizes with TIE2 to regulate the atrial internal muscular network assembly \u2014 eLife. Atrial cardiomyopathy is characterized by altered atrial structures, yet its underlying genetic basis remains inadequately explored. TIE1 mutations are reported in lymphedema patients, but whether they exhibit cardiac defects alongside lymphatic abnormalities remains unknown. Here, single-cell RNA s",
+    "paper_id": "https://elifesciences.org/articles/111156",
+    "journal": "eLife",
+    "score": 0.5,
+    "url": "https://elifesciences.org/articles/111156"
+  },
+  {
+    "type": "roundup",
+    "title": "The zoo of the gene networks capable of pattern formation by extracellular signaling",
+    "text": "The zoo of the gene networks capable of pattern formation by extracellular signaling \u2014 eLife. A fundamental question of developmental biology is pattern formation, or how cells with specific gene expression end up in specific locations in the body to form tissues, organs, and, overall functional anatomy. Pattern formation involves communication through extracellular signals and complex intra",
+    "paper_id": "https://elifesciences.org/articles/107563",
+    "journal": "eLife",
+    "score": 0.5,
+    "url": "https://elifesciences.org/articles/107563"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

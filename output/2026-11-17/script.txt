@@ -1,0 +1,143 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Engineering ATP import in yeast uncovers a synthetic route to extend cellular lifespan
+============================================================
+Engineering ATP import in yeast uncovers a synthetic route to extend cellular lifespan — eLife. Mitochondrial dysfunction and declining ATP production are common features of aging, yet whether ATP availability itself directly regulates cellular lifespan is unclear. However, the causal relationship between cellular ATP homeostasis and aging has not been established. Here, we developed a synthet
+
+============================================================
+[ROUNDUP] Rethinking psychosocial rehabilitation in mental health
+============================================================
+Rethinking psychosocial rehabilitation in mental health — PLOS Medicine. <p>by Eleonora Prina, Laura Asher, Stefano Barlati, Sudipto Chatterjee, Ioana Alina Cristea, Sandra Ferreira, Charlotte Hanlon, Karli Montague-Cardoso, Parth Sharma, Marianna Purgato, Corrado Barbui</p>
+Summary points <p>
+
+Psychosocial rehabilitation is central to recovery-oriented mental health car
+
+============================================================
+[ROUNDUP] The Evolving Story of How Chemistry Became Biology
+============================================================
+The Evolving Story of How Chemistry Became Biology — Quanta Magazine. After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be.            <p>The post <a href="https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/" target="_blank">The Evolving Story o
+
+============================================================
+[ROUNDUP] AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions?
+============================================================
+AI’s energy paradox: will the AI boom strain energy systems or be the source of solutions? — Nature News. <p>Nature, Published online: 11 November 2026; <a href="https://www.nature.com/articles/d41586-026-03412-5">doi:10.1038/d41586-026-03412-5</a></p>Ginelle Greene-Dewasmes is leading a community of interdisciplinary specialists exploring how to make the energy use of artificial intelligence net-positi
+
+============================================================
+[ROUNDUP] Retractions of old papers are on the rise: when should bad science be culled?
+============================================================
+Retractions of old papers are on the rise: when should bad science be culled? — Nature News. <p>Nature, Published online: 11 November 2026; <a href="https://www.nature.com/articles/d41586-026-03624-9">doi:10.1038/d41586-026-03624-9</a></p>Decades-old papers are increasingly being pulled from the literature, bringing a host of challenges.
+
+============================================================
+[ROUNDUP] Intelligent classification of medically and veterinary important mosquito vectors using self-distillation-enhanced supervised learning
+============================================================
+Intelligent classification of medically and veterinary important mosquito vectors using self-distillation-enhanced supervised learning — PLOS ONE. <p>by Santhad Chuwongin, Morakot Kaewthamasorn, Tanawat Chaiphongpachara, Sedthapong Laojun, Tawee Saiwichai, Naruchit Soiphet, Siridech Boonsang, Veerayuth Kittichai</p>
+
+Mosquito-borne diseases remain a persistent global public health burden, with effective control strategies depending on the accu
+
+============================================================
+[ROUNDUP] Implementation of mental health screening tools among women refugees and asylum seekers in the United States: A systematic review
+============================================================
+Implementation of mental health screening tools among women refugees and asylum seekers in the United States: A systematic review — PLOS ONE. <p>by Pierre J. Amiel, Shalini Suresh, Abdulaziz Almuhanna, Pratik Chhetri, John Pateña, Joyce Gyamfi, Dorice Vieira, Chukwuemeka Iloegbu, Emmanuel Peprah</p>
+
+Globally, displaced populations face significant mental health challenges, with women refugees and asylum seekers experiencing greater risks
+
+============================================================
+[ROUNDUP] Life-cycle plasticity enables conditional asexual reproduction in a kelp
+============================================================
+Life-cycle plasticity enables conditional asexual reproduction in a kelp — PLOS Biology. <p>by Daniel Liesner, Rémy Luthringer, Lineekela Kandjengo, John J. Bolton, Mark D. Rothman, Myriam Valero, Fabian B. Haas, Susana M. Coelho</p>
+
+Many organisms alternate between distinct life stages and can reproduce either sexually or asexually, yet the mechanisms coordinating these developmental
+
+============================================================
+[ROUNDUP] The single <i>Cryptosporidium</i> rhoptry sequentially drives invasion and host-parasite interface formation
+============================================================
+The single <i>Cryptosporidium</i> rhoptry sequentially drives invasion and host-parasite interface formation — PLOS Biology. <p>by Allison Cohen, Tim Bergner, Amandine Guérin, Maryse Lebrun, Michael Laue, Christian Klotz, Boris Striepen</p>
+
+The apicomplexan parasite <i>Cryptosporidium</i> is a leading cause of diarrheal disease in young children. Within the intestinal epithelium, <i>Cryptosporidium</i> establishes a uniq
+
+============================================================
+[ROUNDUP] PhagoCyt enables isolation of <i>Salmonella</i>-containing phagosomes and mapping of host and bacteria remodelling of the intracellular niche
+============================================================
+PhagoCyt enables isolation of <i>Salmonella</i>-containing phagosomes and mapping of host and bacteria remodelling of the intracellular niche — PLOS Biology. <p>by Ritika Chatterjee, José Luis Marin-Rubio, Francesca Romana Cianfanelli, Andrew Michael Frey, Benjamin Bernard Armando Raymond, Abeer Dannoura, Camila Valenzuela, Meihan Meng, Tiaan Heunis, Mengchun Li, Frances Sidgwick, Jost Enninga, Andrew Filby, Matthias Trost</p>
+
+Macrophages engulf pathoge
+
+============================================================
+[ROUNDUP] Vertebrate paired fins are specified by an ancient dorso-ventral patterning system
+============================================================
+Vertebrate paired fins are specified by an ancient dorso-ventral patterning system — PLOS Biology. <p>by Rebecca E. Dale, Silke Berger, Sara Alaei, Marcus C. Davis, Frank J. Tulenko, Peter D. Currie</p>
+
+The origin of paired fins was a major event in early vertebrate history that fueled the adaptive radiation of the gnathostome clade. Evidence for the conservation of ancient regulatory systems be
+
+============================================================
+[ROUNDUP] Association of food consumption patterns with height growth of children and adolescents: A population-based observational study over four decades of food transitions in China
+============================================================
+Association of food consumption patterns with height growth of children and adolescents: A population-based observational study over four decades of food transitions in China — PLOS Medicine. <p>by Tianze Li, Jiajia Dang, Yan Li, Wenhua Ling, Leah Li, Cunrui Huang, Yit Siew Chin, Yueqin Zhou, Shiyun Luo, Shan Cai, Peijin Hu, Jun Ma, Min Xia, Yanna Zhu, Yi Song</p>
+Background <p>Height is a key marker of early-life nutrition and health. China’s four-decade food transition provides an oppo
+
+============================================================
+[ROUNDUP] Analysis of antimicrobial resistance in the LAKANA trial of azithromycin administration in Mali: A sub-study of a cluster randomized clinical trial
+============================================================
+Analysis of antimicrobial resistance in the LAKANA trial of azithromycin administration in Mali: A sub-study of a cluster randomized clinical trial — PLOS Medicine. <p>by Jane Juma, Juho Luoma, Awa Traore, Aminata Sangare, Oumou Bouare, Fadima Cheick Haidara, Oumar Samaké, Laura Adubra, Rikhard Ihamuotila, Owen Martell, Tiia Haapaniemi, Kaisa Ylikruuvi, Camilla Ducker, Ulla Ashorn, Samba Sow, Per Ashorn, Yin Bun Cheung, Nigel Klein, Elaine Cloutman-Green, Yue-M
+
+============================================================
+[ROUNDUP] Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study
+============================================================
+Effectiveness of pneumococcal vaccination campaigns in humanitarian settings: A modelling study — PLOS Medicine. <p>by Kevin van Zandvoort, Mohamed O. Bobe, Abdirahman I. Hassan, Rachael Cummings, Abdihamid Warsame, Casey L. Pell, Mohamed Ismail Abdi, Saed Ibrahim, Catherine R. McGowan, E. Kim Mulholland, Catherine Satzke, Rosalind M. Eggo, Mohamed Abdi Hergeye, Francesco Checchi, Stefan Flasche</p>
+Background
+
+============================================================
+[ROUNDUP] Communication-aware dynamic graph learning for V2X misbehavior detection using GAT–BiLSTM and bagged trees
+============================================================
+Communication-aware dynamic graph learning for V2X misbehavior detection using GAT–BiLSTM and bagged trees — PLOS ONE. <p>by Yuee Zhang, Ping Wang, Xinyu Wang, Xiao Zheng</p>
+
+Vehicle-to-Everything (V2X) communication supports cooperative driving, which also makes the malicious vehicle-state reports influence nearby vehicles. Due to the isolated use of physical state and cross-time communication context, existing me
+
+============================================================
+[ROUNDUP] RGDfC-functionalized gold nanoclusters versus the clinical radiosensitizer sodium glycididazole in triple-negative breast cancer radiotherapy
+============================================================
+RGDfC-functionalized gold nanoclusters versus the clinical radiosensitizer sodium glycididazole in triple-negative breast cancer radiotherapy — PLOS ONE. <p>by Xiangchao Song, Lingwei Wang, Chunyin Li, Chengbin Qu, Jianyu Xiao</p>
+
+Radiotherapy for triple-negative breast cancer (TNBC) is often limited by intrinsic tumor radioresistance. The clinically approved radiosensitizer sodium glycididazole (CMNa) is restricted by its hypoxia-dependent activity
+
+============================================================
+[ROUNDUP] Proposed approach for diagnosing obesity outperforms old method
+============================================================
+Proposed approach for diagnosing obesity outperforms old method — Nature News. <p>Nature, Published online: 11 November 2026; <a href="https://www.nature.com/articles/d41586-026-03425-0">doi:10.1038/d41586-026-03425-0</a></p>A framework for diagnosing obesity that was proposed in 2025 incorporates waist circumference and related measures and distinguishes clinical from preclin
+
+============================================================
+[ROUNDUP] Brønsted/Lewis acid-catalyzed divergent cascade cyclization of alkoxyallene for the total synthesis of eburnane and aspidofractinine alkaloids
+============================================================
+Brønsted/Lewis acid-catalyzed divergent cascade cyclization of alkoxyallene for the total synthesis of eburnane and aspidofractinine alkaloids — Nature Communications. <p>Nature Communications, Published online: 16 November 2026; <a href="https://www.nature.com/articles/s41467-026-79505-6">doi:10.1038/s41467-026-79505-6</a></p>Eburnane and aspidofractinine alkaloids are biogenetically related yet structurally distinct polycyclic monoterpenoids, whose syntheses hav
+
+============================================================
+[ROUNDUP] Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain
+============================================================
+Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain — eLife. The extraordinary complexity of the brain depends in part on the vast diversity of mRNA isoforms it expresses, often in a cell-type specific manner. In a recent study, we found that intronic transposable elements (TEs) are spliced into neural transcripts and diversify the splice isoform repertoire o
+
+============================================================
+[ROUNDUP] Endocardial TIE1 synergizes with TIE2 to regulate the atrial internal muscular network assembly
+============================================================
+Endocardial TIE1 synergizes with TIE2 to regulate the atrial internal muscular network assembly — eLife. Atrial cardiomyopathy is characterized by altered atrial structures, yet its underlying genetic basis remains inadequately explored. TIE1 mutations are reported in lymphedema patients, but whether they exhibit cardiac defects alongside lymphatic abnormalities remains unknown. Here, single-cell RNA s
+
+============================================================
+[ROUNDUP] The zoo of the gene networks capable of pattern formation by extracellular signaling
+============================================================
+The zoo of the gene networks capable of pattern formation by extracellular signaling — eLife. A fundamental question of developmental biology is pattern formation, or how cells with specific gene expression end up in specific locations in the body to form tissues, organs, and, overall functional anatomy. Pattern formation involves communication through extracellular signals and complex intra
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
