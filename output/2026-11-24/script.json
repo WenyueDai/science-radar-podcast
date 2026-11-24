@@ -1,0 +1,200 @@
+[
+  {
+    "type": "intro",
+    "title": "Intro",
+    "text": "Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.\n",
+    "paper_id": null
+  },
+  {
+    "type": "section_header",
+    "title": "This Week's Highlights",
+    "text": "And now, a quick tour through this week's other noteworthy papers.",
+    "paper_id": null
+  },
+  {
+    "type": "roundup",
+    "title": "Rethinking <i>Klebsiella pneumoniae</i> vaccines: from protective immunity to rational vaccine design",
+    "text": "Rethinking <i>Klebsiella pneumoniae</i> vaccines: from protective immunity to rational vaccine design \u2014 Nature Communications. <p>Nature Communications, Published online: 24 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79574-7\">doi:10.1038/s41467-026-79574-7</a></p>This Review highlights barriers to cross-protective Klebsiella pneumoniae vaccines and proposes a paradigm shift, integrating antigen disco",
+    "paper_id": "https://www.nature.com/articles/s41467-026-79574-7",
+    "journal": "Nature Communications",
+    "score": 1.706,
+    "url": "https://www.nature.com/articles/s41467-026-79574-7"
+  },
+  {
+    "type": "roundup",
+    "title": "Quantum physics can prove where you are",
+    "text": "Quantum physics can prove where you are \u2014 Nature News. <p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03378-4\">doi:10.1038/d41586-026-03378-4</a></p>Demonstrating your location to someone far away is surprisingly hard. Quantum correlations offer a way to do so without needing to trust any quantum hardw",
+    "paper_id": "https://www.nature.com/articles/d41586-026-03378-4",
+    "journal": "Nature News",
+    "score": 1.652,
+    "url": "https://www.nature.com/articles/d41586-026-03378-4"
+  },
+  {
+    "type": "roundup",
+    "title": "Pre-rRNA represses gene transcription in the XY body of male germ cells",
+    "text": "Pre-rRNA represses gene transcription in the XY body of male germ cells \u2014 eLife. Nucleolus is disassembled when the nuclear envelope breaks down during mitosis prophase. However, the dynamics of nucleolus in meiotic prophase remain unclear. Here, by tracking nucleolar components of spermatocytes in mice, we show that the nucleolus is fragmented even before the breakdown of the n",
+    "paper_id": "https://elifesciences.org/articles/112193",
+    "journal": "eLife",
+    "score": 1.5,
+    "url": "https://elifesciences.org/articles/112193"
+  },
+  {
+    "type": "roundup",
+    "title": "Tropical land-use intensification reshapes biodiversity in expected and unexpected ways",
+    "text": "Tropical land-use intensification reshapes biodiversity in expected and unexpected ways \u2014 Nature News. <p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03602-1\">doi:10.1038/d41586-026-03602-1</a></p>Global agricultural demand has increased over the past few decades, driving land-use intensification in some of the world\u2019s most biodiverse regions. An as",
+    "paper_id": "https://www.nature.com/articles/d41586-026-03602-1",
+    "journal": "Nature News",
+    "score": 1.276,
+    "url": "https://www.nature.com/articles/d41586-026-03602-1"
+  },
+  {
+    "type": "roundup",
+    "title": "Rethinking corporate climate targets for real-world transitions",
+    "text": "Rethinking corporate climate targets for real-world transitions \u2014 Nature News. <p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11100-7\">doi:10.1038/s41586-026-11100-7</a></p>Frameworks for corporate greenhouse gas reduction targets should place greater emphasis on systemic changes in business models, technologies and value cha",
+    "paper_id": "https://www.nature.com/articles/s41586-026-11100-7",
+    "journal": "Nature News",
+    "score": 1.208,
+    "url": "https://www.nature.com/articles/s41586-026-11100-7"
+  },
+  {
+    "type": "roundup",
+    "title": "Widespread deciduousness reveals diverse Amazonian phenological strategies",
+    "text": "Widespread deciduousness reveals diverse Amazonian phenological strategies \u2014 Nature News. <p>Nature, Published online: 18 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11284-y\">doi:10.1038/s41586-026-11284-y</a></p>A basin-wide assessment of Amazonian deciduousness using high-resolution satellite observations shows a diverse range of phenological strategies across th",
+    "paper_id": "https://www.nature.com/articles/s41586-026-11284-y",
+    "journal": "Nature News",
+    "score": 1.188,
+    "url": "https://www.nature.com/articles/s41586-026-11284-y"
+  },
+  {
+    "type": "roundup",
+    "title": "Rethinking laboratory sustainability",
+    "text": "Rethinking laboratory sustainability \u2014 eLife. Green lab initiatives like <i>My Green Lab</i> and <i>LEAF</i> (Laboratory Efficiency Assessment Framework), are paving the way towards sustainable research by promoting resource efficiency, energy conservation, and waste reduction through behavioral changes. However, these initiatives focus almost",
+    "paper_id": "https://elifesciences.org/articles/113403",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/113403"
+  },
+  {
+    "type": "roundup",
+    "title": "Winding-up of fibrin fibers as a novel mechanism of platelet-mediated fiber compaction",
+    "text": "Winding-up of fibrin fibers as a novel mechanism of platelet-mediated fiber compaction \u2014 eLife. This study reveals an unrecognized mechanism by which platelets retract and compact fibrin fibers. Using a newly developed 2D fiber-retraction assay, we observed a \u2018gearwheel\u2019 pattern of actomyosin in spread platelets with associated, extracellular fibrin patches that appear to initiate fibrin fiber",
+    "paper_id": "https://elifesciences.org/articles/110286",
+    "journal": "eLife",
+    "score": 1.0,
+    "url": "https://elifesciences.org/articles/110286"
+  },
+  {
+    "type": "roundup",
+    "title": "Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial",
+    "text": "Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial \u2014 PLOS ONE. <p>by Yasmin Alhamdah, Yehoshua Gleicher, Hermann dos Santos Fernandes, Sharon Peacock, Xiang Y. Ye, Christopher Brown, Anthony de Buck van Overstraeten, Zeev Friedman, Naveed Siddiqui</p>\nObjectives <p>Patients with inflammatory bowel disease (IBD) undergoing abdominal surgery face challenges in po",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363255",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363255"
+  },
+  {
+    "type": "roundup",
+    "title": "When should adaptation arise from a polygenic response versus few large-effect changes?",
+    "text": "When should adaptation arise from a polygenic response versus few large-effect changes? \u2014 PLOS Biology. <p>by William R. Milligan, Laura K. Hayward, Guy Sella</p>\n\nWhen will adaptation involve a few genetic changes of large effect versus a polygenic response? There are compelling reasons to expect polygenic adaptation to be common, yet direct evidence is lacking. Conversely, there are hundreds of exam",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004119",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004119"
+  },
+  {
+    "type": "roundup",
+    "title": "GEI-17-mediated SUMOylation of GDP dissociation inhibitor GDI-1 regulates apoptotic cell clearance",
+    "text": "GEI-17-mediated SUMOylation of GDP dissociation inhibitor GDI-1 regulates apoptotic cell clearance \u2014 PLOS Biology. <p>by Lei Yuan, Peiyao Li, Aiying Ma, Chao Li, Fuqiao Liu, Yunmin Xie, Qian Zheng, Hui Wang, Hui Xiao</p>\n\nApoptotic cell clearance represents the final stage of apoptosis and involves phagosome formation, maturation, and digestion. Here, we found that SUMO modifications participate in apoptotic cel",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004123",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004123"
+  },
+  {
+    "type": "roundup",
+    "title": "Local feedback governs cell fate transition to drive self-organized phenotypic equilibrium in hierarchical tumors",
+    "text": "Local feedback governs cell fate transition to drive self-organized phenotypic equilibrium in hierarchical tumors \u2014 PLOS Biology. <p>by Emma Legait, Charlotte Rulquin, Lauranne Bouteille, Rapha\u00ebl Cl\u00e9ment, C\u00e9dric Maurange</p>\n\nHow cell-state transitions are regulated along a tumor lineage to determine its overall cellular composition remains unclear. Using a simple hierarchical tumor model in <i>Drosophila</i>, we show that dif",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004086",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004086"
+  },
+  {
+    "type": "roundup",
+    "title": "Dynamic functional connectivity reveals evolving neural activity states of alcohol-seeking in rats",
+    "text": "Dynamic functional connectivity reveals evolving neural activity states of alcohol-seeking in rats \u2014 PLOS Biology. <p>by Yujing Zhang, Nicholas M. Timme, Mintao Liu, Christopher C. Lapish, Joaqu\u00edn Go\u00f1i</p>\n\nThe brain mechanisms underlying persistent alcohol-seeking in Alcohol Use Disorder (AUD) remain incompletely understood. To investigate this behavior, we characterized the temporal evolution of neural activit",
+    "paper_id": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004108",
+    "journal": "PLOS Biology",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004108"
+  },
+  {
+    "type": "roundup",
+    "title": "Economic value of gonorrhea resistance testing in the United States: A multi-perspective modeling study",
+    "text": "Economic value of gonorrhea resistance testing in the United States: A multi-perspective modeling study \u2014 PLOS Medicine. <p>by Brooke E. Nichols, Betsy Wonderly Trainor, Grace Hampson, Yonatan H. Grad, Jeffrey D. Klausner</p>\nBackground <p>Rising antimicrobial resistance in <i>Neisseria gonorrhoeae</i> threatens the effectiveness of existing therapies. Ceftriaxone is the only recommended first-line (empiric) treatment",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005073",
+    "journal": "PLOS Medicine",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005073"
+  },
+  {
+    "type": "roundup",
+    "title": "The state of genetic literacy among high school students in Czechia",
+    "text": "The state of genetic literacy among high school students in Czechia \u2014 PLOS ONE. <p>by Marek Proch\u00e1zka, Mark\u00e9ta Klime\u0161ov\u00e1, Vanda Jan\u0161tov\u00e1</p>\n\nTo investigate high school students\u2019 understanding of modern genetics and to characterize the obstacles that impede deeper understanding of this subject, we translated the <i>Learning Progression\u2011Based Assessment of Modern Genetics</i> di",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363623",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363623"
+  },
+  {
+    "type": "roundup",
+    "title": "Associations of physical exercise and sedentary behavior with problematic smartphone use and interaction anxiety in a predominantly first-year convenience sample of Chinese college students: A cross-sectional study",
+    "text": "Associations of physical exercise and sedentary behavior with problematic smartphone use and interaction anxiety in a predominantly first-year convenience sample of Chinese college students: A cross-sectional study \u2014 PLOS ONE. <p>by Qi Han</p>\n\nProblematic smartphone use and interaction anxiety are common concerns in university settings, but their joint relationships with exercise and sedentary behavior remain unclear. We examined these associations in a predominantly first-year convenience sample recruited through 36 uni",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363619",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363619"
+  },
+  {
+    "type": "roundup",
+    "title": "Ten-year clinical outcomes after successful percutaneous coronary intervention compared with medical treatment in patients with chronic total occlusion and preserved left ventricular ejection fraction",
+    "text": "Ten-year clinical outcomes after successful percutaneous coronary intervention compared with medical treatment in patients with chronic total occlusion and preserved left ventricular ejection fraction \u2014 PLOS ONE. <p>by Hye Yon Yu, Jihun Ahn, Seung-Woon Rha, Byoung Geol Choi, Se Yeon Choi, Jae Kyeong Byun, Youjin Lee, Abiseka Panji Baskoro, Aditya Reza Pratama, Melly Susanti, Manda Satria Chesario, Soohyung Park, Cheol Ung Choi</p>\nBackground <p>The long-term clinical benefit of revascularization in patients",
+    "paper_id": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363601",
+    "journal": "PLOS ONE",
+    "score": 1.0,
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363601"
+  },
+  {
+    "type": "roundup",
+    "title": "Developmental bias explains the evolutionary trend towards simple leaf shapes",
+    "text": "Developmental bias explains the evolutionary trend towards simple leaf shapes \u2014 eLife. The relative influence of developmental bias and natural selection on evolutionary outcomes remains a central, unresolved question in evolutionary biology. Here, we combine large-scale phylogenetic trees with herbarium data to confirm that, across the evolutionary history of angiosperms, transitions",
+    "paper_id": "https://elifesciences.org/articles/110692",
+    "journal": "eLife",
+    "score": 0.5,
+    "url": "https://elifesciences.org/articles/110692"
+  },
+  {
+    "type": "roundup",
+    "title": "Acute kidney injury and death in severe <i>Plasmodium falciparum</i> malaria: An individual patient data meta-analysis",
+    "text": "Acute kidney injury and death in severe <i>Plasmodium falciparum</i> malaria: An individual patient data meta-analysis \u2014 PLOS Medicine. <p>by James A. Watson, Andrea L. Conroy, Anthony Batte, Ruth Namazzi, Michael T. Hawkes, Kevin C. Kain, Katherine Plewes, Stije Leopold, Hugh Kingston, Tran Tinh Hien, Sam Strudwick, Rupert Higgins, Chandy John, Nguyen Hoan Phu, Elizabeth C. George, Ann Sarah Walker, Nicholas P. J. Day, Thomas N. Wi",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004975",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004975"
+  },
+  {
+    "type": "roundup",
+    "title": "Loss to follow-up during tuberculosis treatment and 5-year mortality in Brazil: A target trial emulation",
+    "text": "Loss to follow-up during tuberculosis treatment and 5-year mortality in Brazil: A target trial emulation \u2014 PLOS Medicine. <p>by Evelyn Lepka de Lima, Ana Ang\u00e9lica Lindoso, Giovanna Mariah Orlandi, Suely Fukasava, Catia Martinez, Julio Croda, C. Robert Horsburgh Jr., Otavio Ranzani, Meredith B. Brooks, Jason R. Andrews</p>\nBackground <p>Loss to follow-up (LTFU) during tuberculosis treatment is a major programmatic gap,",
+    "paper_id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005303",
+    "journal": "PLOS Medicine",
+    "score": 0.5,
+    "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005303"
+  },
+  {
+    "type": "outro",
+    "title": "Outro",
+    "text": "That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges \u2014 where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.\n",
+    "paper_id": null
+  }
+]

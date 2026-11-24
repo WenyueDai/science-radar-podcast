@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-24",
+  "mp3": "output/2026-11-24/podcast_2026-11-24.mp3",
+  "paper_count": 20,
+  "segments": [
+    {
+      "index": 0,
+      "type": "intro",
+      "title": "Intro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 0.0
+    },
+    {
+      "index": 1,
+      "type": "section_header",
+      "title": "This Week's Highlights",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 27.768
+    },
+    {
+      "index": 2,
+      "type": "roundup",
+      "title": "Rethinking <i>Klebsiella pneumoniae</i> vaccines: from protective immunity to rational vaccine design",
+      "journal": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-026-79574-7",
+      "score": 1.706,
+      "timestamp_sec": 35.448
+    },
+    {
+      "index": 3,
+      "type": "roundup",
+      "title": "Quantum physics can prove where you are",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-03378-4",
+      "score": 1.652,
+      "timestamp_sec": 71.616
+    },
+    {
+      "index": 4,
+      "type": "roundup",
+      "title": "Pre-rRNA represses gene transcription in the XY body of male germ cells",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/112193",
+      "score": 1.5,
+      "timestamp_sec": 98.4
+    },
+    {
+      "index": 5,
+      "type": "roundup",
+      "title": "Tropical land-use intensification reshapes biodiversity in expected and unexpected ways",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/d41586-026-03602-1",
+      "score": 1.276,
+      "timestamp_sec": 131.976
+    },
+    {
+      "index": 6,
+      "type": "roundup",
+      "title": "Rethinking corporate climate targets for real-world transitions",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-11100-7",
+      "score": 1.208,
+      "timestamp_sec": 164.44799999999998
+    },
+    {
+      "index": 7,
+      "type": "roundup",
+      "title": "Widespread deciduousness reveals diverse Amazonian phenological strategies",
+      "journal": "Nature News",
+      "url": "https://www.nature.com/articles/s41586-026-11284-y",
+      "score": 1.188,
+      "timestamp_sec": 192.88799999999998
+    },
+    {
+      "index": 8,
+      "type": "roundup",
+      "title": "Rethinking laboratory sustainability",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/113403",
+      "score": 1.0,
+      "timestamp_sec": 224.20799999999997
+    },
+    {
+      "index": 9,
+      "type": "roundup",
+      "title": "Winding-up of fibrin fibers as a novel mechanism of platelet-mediated fiber compaction",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110286",
+      "score": 1.0,
+      "timestamp_sec": 257.18399999999997
+    },
+    {
+      "index": 10,
+      "type": "roundup",
+      "title": "Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363255",
+      "score": 1.0,
+      "timestamp_sec": 290.736
+    },
+    {
+      "index": 11,
+      "type": "roundup",
+      "title": "When should adaptation arise from a polygenic response versus few large-effect changes?",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004119",
+      "score": 1.0,
+      "timestamp_sec": 337.32
+    },
+    {
+      "index": 12,
+      "type": "roundup",
+      "title": "GEI-17-mediated SUMOylation of GDP dissociation inhibitor GDI-1 regulates apoptotic cell clearance",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004123",
+      "score": 1.0,
+      "timestamp_sec": 374.904
+    },
+    {
+      "index": 13,
+      "type": "roundup",
+      "title": "Local feedback governs cell fate transition to drive self-organized phenotypic equilibrium in hierarchical tumors",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004086",
+      "score": 1.0,
+      "timestamp_sec": 419.328
+    },
+    {
+      "index": 14,
+      "type": "roundup",
+      "title": "Dynamic functional connectivity reveals evolving neural activity states of alcohol-seeking in rats",
+      "journal": "PLOS Biology",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004108",
+      "score": 1.0,
+      "timestamp_sec": 461.304
+    },
+    {
+      "index": 15,
+      "type": "roundup",
+      "title": "Economic value of gonorrhea resistance testing in the United States: A multi-perspective modeling study",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005073",
+      "score": 1.0,
+      "timestamp_sec": 500.64
+    },
+    {
+      "index": 16,
+      "type": "roundup",
+      "title": "The state of genetic literacy among high school students in Czechia",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363623",
+      "score": 1.0,
+      "timestamp_sec": 544.584
+    },
+    {
+      "index": 17,
+      "type": "roundup",
+      "title": "Associations of physical exercise and sedentary behavior with problematic smartphone use and interaction anxiety in a predominantly first-year convenience sample of Chinese college students: A cross-sectional study",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363619",
+      "score": 1.0,
+      "timestamp_sec": 579.3839999999999
+    },
+    {
+      "index": 18,
+      "type": "roundup",
+      "title": "Ten-year clinical outcomes after successful percutaneous coronary intervention compared with medical treatment in patients with chronic total occlusion and preserved left ventricular ejection fraction",
+      "journal": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0363601",
+      "score": 1.0,
+      "timestamp_sec": 624.5519999999999
+    },
+    {
+      "index": 19,
+      "type": "roundup",
+      "title": "Developmental bias explains the evolutionary trend towards simple leaf shapes",
+      "journal": "eLife",
+      "url": "https://elifesciences.org/articles/110692",
+      "score": 0.5,
+      "timestamp_sec": 674.0159999999998
+    },
+    {
+      "index": 20,
+      "type": "roundup",
+      "title": "Acute kidney injury and death in severe <i>Plasmodium falciparum</i> malaria: An individual patient data meta-analysis",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004975",
+      "score": 0.5,
+      "timestamp_sec": 707.9279999999999
+    },
+    {
+      "index": 21,
+      "type": "roundup",
+      "title": "Loss to follow-up during tuberculosis treatment and 5-year mortality in Brazil: A target trial emulation",
+      "journal": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005303",
+      "score": 0.5,
+      "timestamp_sec": 757.8959999999998
+    },
+    {
+      "index": 22,
+      "type": "outro",
+      "title": "Outro",
+      "journal": "",
+      "url": "",
+      "score": 0,
+      "timestamp_sec": 803.6879999999999
+    }
+  ]
+}

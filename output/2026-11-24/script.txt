@@ -1,0 +1,133 @@
+
+============================================================
+[INTRO] Intro
+============================================================
+Welcome to Science Radar, your weekly digest of the most surprising, frontier-pushing, and cross-disciplinary discoveries from across all of science. This week we've found papers that challenge long-held assumptions, open doors to entirely new research directions, and connect ideas across fields in ways nobody expected. Let's dive in.
+
+
+============================================================
+[SECTION_HEADER] This Week's Highlights
+============================================================
+And now, a quick tour through this week's other noteworthy papers.
+
+============================================================
+[ROUNDUP] Rethinking <i>Klebsiella pneumoniae</i> vaccines: from protective immunity to rational vaccine design
+============================================================
+Rethinking <i>Klebsiella pneumoniae</i> vaccines: from protective immunity to rational vaccine design — Nature Communications. <p>Nature Communications, Published online: 24 November 2026; <a href="https://www.nature.com/articles/s41467-026-79574-7">doi:10.1038/s41467-026-79574-7</a></p>This Review highlights barriers to cross-protective Klebsiella pneumoniae vaccines and proposes a paradigm shift, integrating antigen disco
+
+============================================================
+[ROUNDUP] Quantum physics can prove where you are
+============================================================
+Quantum physics can prove where you are — Nature News. <p>Nature, Published online: 18 November 2026; <a href="https://www.nature.com/articles/d41586-026-03378-4">doi:10.1038/d41586-026-03378-4</a></p>Demonstrating your location to someone far away is surprisingly hard. Quantum correlations offer a way to do so without needing to trust any quantum hardw
+
+============================================================
+[ROUNDUP] Pre-rRNA represses gene transcription in the XY body of male germ cells
+============================================================
+Pre-rRNA represses gene transcription in the XY body of male germ cells — eLife. Nucleolus is disassembled when the nuclear envelope breaks down during mitosis prophase. However, the dynamics of nucleolus in meiotic prophase remain unclear. Here, by tracking nucleolar components of spermatocytes in mice, we show that the nucleolus is fragmented even before the breakdown of the n
+
+============================================================
+[ROUNDUP] Tropical land-use intensification reshapes biodiversity in expected and unexpected ways
+============================================================
+Tropical land-use intensification reshapes biodiversity in expected and unexpected ways — Nature News. <p>Nature, Published online: 18 November 2026; <a href="https://www.nature.com/articles/d41586-026-03602-1">doi:10.1038/d41586-026-03602-1</a></p>Global agricultural demand has increased over the past few decades, driving land-use intensification in some of the world’s most biodiverse regions. An as
+
+============================================================
+[ROUNDUP] Rethinking corporate climate targets for real-world transitions
+============================================================
+Rethinking corporate climate targets for real-world transitions — Nature News. <p>Nature, Published online: 18 November 2026; <a href="https://www.nature.com/articles/s41586-026-11100-7">doi:10.1038/s41586-026-11100-7</a></p>Frameworks for corporate greenhouse gas reduction targets should place greater emphasis on systemic changes in business models, technologies and value cha
+
+============================================================
+[ROUNDUP] Widespread deciduousness reveals diverse Amazonian phenological strategies
+============================================================
+Widespread deciduousness reveals diverse Amazonian phenological strategies — Nature News. <p>Nature, Published online: 18 November 2026; <a href="https://www.nature.com/articles/s41586-026-11284-y">doi:10.1038/s41586-026-11284-y</a></p>A basin-wide assessment of Amazonian deciduousness using high-resolution satellite observations shows a diverse range of phenological strategies across th
+
+============================================================
+[ROUNDUP] Rethinking laboratory sustainability
+============================================================
+Rethinking laboratory sustainability — eLife. Green lab initiatives like <i>My Green Lab</i> and <i>LEAF</i> (Laboratory Efficiency Assessment Framework), are paving the way towards sustainable research by promoting resource efficiency, energy conservation, and waste reduction through behavioral changes. However, these initiatives focus almost
+
+============================================================
+[ROUNDUP] Winding-up of fibrin fibers as a novel mechanism of platelet-mediated fiber compaction
+============================================================
+Winding-up of fibrin fibers as a novel mechanism of platelet-mediated fiber compaction — eLife. This study reveals an unrecognized mechanism by which platelets retract and compact fibrin fibers. Using a newly developed 2D fiber-retraction assay, we observed a ‘gearwheel’ pattern of actomyosin in spread platelets with associated, extracellular fibrin patches that appear to initiate fibrin fiber
+
+============================================================
+[ROUNDUP] Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial
+============================================================
+Efficacy of erector spinae plane block for patients with inflammatory bowel disease undergoing major abdominal surgery: A double-blind randomized controlled trial — PLOS ONE. <p>by Yasmin Alhamdah, Yehoshua Gleicher, Hermann dos Santos Fernandes, Sharon Peacock, Xiang Y. Ye, Christopher Brown, Anthony de Buck van Overstraeten, Zeev Friedman, Naveed Siddiqui</p>
+Objectives <p>Patients with inflammatory bowel disease (IBD) undergoing abdominal surgery face challenges in po
+
+============================================================
+[ROUNDUP] When should adaptation arise from a polygenic response versus few large-effect changes?
+============================================================
+When should adaptation arise from a polygenic response versus few large-effect changes? — PLOS Biology. <p>by William R. Milligan, Laura K. Hayward, Guy Sella</p>
+
+When will adaptation involve a few genetic changes of large effect versus a polygenic response? There are compelling reasons to expect polygenic adaptation to be common, yet direct evidence is lacking. Conversely, there are hundreds of exam
+
+============================================================
+[ROUNDUP] GEI-17-mediated SUMOylation of GDP dissociation inhibitor GDI-1 regulates apoptotic cell clearance
+============================================================
+GEI-17-mediated SUMOylation of GDP dissociation inhibitor GDI-1 regulates apoptotic cell clearance — PLOS Biology. <p>by Lei Yuan, Peiyao Li, Aiying Ma, Chao Li, Fuqiao Liu, Yunmin Xie, Qian Zheng, Hui Wang, Hui Xiao</p>
+
+Apoptotic cell clearance represents the final stage of apoptosis and involves phagosome formation, maturation, and digestion. Here, we found that SUMO modifications participate in apoptotic cel
+
+============================================================
+[ROUNDUP] Local feedback governs cell fate transition to drive self-organized phenotypic equilibrium in hierarchical tumors
+============================================================
+Local feedback governs cell fate transition to drive self-organized phenotypic equilibrium in hierarchical tumors — PLOS Biology. <p>by Emma Legait, Charlotte Rulquin, Lauranne Bouteille, Raphaël Clément, Cédric Maurange</p>
+
+How cell-state transitions are regulated along a tumor lineage to determine its overall cellular composition remains unclear. Using a simple hierarchical tumor model in <i>Drosophila</i>, we show that dif
+
+============================================================
+[ROUNDUP] Dynamic functional connectivity reveals evolving neural activity states of alcohol-seeking in rats
+============================================================
+Dynamic functional connectivity reveals evolving neural activity states of alcohol-seeking in rats — PLOS Biology. <p>by Yujing Zhang, Nicholas M. Timme, Mintao Liu, Christopher C. Lapish, Joaquín Goñi</p>
+
+The brain mechanisms underlying persistent alcohol-seeking in Alcohol Use Disorder (AUD) remain incompletely understood. To investigate this behavior, we characterized the temporal evolution of neural activit
+
+============================================================
+[ROUNDUP] Economic value of gonorrhea resistance testing in the United States: A multi-perspective modeling study
+============================================================
+Economic value of gonorrhea resistance testing in the United States: A multi-perspective modeling study — PLOS Medicine. <p>by Brooke E. Nichols, Betsy Wonderly Trainor, Grace Hampson, Yonatan H. Grad, Jeffrey D. Klausner</p>
+Background <p>Rising antimicrobial resistance in <i>Neisseria gonorrhoeae</i> threatens the effectiveness of existing therapies. Ceftriaxone is the only recommended first-line (empiric) treatment
+
+============================================================
+[ROUNDUP] The state of genetic literacy among high school students in Czechia
+============================================================
+The state of genetic literacy among high school students in Czechia — PLOS ONE. <p>by Marek Procházka, Markéta Klimešová, Vanda Janštová</p>
+
+To investigate high school students’ understanding of modern genetics and to characterize the obstacles that impede deeper understanding of this subject, we translated the <i>Learning Progression‑Based Assessment of Modern Genetics</i> di
+
+============================================================
+[ROUNDUP] Associations of physical exercise and sedentary behavior with problematic smartphone use and interaction anxiety in a predominantly first-year convenience sample of Chinese college students: A cross-sectional study
+============================================================
+Associations of physical exercise and sedentary behavior with problematic smartphone use and interaction anxiety in a predominantly first-year convenience sample of Chinese college students: A cross-sectional study — PLOS ONE. <p>by Qi Han</p>
+
+Problematic smartphone use and interaction anxiety are common concerns in university settings, but their joint relationships with exercise and sedentary behavior remain unclear. We examined these associations in a predominantly first-year convenience sample recruited through 36 uni
+
+============================================================
+[ROUNDUP] Ten-year clinical outcomes after successful percutaneous coronary intervention compared with medical treatment in patients with chronic total occlusion and preserved left ventricular ejection fraction
+============================================================
+Ten-year clinical outcomes after successful percutaneous coronary intervention compared with medical treatment in patients with chronic total occlusion and preserved left ventricular ejection fraction — PLOS ONE. <p>by Hye Yon Yu, Jihun Ahn, Seung-Woon Rha, Byoung Geol Choi, Se Yeon Choi, Jae Kyeong Byun, Youjin Lee, Abiseka Panji Baskoro, Aditya Reza Pratama, Melly Susanti, Manda Satria Chesario, Soohyung Park, Cheol Ung Choi</p>
+Background <p>The long-term clinical benefit of revascularization in patients
+
+============================================================
+[ROUNDUP] Developmental bias explains the evolutionary trend towards simple leaf shapes
+============================================================
+Developmental bias explains the evolutionary trend towards simple leaf shapes — eLife. The relative influence of developmental bias and natural selection on evolutionary outcomes remains a central, unresolved question in evolutionary biology. Here, we combine large-scale phylogenetic trees with herbarium data to confirm that, across the evolutionary history of angiosperms, transitions
+
+============================================================
+[ROUNDUP] Acute kidney injury and death in severe <i>Plasmodium falciparum</i> malaria: An individual patient data meta-analysis
+============================================================
+Acute kidney injury and death in severe <i>Plasmodium falciparum</i> malaria: An individual patient data meta-analysis — PLOS Medicine. <p>by James A. Watson, Andrea L. Conroy, Anthony Batte, Ruth Namazzi, Michael T. Hawkes, Kevin C. Kain, Katherine Plewes, Stije Leopold, Hugh Kingston, Tran Tinh Hien, Sam Strudwick, Rupert Higgins, Chandy John, Nguyen Hoan Phu, Elizabeth C. George, Ann Sarah Walker, Nicholas P. J. Day, Thomas N. Wi
+
+============================================================
+[ROUNDUP] Loss to follow-up during tuberculosis treatment and 5-year mortality in Brazil: A target trial emulation
+============================================================
+Loss to follow-up during tuberculosis treatment and 5-year mortality in Brazil: A target trial emulation — PLOS Medicine. <p>by Evelyn Lepka de Lima, Ana Angélica Lindoso, Giovanna Mariah Orlandi, Suely Fukasava, Catia Martinez, Julio Croda, C. Robert Horsburgh Jr., Otavio Ranzani, Meredith B. Brooks, Jason R. Andrews</p>
+Background <p>Loss to follow-up (LTFU) during tuberculosis treatment is a major programmatic gap,
+
+============================================================
+[OUTRO] Outro
+============================================================
+That's Science Radar for this week. Every one of these papers is a reminder that the most interesting science often lives at the edges — where fields collide, where assumptions break, and where the next big question is just starting to take shape. Until next week, keep questioning everything.
+
